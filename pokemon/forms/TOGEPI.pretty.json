@@ -1,0 +1,101 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 1,
+      "buddyOffsetFemale" : [
+         0,
+         0.5,
+         -0.5
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 13,
+      "buddySize" : "BUDDY_BABY",
+      "camera" : {
+         "cylinderHeightM" : 0.3,
+         "cylinderRadiusM" : 0.2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "ANCIENT_POWER",
+         "PSYSHOCK",
+         "DAZZLING_GLEAM"
+      ],
+      "eliteQuickMove" : [
+         "ZEN_HEADBUTT_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseFleeRate" : 0.05,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.13,
+         "collisionHeightM" : 0.3,
+         "collisionRadiusM" : 0.1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "TOGETIC"
+         }
+      ],
+      "evolutionIds" : [
+         "TOGETIC"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TOGEPI",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.3,
+      "modelScale" : 1.68,
+      "modelScaleV2" : 1.27,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 1.5,
+      "pokemonId" : "TOGEPI",
+      "quickMoves" : [
+         "HIDDEN_POWER_FAST",
+         "PECK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 67,
+         "baseDefense" : 116,
+         "baseStamina" : 111
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 0.1875
+   }
+]

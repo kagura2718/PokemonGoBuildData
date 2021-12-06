@@ -1,0 +1,201 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.3,
+         "cylinderRadiusM" : 0.18,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "BRAVE_BIRD"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.08,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.12,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "STARAVIA",
+            "form" : "STARAVIA_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_STARLY",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.32,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.22,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2,
+      "pokemonId" : "STARLY",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 101,
+         "baseDefense" : 58,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.25
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.3,
+         "cylinderRadiusM" : 0.18,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "BRAVE_BIRD"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.08,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.12,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "STARAVIA",
+            "form" : "STARAVIA_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_STARLY",
+      "form" : "STARLY_NORMAL",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.32,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.22,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2,
+      "pokemonId" : "STARLY",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 101,
+         "baseDefense" : 58,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.25
+   }
+]

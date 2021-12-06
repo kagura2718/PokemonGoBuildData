@@ -1,0 +1,85 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 0.65,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "NIGHT_SHADE",
+         "SKY_ATTACK",
+         "HEAT_WAVE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.08,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.12,
+         "dodgeDistance" : 0.8,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CHATOT",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 1.9,
+      "pokemonId" : "CHATOT",
+      "quickMoves" : [
+         "PECK_FAST",
+         "STEEL_WING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 183,
+         "baseDefense" : 91,
+         "baseStamina" : 183
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.2375
+   }
+]

@@ -1,0 +1,215 @@
+[
+   {
+      "animationTime" : [
+         1.8,
+         0.6667,
+         1.6667,
+         1.7333,
+         0,
+         1.6667,
+         1.6667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.792,
+         "cylinderRadiusM" : 0.495,
+         "diskRadiusM" : 0.7425,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "HORN_ATTACK",
+         "DIG",
+         "SLUDGE_BOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.7125,
+         "collisionHeadRadiusM" : 0.2475,
+         "collisionHeightM" : 0.594,
+         "collisionRadiusM" : 0.297,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 23,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "NIDOKING",
+            "form" : "NIDOKING_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "NIDOKING"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_NIDORAN_MALE",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.9,
+      "modelScale" : 0.99,
+      "modelScaleV2" : 0.9,
+      "parentPokemonId" : "NIDORAN_MALE",
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 19.5,
+      "pokemonId" : "NIDORINO",
+      "quickMoves" : [
+         "POISON_JAB_FAST",
+         "POISON_STING_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 137,
+         "baseDefense" : 111,
+         "baseStamina" : 156
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 2.4375
+   },
+   {
+      "animationTime" : [
+         1.8,
+         0.6667,
+         1.6667,
+         1.7333,
+         0,
+         1.6667,
+         1.6667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.792,
+         "cylinderRadiusM" : 0.495,
+         "diskRadiusM" : 0.7425,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "HORN_ATTACK",
+         "DIG",
+         "SLUDGE_BOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.7125,
+         "collisionHeadRadiusM" : 0.2475,
+         "collisionHeightM" : 0.594,
+         "collisionRadiusM" : 0.297,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 23,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "NIDOKING",
+            "form" : "NIDOKING_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "NIDOKING"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_NIDORAN_MALE",
+      "form" : "NIDORINO_NORMAL",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.9,
+      "modelScale" : 0.99,
+      "modelScaleV2" : 0.9,
+      "parentPokemonId" : "NIDORAN_MALE",
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 19.5,
+      "pokemonId" : "NIDORINO",
+      "quickMoves" : [
+         "POISON_JAB_FAST",
+         "POISON_STING_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 137,
+         "baseDefense" : 111,
+         "baseStamina" : 156
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 2.4375
+   }
+]

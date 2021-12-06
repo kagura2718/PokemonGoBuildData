@@ -1,0 +1,209 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.35,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "STOMP",
+         "CRUNCH",
+         "ANCIENT_POWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.9,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "PUPITAR",
+            "form" : "PUPITAR_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionIds" : [
+         "PUPITAR"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_LARVITAR",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.61,
+      "modelScale" : 1.24,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 72,
+      "pokemonId" : "LARVITAR",
+      "quickMoves" : [
+         "BITE_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 115,
+         "baseDefense" : 93,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 9
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.35,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "STOMP",
+         "CRUNCH",
+         "ANCIENT_POWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.9,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "PUPITAR",
+            "form" : "PUPITAR_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionIds" : [
+         "PUPITAR"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_LARVITAR",
+      "form" : "LARVITAR_NORMAL",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.61,
+      "modelScale" : 1.24,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 72,
+      "pokemonId" : "LARVITAR",
+      "quickMoves" : [
+         "BITE_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 115,
+         "baseDefense" : 93,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 9
+   }
+]

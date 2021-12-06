@@ -1,0 +1,369 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         26.6,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         26.6,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.11,
+         0.34
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.96,
+         "cylinderRadiusM" : 2.6,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "DRAGON_CLAW",
+         "BLIZZARD",
+         "DRACO_METEOR"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 8,
+         "collisionHeadRadiusM" : 0.3,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_KYUREM",
+      "heightStdDev" : 0.375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 3.7,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.88,
+      "pokedexHeightM" : 3,
+      "pokedexWeightKg" : 325,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "KYUREM",
+      "quickMoves" : [
+         "DRAGON_BREATH_FAST",
+         "STEEL_WING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 246,
+         "baseDefense" : 170,
+         "baseStamina" : 245
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 40.625
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 7,
+      "buddyOffsetFemale" : [
+         40.9,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         40.9,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.18,
+         0,
+         0.59
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 3.74,
+         "cylinderRadiusM" : 4.1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "IRON_HEAD",
+         "BLIZZARD",
+         "STONE_EDGE",
+         "OUTRAGE"
+      ],
+      "disableTransferToPokemonHome" : true,
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 8,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_KYUREM",
+      "form" : "KYUREM_BLACK",
+      "heightStdDev" : 0.375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 3.6,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.77,
+      "pokedexHeightM" : 3,
+      "pokedexWeightKg" : 325,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "KYUREM",
+      "quickMoves" : [
+         "DRAGON_TAIL_FAST",
+         "SHADOW_CLAW_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 310,
+         "baseDefense" : 183,
+         "baseStamina" : 245
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 40.625
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         26.6,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         26.6,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.11,
+         0.34
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.96,
+         "cylinderRadiusM" : 2.6,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "DRAGON_CLAW",
+         "BLIZZARD",
+         "DRACO_METEOR"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 8,
+         "collisionHeadRadiusM" : 0.3,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_KYUREM",
+      "form" : "KYUREM_NORMAL",
+      "heightStdDev" : 0.375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 3.7,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.88,
+      "pokedexHeightM" : 3,
+      "pokedexWeightKg" : 325,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "KYUREM",
+      "quickMoves" : [
+         "DRAGON_BREATH_FAST",
+         "STEEL_WING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 246,
+         "baseDefense" : 170,
+         "baseStamina" : 245
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 40.625
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 7,
+      "buddyOffsetFemale" : [
+         40.3,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         40.3,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0.23
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 4.08,
+         "cylinderRadiusM" : 3.7,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "DRAGON_PULSE",
+         "BLIZZARD",
+         "ANCIENT_POWER",
+         "FOCUS_BLAST"
+      ],
+      "disableTransferToPokemonHome" : true,
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 8,
+         "collisionHeadRadiusM" : 0.35,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_KYUREM",
+      "form" : "KYUREM_WHITE",
+      "heightStdDev" : 0.375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 3,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.74,
+      "pokedexHeightM" : 3,
+      "pokedexWeightKg" : 325,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "KYUREM",
+      "quickMoves" : [
+         "DRAGON_BREATH_FAST",
+         "STEEL_WING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 310,
+         "baseDefense" : 183,
+         "baseStamina" : 245
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 40.625
+   }
+]

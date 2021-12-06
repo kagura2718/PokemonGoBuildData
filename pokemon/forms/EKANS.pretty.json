@@ -1,0 +1,213 @@
+[
+   {
+      "animationTime" : [
+         1.7333,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         2.2,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.35,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.6488,
+         "shoulderModeScale" : 0.375
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "WRAP",
+         "POISON_FANG",
+         "SLUDGE_BOMB"
+      ],
+      "eliteCinematicMove" : [
+         "GUNK_SHOT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 10,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 3.24375,
+         "collisionHeadRadiusM" : 0.1384,
+         "collisionHeightM" : 0.346,
+         "collisionRadiusM" : 0.2595,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 29,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "ARBOK",
+            "form" : "ARBOK_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionIds" : [
+         "ARBOK"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_EKANS",
+      "heightStdDev" : 0.25,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.28,
+      "modelScale" : 1.73,
+      "modelScaleV2" : 1.32,
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 6.9,
+      "pokemonId" : "EKANS",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "ACID_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 110,
+         "baseDefense" : 97,
+         "baseStamina" : 111
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 0.8625
+   },
+   {
+      "animationTime" : [
+         1.7333,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         2.2,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.35,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.6488,
+         "shoulderModeScale" : 0.375
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "WRAP",
+         "POISON_FANG",
+         "SLUDGE_BOMB"
+      ],
+      "eliteCinematicMove" : [
+         "GUNK_SHOT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 10,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 3.24375,
+         "collisionHeadRadiusM" : 0.1384,
+         "collisionHeightM" : 0.346,
+         "collisionRadiusM" : 0.2595,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 29,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "ARBOK",
+            "form" : "ARBOK_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionIds" : [
+         "ARBOK"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_EKANS",
+      "form" : "EKANS_NORMAL",
+      "heightStdDev" : 0.25,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.28,
+      "modelScale" : 1.73,
+      "modelScaleV2" : 1.32,
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 6.9,
+      "pokemonId" : "EKANS",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "ACID_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 110,
+         "baseDefense" : 97,
+         "baseStamina" : 111
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 0.8625
+   }
+]

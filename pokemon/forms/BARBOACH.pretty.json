@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.1,
+         0.02,
+         0.25
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.3,
+         "cylinderHeightM" : 0.4,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "AQUA_TAIL",
+         "ICE_BEAM",
+         "MUD_BOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.4,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "WHISCASH"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BARBOACH",
+      "heightStdDev" : 0.05125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.4864865,
+      "modelScale" : 1.8,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.41,
+      "pokedexWeightKg" : 1.9,
+      "pokemonId" : "BARBOACH",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "MUD_SHOT_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 93,
+         "baseDefense" : 82,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 0.2375
+   }
+]

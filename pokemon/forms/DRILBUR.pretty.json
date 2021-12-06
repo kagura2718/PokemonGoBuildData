@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         6.7,
+         0,
+         -34.5
+      ],
+      "buddyOffsetMale" : [
+         6.7,
+         0,
+         -34.5
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0.03
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.32,
+         "cylinderRadiusM" : 0.31,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ROCK_TOMB",
+         "DIG",
+         "DRILL_RUN"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.05,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.09,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 4,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "EXCADRILL"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DRILBUR",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.3,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.27,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 8.5,
+      "pokemonId" : "DRILBUR",
+      "quickMoves" : [
+         "SCRATCH_FAST",
+         "MUD_SLAP_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 154,
+         "baseDefense" : 85,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 1.0625
+   }
+]

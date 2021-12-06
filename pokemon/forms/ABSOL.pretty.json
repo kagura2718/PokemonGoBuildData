@@ -1,0 +1,249 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddyWalkedMegaEnergyAward" : 25,
+      "camera" : {
+         "cylinderHeightM" : 1.2,
+         "cylinderRadiusM" : 0.8,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DARK_PULSE",
+         "THUNDER",
+         "MEGAHORN",
+         "PAYBACK"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.9,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "purificationEvolutionCandyCost" : 5,
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ABSOL",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.3043479,
+      "modelScale" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 47,
+      "pokemonId" : "ABSOL",
+      "quickMoves" : [
+         "PSYCHO_CUT_FAST",
+         "SNARL_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 246,
+         "baseDefense" : 120,
+         "baseStamina" : 163
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 1.2,
+            "averageWeightKg" : 49,
+            "buddyOffsetFemale" : [
+               8,
+               0,
+               -52
+            ],
+            "buddyOffsetMale" : [
+               8,
+               0,
+               -52
+            ],
+            "stats" : {
+               "baseAttack" : 314,
+               "baseDefense" : 130,
+               "baseStamina" : 163
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_DARK"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 5.875
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddyWalkedMegaEnergyAward" : 25,
+      "camera" : {
+         "cylinderHeightM" : 1.2,
+         "cylinderRadiusM" : 0.8,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DARK_PULSE",
+         "THUNDER",
+         "MEGAHORN",
+         "PAYBACK"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.9,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "purificationEvolutionCandyCost" : 5,
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ABSOL",
+      "form" : "ABSOL_NORMAL",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.3043479,
+      "modelScale" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 47,
+      "pokemonId" : "ABSOL",
+      "quickMoves" : [
+         "PSYCHO_CUT_FAST",
+         "SNARL_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 246,
+         "baseDefense" : 120,
+         "baseStamina" : 163
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 1.2,
+            "averageWeightKg" : 49,
+            "buddyOffsetFemale" : [
+               8,
+               0,
+               -52
+            ],
+            "buddyOffsetMale" : [
+               8,
+               0,
+               -52
+            ],
+            "stats" : {
+               "baseAttack" : 314,
+               "baseDefense" : 130,
+               "baseStamina" : 163
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_DARK"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 5.875
+   }
+]

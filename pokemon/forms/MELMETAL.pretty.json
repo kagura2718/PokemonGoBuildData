@@ -1,0 +1,110 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         4.5,
+         0,
+         42
+      ],
+      "buddyOffsetMale" : [
+         4.5,
+         0,
+         42
+      ],
+      "buddyPortraitOffset" : [
+         0.49,
+         0.06,
+         1.08
+      ],
+      "buddyScale" : 22,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.5,
+         "cylinderRadiusM" : 2.4,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "FLASH_CANNON",
+         "THUNDERBOLT",
+         "HYPER_BEAM",
+         "ROCK_SLIDE",
+         "SUPER_POWER"
+      ],
+      "combatDefaultCameraAngle" : [
+         2,
+         3,
+         1
+      ],
+      "combatPlayerFocusCameraAngle" : [
+         -1.5,
+         -1,
+         0.4
+      ],
+      "combatShoulderCameraAngle" : [
+         1.3,
+         0,
+         1
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MELTAN",
+      "heightStdDev" : 0.3125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2.49,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.6,
+      "parentPokemonId" : "MELTAN",
+      "pokedexHeightM" : 2.5,
+      "pokedexWeightKg" : 800,
+      "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+      "pokemonId" : "MELMETAL",
+      "quickMoves" : [
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 226,
+         "baseDefense" : 190,
+         "baseStamina" : 264
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_STEEL",
+      "weightStdDev" : 100
+   }
+]

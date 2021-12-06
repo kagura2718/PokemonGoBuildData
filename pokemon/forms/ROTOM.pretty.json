@@ -1,0 +1,594 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "OMINOUS_WIND",
+         "THUNDERBOLT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROTOM",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.27,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.33,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "ROTOM",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 185,
+         "baseDefense" : 159,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.0375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -90,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "OMINOUS_WIND",
+         "THUNDERBOLT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROTOM",
+      "form" : "ROTOM_FAN",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.3,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.33,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "ROTOM",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "AIR_SLASH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 204,
+         "baseDefense" : 219,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.0375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "BLIZZARD",
+         "THUNDERBOLT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROTOM",
+      "form" : "ROTOM_FROST",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.39,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.33,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "ROTOM",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 204,
+         "baseDefense" : 219,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 0.0375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "OVERHEAT",
+         "THUNDERBOLT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROTOM",
+      "form" : "ROTOM_HEAT",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.27,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.33,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "ROTOM",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 204,
+         "baseDefense" : 219,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 0.0375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "OMINOUS_WIND",
+         "THUNDERBOLT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROTOM",
+      "form" : "ROTOM_MOW",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.3,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.33,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "ROTOM",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 204,
+         "baseDefense" : 219,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 0.0375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "OMINOUS_WIND",
+         "THUNDERBOLT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROTOM",
+      "form" : "ROTOM_NORMAL",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.33,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "ROTOM",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 185,
+         "baseDefense" : 159,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.0375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         17,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "HYDRO_PUMP",
+         "THUNDERBOLT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROTOM",
+      "form" : "ROTOM_WASH",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.33,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "ROTOM",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 204,
+         "baseDefense" : 219,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 0.0375
+   }
+]

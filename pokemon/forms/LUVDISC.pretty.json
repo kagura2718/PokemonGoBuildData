@@ -1,0 +1,84 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.1,
+         "cylinderHeightM" : 0.7,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DRAINING_KISS",
+         "WATER_PULSE",
+         "AQUA_JET"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.4,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_LUVDISC",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.25,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 8.7,
+      "pokemonId" : "LUVDISC",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "SPLASH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 81,
+         "baseDefense" : 128,
+         "baseStamina" : 125
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 1.0875
+   }
+]

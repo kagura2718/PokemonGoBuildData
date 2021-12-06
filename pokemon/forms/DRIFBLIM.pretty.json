@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         15.1,
+         0,
+         22.5
+      ],
+      "buddyOffsetMale" : [
+         15.1,
+         0,
+         22.5
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -420,
+         1150
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.4,
+         "cylinderHeightM" : 1.55,
+         "cylinderRadiusM" : 0.45,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "OMINOUS_WIND",
+         "ICY_WIND",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.45,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.45,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 4,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DRIFLOON",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.66,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "DRIFLOON",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 15,
+      "pokemonId" : "DRIFBLIM",
+      "quickMoves" : [
+         "HEX_FAST",
+         "ASTONISH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 180,
+         "baseDefense" : 102,
+         "baseStamina" : 312
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 1.875
+   }
+]

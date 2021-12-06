@@ -1,0 +1,211 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -61
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -61
+      ],
+      "buddyScale" : 17,
+      "camera" : {
+         "cylinderHeightM" : 1.3,
+         "cylinderRadiusM" : 0.55,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "DIG",
+         "TWISTER",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.45,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "GARCHOMP",
+            "form" : "GARCHOMP_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GIBLE",
+      "heightStdDev" : 0.175,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.3,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.95,
+      "parentPokemonId" : "GIBLE",
+      "pokedexHeightM" : 1.4,
+      "pokedexWeightKg" : 56,
+      "pokemonId" : "GABITE",
+      "quickMoves" : [
+         "TAKE_DOWN_FAST",
+         "MUD_SHOT_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 172,
+         "baseDefense" : 125,
+         "baseStamina" : 169
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 7
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -61
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -61
+      ],
+      "buddyScale" : 17,
+      "camera" : {
+         "cylinderHeightM" : 1.3,
+         "cylinderRadiusM" : 0.55,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "DIG",
+         "TWISTER",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.45,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "GARCHOMP",
+            "form" : "GARCHOMP_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GIBLE",
+      "form" : "GABITE_NORMAL",
+      "heightStdDev" : 0.175,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.3,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.95,
+      "parentPokemonId" : "GIBLE",
+      "pokedexHeightM" : 1.4,
+      "pokedexWeightKg" : 56,
+      "pokemonId" : "GABITE",
+      "quickMoves" : [
+         "TAKE_DOWN_FAST",
+         "MUD_SHOT_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 172,
+         "baseDefense" : 125,
+         "baseStamina" : 169
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 7
+   }
+]

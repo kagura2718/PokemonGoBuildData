@@ -1,0 +1,203 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 0.75,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "EARTHQUAKE",
+         "SLUDGE_WAVE",
+         "SURF",
+         "MUDDY_WATER"
+      ],
+      "eliteCinematicMove" : [
+         "HYDRO_CANNON"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.8,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MUDKIP",
+      "heightStdDev" : 0.1875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.8,
+      "modelScale" : 0.78,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "MARSHTOMP",
+      "pokedexHeightM" : 1.5,
+      "pokedexWeightKg" : 81.9,
+      "pokemonId" : "SWAMPERT",
+      "quickMoves" : [
+         "MUD_SHOT_FAST",
+         "WATER_GUN_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 208,
+         "baseDefense" : 175,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 10.2375
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 0.75,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "EARTHQUAKE",
+         "SLUDGE_WAVE",
+         "SURF",
+         "MUDDY_WATER"
+      ],
+      "eliteCinematicMove" : [
+         "HYDRO_CANNON"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.8,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MUDKIP",
+      "form" : "SWAMPERT_NORMAL",
+      "heightStdDev" : 0.1875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.8,
+      "modelScale" : 0.78,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "MARSHTOMP",
+      "pokedexHeightM" : 1.5,
+      "pokedexWeightKg" : 81.9,
+      "pokemonId" : "SWAMPERT",
+      "quickMoves" : [
+         "MUD_SHOT_FAST",
+         "WATER_GUN_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 208,
+         "baseDefense" : 175,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 10.2375
+   }
+]

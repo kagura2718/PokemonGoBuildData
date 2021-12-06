@@ -1,0 +1,211 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         19.75,
+         0,
+         76.25
+      ],
+      "buddyOffsetMale" : [
+         19.75,
+         0,
+         76.25
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1,
+         "cylinderRadiusM" : 0.7,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ENERGY_BALL",
+         "SOLAR_BEAM",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.2,
+         "collisionHeadRadiusM" : 0.23,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.6,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "TORTERRA",
+            "form" : "TORTERRA_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TURTWIG",
+      "heightStdDev" : 0.1375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.1,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TURTWIG",
+      "pokedexHeightM" : 1.1,
+      "pokedexWeightKg" : 97,
+      "pokemonId" : "GROTLE",
+      "quickMoves" : [
+         "BITE_FAST",
+         "RAZOR_LEAF_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 157,
+         "baseDefense" : 143,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 12.125
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         19.75,
+         0,
+         76.25
+      ],
+      "buddyOffsetMale" : [
+         19.75,
+         0,
+         76.25
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1,
+         "cylinderRadiusM" : 0.7,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ENERGY_BALL",
+         "SOLAR_BEAM",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.2,
+         "collisionHeadRadiusM" : 0.23,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.6,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "TORTERRA",
+            "form" : "TORTERRA_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TURTWIG",
+      "form" : "GROTLE_NORMAL",
+      "heightStdDev" : 0.1375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.1,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TURTWIG",
+      "pokedexHeightM" : 1.1,
+      "pokedexWeightKg" : 97,
+      "pokemonId" : "GROTLE",
+      "quickMoves" : [
+         "BITE_FAST",
+         "RAZOR_LEAF_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 157,
+         "baseDefense" : 143,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 12.125
+   }
+]

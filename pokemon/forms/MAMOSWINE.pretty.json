@@ -1,0 +1,203 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         9.68,
+         0,
+         -14.94
+      ],
+      "buddyOffsetMale" : [
+         9.68,
+         0,
+         -14.94
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.4,
+         "cylinderRadiusM" : 2.4,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AVALANCHE",
+         "BULLDOZE",
+         "STONE_EDGE"
+      ],
+      "eliteCinematicMove" : [
+         "ANCIENT_POWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 7,
+         "collisionHeadRadiusM" : 1,
+         "collisionHeightM" : 2,
+         "collisionRadiusM" : 0.85,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SWINUB",
+      "heightStdDev" : 0.3125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 3.82,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.7,
+      "parentPokemonId" : "PILOSWINE",
+      "pokedexHeightM" : 2.5,
+      "pokedexWeightKg" : 291,
+      "pokemonId" : "MAMOSWINE",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "POWDER_SNOW_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 247,
+         "baseDefense" : 146,
+         "baseStamina" : 242
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 36.375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         9.68,
+         0,
+         -14.94
+      ],
+      "buddyOffsetMale" : [
+         9.68,
+         0,
+         -14.94
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.4,
+         "cylinderRadiusM" : 2.4,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AVALANCHE",
+         "BULLDOZE",
+         "STONE_EDGE"
+      ],
+      "eliteCinematicMove" : [
+         "ANCIENT_POWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 7,
+         "collisionHeadRadiusM" : 1,
+         "collisionHeightM" : 2,
+         "collisionRadiusM" : 0.85,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SWINUB",
+      "form" : "MAMOSWINE_NORMAL",
+      "heightStdDev" : 0.3125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 3.82,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.7,
+      "parentPokemonId" : "PILOSWINE",
+      "pokedexHeightM" : 2.5,
+      "pokedexWeightKg" : 291,
+      "pokemonId" : "MAMOSWINE",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "POWDER_SNOW_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 247,
+         "baseDefense" : 146,
+         "baseStamina" : 242
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 36.375
+   }
+]

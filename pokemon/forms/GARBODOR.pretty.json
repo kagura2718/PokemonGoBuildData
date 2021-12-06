@@ -1,0 +1,94 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         6.5,
+         0,
+         -106.2
+      ],
+      "buddyOffsetMale" : [
+         6.5,
+         0,
+         -106.2
+      ],
+      "buddyPortraitOffset" : [
+         0.04,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 1.99,
+         "cylinderRadiusM" : 1.41,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ACID_SPRAY",
+         "SEED_BOMB",
+         "GUNK_SHOT",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 850,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6.5,
+         "collisionHeadRadiusM" : 0.55,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.7,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TRUBBISH",
+      "heightStdDev" : 0.2375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.4,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TRUBBISH",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 107.3,
+      "pokemonId" : "GARBODOR",
+      "quickMoves" : [
+         "INFESTATION_FAST",
+         "TAKE_DOWN_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 181,
+         "baseDefense" : 164,
+         "baseStamina" : 190
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 13.4125
+   }
+]

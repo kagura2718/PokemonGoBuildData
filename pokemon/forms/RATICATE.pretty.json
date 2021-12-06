@@ -1,0 +1,287 @@
+[
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.7333,
+         1.6667,
+         0,
+         2,
+         2.0667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.7,
+         0,
+         -21.2
+      ],
+      "buddyOffsetMale" : [
+         9.7,
+         0,
+         -21.2
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.936,
+         "cylinderRadiusM" : 0.5265,
+         "diskRadiusM" : 0.7898,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DIG",
+         "HYPER_FANG",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.94875,
+         "collisionHeadRadiusM" : 0.26325,
+         "collisionHeightM" : 0.585,
+         "collisionRadiusM" : 0.2925,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 23,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RATTATA",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.7,
+      "modelScale" : 1.17,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "RATTATA",
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 18.5,
+      "pokemonId" : "RATICATE",
+      "quickMoves" : [
+         "BITE_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 161,
+         "baseDefense" : 139,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 2.3125
+   },
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.7333,
+         1.6667,
+         0,
+         2,
+         2.0667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.7,
+         0,
+         -21.2
+      ],
+      "buddyOffsetMale" : [
+         9.7,
+         0,
+         -21.2
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.936,
+         "cylinderRadiusM" : 0.5265,
+         "diskRadiusM" : 0.7898,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "CRUNCH",
+         "HYPER_FANG",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.94875,
+         "collisionHeadRadiusM" : 0.26325,
+         "collisionHeightM" : 0.585,
+         "collisionRadiusM" : 0.2925,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 23,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RATTATA",
+      "form" : "RATICATE_ALOLA",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.7,
+      "modelScale" : 1.17,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "RATTATA",
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 25.5,
+      "pokemonId" : "RATICATE",
+      "quickMoves" : [
+         "BITE_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 135,
+         "baseDefense" : 154,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "type2" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 3.1875
+   },
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.7333,
+         1.6667,
+         0,
+         2,
+         2.0667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.7,
+         0,
+         -21.2
+      ],
+      "buddyOffsetMale" : [
+         9.7,
+         0,
+         -21.2
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.936,
+         "cylinderRadiusM" : 0.5265,
+         "diskRadiusM" : 0.7898,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DIG",
+         "HYPER_FANG",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.94875,
+         "collisionHeadRadiusM" : 0.26325,
+         "collisionHeightM" : 0.585,
+         "collisionRadiusM" : 0.2925,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 23,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RATTATA",
+      "form" : "RATICATE_NORMAL",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.7,
+      "modelScale" : 1.17,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "RATTATA",
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 18.5,
+      "pokemonId" : "RATICATE",
+      "quickMoves" : [
+         "BITE_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 161,
+         "baseDefense" : 139,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 2.3125
+   }
+]

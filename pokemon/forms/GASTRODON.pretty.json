@@ -1,0 +1,264 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         13,
+         0,
+         -50
+      ],
+      "buddyOffsetMale" : [
+         13,
+         0,
+         -50
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "WATER_PULSE",
+         "EARTH_POWER",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SHELLOS",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.9,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 29.9,
+      "pokemonId" : "GASTRODON",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "HIDDEN_POWER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 169,
+         "baseDefense" : 143,
+         "baseStamina" : 244
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 3.7375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         13,
+         0,
+         -50
+      ],
+      "buddyOffsetMale" : [
+         13,
+         0,
+         -50
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "WATER_PULSE",
+         "EARTH_POWER",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.18,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SHELLOS",
+      "form" : "GASTRODON_EAST_SEA",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.9,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SHELLOS",
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 29.9,
+      "pokemonId" : "GASTRODON",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "HIDDEN_POWER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 169,
+         "baseDefense" : 143,
+         "baseStamina" : 244
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 3.7375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         13,
+         0,
+         -50
+      ],
+      "buddyOffsetMale" : [
+         13,
+         0,
+         -50
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "WATER_PULSE",
+         "EARTH_POWER",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.18,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SHELLOS",
+      "form" : "GASTRODON_WEST_SEA",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.9,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SHELLOS",
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 29.9,
+      "pokemonId" : "GASTRODON",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "HIDDEN_POWER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 169,
+         "baseDefense" : 143,
+         "baseStamina" : 244
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 3.7375
+   }
+]

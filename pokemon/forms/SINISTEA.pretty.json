@@ -1,0 +1,213 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "DARK_PULSE",
+         "PSYCHIC"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "POLTEAGEIST"
+         }
+      ],
+      "familyId" : "FAMILY_SINISTEA",
+      "heightStdDev" : 0.0125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.1,
+      "pokedexWeightKg" : 0.2,
+      "pokemonId" : "SINISTEA",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "SUCKER_PUNCH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 134,
+         "baseDefense" : 96,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.025
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "DARK_PULSE",
+         "PSYCHIC"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "POLTEAGEIST",
+            "form" : "POLTEAGEIST_ANTIQUE"
+         }
+      ],
+      "familyId" : "FAMILY_SINISTEA",
+      "form" : "SINISTEA_ANTIQUE",
+      "heightStdDev" : 0.0125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.1,
+      "pokedexWeightKg" : 0.2,
+      "pokemonId" : "SINISTEA",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "SUCKER_PUNCH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 134,
+         "baseDefense" : 96,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.025
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "DARK_PULSE",
+         "PSYCHIC"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "POLTEAGEIST",
+            "form" : "POLTEAGEIST_PHONY"
+         }
+      ],
+      "familyId" : "FAMILY_SINISTEA",
+      "form" : "SINISTEA_PHONY",
+      "heightStdDev" : 0.0125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.1,
+      "pokedexWeightKg" : 0.2,
+      "pokemonId" : "SINISTEA",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "SUCKER_PUNCH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 134,
+         "baseDefense" : 96,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.025
+   }
+]

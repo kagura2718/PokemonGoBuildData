@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         2.6667,
+         0.6667,
+         1.6667,
+         0.6667,
+         0,
+         2.3,
+         2,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.25,
+         "cylinderHeightM" : 0.9187499,
+         "cylinderRadiusM" : 0.315,
+         "diskRadiusM" : 0.4725,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "BUBBLE_BEAM",
+         "WATER_PULSE",
+         "WRAP"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 3.445312,
+         "collisionHeadRadiusM" : 0.1575,
+         "collisionHeightM" : 0.9187499,
+         "collisionRadiusM" : 0.21,
+         "dodgeDistance" : 0.6,
+         "dodgeDurationS" : 0.6,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 23,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "TENTACRUEL"
+         }
+      ],
+      "evolutionIds" : [
+         "TENTACRUEL"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TENTACOOL",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.9,
+      "modelScale" : 1.05,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 45.5,
+      "pokemonId" : "TENTACOOL",
+      "quickMoves" : [
+         "BUBBLE_FAST",
+         "POISON_STING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 97,
+         "baseDefense" : 149,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 5.6875
+   }
+]

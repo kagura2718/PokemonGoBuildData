@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         8,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         8,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.42,
+         "cylinderRadiusM" : 0.28,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SWIFT",
+         "THUNDERBOLT",
+         "AQUA_TAIL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.12,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "CINCCINO",
+            "evolutionItemRequirement" : "ITEM_GEN5_EVOLUTION_STONE"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MINCCINO",
+      "heightStdDev" : 0.05,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.4,
+      "modelScale" : 1,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.4,
+      "pokedexWeightKg" : 5.8,
+      "pokemonId" : "MINCCINO",
+      "quickMoves" : [
+         "POUND_FAST",
+         "CHARM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 98,
+         "baseDefense" : 80,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 0.725
+   }
+]

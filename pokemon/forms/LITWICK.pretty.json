@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         7.5,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         7.5,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         -0.03,
+         -0.02,
+         -0.08
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.45,
+         "cylinderRadiusM" : 0.15,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "FLAME_CHARGE",
+         "FLAME_BURST",
+         "HEAT_WAVE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.13,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 0.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "LAMPENT"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_LITWICK",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.43,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.07,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 3.1,
+      "pokemonId" : "LITWICK",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "EMBER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 108,
+         "baseDefense" : 98,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "type2" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 0.3875
+   }
+]

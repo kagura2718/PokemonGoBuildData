@@ -1,0 +1,209 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.3,
+         0,
+         0.78
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.4,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FLAME_CHARGE",
+         "FLAMETHROWER",
+         "ROCK_TOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "COMBUSKEN",
+            "form" : "COMBUSKEN_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TORCHIC",
+      "heightStdDev" : 0.05125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.4,
+      "modelScale" : 1.48,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.41,
+      "pokedexWeightKg" : 2.5,
+      "pokemonId" : "TORCHIC",
+      "quickMoves" : [
+         "SCRATCH_FAST",
+         "EMBER_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 130,
+         "baseDefense" : 87,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 0.3125
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.3,
+         0,
+         0.78
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.4,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FLAME_CHARGE",
+         "FLAMETHROWER",
+         "ROCK_TOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "COMBUSKEN",
+            "form" : "COMBUSKEN_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TORCHIC",
+      "form" : "TORCHIC_NORMAL",
+      "heightStdDev" : 0.05125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.4,
+      "modelScale" : 1.48,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.41,
+      "pokedexWeightKg" : 2.5,
+      "pokemonId" : "TORCHIC",
+      "quickMoves" : [
+         "SCRATCH_FAST",
+         "EMBER_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 130,
+         "baseDefense" : 87,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 0.3125
+   }
+]

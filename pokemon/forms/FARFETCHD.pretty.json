@@ -1,0 +1,313 @@
+[
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         1.8333,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8475,
+         "cylinderRadiusM" : 0.452,
+         "diskRadiusM" : 0.678,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "AIR_CUTTER",
+         "LEAF_BLADE"
+      ],
+      "eliteQuickMove" : [
+         "CUT_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 10,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 3.39,
+         "collisionHeadRadiusM" : 0.2825,
+         "collisionHeightM" : 0.42375,
+         "collisionRadiusM" : 0.2825,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 29,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.3,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_FARFETCHD",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.75,
+      "modelScale" : 1.13,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 15,
+      "pokemonId" : "FARFETCHD",
+      "quickMoves" : [
+         "AIR_SLASH_FAST",
+         "FURY_CUTTER_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 124,
+         "baseDefense" : 115,
+         "baseStamina" : 141
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 1.875
+   },
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         1.8333,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         8,
+         0,
+         -32
+      ],
+      "buddyOffsetMale" : [
+         8,
+         0,
+         -32
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8475,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.678,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "BRICK_BREAK",
+         "BRAVE_BIRD",
+         "LEAF_BLADE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 10,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.2825,
+         "collisionHeightM" : 0.42375,
+         "collisionRadiusM" : 0.2825,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 29,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.3,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "SIRFETCHD",
+            "form" : "SIRFETCHD_NORMAL",
+            "purificationEvolutionCandyCost" : 45,
+            "questDisplay" : [
+               {
+                  "questRequirementTemplateId" : "SIRFETCHD_EVOLUTION_QUEST"
+               }
+            ]
+         }
+      ],
+      "evolutionIds" : [
+         "SIRFETCHD"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_FARFETCHD",
+      "form" : "FARFETCHD_GALARIAN",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.78,
+      "modelScale" : 1.13,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 42,
+      "pokemonId" : "FARFETCHD",
+      "quickMoves" : [
+         "ROCK_SMASH_FAST",
+         "FURY_CUTTER_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 174,
+         "baseDefense" : 114,
+         "baseStamina" : 141
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FIGHTING",
+      "weightStdDev" : 5.25
+   },
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         1.8333,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8475,
+         "cylinderRadiusM" : 0.452,
+         "diskRadiusM" : 0.678,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "AIR_CUTTER",
+         "LEAF_BLADE"
+      ],
+      "eliteQuickMove" : [
+         "CUT_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 10,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 3.39,
+         "collisionHeadRadiusM" : 0.2825,
+         "collisionHeightM" : 0.42375,
+         "collisionRadiusM" : 0.2825,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 29,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.3,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_FARFETCHD",
+      "form" : "FARFETCHD_NORMAL",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.75,
+      "modelScale" : 1.13,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 15,
+      "pokemonId" : "FARFETCHD",
+      "quickMoves" : [
+         "AIR_SLASH_FAST",
+         "FURY_CUTTER_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 124,
+         "baseDefense" : 115,
+         "baseStamina" : 141
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 1.875
+   }
+]

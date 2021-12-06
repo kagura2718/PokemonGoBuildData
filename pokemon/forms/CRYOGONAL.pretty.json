@@ -1,0 +1,91 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         8.7,
+         0,
+         -34
+      ],
+      "buddyOffsetMale" : [
+         8.7,
+         0,
+         -34
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         830
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.24,
+         "cylinderHeightM" : 1.31,
+         "cylinderRadiusM" : 0.59,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AURORA_BEAM",
+         "NIGHT_SLASH",
+         "SOLAR_BEAM",
+         "WATER_PULSE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.5,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 0.75,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CRYOGONAL",
+      "heightStdDev" : 0.1375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.56,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.1,
+      "pokedexWeightKg" : 148,
+      "pokemonId" : "CRYOGONAL",
+      "quickMoves" : [
+         "ICE_SHARD_FAST",
+         "FROST_BREATH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 190,
+         "baseDefense" : 218,
+         "baseStamina" : 190
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 18.5
+   }
+]

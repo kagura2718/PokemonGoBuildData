@@ -1,0 +1,217 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddyWalkedMegaEnergyAward" : 25,
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 0.37,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "POWER_GEM",
+         "THUNDERBOLT",
+         "DISCHARGE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.2,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.4,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "AMPHAROS",
+            "form" : "AMPHAROS_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "AMPHAROS"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MAREEP",
+      "heightStdDev" : 0.09875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.8,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "MAREEP",
+      "pokedexHeightM" : 0.79,
+      "pokedexWeightKg" : 13.3,
+      "pokemonId" : "FLAAFFY",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 145,
+         "baseDefense" : 109,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 1.6625
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddyWalkedMegaEnergyAward" : 25,
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 0.37,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "POWER_GEM",
+         "THUNDERBOLT",
+         "DISCHARGE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.2,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.4,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "AMPHAROS",
+            "form" : "AMPHAROS_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "AMPHAROS"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MAREEP",
+      "form" : "FLAAFFY_NORMAL",
+      "heightStdDev" : 0.09875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.8,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "MAREEP",
+      "pokedexHeightM" : 0.79,
+      "pokedexWeightKg" : 13.3,
+      "pokemonId" : "FLAAFFY",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 145,
+         "baseDefense" : 109,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 1.6625
+   }
+]

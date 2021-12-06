@@ -1,0 +1,72 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "CRUNCH",
+         "AQUA_JET",
+         "CLOSE_COMBAT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "BARRASKEWDA"
+         }
+      ],
+      "familyId" : "FAMILY_ARROKUDA",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 1,
+      "pokemonId" : "ARROKUDA",
+      "quickMoves" : [
+         "WATERFALL_FAST",
+         "BITE_FAST",
+         "PECK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 118,
+         "baseDefense" : 72,
+         "baseStamina" : 121
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 0.125
+   }
+]

@@ -1,0 +1,137 @@
+[
+   {
+      "animationTime" : [
+         2.0667,
+         0.6667,
+         1.6667,
+         0.6667,
+         0,
+         2,
+         1.8,
+         0
+      ],
+      "buddyGroupNumber" : 5,
+      "buddyOffsetFemale" : [
+         20,
+         -27.48,
+         -30
+      ],
+      "buddyOffsetMale" : [
+         20,
+         -27.48,
+         -30
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "buddyWalkedMegaEnergyAward" : 5,
+      "camera" : {
+         "cylinderGroundM" : 0.65,
+         "cylinderHeightM" : 1.6,
+         "cylinderRadiusM" : 1.2,
+         "diskRadiusM" : 1.296,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HURRICANE",
+         "AERIAL_ACE",
+         "BRAVE_BIRD",
+         "FEATHER_DANCE"
+      ],
+      "eliteCinematicMove" : [
+         "AIR_CUTTER"
+      ],
+      "eliteQuickMove" : [
+         "WING_ATTACK_FAST",
+         "GUST_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 17,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 5.4,
+         "collisionHeadRadiusM" : 0.216,
+         "collisionHeightM" : 1.008,
+         "collisionRadiusM" : 0.36,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 6,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PIDGEY",
+      "heightStdDev" : 0.1875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 2.18,
+      "modelScale" : 0.72,
+      "modelScaleV2" : 0.97,
+      "parentPokemonId" : "PIDGEOTTO",
+      "pokedexHeightM" : 1.5,
+      "pokedexWeightKg" : 39.5,
+      "pokemonId" : "PIDGEOT",
+      "quickMoves" : [
+         "AIR_SLASH_FAST",
+         "STEEL_WING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 166,
+         "baseDefense" : 154,
+         "baseStamina" : 195
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.2,
+            "averageWeightKg" : 50.5,
+            "buddyOffsetFemale" : [
+               20,
+               -27.48,
+               -30
+            ],
+            "buddyOffsetMale" : [
+               20,
+               -27.48,
+               -30
+            ],
+            "camera" : {
+               "cylinderGroundM" : 1.2,
+               "cylinderHeightM" : 1.65,
+               "cylinderRadiusM" : 2.5
+            },
+            "modelHeight" : 2.18,
+            "modelScaleV2" : 0.97,
+            "stats" : {
+               "baseAttack" : 280,
+               "baseDefense" : 175,
+               "baseStamina" : 195
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_NORMAL",
+            "typeOverride2" : "POKEMON_TYPE_FLYING"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 4.9375
+   }
+]

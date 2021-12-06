@@ -1,0 +1,97 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "FLAME_CHARGE",
+         "DIG",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.775,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.25,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "TYPHLOSION"
+         }
+      ],
+      "evolutionIds" : [
+         "TYPHLOSION"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CYNDAQUIL",
+      "heightStdDev" : 0.11125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.06,
+      "modelScale" : 0.98,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "CYNDAQUIL",
+      "pokedexHeightM" : 0.89,
+      "pokedexWeightKg" : 19,
+      "pokemonId" : "QUILAVA",
+      "quickMoves" : [
+         "EMBER_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 158,
+         "baseDefense" : 126,
+         "baseStamina" : 151
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 2.375
+   }
+]

@@ -1,0 +1,94 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         27.5,
+         0,
+         43
+      ],
+      "buddyOffsetMale" : [
+         27.5,
+         0,
+         43
+      ],
+      "buddyPortraitOffset" : [
+         0.37,
+         0.08,
+         0.91
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.53,
+         "cylinderRadiusM" : 1.7,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ICE_PUNCH",
+         "SURF",
+         "PLAY_ROUGH"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 7,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.6,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CUBCHOO",
+      "heightStdDev" : 0.325,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.46,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.9,
+      "parentPokemonId" : "CUBCHOO",
+      "pokedexHeightM" : 2.6,
+      "pokedexWeightKg" : 260,
+      "pokemonId" : "BEARTIC",
+      "quickMoves" : [
+         "POWDER_SNOW_FAST",
+         "CHARM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 233,
+         "baseDefense" : 152,
+         "baseStamina" : 216
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 32.5
+   }
+]

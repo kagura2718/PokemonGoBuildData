@@ -1,0 +1,231 @@
+[
+   {
+      "animationTime" : [
+         1.8333,
+         0.6667,
+         1.6667,
+         1.6667,
+         0,
+         1.6667,
+         1.2667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.7,
+         0,
+         1.5
+      ],
+      "buddyOffsetMale" : [
+         9.7,
+         0,
+         1.5
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8800001,
+         "cylinderRadiusM" : 0.495,
+         "diskRadiusM" : 0.7425,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "PETAL_BLIZZARD",
+         "SLUDGE_BOMB",
+         "MOONBLAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 23,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.7125,
+         "collisionHeadRadiusM" : 0.2475,
+         "collisionHeightM" : 0.8800001,
+         "collisionRadiusM" : 0.4125,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.3,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "VILEPLUME",
+            "form" : "VILEPLUME_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         },
+         {
+            "candyCost" : 100,
+            "evolution" : "BELLOSSOM",
+            "evolutionItemRequirement" : "ITEM_SUN_STONE",
+            "form" : "BELLOSSOM_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "VILEPLUME"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ODDISH",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.8,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "ODDISH",
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 8.6,
+      "pokemonId" : "GLOOM",
+      "quickMoves" : [
+         "RAZOR_LEAF_FAST",
+         "ACID_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 153,
+         "baseDefense" : 136,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 1.075
+   },
+   {
+      "animationTime" : [
+         1.8333,
+         0.6667,
+         1.6667,
+         1.6667,
+         0,
+         1.6667,
+         1.2667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.7,
+         0,
+         1.5
+      ],
+      "buddyOffsetMale" : [
+         9.7,
+         0,
+         1.5
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8800001,
+         "cylinderRadiusM" : 0.495,
+         "diskRadiusM" : 0.7425,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "PETAL_BLIZZARD",
+         "SLUDGE_BOMB",
+         "MOONBLAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 23,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.7125,
+         "collisionHeadRadiusM" : 0.2475,
+         "collisionHeightM" : 0.8800001,
+         "collisionRadiusM" : 0.4125,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.3,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "VILEPLUME",
+            "form" : "VILEPLUME_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         },
+         {
+            "candyCost" : 100,
+            "evolution" : "BELLOSSOM",
+            "evolutionItemRequirement" : "ITEM_SUN_STONE",
+            "form" : "BELLOSSOM_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "VILEPLUME"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ODDISH",
+      "form" : "GLOOM_NORMAL",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.8,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "ODDISH",
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 8.6,
+      "pokemonId" : "GLOOM",
+      "quickMoves" : [
+         "RAZOR_LEAF_FAST",
+         "ACID_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 153,
+         "baseDefense" : 136,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 1.075
+   }
+]

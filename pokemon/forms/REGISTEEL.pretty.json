@@ -1,0 +1,91 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         60
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         60
+      ],
+      "buddyPortraitOffset" : [
+         -60,
+         -550,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 1.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FLASH_CANNON",
+         "HYPER_BEAM",
+         "FOCUS_BLAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.5,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_REGISTEEL",
+      "heightStdDev" : 0.23875,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.5,
+      "modelScale" : 0.6,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.91,
+      "pokedexWeightKg" : 205,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "REGISTEEL",
+      "quickMoves" : [
+         "METAL_CLAW_FAST",
+         "ROCK_SMASH_FAST",
+         "LOCK_ON_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 143,
+         "baseDefense" : 285,
+         "baseStamina" : 190
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_STEEL",
+      "weightStdDev" : 25.625
+   }
+]

@@ -1,0 +1,203 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         37.6,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         37.6,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0.25
+      ],
+      "buddyScale" : 18,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.17,
+         "cylinderHeightM" : 2.18,
+         "cylinderRadiusM" : 1.62,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "DARK_PULSE",
+         "PSYCHIC"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 7,
+         "collisionHeadRadiusM" : 0.49,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 0.8,
+         "dodgeDurationS" : 2,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_PSYCHIC",
+         "shadowFormAttackProbability" : 0.2,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.15
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_YAMASK",
+      "heightStdDev" : 0.2125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.7,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "YAMASK",
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 76.5,
+      "pokemonId" : "COFAGRIGUS",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "ZEN_HEADBUTT_FAST",
+         "SHADOW_CLAW_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 163,
+         "baseDefense" : 237,
+         "baseStamina" : 151
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 9.5625
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         37.6,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         37.6,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0.25
+      ],
+      "buddyScale" : 18,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.17,
+         "cylinderHeightM" : 2.18,
+         "cylinderRadiusM" : 1.62,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "DARK_PULSE",
+         "PSYCHIC"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 7,
+         "collisionHeadRadiusM" : 0.49,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 0.8,
+         "dodgeDurationS" : 2,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_PSYCHIC",
+         "shadowFormAttackProbability" : 0.2,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.15
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_YAMASK",
+      "form" : "COFAGRIGUS_NORMAL",
+      "heightStdDev" : 0.2125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.7,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "YAMASK",
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 76.5,
+      "pokemonId" : "COFAGRIGUS",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "ZEN_HEADBUTT_FAST",
+         "SHADOW_CLAW_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 163,
+         "baseDefense" : 237,
+         "baseStamina" : 151
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 9.5625
+   }
+]

@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -60,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.1,
+         "cylinderHeightM" : 0.45,
+         "cylinderRadiusM" : 0.17,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ICY_WIND",
+         "ICE_BEAM",
+         "SIGNAL_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.07,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "VANILLISH"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_VANILLITE",
+      "heightStdDev" : 0.05,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.44,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.4,
+      "pokedexWeightKg" : 5.7,
+      "pokemonId" : "VANILLITE",
+      "quickMoves" : [
+         "POWDER_SNOW_FAST",
+         "ASTONISH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 118,
+         "baseDefense" : 106,
+         "baseStamina" : 113
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 0.7125
+   }
+]

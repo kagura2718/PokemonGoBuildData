@@ -1,0 +1,88 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         12,
+         0,
+         55
+      ],
+      "buddyOffsetMale" : [
+         12,
+         0,
+         55
+      ],
+      "buddyPortraitOffset" : [
+         0.008,
+         -0.108,
+         0.21
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.22,
+         "cylinderHeightM" : 0.36,
+         "cylinderRadiusM" : 0.165
+      },
+      "cinematicMoves" : [
+         "FLASH_CANNON",
+         "PLAY_ROUGH",
+         "DRAINING_KISS",
+         "FOUL_PLAY"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.6,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.4,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.185,
+         "collisionRadiusM" : 0.185,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1.6,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "familyId" : "FAMILY_KLEFKI",
+      "heightStdDev" : 0.025,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.57,
+      "modelScaleV2" : 1.17,
+      "pokedexHeightM" : 0.2,
+      "pokedexWeightKg" : 3,
+      "pokemonId" : "KLEFKI",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 160,
+         "baseDefense" : 179,
+         "baseStamina" : 149
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_STEEL",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 0.375
+   }
+]

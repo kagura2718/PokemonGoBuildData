@@ -1,0 +1,91 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.85,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DARK_PULSE",
+         "FOUL_PLAY"
+      ],
+      "eliteCinematicMove" : [
+         "LAST_RESORT",
+         "PSYCHIC"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.4,
+         "collisionRadiusM" : 0.22,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_EEVEE",
+      "heightStdDev" : 0.12375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1,
+      "modelScale" : 1.03,
+      "modelScaleV2" : 1.05,
+      "parentPokemonId" : "EEVEE",
+      "pokedexHeightM" : 0.99,
+      "pokedexWeightKg" : 27,
+      "pokemonId" : "UMBREON",
+      "quickMoves" : [
+         "FEINT_ATTACK_FAST",
+         "SNARL_FAST"
+      ],
+      "raidBossDistanceOffset" : 4,
+      "stats" : {
+         "baseAttack" : 126,
+         "baseDefense" : 240,
+         "baseStamina" : 216
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 3.375
+   }
+]

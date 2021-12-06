@@ -1,0 +1,213 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         30
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         30
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.65,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SAND_TOMB",
+         "BULLDOZE",
+         "BUG_BUZZ"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.2,
+         "dodgeDurationS" : 0.5,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_ELECTRIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "FLYGON",
+            "form" : "FLYGON_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TRAPINCH",
+      "heightStdDev" : 0.13625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.1,
+      "modelScale" : 0.96,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TRAPINCH",
+      "pokedexHeightM" : 1.09,
+      "pokedexWeightKg" : 15.3,
+      "pokemonId" : "VIBRAVA",
+      "quickMoves" : [
+         "MUD_SHOT_FAST",
+         "DRAGON_BREATH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 134,
+         "baseDefense" : 99,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "type2" : "POKEMON_TYPE_DRAGON",
+      "weightStdDev" : 1.9125
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         30
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         30
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.65,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SAND_TOMB",
+         "BULLDOZE",
+         "BUG_BUZZ"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.2,
+         "dodgeDurationS" : 0.5,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_ELECTRIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "FLYGON",
+            "form" : "FLYGON_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TRAPINCH",
+      "form" : "VIBRAVA_NORMAL",
+      "heightStdDev" : 0.13625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.1,
+      "modelScale" : 0.96,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TRAPINCH",
+      "pokedexHeightM" : 1.09,
+      "pokedexWeightKg" : 15.3,
+      "pokemonId" : "VIBRAVA",
+      "quickMoves" : [
+         "MUD_SHOT_FAST",
+         "DRAGON_BREATH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 134,
+         "baseDefense" : 99,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "type2" : "POKEMON_TYPE_DRAGON",
+      "weightStdDev" : 1.9125
+   }
+]

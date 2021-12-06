@@ -1,0 +1,214 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         20,
+         36.09,
+         38.89
+      ],
+      "buddyOffsetMale" : [
+         20,
+         36.09,
+         38.89
+      ],
+      "buddyPortraitOffset" : [
+         0.1,
+         -0.12,
+         0.14
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.24590164,
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.45,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SHADOW_SNEAK",
+         "DARK_PULSE",
+         "OMINOUS_WIND"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 3.75,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.28,
+         "dodgeDistance" : 0.6,
+         "dodgeDurationS" : 2,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_PSYCHIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.3,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "MISMAGIUS",
+            "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MISDREAVUS",
+      "heightStdDev" : 0.08875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.63,
+      "modelScale" : 1.22,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.71,
+      "pokedexWeightKg" : 1,
+      "pokemonId" : "MISDREAVUS",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "HEX_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 167,
+         "baseDefense" : 154,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.125
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         20,
+         36.09,
+         38.89
+      ],
+      "buddyOffsetMale" : [
+         20,
+         36.09,
+         38.89
+      ],
+      "buddyPortraitOffset" : [
+         0.1,
+         -0.12,
+         0.14
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.24590164,
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.45,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SHADOW_SNEAK",
+         "DARK_PULSE",
+         "OMINOUS_WIND"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 3.75,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.28,
+         "dodgeDistance" : 0.6,
+         "dodgeDurationS" : 2,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_PSYCHIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.3,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "MISMAGIUS",
+            "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+            "form" : "MISMAGIUS_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MISDREAVUS",
+      "form" : "MISDREAVUS_NORMAL",
+      "heightStdDev" : 0.08875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.63,
+      "modelScale" : 1.22,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.71,
+      "pokedexWeightKg" : 1,
+      "pokemonId" : "MISDREAVUS",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "HEX_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 167,
+         "baseDefense" : 154,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.125
+   }
+]

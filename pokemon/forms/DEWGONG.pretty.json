@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         2.0667,
+         0.8333,
+         1.6667,
+         0.6667,
+         0,
+         2.3333,
+         2,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.375,
+         "cylinderHeightM" : 0.84,
+         "cylinderRadiusM" : 0.525,
+         "diskRadiusM" : 0.7875,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "AURORA_BEAM",
+         "WATER_PULSE",
+         "BLIZZARD"
+      ],
+      "eliteCinematicMove" : [
+         "AQUA_JET",
+         "ICY_WIND"
+      ],
+      "eliteQuickMove" : [
+         "ICE_SHARD_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 14,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.9375,
+         "collisionHeadRadiusM" : 0.13125,
+         "collisionHeightM" : 0.63,
+         "collisionRadiusM" : 0.315,
+         "dodgeDistance" : 0.6,
+         "dodgeDurationS" : 0.7,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 5,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SEEL",
+      "heightStdDev" : 0.2125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.89,
+      "modelScale" : 1.05,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SEEL",
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 120,
+      "pokemonId" : "DEWGONG",
+      "quickMoves" : [
+         "FROST_BREATH_FAST",
+         "IRON_TAIL_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 177,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 15
+   }
+]

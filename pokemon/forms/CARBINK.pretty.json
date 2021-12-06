@@ -1,0 +1,66 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "camera" : {
+         "cylinderHeightM" : 0.4,
+         "cylinderRadiusM" : 0.25
+      },
+      "cinematicMoves" : [
+         "ROCK_SLIDE",
+         "MOONBLAST",
+         "POWER_GEM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "familyId" : "FAMILY_CARBINK",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.32,
+      "modelScale" : 1.63,
+      "modelScaleV2" : 1.22,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 5.7,
+      "pokemonId" : "CARBINK",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "ROCK_THROW_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 95,
+         "baseDefense" : 285,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 0.7125
+   }
+]

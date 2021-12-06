@@ -1,0 +1,317 @@
+[
+   {
+      "animationTime" : [
+         2.0667,
+         0.8333,
+         2.3333,
+         1.8667,
+         0,
+         2.1667,
+         2.6667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         13,
+         0,
+         73.55
+      ],
+      "buddyOffsetMale" : [
+         13,
+         0,
+         73.55
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.701,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.6075,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FIRE_BLAST",
+         "DRILL_RUN",
+         "HEAT_WAVE",
+         "FLAME_CHARGE"
+      ],
+      "eliteQuickMove" : [
+         "EMBER_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 17,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.2,
+         "collisionHeadRadiusM" : 0.243,
+         "collisionHeightM" : 0.891,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 6,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.1,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PONYTA",
+      "heightStdDev" : 0.2125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.65,
+      "modelScale" : 0.81,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "PONYTA",
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 95,
+      "pokemonId" : "RAPIDASH",
+      "quickMoves" : [
+         "LOW_KICK_FAST",
+         "FIRE_SPIN_FAST",
+         "INCINERATE_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 207,
+         "baseDefense" : 162,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 11.875
+   },
+   {
+      "animationTime" : [
+         2.0667,
+         0.8333,
+         2.3333,
+         1.8667,
+         0,
+         2.1667,
+         2.6667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         13,
+         0,
+         60
+      ],
+      "buddyOffsetMale" : [
+         13,
+         0,
+         60
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.9,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.6075,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PLAY_ROUGH",
+         "PSYCHIC",
+         "BODY_SLAM",
+         "MEGAHORN"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 17,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.243,
+         "collisionHeightM" : 0.891,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 6,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.1,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PONYTA",
+      "form" : "RAPIDASH_GALARIAN",
+      "heightStdDev" : 0.2125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.07,
+      "modelScale" : 0.81,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "PONYTA",
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 80,
+      "pokemonId" : "RAPIDASH",
+      "quickMoves" : [
+         "LOW_KICK_FAST",
+         "PSYCHO_CUT_FAST"
+      ],
+      "raidBossDistanceOffset" : 4,
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 207,
+         "baseDefense" : 162,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 10
+   },
+   {
+      "animationTime" : [
+         2.0667,
+         0.8333,
+         2.3333,
+         1.8667,
+         0,
+         2.1667,
+         2.6667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         13,
+         0,
+         73.55
+      ],
+      "buddyOffsetMale" : [
+         13,
+         0,
+         73.55
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.701,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.6075,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FIRE_BLAST",
+         "DRILL_RUN",
+         "HEAT_WAVE",
+         "FLAME_CHARGE"
+      ],
+      "eliteQuickMove" : [
+         "EMBER_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 17,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.2,
+         "collisionHeadRadiusM" : 0.243,
+         "collisionHeightM" : 0.891,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 6,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.1,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PONYTA",
+      "form" : "RAPIDASH_NORMAL",
+      "heightStdDev" : 0.2125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.65,
+      "modelScale" : 0.81,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "PONYTA",
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 95,
+      "pokemonId" : "RAPIDASH",
+      "quickMoves" : [
+         "LOW_KICK_FAST",
+         "FIRE_SPIN_FAST",
+         "INCINERATE_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 207,
+         "baseDefense" : 162,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 11.875
+   }
+]

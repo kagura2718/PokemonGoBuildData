@@ -1,0 +1,372 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         200,
+         -260
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BURMY",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "BURMY",
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 6.5,
+      "pokemonId" : "WORMADAM",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "BUG_BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 141,
+         "baseDefense" : 180,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 0.8125
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         200,
+         -260
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.3,
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.22,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "PSYBEAM",
+         "ENERGY_BALL",
+         "BUG_BUZZ"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.126,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BURMY",
+      "form" : "WORMADAM_PLANT",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "BURMY",
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 6.5,
+      "pokemonId" : "WORMADAM",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "BUG_BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 141,
+         "baseDefense" : 180,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 0.8125
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         200,
+         -260
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "PSYBEAM",
+         "BULLDOZE",
+         "BUG_BUZZ"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BURMY",
+      "form" : "WORMADAM_SANDY",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "BURMY",
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 6.5,
+      "pokemonId" : "WORMADAM",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "BUG_BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 141,
+         "baseDefense" : 180,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 0.8125
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         200,
+         -260
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.378,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "PSYBEAM",
+         "IRON_HEAD",
+         "BUG_BUZZ"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BURMY",
+      "form" : "WORMADAM_TRASH",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "BURMY",
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 6.5,
+      "pokemonId" : "WORMADAM",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "BUG_BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 127,
+         "baseDefense" : 175,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_STEEL",
+      "weightStdDev" : 0.8125
+   }
+]

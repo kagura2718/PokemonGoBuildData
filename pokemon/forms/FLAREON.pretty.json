@@ -1,0 +1,97 @@
+[
+   {
+      "animationTime" : [
+         2.5,
+         0.6667,
+         1.6667,
+         2.0667,
+         0,
+         2.3333,
+         1,
+         2.666667
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.783,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.4568,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FIRE_BLAST",
+         "FLAMETHROWER",
+         "OVERHEAT"
+      ],
+      "combatPlayerFocusCameraAngle" : [
+         0,
+         -0.4,
+         0
+      ],
+      "eliteCinematicMove" : [
+         "LAST_RESORT",
+         "HEAT_WAVE",
+         "SUPER_POWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 2.93625,
+         "collisionHeadRadiusM" : 0.19575,
+         "collisionHeightM" : 0.522,
+         "collisionRadiusM" : 0.2175,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.35,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_EEVEE",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.27,
+      "modelScale" : 0.87,
+      "modelScaleV2" : 0.95,
+      "parentPokemonId" : "EEVEE",
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 25,
+      "pokemonId" : "FLAREON",
+      "quickMoves" : [
+         "EMBER_FAST",
+         "FIRE_SPIN_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 246,
+         "baseDefense" : 179,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 3.125
+   }
+]

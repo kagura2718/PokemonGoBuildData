@@ -1,0 +1,100 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         6.25,
+         0,
+         106.5
+      ],
+      "buddyOffsetMale" : [
+         6.25,
+         0,
+         106.5
+      ],
+      "buddyPortraitOffset" : [
+         0.04,
+         -0.05,
+         0.1
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "BUBBLE_BEAM",
+         "HYDRO_PUMP",
+         "ICY_WIND"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "EMPOLEON"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PIPLUP",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.8,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "PIPLUP",
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 23,
+      "pokemonId" : "PRINPLUP",
+      "quickMoves" : [
+         "BUBBLE_FAST",
+         "METAL_CLAW_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 150,
+         "baseDefense" : 139,
+         "baseStamina" : 162
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 2.875
+   }
+]

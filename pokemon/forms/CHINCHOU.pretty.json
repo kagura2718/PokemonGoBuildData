@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "WATER_PULSE",
+         "THUNDERBOLT",
+         "BUBBLE_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3.75,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 0.5,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "LANTURN"
+         }
+      ],
+      "evolutionIds" : [
+         "LANTURN"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CHINCHOU",
+      "heightStdDev" : 0.06375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.25,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.51,
+      "pokedexWeightKg" : 12,
+      "pokemonId" : "CHINCHOU",
+      "quickMoves" : [
+         "BUBBLE_FAST",
+         "SPARK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 106,
+         "baseDefense" : 97,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 1.5
+   }
+]

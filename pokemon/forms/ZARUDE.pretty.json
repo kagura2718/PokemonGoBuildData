@@ -1,0 +1,72 @@
+[
+   {
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 16,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.9,
+         "cylinderRadiusM" : 1
+      },
+      "cinematicMoves" : [
+         "POWER_WHIP",
+         "ENERGY_BALL",
+         "DARK_PULSE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "baseCaptureRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.35,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_ZARUDE",
+      "heightStdDev" : 0.225,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1,
+      "modelScaleV2" : 0.85,
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 70,
+      "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+      "pokemonId" : "ZARUDE",
+      "quickMoves" : [
+         "VINE_WHIP_FAST",
+         "BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 242,
+         "baseDefense" : 215,
+         "baseStamina" : 233
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "type2" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 8.75
+   }
+]

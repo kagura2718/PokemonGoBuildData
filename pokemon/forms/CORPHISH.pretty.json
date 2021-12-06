@@ -1,0 +1,89 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         7,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         7,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "VICE_GRIP",
+         "BUBBLE_BEAM",
+         "AQUA_JET"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "CRAWDAUNT"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CORPHISH",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.56,
+      "modelScale" : 1.28,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 11.5,
+      "pokemonId" : "CORPHISH",
+      "quickMoves" : [
+         "BUBBLE_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 141,
+         "baseDefense" : 99,
+         "baseStamina" : 125
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 1.4375
+   }
+]

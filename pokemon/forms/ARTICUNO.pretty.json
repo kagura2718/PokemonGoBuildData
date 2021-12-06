@@ -1,0 +1,199 @@
+[
+   {
+      "animationTime" : [
+         2.0667,
+         1,
+         1.6667,
+         0.6667,
+         0,
+         2.4,
+         1.3333,
+         1.333333
+      ],
+      "buddyGroupNumber" : 7,
+      "buddyOffsetFemale" : [
+         10,
+         -16.9,
+         28.01
+      ],
+      "buddyOffsetMale" : [
+         10,
+         -16.9,
+         28.01
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 1,
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 1.25,
+         "diskRadiusM" : 0.594,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ICE_BEAM",
+         "ICY_WIND",
+         "BLIZZARD",
+         "ANCIENT_POWER"
+      ],
+      "eliteCinematicMove" : [
+         "HURRICANE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.03,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 3.7125,
+         "collisionHeadRadiusM" : 0.231,
+         "collisionHeightM" : 0.66,
+         "collisionRadiusM" : 0.231,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_FLYING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.03,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ARTICUNO",
+      "heightStdDev" : 0.2125,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2.6,
+      "modelScale" : 0.66,
+      "modelScaleV2" : 0.91,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 55.4,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ARTICUNO",
+      "quickMoves" : [
+         "FROST_BREATH_FAST",
+         "ICE_SHARD_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 192,
+         "baseDefense" : 236,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 6.925
+   },
+   {
+      "animationTime" : [
+         2.0667,
+         1,
+         1.6667,
+         0.6667,
+         0,
+         2.4,
+         1.3333,
+         1.333333
+      ],
+      "buddyGroupNumber" : 7,
+      "buddyOffsetFemale" : [
+         10,
+         -16.9,
+         28.01
+      ],
+      "buddyOffsetMale" : [
+         10,
+         -16.9,
+         28.01
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 1,
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 1.25,
+         "diskRadiusM" : 0.594,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ICE_BEAM",
+         "ICY_WIND",
+         "BLIZZARD",
+         "ANCIENT_POWER"
+      ],
+      "eliteCinematicMove" : [
+         "HURRICANE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.03,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 3.7125,
+         "collisionHeadRadiusM" : 0.231,
+         "collisionHeightM" : 0.66,
+         "collisionRadiusM" : 0.231,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_FLYING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.03,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ARTICUNO",
+      "form" : "ARTICUNO_NORMAL",
+      "heightStdDev" : 0.2125,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2.6,
+      "modelScale" : 0.66,
+      "modelScaleV2" : 0.91,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 55.4,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ARTICUNO",
+      "quickMoves" : [
+         "FROST_BREATH_FAST",
+         "ICE_SHARD_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 192,
+         "baseDefense" : 236,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 6.925
+   }
+]

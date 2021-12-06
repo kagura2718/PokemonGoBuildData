@@ -1,0 +1,99 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.09,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.79,
+         "cylinderRadiusM" : 0.25,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AQUA_TAIL",
+         "WATER_PULSE",
+         "X_SCISSOR"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.13,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.13,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.85,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "SAMUROTT"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_OSHAWOTT",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.8,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "OSHAWOTT",
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 24.5,
+      "pokemonId" : "DEWOTT",
+      "quickMoves" : [
+         "FURY_CUTTER_FAST",
+         "WATER_GUN_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 159,
+         "baseDefense" : 116,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 3.0625
+   }
+]

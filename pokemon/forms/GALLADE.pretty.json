@@ -1,0 +1,203 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         1.4,
+         0,
+         -55.3
+      ],
+      "buddyOffsetMale" : [
+         1.4,
+         0,
+         -55.3
+      ],
+      "buddyScale" : 17,
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "CLOSE_COMBAT",
+         "PSYCHIC",
+         "LEAF_BLADE"
+      ],
+      "eliteCinematicMove" : [
+         "SYNCHRONOISE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.17,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RALTS",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.8,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.9,
+      "parentPokemonId" : "KIRLIA",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 52,
+      "pokemonId" : "GALLADE",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "LOW_KICK_FAST",
+         "CHARM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 237,
+         "baseDefense" : 195,
+         "baseStamina" : 169
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FIGHTING",
+      "weightStdDev" : 6.5
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         1.4,
+         0,
+         -55.3
+      ],
+      "buddyOffsetMale" : [
+         1.4,
+         0,
+         -55.3
+      ],
+      "buddyScale" : 17,
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "CLOSE_COMBAT",
+         "PSYCHIC",
+         "LEAF_BLADE"
+      ],
+      "eliteCinematicMove" : [
+         "SYNCHRONOISE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.17,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RALTS",
+      "form" : "GALLADE_NORMAL",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.8,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.9,
+      "parentPokemonId" : "KIRLIA",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 52,
+      "pokemonId" : "GALLADE",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "LOW_KICK_FAST",
+         "CHARM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 237,
+         "baseDefense" : 195,
+         "baseStamina" : 169
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FIGHTING",
+      "weightStdDev" : 6.5
+   }
+]

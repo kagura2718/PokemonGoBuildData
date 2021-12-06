@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.05,
+         -0.07,
+         0.07
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.42,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "DISCHARGE",
+         "THUNDERBOLT",
+         "SWIFT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.8,
+         "collisionHeadRadiusM" : 0.13,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.13,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "LUXIO"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SHINX",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 9.5,
+      "pokemonId" : "SHINX",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "SPARK_FAST"
+      ],
+      "raidBossDistanceOffset" : 3,
+      "stats" : {
+         "baseAttack" : 117,
+         "baseDefense" : 64,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 1.1875
+   }
+]

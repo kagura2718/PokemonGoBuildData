@@ -1,0 +1,74 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "ENERGY_BALL",
+         "GRASS_KNOT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "RILLABOOM"
+         }
+      ],
+      "familyId" : "FAMILY_GROOKEY",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "GROOKEY",
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 14,
+      "pokemonId" : "THWACKEY",
+      "quickMoves" : [
+         "SCRATCH_FAST",
+         "RAZOR_LEAF_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 165,
+         "baseDefense" : 134,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 1.75
+   }
+]

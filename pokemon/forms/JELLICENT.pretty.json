@@ -1,0 +1,286 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         25.9,
+         0,
+         -64.7
+      ],
+      "buddyOffsetMale" : [
+         25.9,
+         0,
+         -64.7
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.4,
+         "cylinderHeightM" : 2.6,
+         "cylinderRadiusM" : 1.1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "ICE_BEAM",
+         "BUBBLE_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.8,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1.2,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_FRILLISH",
+      "heightStdDev" : 0.275,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.13,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.75,
+      "parentPokemonId" : "FRILLISH",
+      "pokedexHeightM" : 2.2,
+      "pokedexWeightKg" : 135,
+      "pokemonId" : "JELLICENT",
+      "quickMoves" : [
+         "BUBBLE_FAST",
+         "HEX_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 159,
+         "baseDefense" : 178,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 16.875
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         25.9,
+         0,
+         -64.7
+      ],
+      "buddyOffsetMale" : [
+         25.9,
+         0,
+         -64.7
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.4,
+         "cylinderHeightM" : 2.6,
+         "cylinderRadiusM" : 1.1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "ICE_BEAM",
+         "BUBBLE_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.8,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1.2,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_FRILLISH",
+      "form" : "JELLICENT_FEMALE",
+      "heightStdDev" : 0.275,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.13,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.75,
+      "parentPokemonId" : "FRILLISH",
+      "pokedexHeightM" : 2.2,
+      "pokedexWeightKg" : 135,
+      "pokemonId" : "JELLICENT",
+      "quickMoves" : [
+         "BUBBLE_FAST",
+         "HEX_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 159,
+         "baseDefense" : 178,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 16.875
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         25.9,
+         0,
+         -64.7
+      ],
+      "buddyOffsetMale" : [
+         25.9,
+         0,
+         -64.7
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.4,
+         "cylinderHeightM" : 2.6,
+         "cylinderRadiusM" : 1.1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SHADOW_BALL",
+         "ICE_BEAM",
+         "BUBBLE_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.8,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1.2,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_FRILLISH",
+      "form" : "JELLICENT_NORMAL",
+      "heightStdDev" : 0.275,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.13,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.75,
+      "parentPokemonId" : "FRILLISH",
+      "pokedexHeightM" : 2.2,
+      "pokedexWeightKg" : 135,
+      "pokemonId" : "JELLICENT",
+      "quickMoves" : [
+         "BUBBLE_FAST",
+         "HEX_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 159,
+         "baseDefense" : 178,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 16.875
+   }
+]

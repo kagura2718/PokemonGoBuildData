@@ -1,0 +1,100 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         40,
+         -20
+      ],
+      "buddyOffsetMale" : [
+         0,
+         40,
+         -20
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ANCIENT_POWER",
+         "DAZZLING_GLEAM",
+         "AERIAL_ACE"
+      ],
+      "eliteQuickMove" : [
+         "STEEL_WING_FAST",
+         "ZEN_HEADBUTT_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.375,
+         "collisionHeadRadiusM" : 0.18,
+         "collisionHeightM" : 0.3,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 0.8,
+         "dodgeDurationS" : 0.8,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.7,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "TOGEKISS",
+            "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TOGEPI",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.25,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TOGEPI",
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 3.2,
+      "pokemonId" : "TOGETIC",
+      "quickMoves" : [
+         "EXTRASENSORY_FAST",
+         "HIDDEN_POWER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 181,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FAIRY",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.4
+   }
+]

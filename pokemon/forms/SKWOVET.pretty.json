@@ -1,0 +1,78 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         5,
+         0,
+         -5
+      ],
+      "buddyOffsetMale" : [
+         5,
+         0,
+         -5
+      ],
+      "buddyPortraitOffset" : [
+         20,
+         -30,
+         -350
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.3
+      },
+      "cinematicMoves" : [
+         "BODY_SLAM",
+         "CRUNCH"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "baseCaptureRate" : 0.6,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.11,
+         "collisionHeightM" : 0.09,
+         "collisionRadiusM" : 0.09,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "GREEDENT"
+         }
+      ],
+      "familyId" : "FAMILY_SKWOVET",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1.2,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2.5,
+      "pokemonId" : "SKWOVET",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "BITE_FAST",
+         "BULLET_SEED_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 95,
+         "baseDefense" : 86,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 0.3125
+   }
+]

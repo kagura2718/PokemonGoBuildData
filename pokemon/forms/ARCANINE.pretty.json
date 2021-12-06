@@ -1,0 +1,209 @@
+[
+   {
+      "animationTime" : [
+         2.1333,
+         0.6667,
+         1.7333,
+         1.8333,
+         0,
+         1.8667,
+         1.7333,
+         2
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         11.8,
+         0,
+         40.4
+      ],
+      "buddyOffsetMale" : [
+         11.8,
+         0,
+         40.4
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 1.25,
+         "diskRadiusM" : 0.999,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FIRE_BLAST",
+         "WILD_CHARGE",
+         "CRUNCH",
+         "FLAMETHROWER"
+      ],
+      "eliteCinematicMove" : [
+         "BULLDOZE"
+      ],
+      "eliteQuickMove" : [
+         "BITE_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 11,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5.55,
+         "collisionHeadRadiusM" : 0.333,
+         "collisionHeightM" : 0.74,
+         "collisionRadiusM" : 0.7,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 4,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GROWLITHE",
+      "heightStdDev" : 0.2375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2,
+      "modelScale" : 0.74,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "GROWLITHE",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 155,
+      "pokemonId" : "ARCANINE",
+      "quickMoves" : [
+         "FIRE_FANG_FAST",
+         "SNARL_FAST",
+         "THUNDER_FANG_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 227,
+         "baseDefense" : 166,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 19.375
+   },
+   {
+      "animationTime" : [
+         2.1333,
+         0.6667,
+         1.7333,
+         1.8333,
+         0,
+         1.8667,
+         1.7333,
+         2
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         11.8,
+         0,
+         40.4
+      ],
+      "buddyOffsetMale" : [
+         11.8,
+         0,
+         40.4
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 1.25,
+         "diskRadiusM" : 0.999,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FIRE_BLAST",
+         "WILD_CHARGE",
+         "CRUNCH",
+         "FLAMETHROWER"
+      ],
+      "eliteCinematicMove" : [
+         "BULLDOZE"
+      ],
+      "eliteQuickMove" : [
+         "BITE_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 11,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5.55,
+         "collisionHeadRadiusM" : 0.333,
+         "collisionHeightM" : 0.74,
+         "collisionRadiusM" : 0.7,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 4,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GROWLITHE",
+      "form" : "ARCANINE_NORMAL",
+      "heightStdDev" : 0.2375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2,
+      "modelScale" : 0.74,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "GROWLITHE",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 155,
+      "pokemonId" : "ARCANINE",
+      "quickMoves" : [
+         "FIRE_FANG_FAST",
+         "SNARL_FAST",
+         "THUNDER_FANG_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 227,
+         "baseDefense" : 166,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 19.375
+   }
+]

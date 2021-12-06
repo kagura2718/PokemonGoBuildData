@@ -1,0 +1,199 @@
+[
+   {
+      "animationTime" : [
+         1.6,
+         0.8333,
+         1.5,
+         0.8333,
+         0,
+         2,
+         1,
+         1.666667
+      ],
+      "buddyGroupNumber" : 7,
+      "buddyOffsetFemale" : [
+         10,
+         -22.8,
+         18.14
+      ],
+      "buddyOffsetMale" : [
+         10,
+         -22.8,
+         18.14
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 1.25,
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 1.25,
+         "diskRadiusM" : 0.7763,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ZAP_CANNON",
+         "THUNDERBOLT",
+         "THUNDER",
+         "ANCIENT_POWER",
+         "DRILL_PECK"
+      ],
+      "eliteQuickMove" : [
+         "THUNDER_SHOCK_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.03,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 3.88125,
+         "collisionHeadRadiusM" : 0.276,
+         "collisionHeightM" : 0.759,
+         "collisionRadiusM" : 0.4485,
+         "dodgeDistance" : 0.125,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_ELECTRIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.03,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ZAPDOS",
+      "heightStdDev" : 0.2,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2.36,
+      "modelScale" : 0.69,
+      "modelScaleV2" : 0.94,
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 52.6,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ZAPDOS",
+      "quickMoves" : [
+         "CHARGE_BEAM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 253,
+         "baseDefense" : 185,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 6.575
+   },
+   {
+      "animationTime" : [
+         1.6,
+         0.8333,
+         1.5,
+         0.8333,
+         0,
+         2,
+         1,
+         1.666667
+      ],
+      "buddyGroupNumber" : 7,
+      "buddyOffsetFemale" : [
+         10,
+         -22.8,
+         18.14
+      ],
+      "buddyOffsetMale" : [
+         10,
+         -22.8,
+         18.14
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 1.25,
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 1.25,
+         "diskRadiusM" : 0.7763,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ZAP_CANNON",
+         "THUNDERBOLT",
+         "THUNDER",
+         "ANCIENT_POWER",
+         "DRILL_PECK"
+      ],
+      "eliteQuickMove" : [
+         "THUNDER_SHOCK_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.03,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 3.88125,
+         "collisionHeadRadiusM" : 0.276,
+         "collisionHeightM" : 0.759,
+         "collisionRadiusM" : 0.4485,
+         "dodgeDistance" : 0.125,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_ELECTRIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.03,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ZAPDOS",
+      "form" : "ZAPDOS_NORMAL",
+      "heightStdDev" : 0.2,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2.36,
+      "modelScale" : 0.69,
+      "modelScaleV2" : 0.94,
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 52.6,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ZAPDOS",
+      "quickMoves" : [
+         "CHARGE_BEAM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 253,
+         "baseDefense" : 185,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 6.575
+   }
+]

@@ -1,0 +1,93 @@
+[
+   {
+      "animationTime" : [
+         2.6667,
+         0.6667,
+         1.6667,
+         0.8333,
+         0,
+         2.3333,
+         1.6667,
+         0
+      ],
+      "buddyGroupNumber" : 5,
+      "buddyOffsetFemale" : [
+         20,
+         -25,
+         -20
+      ],
+      "buddyOffsetMale" : [
+         20,
+         -25,
+         -20
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 1.05,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 1.26,
+         "shoulderModeScale" : 0.375
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "DRILL_RUN",
+         "SKY_ATTACK"
+      ],
+      "eliteCinematicMove" : [
+         "TWISTER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 23,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.9375,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.63,
+         "collisionRadiusM" : 0.252,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SPEAROW",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.5,
+      "modelScale" : 0.84,
+      "modelScaleV2" : 1.35,
+      "parentPokemonId" : "SPEAROW",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 38,
+      "pokemonId" : "FEAROW",
+      "quickMoves" : [
+         "PECK_FAST",
+         "STEEL_WING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 182,
+         "baseDefense" : 133,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 4.75
+   }
+]

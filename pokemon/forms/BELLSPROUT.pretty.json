@@ -1,0 +1,209 @@
+[
+   {
+      "animationTime" : [
+         1.7,
+         0.6667,
+         2.5,
+         1.8333,
+         0,
+         2,
+         2,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.6773,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "POWER_WHIP",
+         "SLUDGE_BOMB",
+         "WRAP"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 3.38625,
+         "collisionHeadRadiusM" : 0.22575,
+         "collisionHeightM" : 0.4515,
+         "collisionRadiusM" : 0.1935,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "WEEPINBELL",
+            "form" : "WEEPINBELL_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionIds" : [
+         "WEEPINBELL"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BELLSPROUT",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.55,
+      "modelScale" : 1.29,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 4,
+      "pokemonId" : "BELLSPROUT",
+      "quickMoves" : [
+         "VINE_WHIP_FAST",
+         "ACID_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 61,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 0.5
+   },
+   {
+      "animationTime" : [
+         1.7,
+         0.6667,
+         2.5,
+         1.8333,
+         0,
+         2,
+         2,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.6773,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "POWER_WHIP",
+         "SLUDGE_BOMB",
+         "WRAP"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 3.38625,
+         "collisionHeadRadiusM" : 0.22575,
+         "collisionHeightM" : 0.4515,
+         "collisionRadiusM" : 0.1935,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "WEEPINBELL",
+            "form" : "WEEPINBELL_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionIds" : [
+         "WEEPINBELL"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BELLSPROUT",
+      "form" : "BELLSPROUT_NORMAL",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.55,
+      "modelScale" : 1.29,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 4,
+      "pokemonId" : "BELLSPROUT",
+      "quickMoves" : [
+         "VINE_WHIP_FAST",
+         "ACID_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 61,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 0.5
+   }
+]

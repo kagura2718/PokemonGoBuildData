@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         7.3,
+         0,
+         -43.1
+      ],
+      "buddyOffsetMale" : [
+         7.3,
+         0,
+         -43.1
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.68,
+         "cylinderRadiusM" : 0.46,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ROCK_SLIDE",
+         "EARTHQUAKE",
+         "DRILL_RUN",
+         "IRON_HEAD"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.12,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.17,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.45,
+         "jumpTimeS" : 0.85,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DRILBUR",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.67,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.12,
+      "parentPokemonId" : "DRILBUR",
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 40.4,
+      "pokemonId" : "EXCADRILL",
+      "quickMoves" : [
+         "METAL_CLAW_FAST",
+         "MUD_SLAP_FAST",
+         "MUD_SHOT_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 255,
+         "baseDefense" : 129,
+         "baseStamina" : 242
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "type2" : "POKEMON_TYPE_STEEL",
+      "weightStdDev" : 5.05
+   }
+]

@@ -1,0 +1,92 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.3,
+         "cylinderRadiusM" : 0.2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PETAL_BLIZZARD",
+         "SLUDGE_BOMB",
+         "DAZZLING_GLEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "ROSERADE",
+            "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ROSELIA",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.35714287,
+      "modelScale" : 2,
+      "modelScaleV2" : 1.27,
+      "parentPokemonId" : "BUDEW",
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2,
+      "pokemonId" : "ROSELIA",
+      "quickMoves" : [
+         "POISON_JAB_FAST",
+         "RAZOR_LEAF_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 186,
+         "baseDefense" : 131,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 0.25
+   }
+]

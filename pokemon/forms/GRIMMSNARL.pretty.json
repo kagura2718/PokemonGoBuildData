@@ -1,0 +1,71 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "FOUL_PLAY",
+         "DARK_PULSE",
+         "PLAY_ROUGH",
+         "POWER_UP_PUNCH"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2
+      },
+      "familyId" : "FAMILY_IMPIDIMP",
+      "heightStdDev" : 0.1875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "MORGREM",
+      "pokedexHeightM" : 1.5,
+      "pokedexWeightKg" : 61,
+      "pokemonId" : "GRIMMSNARL",
+      "quickMoves" : [
+         "BITE_FAST",
+         "SUCKER_PUNCH_FAST",
+         "LOW_KICK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 227,
+         "baseDefense" : 139,
+         "baseStamina" : 216
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 7.625
+   }
+]

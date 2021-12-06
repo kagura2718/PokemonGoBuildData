@@ -1,0 +1,193 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "PSYBEAM",
+         "PSYCHIC",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_INDEEDEE",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 28,
+      "pokemonId" : "INDEEDEE",
+      "quickMoves" : [
+         "EXTRASENSORY_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 208,
+         "baseDefense" : 166,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 3.5
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "PSYBEAM",
+         "PSYCHIC",
+         "ENERGY_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_INDEEDEE",
+      "form" : "INDEEDEE_FEMALE",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 28,
+      "pokemonId" : "INDEEDEE",
+      "quickMoves" : [
+         "EXTRASENSORY_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 184,
+         "baseDefense" : 184,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 3.5
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "PSYBEAM",
+         "PSYCHIC",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_INDEEDEE",
+      "form" : "INDEEDEE_MALE",
+      "heightStdDev" : 0.1125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.9,
+      "pokedexWeightKg" : 28,
+      "pokemonId" : "INDEEDEE",
+      "quickMoves" : [
+         "EXTRASENSORY_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 208,
+         "baseDefense" : 166,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 3.5
+   }
+]

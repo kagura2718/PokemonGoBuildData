@@ -1,0 +1,94 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         5.04,
+         0,
+         -10
+      ],
+      "buddyOffsetMale" : [
+         5.04,
+         0,
+         -10
+      ],
+      "buddyPortraitOffset" : [
+         0.06,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SHADOW_SNEAK",
+         "MEGAHORN",
+         "CROSS_POISON",
+         "LUNGE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.375,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.9,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SPINARAK",
+      "heightStdDev" : 0.13625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.03,
+      "modelScale" : 1.02,
+      "modelScaleV2" : 1.05,
+      "parentPokemonId" : "SPINARAK",
+      "pokedexHeightM" : 1.09,
+      "pokedexWeightKg" : 33.5,
+      "pokemonId" : "ARIADOS",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "INFESTATION_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 161,
+         "baseDefense" : 124,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 4.1875
+   }
+]

@@ -1,0 +1,273 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -57.21
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -57.21
+      ],
+      "buddyScale" : 17,
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 2.1,
+         "cylinderRadiusM" : 1.6,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "BLIZZARD",
+         "ENERGY_BALL",
+         "OUTRAGE",
+         "WEATHER_BALL_ICE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6,
+         "collisionHeadRadiusM" : 0.55,
+         "collisionHeightM" : 1.4,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.125,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SNOVER",
+      "heightStdDev" : 0.275,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.17,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.97,
+      "parentPokemonId" : "SNOVER",
+      "pokedexHeightM" : 2.2,
+      "pokedexWeightKg" : 135.5,
+      "pokemonId" : "ABOMASNOW",
+      "quickMoves" : [
+         "POWDER_SNOW_FAST",
+         "RAZOR_LEAF_FAST"
+      ],
+      "raidBossDistanceOffset" : 3,
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 178,
+         "baseDefense" : 158,
+         "baseStamina" : 207
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.7,
+            "averageWeightKg" : 185,
+            "buddyOffsetFemale" : [
+               0,
+               0,
+               -100
+            ],
+            "buddyOffsetMale" : [
+               0,
+               0,
+               -100
+            ],
+            "camera" : {
+               "cylinderHeightM" : 3,
+               "cylinderRadiusM" : 1.7
+            },
+            "modelHeight" : 2.17,
+            "modelScaleV2" : 0.8,
+            "stats" : {
+               "baseAttack" : 240,
+               "baseDefense" : 191,
+               "baseStamina" : 207
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_GRASS",
+            "typeOverride2" : "POKEMON_TYPE_ICE"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 16.9375
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -57.21
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -57.21
+      ],
+      "buddyScale" : 17,
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 2.1,
+         "cylinderRadiusM" : 1.6,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "BLIZZARD",
+         "ENERGY_BALL",
+         "OUTRAGE",
+         "WEATHER_BALL_ICE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6,
+         "collisionHeadRadiusM" : 0.55,
+         "collisionHeightM" : 1.4,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.125,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SNOVER",
+      "form" : "ABOMASNOW_NORMAL",
+      "heightStdDev" : 0.275,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.17,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.97,
+      "parentPokemonId" : "SNOVER",
+      "pokedexHeightM" : 2.2,
+      "pokedexWeightKg" : 135.5,
+      "pokemonId" : "ABOMASNOW",
+      "quickMoves" : [
+         "POWDER_SNOW_FAST",
+         "RAZOR_LEAF_FAST"
+      ],
+      "raidBossDistanceOffset" : 3,
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 178,
+         "baseDefense" : 158,
+         "baseStamina" : 207
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.7,
+            "averageWeightKg" : 185,
+            "buddyOffsetFemale" : [
+               0,
+               0,
+               -100
+            ],
+            "buddyOffsetMale" : [
+               0,
+               0,
+               -100
+            ],
+            "camera" : {
+               "cylinderHeightM" : 3,
+               "cylinderRadiusM" : 1.7
+            },
+            "modelHeight" : 2.17,
+            "modelScaleV2" : 0.8,
+            "stats" : {
+               "baseAttack" : 240,
+               "baseDefense" : 191,
+               "baseStamina" : 207
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_GRASS",
+            "typeOverride2" : "POKEMON_TYPE_ICE"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 16.9375
+   }
+]

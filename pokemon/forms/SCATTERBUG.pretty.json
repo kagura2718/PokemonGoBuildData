@@ -1,0 +1,69 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "camera" : {
+         "cylinderHeightM" : 0.4,
+         "cylinderRadiusM" : 0.25
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 12,
+            "evolution" : "SPEWPA"
+         }
+      ],
+      "familyId" : "FAMILY_SCATTERBUG",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.26,
+      "modelScale" : 1.78,
+      "modelScaleV2" : 1.38,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2.5,
+      "pokemonId" : "SCATTERBUG",
+      "quickMoves" : [
+         "BUG_BITE_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 63,
+         "baseDefense" : 63,
+         "baseStamina" : 116
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "weightStdDev" : 0.3125
+   }
+]

@@ -1,0 +1,81 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0.17,
+         -0.36
+      ],
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.25
+      },
+      "cinematicMoves" : [
+         "LOW_SWEEP",
+         "CRUNCH",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.25,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "PANGORO",
+            "questDisplay" : [
+               {
+                  "questRequirementTemplateId" : "PANCHAM_EVOLUTION_QUEST"
+               }
+            ]
+         }
+      ],
+      "familyId" : "FAMILY_PANCHAM",
+      "heightStdDev" : 0.075,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.65,
+      "modelScale" : 1.2,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.6,
+      "pokedexWeightKg" : 8,
+      "pokemonId" : "PANCHAM",
+      "quickMoves" : [
+         "LOW_KICK_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 145,
+         "baseDefense" : 107,
+         "baseStamina" : 167
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FIGHTING",
+      "weightStdDev" : 1
+   }
+]

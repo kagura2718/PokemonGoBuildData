@@ -1,0 +1,68 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "NIGHT_SLASH",
+         "PLAY_ROUGH"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.4,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_NICKIT",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "NICKIT",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 19.9,
+      "pokemonId" : "THIEVUL",
+      "quickMoves" : [
+         "QUICK_ATTACK_FAST",
+         "SNARL_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 172,
+         "baseDefense" : 164,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 2.4875
+   }
+]

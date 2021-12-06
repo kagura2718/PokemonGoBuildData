@@ -1,0 +1,211 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 0.65,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "CRUNCH",
+         "FLAMETHROWER",
+         "DARK_PULSE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.45,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "HOUNDOOM",
+            "form" : "HOUNDOOM_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionIds" : [
+         "HOUNDOOM"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_HOUNDOUR",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.25,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 10.8,
+      "pokemonId" : "HOUNDOUR",
+      "quickMoves" : [
+         "FEINT_ATTACK_FAST",
+         "EMBER_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 152,
+         "baseDefense" : 83,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "type2" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 1.35
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 0.65,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "CRUNCH",
+         "FLAMETHROWER",
+         "DARK_PULSE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.45,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "HOUNDOOM",
+            "form" : "HOUNDOOM_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionIds" : [
+         "HOUNDOOM"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_HOUNDOUR",
+      "form" : "HOUNDOUR_NORMAL",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.25,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 10.8,
+      "pokemonId" : "HOUNDOUR",
+      "quickMoves" : [
+         "FEINT_ATTACK_FAST",
+         "EMBER_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 152,
+         "baseDefense" : 83,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "type2" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 1.35
+   }
+]

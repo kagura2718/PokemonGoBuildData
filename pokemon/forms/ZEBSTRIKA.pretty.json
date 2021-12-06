@@ -1,0 +1,94 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         34.1,
+         0,
+         9.5
+      ],
+      "buddyOffsetMale" : [
+         34.1,
+         0,
+         9.5
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0.07
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.79,
+         "cylinderRadiusM" : 0.92,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "FLAME_CHARGE",
+         "DISCHARGE",
+         "WILD_CHARGE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6.5,
+         "collisionHeadRadiusM" : 0.18,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BLITZLE",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.78,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "BLITZLE",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 79.5,
+      "pokemonId" : "ZEBSTRIKA",
+      "quickMoves" : [
+         "LOW_KICK_FAST",
+         "SPARK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 211,
+         "baseDefense" : 136,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 9.9375
+   }
+]

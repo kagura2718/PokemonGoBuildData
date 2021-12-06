@@ -1,0 +1,91 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         9.07,
+         0,
+         20
+      ],
+      "buddyOffsetMale" : [
+         9.07,
+         0,
+         20
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.1,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "EARTHQUAKE",
+         "HEAVY_SLAM",
+         "PLAY_ROUGH",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5.4,
+         "collisionHeadRadiusM" : 0.45,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.45,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PHANPY",
+      "heightStdDev" : 0.13625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.02,
+      "modelScale" : 0.99,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "PHANPY",
+      "pokedexHeightM" : 1.09,
+      "pokedexWeightKg" : 120,
+      "pokemonId" : "DONPHAN",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "COUNTER_FAST",
+         "MUD_SLAP_FAST",
+         "CHARM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 214,
+         "baseDefense" : 185,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 15
+   }
+]

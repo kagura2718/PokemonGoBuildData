@@ -1,0 +1,421 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 5,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HURRICANE",
+         "ENERGY_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.3,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CASTFORM",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.57,
+      "modelScaleV2" : 1.17,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.8,
+      "pokemonId" : "CASTFORM",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "HEX_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 139,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 0.1
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HURRICANE",
+         "ENERGY_BALL",
+         "WEATHER_BALL_ROCK",
+         "WEATHER_BALL_NORMAL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.3,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CASTFORM",
+      "form" : "CASTFORM_NORMAL",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.57,
+      "modelScaleV2" : 1.17,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.8,
+      "pokemonId" : "CASTFORM",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "HEX_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 139,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 0.1
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HYDRO_PUMP",
+         "THUNDER",
+         "WEATHER_BALL_WATER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.3,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CASTFORM",
+      "form" : "CASTFORM_RAINY",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.57,
+      "modelScaleV2" : 1.17,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.8,
+      "pokemonId" : "CASTFORM",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 139,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 0.1
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "BLIZZARD",
+         "ICE_BEAM",
+         "WEATHER_BALL_ICE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.3,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CASTFORM",
+      "form" : "CASTFORM_SNOWY",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.57,
+      "modelScaleV2" : 1.17,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.8,
+      "pokemonId" : "CASTFORM",
+      "quickMoves" : [
+         "POWDER_SNOW_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 139,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 0.1
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         -0.09,
+         0,
+         -0.25
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FIRE_BLAST",
+         "SOLAR_BEAM",
+         "WEATHER_BALL_FIRE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.3,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CASTFORM",
+      "form" : "CASTFORM_SUNNY",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.35,
+      "modelScale" : 1.57,
+      "modelScaleV2" : 1.17,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 0.8,
+      "pokemonId" : "CASTFORM",
+      "quickMoves" : [
+         "EMBER_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 139,
+         "baseDefense" : 139,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 0.1
+   }
+]

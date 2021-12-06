@@ -1,0 +1,102 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 1,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.12,
+         0
+      ],
+      "buddyScale" : 13,
+      "buddySize" : "BUDDY_BABY",
+      "camera" : {
+         "cylinderHeightM" : 0.3,
+         "cylinderRadiusM" : 0.2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "GRASS_KNOT",
+         "PSYSHOCK",
+         "SIGNAL_BEAM"
+      ],
+      "eliteCinematicMove" : [
+         "PSYCHIC",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseFleeRate" : 0.05,
+         "cameraDistance" : 3.375,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "CLEFAIRY"
+         }
+      ],
+      "evolutionIds" : [
+         "CLEFAIRY"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CLEFAIRY",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.3,
+      "modelScale" : 1.68,
+      "modelScaleV2" : 1.27,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 3,
+      "pokemonId" : "CLEFFA",
+      "quickMoves" : [
+         "POUND_FAST",
+         "ZEN_HEADBUTT_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 75,
+         "baseDefense" : 79,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 0.375
+   }
+]

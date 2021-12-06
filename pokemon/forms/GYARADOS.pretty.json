@@ -1,0 +1,259 @@
+[
+   {
+      "animationTime" : [
+         2,
+         0.6667,
+         1.5,
+         0.6667,
+         0,
+         2.3333,
+         2,
+         2
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         23.8,
+         -31.9,
+         63
+      ],
+      "buddyOffsetMale" : [
+         23.8,
+         -31.9,
+         63
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 5,
+      "camera" : {
+         "cylinderGroundM" : 1,
+         "cylinderHeightM" : 2.5,
+         "cylinderRadiusM" : 2,
+         "diskRadiusM" : 0.72,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HYDRO_PUMP",
+         "CRUNCH",
+         "OUTRAGE",
+         "TWISTER"
+      ],
+      "eliteCinematicMove" : [
+         "DRAGON_PULSE",
+         "AQUA_TAIL"
+      ],
+      "eliteQuickMove" : [
+         "DRAGON_TAIL_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.4,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.5,
+         "collisionHeightM" : 0.48,
+         "collisionRadiusM" : 0.24,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_HOVERING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MAGIKARP",
+      "heightStdDev" : 0.8125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 5.56,
+      "modelScale" : 0.48,
+      "modelScaleV2" : 0.62,
+      "parentPokemonId" : "MAGIKARP",
+      "pokedexHeightM" : 6.5,
+      "pokedexWeightKg" : 235,
+      "pokemonId" : "GYARADOS",
+      "quickMoves" : [
+         "BITE_FAST",
+         "WATERFALL_FAST",
+         "DRAGON_BREATH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 237,
+         "baseDefense" : 186,
+         "baseStamina" : 216
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 6.5,
+            "averageWeightKg" : 305,
+            "stats" : {
+               "baseAttack" : 292,
+               "baseDefense" : 247,
+               "baseStamina" : 216
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_WATER",
+            "typeOverride2" : "POKEMON_TYPE_DARK"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 29.375
+   },
+   {
+      "animationTime" : [
+         2,
+         0.6667,
+         1.5,
+         0.6667,
+         0,
+         2.3333,
+         2,
+         2
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         23.8,
+         -31.9,
+         63
+      ],
+      "buddyOffsetMale" : [
+         23.8,
+         -31.9,
+         63
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 5,
+      "camera" : {
+         "cylinderGroundM" : 1,
+         "cylinderHeightM" : 2.5,
+         "cylinderRadiusM" : 2,
+         "diskRadiusM" : 0.72,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HYDRO_PUMP",
+         "CRUNCH",
+         "OUTRAGE",
+         "TWISTER"
+      ],
+      "eliteCinematicMove" : [
+         "DRAGON_PULSE",
+         "AQUA_TAIL"
+      ],
+      "eliteQuickMove" : [
+         "DRAGON_TAIL_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.4,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.5,
+         "collisionHeightM" : 0.48,
+         "collisionRadiusM" : 0.24,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_HOVERING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MAGIKARP",
+      "form" : "GYARADOS_NORMAL",
+      "heightStdDev" : 0.8125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 5.56,
+      "modelScale" : 0.48,
+      "modelScaleV2" : 0.62,
+      "parentPokemonId" : "MAGIKARP",
+      "pokedexHeightM" : 6.5,
+      "pokedexWeightKg" : 235,
+      "pokemonId" : "GYARADOS",
+      "quickMoves" : [
+         "BITE_FAST",
+         "WATERFALL_FAST",
+         "DRAGON_BREATH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 237,
+         "baseDefense" : 186,
+         "baseStamina" : 216
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 6.5,
+            "averageWeightKg" : 305,
+            "stats" : {
+               "baseAttack" : 292,
+               "baseDefense" : 247,
+               "baseStamina" : 216
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_WATER",
+            "typeOverride2" : "POKEMON_TYPE_DARK"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 29.375
+   }
+]

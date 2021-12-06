@@ -1,0 +1,269 @@
+[
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.6667,
+         0.6667,
+         0.2,
+         1.8,
+         1.3333,
+         0
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         7.5,
+         0,
+         25.2
+      ],
+      "buddyOffsetMale" : [
+         7.6,
+         0,
+         25.2
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "buddyWalkedMegaEnergyAward" : 5,
+      "camera" : {
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 1,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.693,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SLUDGE_BOMB",
+         "AERIAL_ACE",
+         "X_SCISSOR",
+         "FELL_STINGER"
+      ],
+      "eliteCinematicMove" : [
+         "DRILL_RUN"
+      ],
+      "eliteQuickMove" : [
+         "BUG_BITE_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.4,
+         "attackTimerS" : 17,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 3.465,
+         "collisionHeadRadiusM" : 0.231,
+         "collisionHeightM" : 0.5775,
+         "collisionRadiusM" : 0.308,
+         "dodgeDistance" : 0.125,
+         "dodgeDurationS" : 0.6,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 6,
+         "movementType" : "MOVEMENT_ELECTRIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.125,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_WEEDLE",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.28,
+      "modelScale" : 0.77,
+      "modelScaleV2" : 0.77,
+      "parentPokemonId" : "KAKUNA",
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 29.5,
+      "pokemonId" : "BEEDRILL",
+      "quickMoves" : [
+         "INFESTATION_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 169,
+         "baseDefense" : 130,
+         "baseStamina" : 163
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 1.4,
+            "averageWeightKg" : 40.5,
+            "camera" : {
+               "cylinderGroundM" : 0.3,
+               "cylinderHeightM" : 1.45,
+               "cylinderRadiusM" : 0.8
+            },
+            "modelHeight" : 1.28,
+            "modelScaleV2" : 0.77,
+            "stats" : {
+               "baseAttack" : 303,
+               "baseDefense" : 148,
+               "baseStamina" : 163
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_BUG",
+            "typeOverride2" : "POKEMON_TYPE_POISON"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 3.6875
+   },
+   {
+      "animationTime" : [
+         1.6667,
+         0.6667,
+         1.6667,
+         0.6667,
+         0.2,
+         1.8,
+         1.3333,
+         0
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         7.5,
+         0,
+         25.2
+      ],
+      "buddyOffsetMale" : [
+         7.6,
+         0,
+         25.2
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "buddyWalkedMegaEnergyAward" : 5,
+      "camera" : {
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 1,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.693,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SLUDGE_BOMB",
+         "AERIAL_ACE",
+         "X_SCISSOR",
+         "FELL_STINGER"
+      ],
+      "eliteCinematicMove" : [
+         "DRILL_RUN"
+      ],
+      "eliteQuickMove" : [
+         "BUG_BITE_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.4,
+         "attackTimerS" : 17,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 3.465,
+         "collisionHeadRadiusM" : 0.231,
+         "collisionHeightM" : 0.5775,
+         "collisionRadiusM" : 0.308,
+         "dodgeDistance" : 0.125,
+         "dodgeDurationS" : 0.6,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 6,
+         "movementType" : "MOVEMENT_ELECTRIC",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.125,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_WEEDLE",
+      "form" : "BEEDRILL_NORMAL",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.28,
+      "modelScale" : 0.77,
+      "modelScaleV2" : 0.77,
+      "parentPokemonId" : "KAKUNA",
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 29.5,
+      "pokemonId" : "BEEDRILL",
+      "quickMoves" : [
+         "INFESTATION_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 169,
+         "baseDefense" : 130,
+         "baseStamina" : 163
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 1.4,
+            "averageWeightKg" : 40.5,
+            "camera" : {
+               "cylinderGroundM" : 0.3,
+               "cylinderHeightM" : 1.45,
+               "cylinderRadiusM" : 0.8
+            },
+            "modelHeight" : 1.28,
+            "modelScaleV2" : 0.77,
+            "stats" : {
+               "baseAttack" : 303,
+               "baseDefense" : 148,
+               "baseStamina" : 163
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_BUG",
+            "typeOverride2" : "POKEMON_TYPE_POISON"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 3.6875
+   }
+]

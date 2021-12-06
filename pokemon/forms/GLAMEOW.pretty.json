@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.45,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "PLAY_ROUGH",
+         "THUNDERBOLT",
+         "AERIAL_ACE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.16,
+         "collisionHeightM" : 0.26,
+         "collisionRadiusM" : 0.26,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "PURUGLY"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GLAMEOW",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 3.9,
+      "pokemonId" : "GLAMEOW",
+      "quickMoves" : [
+         "SCRATCH_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 109,
+         "baseDefense" : 82,
+         "baseStamina" : 135
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 0.4875
+   }
+]

@@ -1,0 +1,70 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "DRAKLOAK"
+         }
+      ],
+      "familyId" : "FAMILY_DREEPY",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 2,
+      "pokemonId" : "DREEPY",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 117,
+         "baseDefense" : 61,
+         "baseStamina" : 99
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 0.25
+   }
+]

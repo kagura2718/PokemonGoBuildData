@@ -1,0 +1,89 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1.4,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HYPER_BEAM",
+         "PLAY_ROUGH",
+         "EARTHQUAKE"
+      ],
+      "eliteCinematicMove" : [
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.5,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.8,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SLAKOTH",
+      "heightStdDev" : 0.25125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 2.589041,
+      "modelScale" : 0.9,
+      "modelScaleV2" : 0.99,
+      "parentPokemonId" : "VIGOROTH",
+      "pokedexHeightM" : 2.01,
+      "pokedexWeightKg" : 130.5,
+      "pokemonId" : "SLAKING",
+      "quickMoves" : [
+         "YAWN_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 290,
+         "baseDefense" : 166,
+         "baseStamina" : 284
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 16.3125
+   }
+]

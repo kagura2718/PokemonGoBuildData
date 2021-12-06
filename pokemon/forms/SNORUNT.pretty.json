@@ -1,0 +1,100 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         20
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         20
+      ],
+      "buddyPortraitOffset" : [
+         0.06,
+         -0.05,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "AVALANCHE",
+         "ICY_WIND",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.1,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "FROSLASS",
+            "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+            "genderRequirement" : "FEMALE"
+         },
+         {
+            "candyCost" : 100,
+            "evolution" : "GLALIE"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SNORUNT",
+      "heightStdDev" : 0.08875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6581197,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.71,
+      "pokedexWeightKg" : 16.8,
+      "pokemonId" : "SNORUNT",
+      "quickMoves" : [
+         "POWDER_SNOW_FAST",
+         "HEX_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 95,
+         "baseDefense" : 95,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 2.1
+   }
+]

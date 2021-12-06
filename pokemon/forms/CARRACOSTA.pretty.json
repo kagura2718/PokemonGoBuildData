@@ -1,0 +1,94 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.5,
+         0,
+         -68.1
+      ],
+      "buddyOffsetMale" : [
+         9.5,
+         0,
+         -68.1
+      ],
+      "buddyPortraitOffset" : [
+         0.29,
+         0.02,
+         0.79
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 1.17,
+         "cylinderRadiusM" : 0.69,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SURF",
+         "ANCIENT_POWER",
+         "BODY_SLAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.18,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TIRTOUGA",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.15,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TIRTOUGA",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 81,
+      "pokemonId" : "CARRACOSTA",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "ROCK_THROW_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 192,
+         "baseDefense" : 197,
+         "baseStamina" : 179
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_ROCK",
+      "weightStdDev" : 10.125
+   }
+]

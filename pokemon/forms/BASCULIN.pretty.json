@@ -1,0 +1,268 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         10.2,
+         0,
+         -16.3
+      ],
+      "buddyOffsetMale" : [
+         10.2,
+         0,
+         -16.3
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.03,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.36,
+         "cylinderHeightM" : 0.69,
+         "cylinderRadiusM" : 0.62,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AQUA_JET",
+         "AQUA_TAIL",
+         "MUDDY_WATER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BASCULIN",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.37,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 18,
+      "pokemonId" : "BASCULIN",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "WATER_GUN_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 189,
+         "baseDefense" : 129,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 2.25
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         10.2,
+         0,
+         -16.3
+      ],
+      "buddyOffsetMale" : [
+         10.2,
+         0,
+         -16.3
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.03,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.36,
+         "cylinderHeightM" : 0.69,
+         "cylinderRadiusM" : 0.62,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AQUA_JET",
+         "AQUA_TAIL",
+         "MUDDY_WATER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BASCULIN",
+      "form" : "BASCULIN_BLUE_STRIPED",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.37,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 18,
+      "pokemonId" : "BASCULIN",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "WATER_GUN_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 189,
+         "baseDefense" : 129,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 2.25
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         10.2,
+         0,
+         -16.3
+      ],
+      "buddyOffsetMale" : [
+         10.2,
+         0,
+         -16.3
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.03,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.36,
+         "cylinderHeightM" : 0.69,
+         "cylinderRadiusM" : 0.62,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AQUA_JET",
+         "AQUA_TAIL",
+         "MUDDY_WATER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BASCULIN",
+      "form" : "BASCULIN_RED_STRIPED",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.37,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 18,
+      "pokemonId" : "BASCULIN",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "WATER_GUN_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 189,
+         "baseDefense" : 129,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 2.25
+   }
+]

@@ -1,0 +1,278 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.45,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ICE_PUNCH",
+         "ICY_WIND",
+         "AERIAL_ACE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.2,
+         "bonusStardustCaptureReward" : 400,
+         "cameraDistance" : 3.74625,
+         "collisionHeadRadiusM" : 0.28,
+         "collisionHeightM" : 0.8,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DELIBIRD",
+      "heightStdDev" : 0.11125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.9,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.89,
+      "pokedexWeightKg" : 16,
+      "pokemonId" : "DELIBIRD",
+      "quickMoves" : [
+         "PRESENT_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 128,
+         "baseDefense" : 90,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 2
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.45,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ICE_PUNCH",
+         "ICY_WIND",
+         "AERIAL_ACE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.2,
+         "bonusStardustCaptureReward" : 400,
+         "cameraDistance" : 3.74625,
+         "collisionHeadRadiusM" : 0.28,
+         "collisionHeightM" : 0.8,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DELIBIRD",
+      "form" : "DELIBIRD_NORMAL",
+      "heightStdDev" : 0.11125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.9,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.89,
+      "pokedexWeightKg" : 16,
+      "pokemonId" : "DELIBIRD",
+      "quickMoves" : [
+         "PRESENT_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 128,
+         "baseDefense" : 90,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 2
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         9.9,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.45,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ICE_PUNCH",
+         "ICY_WIND",
+         "AERIAL_ACE"
+      ],
+      "disableTransferToPokemonHome" : true,
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.2,
+         "bonusStardustCaptureReward" : 400,
+         "cameraDistance" : 3.74625,
+         "collisionHeadRadiusM" : 0.28,
+         "collisionHeightM" : 0.8,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DELIBIRD",
+      "form" : "DELIBIRD_WINTER_2020",
+      "heightStdDev" : 0.11125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.9,
+      "modelScale" : 1.1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.89,
+      "pokedexWeightKg" : 16,
+      "pokemonId" : "DELIBIRD",
+      "quickMoves" : [
+         "PRESENT_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 128,
+         "baseDefense" : 90,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ICE",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 2
+   }
+]

@@ -1,0 +1,312 @@
+[
+   {
+      "animationTime" : [
+         2,
+         1,
+         1.6667,
+         2.1667,
+         10,
+         2,
+         2.6667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1.5,
+         "diskRadiusM" : 1.14,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DARK_PULSE",
+         "GUNK_SHOT",
+         "SLUDGE_WAVE",
+         "THUNDER_PUNCH",
+         "ACID_SPRAY"
+      ],
+      "eliteQuickMove" : [
+         "LICK_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6.45,
+         "collisionHeadRadiusM" : 0.38,
+         "collisionHeightM" : 0.57,
+         "collisionRadiusM" : 0.76,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GRIMER",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.88,
+      "modelScale" : 0.76,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "GRIMER",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 30,
+      "pokemonId" : "MUK",
+      "quickMoves" : [
+         "INFESTATION_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 190,
+         "baseDefense" : 172,
+         "baseStamina" : 233
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 3.75
+   },
+   {
+      "animationTime" : [
+         2,
+         1,
+         1.6667,
+         2.1667,
+         10,
+         2,
+         2.6667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         -0.3
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1.5,
+         "diskRadiusM" : 1.14,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DARK_PULSE",
+         "GUNK_SHOT",
+         "SLUDGE_WAVE",
+         "ACID_SPRAY"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6.45,
+         "collisionHeadRadiusM" : 0.38,
+         "collisionHeightM" : 0.57,
+         "collisionRadiusM" : 0.76,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GRIMER",
+      "form" : "MUK_ALOLA",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.88,
+      "modelScale" : 0.76,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "GRIMER",
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 52,
+      "pokemonId" : "MUK",
+      "quickMoves" : [
+         "BITE_FAST",
+         "POISON_JAB_FAST",
+         "SNARL_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 190,
+         "baseDefense" : 172,
+         "baseStamina" : 233
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 6.5
+   },
+   {
+      "animationTime" : [
+         2,
+         1,
+         1.6667,
+         2.1667,
+         10,
+         2,
+         2.6667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         -0.31,
+         0,
+         -0.99
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1.5,
+         "diskRadiusM" : 1.14,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DARK_PULSE",
+         "GUNK_SHOT",
+         "SLUDGE_WAVE",
+         "THUNDER_PUNCH",
+         "ACID_SPRAY"
+      ],
+      "eliteQuickMove" : [
+         "LICK_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6.45,
+         "collisionHeadRadiusM" : 0.38,
+         "collisionHeightM" : 0.57,
+         "collisionRadiusM" : 0.76,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GRIMER",
+      "form" : "MUK_NORMAL",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.88,
+      "modelScale" : 0.76,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "GRIMER",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 30,
+      "pokemonId" : "MUK",
+      "quickMoves" : [
+         "INFESTATION_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 190,
+         "baseDefense" : 172,
+         "baseStamina" : 233
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 3.75
+   }
+]

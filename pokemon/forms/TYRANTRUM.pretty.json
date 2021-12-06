@@ -1,0 +1,91 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         15,
+         0,
+         -15
+      ],
+      "buddyOffsetMale" : [
+         15,
+         0,
+         -15
+      ],
+      "buddyPortraitOffset" : [
+         -20,
+         150,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.65,
+         "cylinderRadiusM" : 1
+      },
+      "cinematicMoves" : [
+         "CRUNCH",
+         "STONE_EDGE",
+         "OUTRAGE",
+         "EARTHQUAKE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.7,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.45,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.5,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_TYRUNT",
+      "heightStdDev" : 0.3125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 2.88,
+      "modelScale" : 0.63,
+      "modelScaleV2" : 0.87,
+      "parentPokemonId" : "TYRUNT",
+      "pokedexHeightM" : 2.5,
+      "pokedexWeightKg" : 270,
+      "pokemonId" : "TYRANTRUM",
+      "quickMoves" : [
+         "DRAGON_TAIL_FAST",
+         "CHARM_FAST",
+         "ROCK_THROW_FAST"
+      ],
+      "raidBossDistanceOffset" : 6,
+      "stats" : {
+         "baseAttack" : 227,
+         "baseDefense" : 191,
+         "baseStamina" : 193
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "type2" : "POKEMON_TYPE_DRAGON",
+      "weightStdDev" : 33.75
+   }
+]

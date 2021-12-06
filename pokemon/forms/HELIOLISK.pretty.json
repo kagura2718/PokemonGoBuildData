@@ -1,0 +1,72 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "camera" : {
+         "cylinderHeightM" : 1.1,
+         "cylinderRadiusM" : 0.5
+      },
+      "cinematicMoves" : [
+         "PARABOLIC_CHARGE",
+         "BULLDOZE",
+         "THUNDERBOLT",
+         "GRASS_KNOT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeProbability" : 0.25,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_HELIOPTILE",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScale" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "HELIOPTILE",
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 21,
+      "pokemonId" : "HELIOLISK",
+      "quickMoves" : [
+         "QUICK_ATTACK_FAST",
+         "VOLT_SWITCH_FAST",
+         "MUD_SLAP_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 219,
+         "baseDefense" : 168,
+         "baseStamina" : 158
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 2.625
+   }
+]

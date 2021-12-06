@@ -1,0 +1,69 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "camera" : {
+         "cylinderHeightM" : 3,
+         "cylinderRadiusM" : 0.25
+      },
+      "cinematicMoves" : [
+         "MOONBLAST",
+         "MEGAHORN",
+         "CLOSE_COMBAT",
+         "GIGA_IMPACT",
+         "THUNDER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.15,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 2.5,
+         "minPokemonActionFrequencyS" : 0.75,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_XERNEAS",
+      "heightStdDev" : 0.375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 4.9,
+      "modelScale" : 0.5,
+      "modelScaleV2" : 0.66,
+      "pokedexHeightM" : 3,
+      "pokedexWeightKg" : 215,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "XERNEAS",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "ZEN_HEADBUTT_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 250,
+         "baseDefense" : 185,
+         "baseStamina" : 246
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 26.875
+   }
+]

@@ -1,0 +1,97 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         11.5,
+         0,
+         -40.9
+      ],
+      "buddyOffsetMale" : [
+         11.5,
+         0,
+         -40.9
+      ],
+      "buddyPortraitOffset" : [
+         0.02,
+         -0.05,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.18,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SIGNAL_BEAM",
+         "X_SCISSOR",
+         "DRILL_RUN",
+         "AERIAL_ACE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.15,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 200,
+            "evolution" : "ESCAVALIER",
+            "noCandyCostViaTrade" : true
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_KARRABLAST",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.61,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 5.9,
+      "pokemonId" : "KARRABLAST",
+      "quickMoves" : [
+         "PECK_FAST",
+         "FURY_CUTTER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 137,
+         "baseDefense" : 87,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "weightStdDev" : 0.7375
+   }
+]

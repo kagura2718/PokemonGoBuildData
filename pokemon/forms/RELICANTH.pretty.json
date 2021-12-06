@@ -1,0 +1,86 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         10,
+         0,
+         70
+      ],
+      "buddyOffsetMale" : [
+         10,
+         0,
+         70
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.2,
+         "cylinderHeightM" : 1.2,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ANCIENT_POWER",
+         "AQUA_TAIL",
+         "HYDRO_PUMP"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.9,
+         "baseFleeRate" : 0.01,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RELICANTH",
+      "heightStdDev" : 0.12375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.92,
+      "modelScale" : 1.04,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.99,
+      "pokedexWeightKg" : 23.4,
+      "pokemonId" : "RELICANTH",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "ZEN_HEADBUTT_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 162,
+         "baseDefense" : 203,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_ROCK",
+      "weightStdDev" : 2.925
+   }
+]

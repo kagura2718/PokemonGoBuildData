@@ -1,0 +1,91 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -28.6
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -28.6
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.252,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "BRICK_BREAK",
+         "LOW_SWEEP",
+         "SLUDGE_BOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.25,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.12,
+         "cameraDistance" : 2.25,
+         "collisionHeadRadiusM" : 0.17,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.189,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.25,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "TOXICROAK"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CROAGUNK",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.95,
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 23,
+      "pokemonId" : "CROAGUNK",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 116,
+         "baseDefense" : 76,
+         "baseStamina" : 134
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_FIGHTING",
+      "weightStdDev" : 2.875
+   }
+]

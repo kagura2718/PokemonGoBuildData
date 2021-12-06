@@ -1,0 +1,211 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         -4,
+         0,
+         -115
+      ],
+      "buddyOffsetMale" : [
+         -4,
+         0,
+         -115
+      ],
+      "buddyPortraitOffset" : [
+         0.58,
+         0,
+         1.23
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 1.4,
+         "cylinderRadiusM" : 1.4,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "CRUNCH",
+         "AQUA_TAIL",
+         "SLUDGE_BOMB",
+         "FELL_STINGER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.08,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.23,
+         "collisionHeightM" : 0.9,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SKORUPI",
+      "heightStdDev" : 0.1625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.2,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SKORUPI",
+      "pokedexHeightM" : 1.3,
+      "pokedexWeightKg" : 61.5,
+      "pokemonId" : "DRAPION",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "INFESTATION_FAST",
+         "BITE_FAST",
+         "ICE_FANG_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 180,
+         "baseDefense" : 202,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 7.6875
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         -4,
+         0,
+         -115
+      ],
+      "buddyOffsetMale" : [
+         -4,
+         0,
+         -115
+      ],
+      "buddyPortraitOffset" : [
+         0.58,
+         0,
+         1.23
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 1.4,
+         "cylinderRadiusM" : 1.4,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "CRUNCH",
+         "AQUA_TAIL",
+         "SLUDGE_BOMB",
+         "FELL_STINGER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.08,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.23,
+         "collisionHeightM" : 0.9,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SKORUPI",
+      "form" : "DRAPION_NORMAL",
+      "heightStdDev" : 0.1625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.2,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SKORUPI",
+      "pokedexHeightM" : 1.3,
+      "pokedexWeightKg" : 61.5,
+      "pokemonId" : "DRAPION",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "INFESTATION_FAST",
+         "BITE_FAST",
+         "ICE_FANG_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 180,
+         "baseDefense" : 202,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 7.6875
+   }
+]

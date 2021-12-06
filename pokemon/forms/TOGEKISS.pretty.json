@@ -1,0 +1,97 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         -0.69,
+         0,
+         -66.52
+      ],
+      "buddyOffsetMale" : [
+         -0.69,
+         0,
+         -66.52
+      ],
+      "buddyPortraitOffset" : [
+         -90,
+         60,
+         550
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ANCIENT_POWER",
+         "DAZZLING_GLEAM",
+         "AERIAL_ACE",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.01,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.35,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TOGEPI",
+      "heightStdDev" : 0.1875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.25,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TOGETIC",
+      "pokedexHeightM" : 1.5,
+      "pokedexWeightKg" : 38,
+      "pokemonId" : "TOGEKISS",
+      "quickMoves" : [
+         "AIR_SLASH_FAST",
+         "HIDDEN_POWER_FAST",
+         "CHARM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 225,
+         "baseDefense" : 217,
+         "baseStamina" : 198
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FAIRY",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 4.75
+   }
+]

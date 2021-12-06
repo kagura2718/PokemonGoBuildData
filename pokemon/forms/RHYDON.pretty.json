@@ -1,0 +1,229 @@
+[
+   {
+      "animationTime" : [
+         1.7,
+         0.6667,
+         2.1,
+         1.7,
+         0,
+         2,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         15,
+         0,
+         15
+      ],
+      "buddyOffsetMale" : [
+         15,
+         0,
+         15
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0.12,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.75,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 1.185,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SURF",
+         "EARTHQUAKE",
+         "STONE_EDGE"
+      ],
+      "eliteCinematicMove" : [
+         "MEGAHORN"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.395,
+         "collisionHeightM" : 1.185,
+         "collisionRadiusM" : 0.5925,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "RHYPERIOR",
+            "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+            "form" : "RHYPERIOR_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RHYHORN",
+      "heightStdDev" : 0.2375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.85,
+      "modelScale" : 0.79,
+      "modelScaleV2" : 1.05,
+      "parentPokemonId" : "RHYHORN",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 120,
+      "pokemonId" : "RHYDON",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 222,
+         "baseDefense" : 171,
+         "baseStamina" : 233
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "type2" : "POKEMON_TYPE_ROCK",
+      "weightStdDev" : 15
+   },
+   {
+      "animationTime" : [
+         1.7,
+         0.6667,
+         2.1,
+         1.7,
+         0,
+         2,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         15,
+         0,
+         15
+      ],
+      "buddyOffsetMale" : [
+         15,
+         0,
+         15
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0.12,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.75,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 1.185,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SURF",
+         "EARTHQUAKE",
+         "STONE_EDGE"
+      ],
+      "eliteCinematicMove" : [
+         "MEGAHORN"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.395,
+         "collisionHeightM" : 1.185,
+         "collisionRadiusM" : 0.5925,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "RHYPERIOR",
+            "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+            "form" : "RHYPERIOR_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RHYHORN",
+      "form" : "RHYDON_NORMAL",
+      "heightStdDev" : 0.2375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.85,
+      "modelScale" : 0.79,
+      "modelScaleV2" : 1.05,
+      "parentPokemonId" : "RHYHORN",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 120,
+      "pokemonId" : "RHYDON",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 222,
+         "baseDefense" : 171,
+         "baseStamina" : 233
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "type2" : "POKEMON_TYPE_ROCK",
+      "weightStdDev" : 15
+   }
+]

@@ -1,0 +1,436 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHO_BOOST",
+         "ZAP_CANNON",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DEOXYS",
+      "heightStdDev" : 0.2125,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.55,
+      "modelScale" : 0.83,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 60.8,
+      "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+      "pokemonId" : "DEOXYS",
+      "quickMoves" : [
+         "ZEN_HEADBUTT_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 345,
+         "baseDefense" : 115,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 7.6
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyPortraitOffset" : [
+         0.76,
+         -0.05,
+         1.71
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHO_BOOST",
+         "ZAP_CANNON",
+         "DARK_PULSE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DEOXYS",
+      "form" : "DEOXYS_ATTACK",
+      "heightStdDev" : 0.2125,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.55,
+      "modelScale" : 0.83,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 60.8,
+      "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+      "pokemonId" : "DEOXYS",
+      "quickMoves" : [
+         "ZEN_HEADBUTT_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 414,
+         "baseDefense" : 46,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 7.6
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyPortraitOffset" : [
+         0.76,
+         -0.05,
+         1.71
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHO_BOOST",
+         "THUNDERBOLT",
+         "ROCK_SLIDE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DEOXYS",
+      "form" : "DEOXYS_DEFENSE",
+      "heightStdDev" : 0.2125,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.55,
+      "modelScale" : 0.83,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 60.8,
+      "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+      "pokemonId" : "DEOXYS",
+      "quickMoves" : [
+         "ZEN_HEADBUTT_FAST",
+         "COUNTER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 144,
+         "baseDefense" : 330,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 7.6
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyPortraitOffset" : [
+         0.76,
+         -0.05,
+         1.71
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHO_BOOST",
+         "THUNDERBOLT",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DEOXYS",
+      "form" : "DEOXYS_NORMAL",
+      "heightStdDev" : 0.2125,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.55,
+      "modelScale" : 0.83,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 60.8,
+      "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+      "pokemonId" : "DEOXYS",
+      "quickMoves" : [
+         "ZEN_HEADBUTT_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 345,
+         "baseDefense" : 115,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 7.6
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         70
+      ],
+      "buddyPortraitOffset" : [
+         0.76,
+         -0.05,
+         1.71
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.7,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHO_BOOST",
+         "THUNDERBOLT",
+         "SWIFT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.01,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DEOXYS",
+      "form" : "DEOXYS_SPEED",
+      "heightStdDev" : 0.2125,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.55,
+      "modelScale" : 0.83,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 60.8,
+      "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+      "pokemonId" : "DEOXYS",
+      "quickMoves" : [
+         "ZEN_HEADBUTT_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 230,
+         "baseDefense" : 218,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 7.6
+   }
+]

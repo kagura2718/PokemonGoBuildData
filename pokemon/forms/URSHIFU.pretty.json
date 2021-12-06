@@ -1,0 +1,211 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "BRICK_BREAK",
+         "DYNAMIC_PUNCH",
+         "CLOSE_COMBAT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_KUBFU",
+      "heightStdDev" : 0.2375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "KUBFU",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 105,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "URSHIFU",
+      "quickMoves" : [
+         "ROCK_SMASH_FAST",
+         "COUNTER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 254,
+         "baseDefense" : 177,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_FIGHTING",
+      "weightStdDev" : 13.125
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "BRICK_BREAK",
+         "DYNAMIC_PUNCH",
+         "CLOSE_COMBAT",
+         "AQUA_JET"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_KUBFU",
+      "form" : "URSHIFU_RAPID_STRIKE",
+      "heightStdDev" : 0.2375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "KUBFU",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 105,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "URSHIFU",
+      "quickMoves" : [
+         "ROCK_SMASH_FAST",
+         "COUNTER_FAST",
+         "WATERFALL_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 254,
+         "baseDefense" : 177,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_FIGHTING",
+      "type2" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 13.125
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "BRICK_BREAK",
+         "DYNAMIC_PUNCH",
+         "CLOSE_COMBAT",
+         "PAYBACK"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_KUBFU",
+      "form" : "URSHIFU_SINGLE_STRIKE",
+      "heightStdDev" : 0.2375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "KUBFU",
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 105,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "URSHIFU",
+      "quickMoves" : [
+         "ROCK_SMASH_FAST",
+         "COUNTER_FAST",
+         "SUCKER_PUNCH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 254,
+         "baseDefense" : 177,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_FIGHTING",
+      "type2" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 13.125
+   }
+]

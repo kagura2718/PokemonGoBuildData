@@ -1,0 +1,94 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         6.2,
+         0,
+         -77.6
+      ],
+      "buddyOffsetMale" : [
+         6.2,
+         0,
+         -77.6
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0.1
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 1.2,
+         "cylinderRadiusM" : 0.73,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "WILD_CHARGE",
+         "PLAY_ROUGH",
+         "CRUNCH"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 5.5,
+         "collisionHeadRadiusM" : 0.22,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_LILLIPUP",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.2,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "HERDIER",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 61,
+      "pokemonId" : "STOUTLAND",
+      "quickMoves" : [
+         "LICK_FAST",
+         "TAKE_DOWN_FAST",
+         "ICE_FANG_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 206,
+         "baseDefense" : 182,
+         "baseStamina" : 198
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 7.625
+   }
+]

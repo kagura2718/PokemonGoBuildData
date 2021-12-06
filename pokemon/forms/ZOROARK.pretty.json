@@ -1,0 +1,93 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         10,
+         0,
+         -60
+      ],
+      "buddyOffsetMale" : [
+         10,
+         0,
+         -60
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 1.34,
+         "cylinderRadiusM" : 0.8,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "FOUL_PLAY",
+         "SLUDGE_BOMB",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5.5,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ZORUA",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.57,
+      "modelScale" : 1,
+      "modelScaleV2" : 1.2,
+      "parentPokemonId" : "ZORUA",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 81.1,
+      "pokemonId" : "ZOROARK",
+      "quickMoves" : [
+         "SHADOW_CLAW_FAST",
+         "SNARL_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 250,
+         "baseDefense" : 127,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 10.1375
+   }
+]

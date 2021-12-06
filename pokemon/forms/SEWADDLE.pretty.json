@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         7.9,
+         0,
+         -20.2
+      ],
+      "buddyOffsetMale" : [
+         7.9,
+         0,
+         -20.2
+      ],
+      "buddyPortraitOffset" : [
+         0.03,
+         -0.05,
+         0.02
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.3,
+         "cylinderRadiusM" : 0.16,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ENERGY_BALL",
+         "SEED_BOMB",
+         "SILVER_WIND"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "SWADLOON"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SEWADDLE",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.3,
+      "modelScale" : 1,
+      "modelScaleV2" : 1.27,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2.5,
+      "pokemonId" : "SEWADDLE",
+      "quickMoves" : [
+         "STRUGGLE_BUG_FAST",
+         "BUG_BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 96,
+         "baseDefense" : 124,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 0.3125
+   }
+]

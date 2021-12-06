@@ -1,0 +1,102 @@
+[
+   {
+      "animationTime" : [
+         2,
+         0.6667,
+         1.6667,
+         1.5,
+         0,
+         2,
+         1.5333,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         6,
+         0,
+         10.6
+      ],
+      "buddyOffsetMale" : [
+         6,
+         0,
+         10.6
+      ],
+      "buddyPortraitOffset" : [
+         -180,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 1.4,
+         "cylinderRadiusM" : 0.55,
+         "diskRadiusM" : 0.594,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "DRILL_PECK",
+         "AERIAL_ACE",
+         "BRAVE_BIRD"
+      ],
+      "eliteCinematicMove" : [
+         "SWIFT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4.62,
+         "collisionHeadRadiusM" : 0.198,
+         "collisionHeightM" : 1.232,
+         "collisionRadiusM" : 0.352,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "DODRIO"
+         }
+      ],
+      "evolutionIds" : [
+         "DODRIO"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DODUO",
+      "heightStdDev" : 0.175,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.35,
+      "modelScale" : 0.88,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.4,
+      "pokedexWeightKg" : 39.2,
+      "pokemonId" : "DODUO",
+      "quickMoves" : [
+         "PECK_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 158,
+         "baseDefense" : 83,
+         "baseStamina" : 111
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 4.9
+   }
+]

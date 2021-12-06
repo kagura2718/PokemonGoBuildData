@@ -1,0 +1,101 @@
+[
+   {
+      "animationTime" : [
+         2.6667,
+         0.6667,
+         2,
+         0.8,
+         0,
+         2,
+         0.6667,
+         0
+      ],
+      "buddyGroupNumber" : 5,
+      "buddyOffsetFemale" : [
+         30,
+         0,
+         -30
+      ],
+      "buddyOffsetMale" : [
+         30,
+         0,
+         -30
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "buddyWalkedMegaEnergyAward" : 5,
+      "camera" : {
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 0.9875,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.711,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "TWISTER",
+         "AERIAL_ACE",
+         "AIR_CUTTER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.09,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.237,
+         "collisionHeightM" : 0.69125,
+         "collisionRadiusM" : 0.316,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "PIDGEOT"
+         }
+      ],
+      "evolutionIds" : [
+         "PIDGEOT"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PIDGEY",
+      "heightStdDev" : 0.1375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.74,
+      "modelScale" : 0.79,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "PIDGEY",
+      "pokedexHeightM" : 1.1,
+      "pokedexWeightKg" : 30,
+      "pokemonId" : "PIDGEOTTO",
+      "quickMoves" : [
+         "WING_ATTACK_FAST",
+         "STEEL_WING_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 117,
+         "baseDefense" : 105,
+         "baseStamina" : 160
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 3.75
+   }
+]

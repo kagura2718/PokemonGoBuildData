@@ -1,0 +1,207 @@
+[
+   {
+      "animationTime" : [
+         1.7333,
+         0.6667,
+         1.6,
+         1.6,
+         0,
+         1.8333,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.45,
+         "cylinderRadiusM" : 0.25,
+         "diskRadiusM" : 0.444,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "BONE_CLUB",
+         "DIG",
+         "BULLDOZE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 23,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.625,
+         "collisionHeadRadiusM" : 0.222,
+         "collisionHeightM" : 0.37,
+         "collisionRadiusM" : 0.222,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "MAROWAK",
+            "form" : "MAROWAK_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionIds" : [
+         "MAROWAK"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CUBONE",
+      "heightStdDev" : 0.05,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.4,
+      "modelScale" : 1.48,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.4,
+      "pokedexWeightKg" : 6.5,
+      "pokemonId" : "CUBONE",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 90,
+         "baseDefense" : 144,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 0.8125
+   },
+   {
+      "animationTime" : [
+         1.7333,
+         0.6667,
+         1.6,
+         1.6,
+         0,
+         1.8333,
+         1.6,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.45,
+         "cylinderRadiusM" : 0.25,
+         "diskRadiusM" : 0.444,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "BONE_CLUB",
+         "DIG",
+         "BULLDOZE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 23,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.625,
+         "collisionHeadRadiusM" : 0.222,
+         "collisionHeightM" : 0.37,
+         "collisionRadiusM" : 0.222,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "MAROWAK",
+            "form" : "MAROWAK_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionIds" : [
+         "MAROWAK"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CUBONE",
+      "form" : "CUBONE_NORMAL",
+      "heightStdDev" : 0.05,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.4,
+      "modelScale" : 1.48,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.4,
+      "pokedexWeightKg" : 6.5,
+      "pokemonId" : "CUBONE",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 90,
+         "baseDefense" : 144,
+         "baseStamina" : 137
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 0.8125
+   }
+]

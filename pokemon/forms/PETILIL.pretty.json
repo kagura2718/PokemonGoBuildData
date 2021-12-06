@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         6.5,
+         0,
+         -22.5
+      ],
+      "buddyOffsetMale" : [
+         6.5,
+         0,
+         -22.5
+      ],
+      "buddyPortraitOffset" : [
+         0.05,
+         -0.04,
+         0.1
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.54,
+         "cylinderRadiusM" : 0.2,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ENERGY_BALL",
+         "SEED_BOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.8,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "LILLIGANT",
+            "evolutionItemRequirement" : "ITEM_SUN_STONE"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_PETILIL",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 6.6,
+      "pokemonId" : "PETILIL",
+      "quickMoves" : [
+         "CHARM_FAST",
+         "HIDDEN_POWER_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 119,
+         "baseDefense" : 91,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 0.825
+   }
+]

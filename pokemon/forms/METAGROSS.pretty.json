@@ -1,0 +1,211 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.11,
+         0.13,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHIC",
+         "FLASH_CANNON",
+         "EARTHQUAKE"
+      ],
+      "eliteCinematicMove" : [
+         "METEOR_MASH"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 6,
+         "collisionHeadRadiusM" : 0.6,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 1.7,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BELDUM",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 2.6,
+      "modelScale" : 0.66,
+      "modelScaleV2" : 0.91,
+      "parentPokemonId" : "METANG",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 550,
+      "pokemonId" : "METAGROSS",
+      "quickMoves" : [
+         "BULLET_PUNCH_FAST",
+         "ZEN_HEADBUTT_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 257,
+         "baseDefense" : 228,
+         "baseStamina" : 190
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_STEEL",
+      "type2" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 68.75
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.11,
+         0.13,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHIC",
+         "FLASH_CANNON",
+         "EARTHQUAKE"
+      ],
+      "eliteCinematicMove" : [
+         "METEOR_MASH"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 6,
+         "collisionHeadRadiusM" : 0.6,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 1.7,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BELDUM",
+      "form" : "METAGROSS_NORMAL",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 2.6,
+      "modelScale" : 0.66,
+      "modelScaleV2" : 0.91,
+      "parentPokemonId" : "METANG",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 550,
+      "pokemonId" : "METAGROSS",
+      "quickMoves" : [
+         "BULLET_PUNCH_FAST",
+         "ZEN_HEADBUTT_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 257,
+         "baseDefense" : 228,
+         "baseStamina" : 190
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_STEEL",
+      "type2" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 68.75
+   }
+]

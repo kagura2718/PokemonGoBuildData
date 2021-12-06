@@ -1,0 +1,197 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         60
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         60
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.3,
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 1.2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HYDRO_PUMP",
+         "CRUNCH",
+         "POISON_FANG"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.5,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CARVANHA",
+      "heightStdDev" : 0.225,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.35,
+      "modelScale" : 0.88,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "CARVANHA",
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 88.8,
+      "pokemonId" : "SHARPEDO",
+      "quickMoves" : [
+         "BITE_FAST",
+         "WATERFALL_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 243,
+         "baseDefense" : 83,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 11.1
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         60
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         60
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderGroundM" : 0.3,
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 1.2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "HYDRO_PUMP",
+         "CRUNCH",
+         "POISON_FANG"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.5,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CARVANHA",
+      "form" : "SHARPEDO_NORMAL",
+      "heightStdDev" : 0.225,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.35,
+      "modelScale" : 0.88,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "CARVANHA",
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 88.8,
+      "pokemonId" : "SHARPEDO",
+      "quickMoves" : [
+         "BITE_FAST",
+         "WATERFALL_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 243,
+         "baseDefense" : 83,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 11.1
+   }
+]

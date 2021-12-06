@@ -1,0 +1,314 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         59.2
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         59.2
+      ],
+      "buddyPortraitOffset" : [
+         0.09,
+         0.06,
+         0.35
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHIC",
+         "THUNDERBOLT",
+         "ICE_BEAM",
+         "FOCUS_BLAST",
+         "FLAMETHROWER"
+      ],
+      "eliteCinematicMove" : [
+         "PSYSTRIKE",
+         "SHADOW_BALL",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 5.55,
+         "collisionHeadRadiusM" : 0.185,
+         "collisionHeightM" : 1.184,
+         "collisionRadiusM" : 0.37,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.02,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MEWTWO",
+      "heightStdDev" : 0.25,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2,
+      "modelScale" : 0.74,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 122,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "MEWTWO",
+      "quickMoves" : [
+         "PSYCHO_CUT_FAST",
+         "CONFUSION_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 300,
+         "baseDefense" : 182,
+         "baseStamina" : 214
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 15.25
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         59.2
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         59.2
+      ],
+      "buddyPortraitOffset" : [
+         0.09,
+         0.06,
+         0.35
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ROCK_SLIDE",
+         "DYNAMIC_PUNCH",
+         "EARTHQUAKE",
+         "FUTURESIGHT"
+      ],
+      "disableTransferToPokemonHome" : true,
+      "eliteCinematicMove" : [
+         "PSYSTRIKE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 5.55,
+         "collisionHeadRadiusM" : 0.185,
+         "collisionHeightM" : 1.184,
+         "collisionRadiusM" : 0.37,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.02,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MEWTWO",
+      "form" : "MEWTWO_A",
+      "heightStdDev" : 0.25,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2,
+      "modelScale" : 0.74,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 122,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "MEWTWO",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "IRON_TAIL_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 182,
+         "baseDefense" : 278,
+         "baseStamina" : 214
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 15.25
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         59.2
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         59.2
+      ],
+      "buddyPortraitOffset" : [
+         0.09,
+         0.06,
+         0.35
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYCHIC",
+         "THUNDERBOLT",
+         "ICE_BEAM",
+         "FOCUS_BLAST",
+         "FLAMETHROWER"
+      ],
+      "eliteCinematicMove" : [
+         "PSYSTRIKE",
+         "SHADOW_BALL",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 3,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 5.55,
+         "collisionHeadRadiusM" : 0.185,
+         "collisionHeightM" : 1.184,
+         "collisionRadiusM" : 0.37,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.02,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MEWTWO",
+      "form" : "MEWTWO_NORMAL",
+      "heightStdDev" : 0.25,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2,
+      "modelScale" : 0.74,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 122,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "MEWTWO",
+      "quickMoves" : [
+         "PSYCHO_CUT_FAST",
+         "CONFUSION_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 300,
+         "baseDefense" : 182,
+         "baseStamina" : 214
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 15.25
+   }
+]

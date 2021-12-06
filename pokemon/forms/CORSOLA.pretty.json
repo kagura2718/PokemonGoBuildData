@@ -1,0 +1,83 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.65,
+         "cylinderRadiusM" : 0.37,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ROCK_BLAST",
+         "POWER_GEM",
+         "BUBBLE_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.12,
+         "cameraDistance" : 2.9925,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.65,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CORSOLA",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.25,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 5,
+      "pokemonId" : "CORSOLA",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "BUBBLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 118,
+         "baseDefense" : 156,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_ROCK",
+      "weightStdDev" : 0.625
+   }
+]

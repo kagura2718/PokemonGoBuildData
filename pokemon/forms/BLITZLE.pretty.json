@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         5.4,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         5.4,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.88,
+         "cylinderRadiusM" : 0.37,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "FLAME_CHARGE",
+         "DISCHARGE",
+         "THUNDERBOLT"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.11,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "ZEBSTRIKA"
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_BLITZLE",
+      "heightStdDev" : 0.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.85,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.8,
+      "pokedexWeightKg" : 29.8,
+      "pokemonId" : "BLITZLE",
+      "quickMoves" : [
+         "QUICK_ATTACK_FAST",
+         "SPARK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 118,
+         "baseDefense" : 64,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 3.725
+   }
+]

@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         34,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         34,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0.25,
+         0
+      ],
+      "buddyScale" : 18,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2.76,
+         "cylinderRadiusM" : 1.31,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SHADOW_PUNCH",
+         "DYNAMIC_PUNCH",
+         "EARTH_POWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 7,
+         "collisionHeadRadiusM" : 0.55,
+         "collisionHeightM" : 0.3,
+         "collisionRadiusM" : 0.6,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GOLETT",
+      "heightStdDev" : 0.35,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 2.72,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.89,
+      "parentPokemonId" : "GOLETT",
+      "pokedexHeightM" : 2.8,
+      "pokedexWeightKg" : 330,
+      "pokemonId" : "GOLURK",
+      "quickMoves" : [
+         "ASTONISH_FAST",
+         "MUD_SLAP_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 222,
+         "baseDefense" : 154,
+         "baseStamina" : 205
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_GROUND",
+      "type2" : "POKEMON_TYPE_GHOST",
+      "weightStdDev" : 41.25
+   }
+]

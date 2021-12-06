@@ -1,0 +1,88 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         10,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         10,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.7,
+         "cylinderRadiusM" : 0.3
+      },
+      "cinematicMoves" : [
+         "DIG",
+         "BULLDOZE",
+         "EARTHQUAKE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.4,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.11,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "DIGGERSBY"
+         }
+      ],
+      "familyId" : "FAMILY_BUNNELBY",
+      "heightStdDev" : 0.05,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.7,
+      "modelScale" : 1.17,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.4,
+      "pokedexWeightKg" : 5,
+      "pokemonId" : "BUNNELBY",
+      "quickMoves" : [
+         "MUD_SLAP_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 68,
+         "baseDefense" : 72,
+         "baseStamina" : 116
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 0.625
+   }
+]

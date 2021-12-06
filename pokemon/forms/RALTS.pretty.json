@@ -1,0 +1,201 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.4,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYSHOCK",
+         "DISARMING_VOICE",
+         "SHADOW_SNEAK"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.15,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "KIRLIA",
+            "form" : "KIRLIA_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RALTS",
+      "heightStdDev" : 0.05125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.4,
+      "modelScale" : 1.48,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.41,
+      "pokedexWeightKg" : 6.6,
+      "pokemonId" : "RALTS",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 79,
+         "baseDefense" : 59,
+         "baseStamina" : 99
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 0.825
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.4,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "PSYSHOCK",
+         "DISARMING_VOICE",
+         "SHADOW_SNEAK"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.15,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "KIRLIA",
+            "form" : "KIRLIA_NORMAL",
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RALTS",
+      "form" : "RALTS_NORMAL",
+      "heightStdDev" : 0.05125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.4,
+      "modelScale" : 1.48,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.41,
+      "pokedexWeightKg" : 6.6,
+      "pokemonId" : "RALTS",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 79,
+         "baseDefense" : 59,
+         "baseStamina" : 99
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 0.825
+   }
+]

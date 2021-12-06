@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 5,
+      "buddyOffsetFemale" : [
+         8.23,
+         11.34,
+         0
+      ],
+      "buddyOffsetMale" : [
+         8.23,
+         11.34,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.24691358,
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "OMINOUS_WIND",
+         "FUTURESIGHT",
+         "AERIAL_ACE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 1.1,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_NATU",
+      "heightStdDev" : 0.1875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.65,
+      "modelScale" : 0.81,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "NATU",
+      "pokedexHeightM" : 1.5,
+      "pokedexWeightKg" : 15,
+      "pokemonId" : "XATU",
+      "quickMoves" : [
+         "AIR_SLASH_FAST",
+         "FEINT_ATTACK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 192,
+         "baseDefense" : 146,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 1.875
+   }
+]

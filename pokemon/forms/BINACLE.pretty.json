@@ -1,0 +1,85 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "buddyOffsetFemale" : [
+         11,
+         0,
+         -12
+      ],
+      "buddyOffsetMale" : [
+         11,
+         0,
+         -12
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -240,
+         0
+      ],
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.3
+      },
+      "cinematicMoves" : [
+         "ANCIENT_POWER",
+         "CROSS_CHOP",
+         "DIG"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.25,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "BARBARACLE"
+         }
+      ],
+      "familyId" : "FAMILY_BINACLE",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScale" : 1.25,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 31,
+      "pokemonId" : "BINACLE",
+      "quickMoves" : [
+         "SCRATCH_FAST",
+         "MUD_SLAP_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 96,
+         "baseDefense" : 120,
+         "baseStamina" : 123
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "type2" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 3.875
+   }
+]

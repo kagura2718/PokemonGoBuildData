@@ -1,0 +1,98 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6666,
+         1.7666,
+         0,
+         2.4,
+         0.08667,
+         0
+      ],
+      "buddyGroupNumber" : 1,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0.055,
+         0.3
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderHeightM" : 0.34,
+         "cylinderRadiusM" : 0.14
+      },
+      "cinematicMoves" : [
+         "PSYSHOCK",
+         "ENERGY_BALL",
+         "PSYCHIC"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.4,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.126,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 1.1,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "MEOWSTIC",
+            "form" : "MEOWSTIC_NORMAL",
+            "genderRequirement" : "MALE"
+         },
+         {
+            "candyCost" : 50,
+            "evolution" : "MEOWSTIC",
+            "form" : "MEOWSTIC_FEMALE",
+            "genderRequirement" : "FEMALE"
+         }
+      ],
+      "familyId" : "FAMILY_ESPURR",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.34,
+      "modelScale" : 1.59,
+      "modelScaleV2" : 1.18,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 3.5,
+      "pokemonId" : "ESPURR",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "SCRATCH_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 120,
+         "baseDefense" : 114,
+         "baseStamina" : 158
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 0.4375
+   }
+]

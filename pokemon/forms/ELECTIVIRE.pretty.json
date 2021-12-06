@@ -1,0 +1,201 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -56.9
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -56.9
+      ],
+      "buddyScale" : 16,
+      "camera" : {
+         "cylinderHeightM" : 1.9,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "THUNDER_PUNCH",
+         "WILD_CHARGE",
+         "THUNDER",
+         "ICE_PUNCH"
+      ],
+      "eliteCinematicMove" : [
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.35,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ELECTABUZZ",
+      "heightStdDev" : 0.225,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.75,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "ELECTABUZZ",
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 138.6,
+      "pokemonId" : "ELECTIVIRE",
+      "quickMoves" : [
+         "THUNDER_SHOCK_FAST",
+         "LOW_KICK_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 249,
+         "baseDefense" : 163,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 17.325
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -56.9
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -56.9
+      ],
+      "buddyScale" : 16,
+      "camera" : {
+         "cylinderHeightM" : 1.9,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "THUNDER_PUNCH",
+         "WILD_CHARGE",
+         "THUNDER",
+         "ICE_PUNCH"
+      ],
+      "eliteCinematicMove" : [
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.35,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ELECTABUZZ",
+      "form" : "ELECTIVIRE_NORMAL",
+      "heightStdDev" : 0.225,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.75,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "ELECTABUZZ",
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 138.6,
+      "pokemonId" : "ELECTIVIRE",
+      "quickMoves" : [
+         "THUNDER_SHOCK_FAST",
+         "LOW_KICK_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 249,
+         "baseDefense" : 163,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 17.325
+   }
+]

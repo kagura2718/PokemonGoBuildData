@@ -1,0 +1,209 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         16.18,
+         0,
+         20.17
+      ],
+      "buddyOffsetMale" : [
+         16.18,
+         0,
+         20.17
+      ],
+      "buddyPortraitOffset" : [
+         -170,
+         -360,
+         800
+      ],
+      "buddyScale" : 15,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ANCIENT_POWER",
+         "SLUDGE_BOMB",
+         "SOLAR_BEAM",
+         "POWER_WHIP",
+         "ROCK_SLIDE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6,
+         "collisionHeadRadiusM" : 1,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TANGELA",
+      "heightStdDev" : 0.25,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.05,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.99,
+      "parentPokemonId" : "TANGELA",
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 128.6,
+      "pokemonId" : "TANGROWTH",
+      "quickMoves" : [
+         "VINE_WHIP_FAST",
+         "INFESTATION_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 207,
+         "baseDefense" : 184,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 16.075
+   },
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         16.18,
+         0,
+         20.17
+      ],
+      "buddyOffsetMale" : [
+         16.18,
+         0,
+         20.17
+      ],
+      "buddyPortraitOffset" : [
+         -170,
+         -360,
+         800
+      ],
+      "buddyScale" : 15,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 2,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "ANCIENT_POWER",
+         "SLUDGE_BOMB",
+         "SOLAR_BEAM",
+         "POWER_WHIP",
+         "ROCK_SLIDE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.15,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6,
+         "collisionHeadRadiusM" : 1,
+         "collisionHeightM" : 0.252,
+         "collisionRadiusM" : 1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.3,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.15,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TANGELA",
+      "form" : "TANGROWTH_NORMAL",
+      "heightStdDev" : 0.25,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2.05,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 0.99,
+      "parentPokemonId" : "TANGELA",
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 128.6,
+      "pokemonId" : "TANGROWTH",
+      "quickMoves" : [
+         "VINE_WHIP_FAST",
+         "INFESTATION_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 207,
+         "baseDefense" : 184,
+         "baseStamina" : 225
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 16.075
+   }
+]

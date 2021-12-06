@@ -1,0 +1,200 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "CROSS_POISON",
+         "DRAGON_PULSE",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "familyId" : "FAMILY_ETERNATUS",
+      "heightStdDev" : 2.5,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 20,
+      "pokedexWeightKg" : 950,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ETERNATUS",
+      "quickMoves" : [
+         "DRAGON_TAIL_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 278,
+         "baseDefense" : 192,
+         "baseStamina" : 268
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_DRAGON",
+      "weightStdDev" : 118.75
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "CROSS_POISON",
+         "DRAGON_PULSE",
+         "FLAMETHROWER",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.4,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "familyId" : "FAMILY_ETERNATUS",
+      "form" : "ETERNATUS_ETERNAMAX",
+      "heightStdDev" : 2.5,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 20,
+      "pokedexWeightKg" : 950,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ETERNATUS",
+      "quickMoves" : [
+         "DRAGON_TAIL_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 251,
+         "baseDefense" : 505,
+         "baseStamina" : 452
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_DRAGON",
+      "weightStdDev" : 118.75
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "CROSS_POISON",
+         "DRAGON_PULSE",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_FLYING"
+      },
+      "familyId" : "FAMILY_ETERNATUS",
+      "form" : "ETERNATUS_NORMAL",
+      "heightStdDev" : 2.5,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 20,
+      "pokedexWeightKg" : 950,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ETERNATUS",
+      "quickMoves" : [
+         "DRAGON_TAIL_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 278,
+         "baseDefense" : 192,
+         "baseStamina" : 268
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_DRAGON",
+      "weightStdDev" : 118.75
+   }
+]

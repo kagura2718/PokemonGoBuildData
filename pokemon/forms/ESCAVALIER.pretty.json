@@ -1,0 +1,96 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         13.5,
+         0,
+         -68.9
+      ],
+      "buddyOffsetMale" : [
+         13.5,
+         0,
+         -68.9
+      ],
+      "buddyPortraitOffset" : [
+         0.02,
+         0,
+         -0.08
+      ],
+      "buddyScale" : 19,
+      "camera" : {
+         "cylinderGroundM" : 0.29,
+         "cylinderHeightM" : 1.1,
+         "cylinderRadiusM" : 0.59,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "MEGAHORN",
+         "ACID_SPRAY",
+         "DRILL_RUN",
+         "AERIAL_ACE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.05,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.7,
+         "dodgeDurationS" : 1.1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_KARRABLAST",
+      "heightStdDev" : 0.125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "KARRABLAST",
+      "pokedexHeightM" : 1,
+      "pokedexWeightKg" : 33,
+      "pokemonId" : "ESCAVALIER",
+      "quickMoves" : [
+         "COUNTER_FAST",
+         "BUG_BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 223,
+         "baseDefense" : 187,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_STEEL",
+      "weightStdDev" : 4.125
+   }
+]

@@ -1,0 +1,65 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "camera" : {},
+      "cinematicMoves" : [
+         "DISCHARGE",
+         "AVALANCHE",
+         "ANCIENT_POWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2
+      },
+      "familyId" : "FAMILY_ARCTOZOLT",
+      "heightStdDev" : 0.2875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 2.3,
+      "pokedexWeightKg" : 150,
+      "pokemonId" : "ARCTOZOLT",
+      "quickMoves" : [
+         "POWDER_SNOW_FAST",
+         "THUNDER_SHOCK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 190,
+         "baseDefense" : 166,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_ICE",
+      "weightStdDev" : 18.75
+   }
+]

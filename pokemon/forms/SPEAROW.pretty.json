@@ -1,0 +1,103 @@
+[
+   {
+      "animationTime" : [
+         1.5333,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         2.3333,
+         0.8,
+         0
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0.19,
+         0,
+         0.45
+      ],
+      "buddyScale" : 14,
+      "buddySize" : "BUDDY_SHOULDER",
+      "camera" : {
+         "cylinderHeightM" : 0.35,
+         "cylinderRadiusM" : 0.296,
+         "diskRadiusM" : 0.444,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "DRILL_PECK",
+         "SKY_ATTACK"
+      ],
+      "eliteCinematicMove" : [
+         "TWISTER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.15,
+         "cameraDistance" : 2.22,
+         "collisionHeadRadiusM" : 0.148,
+         "collisionHeightM" : 0.2664,
+         "collisionRadiusM" : 0.148,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "FEAROW"
+         }
+      ],
+      "evolutionIds" : [
+         "FEAROW"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SPEAROW",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.4,
+      "modelScale" : 1.48,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2,
+      "pokemonId" : "SPEAROW",
+      "quickMoves" : [
+         "PECK_FAST",
+         "QUICK_ATTACK_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 112,
+         "baseDefense" : 60,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.25
+   }
+]

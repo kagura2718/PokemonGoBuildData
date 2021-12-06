@@ -1,0 +1,91 @@
+[
+   {
+      "animationTime" : [
+         0,
+         0.6667,
+         1.6667,
+         1.6667,
+         0,
+         1.8333,
+         1.6667,
+         0
+      ],
+      "buddyGroupNumber" : 1,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_SHOULDER",
+      "camera" : {
+         "cylinderHeightM" : 0.2,
+         "cylinderRadiusM" : 0.1,
+         "diskRadiusM" : 0.459
+      },
+      "candyToEvolve" : 12,
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 2.295,
+         "collisionHeadRadiusM" : 0.153,
+         "collisionHeightM" : 0.306,
+         "collisionRadiusM" : 0.102,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 12,
+            "evolution" : "METAPOD"
+         }
+      ],
+      "evolutionIds" : [
+         "METAPOD"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_CATERPIE",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.19,
+      "modelScale" : 2.04,
+      "modelScaleV2" : 1.63,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 2.9,
+      "pokemonId" : "CATERPIE",
+      "quickMoves" : [
+         "BUG_BITE_FAST",
+         "TACKLE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 55,
+         "baseDefense" : 55,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "weightStdDev" : 0.3625
+   }
+]

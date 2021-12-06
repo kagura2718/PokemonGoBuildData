@@ -1,0 +1,455 @@
+[
+   {
+      "animationTime" : [
+         2.3333,
+         0.6667,
+         1.6667,
+         2.1,
+         0,
+         1.8333,
+         2,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyOffsetMale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.7013,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "WATER_PULSE",
+         "PSYCHIC",
+         "ICE_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.78125,
+         "collisionHeadRadiusM" : 0.255,
+         "collisionHeightM" : 0.85,
+         "collisionRadiusM" : 0.425,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SLOWPOKE",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.46,
+      "modelScale" : 0.85,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SLOWPOKE",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 78.5,
+      "pokemonId" : "SLOWBRO",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "CONFUSION_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 177,
+         "baseDefense" : 180,
+         "baseStamina" : 216
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2,
+            "averageWeightKg" : 120,
+            "camera" : {
+               "cylinderHeightM" : 2
+            },
+            "stats" : {
+               "baseAttack" : 224,
+               "baseDefense" : 259,
+               "baseStamina" : 216
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_WATER",
+            "typeOverride2" : "POKEMON_TYPE_PSYCHIC"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 9.8125
+   },
+   {
+      "animationTime" : [
+         2.3333,
+         0.6667,
+         1.6667,
+         2.1,
+         0,
+         1.8333,
+         2,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyOffsetMale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.7013,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "WATER_PULSE",
+         "PSYCHIC",
+         "ICE_BEAM"
+      ],
+      "disableTransferToPokemonHome" : true,
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.78125,
+         "collisionHeadRadiusM" : 0.255,
+         "collisionHeightM" : 0.85,
+         "collisionRadiusM" : 0.425,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SLOWPOKE",
+      "form" : "SLOWBRO_2021",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.46,
+      "modelScale" : 0.85,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SLOWPOKE",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 78.5,
+      "pokemonId" : "SLOWBRO",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "CONFUSION_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 177,
+         "baseDefense" : 180,
+         "baseStamina" : 216
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2,
+            "averageWeightKg" : 120,
+            "camera" : {
+               "cylinderHeightM" : 2
+            },
+            "stats" : {
+               "baseAttack" : 224,
+               "baseDefense" : 259,
+               "baseStamina" : 216
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_WATER",
+            "typeOverride2" : "POKEMON_TYPE_PSYCHIC"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 9.8125
+   },
+   {
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyOffsetMale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1
+      },
+      "cinematicMoves" : [
+         "FOCUS_BLAST",
+         "PSYCHIC",
+         "SLUDGE_BOMB"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.78125,
+         "collisionHeadRadiusM" : 0.255,
+         "collisionHeightM" : 0.85,
+         "collisionRadiusM" : 0.425,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "familyId" : "FAMILY_SLOWPOKE",
+      "form" : "SLOWBRO_GALARIAN",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.46,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SLOWPOKE",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 70.5,
+      "pokemonId" : "SLOWBRO",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 182,
+         "baseDefense" : 156,
+         "baseStamina" : 216
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_POISON",
+      "type2" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 8.8125
+   },
+   {
+      "animationTime" : [
+         2.3333,
+         0.6667,
+         1.6667,
+         2.1,
+         0,
+         1.8333,
+         2,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyOffsetMale" : [
+         30,
+         0,
+         41
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 15,
+      "camera" : {
+         "cylinderHeightM" : 1.5,
+         "cylinderRadiusM" : 1,
+         "diskRadiusM" : 0.7013,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "WATER_PULSE",
+         "PSYCHIC",
+         "ICE_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.05,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.78125,
+         "collisionHeadRadiusM" : 0.255,
+         "collisionHeightM" : 0.85,
+         "collisionRadiusM" : 0.425,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.05,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_SLOWPOKE",
+      "form" : "SLOWBRO_NORMAL",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.46,
+      "modelScale" : 0.85,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SLOWPOKE",
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 78.5,
+      "pokemonId" : "SLOWBRO",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "CONFUSION_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 177,
+         "baseDefense" : 180,
+         "baseStamina" : 216
+      },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2,
+            "averageWeightKg" : 120,
+            "camera" : {
+               "cylinderHeightM" : 2
+            },
+            "stats" : {
+               "baseAttack" : 224,
+               "baseDefense" : 259,
+               "baseStamina" : 216
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_WATER",
+            "typeOverride2" : "POKEMON_TYPE_PSYCHIC"
+         }
+      ],
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 9.8125
+   }
+]

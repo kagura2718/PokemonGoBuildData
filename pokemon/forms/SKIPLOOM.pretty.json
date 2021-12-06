@@ -1,0 +1,231 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         20,
+         31.4,
+         50.25
+      ],
+      "buddyOffsetMale" : [
+         20,
+         31.4,
+         50.25
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.21,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.42372882,
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "GRASS_KNOT",
+         "DAZZLING_GLEAM",
+         "ENERGY_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.7,
+         "collisionRadiusM" : 0.28,
+         "dodgeDistance" : 0.7,
+         "dodgeDurationS" : 0.7,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_FLYING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "JUMPLUFF",
+            "form" : "JUMPLUFF_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "JUMPLUFF"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_HOPPIP",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.68,
+      "modelScale" : 1.18,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "HOPPIP",
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 1,
+      "pokemonId" : "SKIPLOOM",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "BULLET_SEED_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 91,
+         "baseDefense" : 120,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.125
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         20,
+         31.4,
+         50.25
+      ],
+      "buddyOffsetMale" : [
+         20,
+         31.4,
+         50.25
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.21,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.42372882,
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.6,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "GRASS_KNOT",
+         "DAZZLING_GLEAM",
+         "ENERGY_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.7,
+         "collisionRadiusM" : 0.28,
+         "dodgeDistance" : 0.7,
+         "dodgeDurationS" : 0.7,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_FLYING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "JUMPLUFF",
+            "form" : "JUMPLUFF_NORMAL",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "JUMPLUFF"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_HOPPIP",
+      "form" : "SKIPLOOM_NORMAL",
+      "heightStdDev" : 0.07625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.68,
+      "modelScale" : 1.18,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "HOPPIP",
+      "pokedexHeightM" : 0.61,
+      "pokedexWeightKg" : 1,
+      "pokemonId" : "SKIPLOOM",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "BULLET_SEED_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 91,
+         "baseDefense" : 120,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.125
+   }
+]

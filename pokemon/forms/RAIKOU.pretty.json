@@ -1,0 +1,189 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         15,
+         0,
+         30
+      ],
+      "buddyOffsetMale" : [
+         15,
+         0,
+         30
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.9,
+         "cylinderRadiusM" : 1.2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "THUNDER",
+         "THUNDERBOLT",
+         "WILD_CHARGE",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.04,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 5.25,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 0.91,
+         "collisionRadiusM" : 0.55,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.02,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RAIKOU",
+      "heightStdDev" : 0.23875,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.8,
+      "modelScale" : 0.78,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.91,
+      "pokedexWeightKg" : 178,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "RAIKOU",
+      "quickMoves" : [
+         "THUNDER_SHOCK_FAST",
+         "VOLT_SWITCH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 241,
+         "baseDefense" : 195,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 22.25
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         15,
+         0,
+         30
+      ],
+      "buddyOffsetMale" : [
+         15,
+         0,
+         30
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.9,
+         "cylinderRadiusM" : 1.2,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "THUNDER",
+         "THUNDERBOLT",
+         "WILD_CHARGE",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.04,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 5.25,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 0.91,
+         "collisionRadiusM" : 0.55,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.02,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_RAIKOU",
+      "form" : "RAIKOU_NORMAL",
+      "heightStdDev" : 0.23875,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.8,
+      "modelScale" : 0.78,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.91,
+      "pokedexWeightKg" : 178,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "RAIKOU",
+      "quickMoves" : [
+         "THUNDER_SHOCK_FAST",
+         "VOLT_SWITCH_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 241,
+         "baseDefense" : 195,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 22.25
+   }
+]

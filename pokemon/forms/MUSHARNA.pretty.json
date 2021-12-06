@@ -1,0 +1,95 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         20.5,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         20.5,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -0.06,
+         0.25
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.25,
+         "cylinderHeightM" : 1.66,
+         "cylinderRadiusM" : 1.05,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "FUTURESIGHT",
+         "DAZZLING_GLEAM",
+         "PSYSHOCK"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.2,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 6,
+         "collisionHeadRadiusM" : 0.3,
+         "collisionHeightM" : 0.3,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1.5,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_MUNNA",
+      "heightStdDev" : 0.1375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.05,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "MUNNA",
+      "pokedexHeightM" : 1.1,
+      "pokedexWeightKg" : 60.5,
+      "pokemonId" : "MUSHARNA",
+      "quickMoves" : [
+         "ZEN_HEADBUTT_FAST",
+         "CHARGE_BEAM_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 183,
+         "baseDefense" : 166,
+         "baseStamina" : 253
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "weightStdDev" : 7.5625
+   }
+]

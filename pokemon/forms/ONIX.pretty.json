@@ -1,0 +1,209 @@
+[
+   {
+      "animationTime" : [
+         2.3333,
+         0.6667,
+         1.7333,
+         1.7333,
+         0,
+         2.3333,
+         2.0333,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         15,
+         0,
+         27.78
+      ],
+      "buddyOffsetMale" : [
+         15,
+         0,
+         27.78
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 3.75,
+         "cylinderRadiusM" : 2.5,
+         "diskRadiusM" : 0.987,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SAND_TOMB",
+         "STONE_EDGE",
+         "HEAVY_SLAM"
+      ],
+      "eliteCinematicMove" : [
+         "IRON_HEAD",
+         "ROCK_SLIDE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 6,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 5.625,
+         "collisionHeadRadiusM" : 0.376,
+         "collisionHeightM" : 1.175,
+         "collisionRadiusM" : 0.658,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 17,
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "STEELIX",
+            "evolutionItemRequirement" : "ITEM_METAL_COAT",
+            "form" : "STEELIX_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ONIX",
+      "heightStdDev" : 1.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 5.75,
+      "modelScale" : 0.47,
+      "modelScaleV2" : 0.61,
+      "pokedexHeightM" : 8.8,
+      "pokedexWeightKg" : 210,
+      "pokemonId" : "ONIX",
+      "quickMoves" : [
+         "ROCK_THROW_FAST",
+         "TACKLE_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 85,
+         "baseDefense" : 232,
+         "baseStamina" : 111
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 26.25
+   },
+   {
+      "animationTime" : [
+         2.3333,
+         0.6667,
+         1.7333,
+         1.7333,
+         0,
+         2.3333,
+         2.0333,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         15,
+         0,
+         27.78
+      ],
+      "buddyOffsetMale" : [
+         15,
+         0,
+         27.78
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 3.75,
+         "cylinderRadiusM" : 2.5,
+         "diskRadiusM" : 0.987,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "SAND_TOMB",
+         "STONE_EDGE",
+         "HEAVY_SLAM"
+      ],
+      "eliteCinematicMove" : [
+         "IRON_HEAD",
+         "ROCK_SLIDE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 6,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.09,
+         "cameraDistance" : 5.625,
+         "collisionHeadRadiusM" : 0.376,
+         "collisionHeightM" : 1.175,
+         "collisionRadiusM" : 0.658,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 17,
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "STEELIX",
+            "evolutionItemRequirement" : "ITEM_METAL_COAT",
+            "form" : "STEELIX_NORMAL",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ONIX",
+      "form" : "ONIX_NORMAL",
+      "heightStdDev" : 1.1,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 5.75,
+      "modelScale" : 0.47,
+      "modelScaleV2" : 0.61,
+      "pokedexHeightM" : 8.8,
+      "pokedexWeightKg" : 210,
+      "pokemonId" : "ONIX",
+      "quickMoves" : [
+         "ROCK_THROW_FAST",
+         "TACKLE_FAST"
+      ],
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 85,
+         "baseDefense" : 232,
+         "baseStamina" : 111
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 26.25
+   }
+]

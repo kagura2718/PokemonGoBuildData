@@ -1,0 +1,90 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         40,
+         0,
+         -5
+      ],
+      "buddyOffsetMale" : [
+         40,
+         0,
+         -5
+      ],
+      "buddyPortraitOffset" : [
+         0.23,
+         0.12,
+         0.44
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "camera" : {
+         "cylinderHeightM" : 1.98,
+         "cylinderRadiusM" : 1.39,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "DRAGON_CLAW",
+         "NIGHT_SLASH",
+         "HYPER_BEAM"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 8,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_DRUDDIGON",
+      "heightStdDev" : 0.2,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 2.71,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1.28,
+      "pokedexHeightM" : 1.6,
+      "pokedexWeightKg" : 139,
+      "pokemonId" : "DRUDDIGON",
+      "quickMoves" : [
+         "DRAGON_TAIL_FAST",
+         "BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 213,
+         "baseDefense" : 170,
+         "baseStamina" : 184
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "weightStdDev" : 17.375
+   }
+]

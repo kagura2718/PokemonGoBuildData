@@ -1,0 +1,101 @@
+[
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 5,
+      "buddyOffsetFemale" : [
+         40,
+         12.8,
+         19.07
+      ],
+      "buddyOffsetMale" : [
+         40,
+         12.8,
+         19.07
+      ],
+      "buddyPortraitOffset" : [
+         -0.03,
+         0,
+         -0.24
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "camera" : {
+         "cylinderGroundM" : 0.43010753,
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.5,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "SILVER_WIND",
+         "SWIFT",
+         "AERIAL_ACE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 3.375,
+         "collisionHeadRadiusM" : 0.28,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.364,
+         "dodgeDistance" : 0.125,
+         "dodgeDurationS" : 0.5,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.5,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_ELECTRIC"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "LEDIAN"
+         }
+      ],
+      "evolutionIds" : [
+         "LEDIAN"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_LEDYBA",
+      "heightStdDev" : 0.12375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1.18,
+      "modelScale" : 0.93,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.99,
+      "pokedexWeightKg" : 10.8,
+      "pokemonId" : "LEDYBA",
+      "quickMoves" : [
+         "TACKLE_FAST",
+         "BUG_BITE_FAST"
+      ],
+      "stats" : {
+         "baseAttack" : 72,
+         "baseDefense" : 118,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_BUG",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 1.35
+   }
+]
