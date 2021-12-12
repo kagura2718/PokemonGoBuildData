@@ -1,0 +1,4506 @@
+{
+   "ACID_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 800,
+         "energyDelta" : 8,
+         "movementId" : "ACID_FAST",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 9,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "acid_fast"
+      }
+   },
+   "ACID_SPRAY" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movementId" : "ACID_SPRAY",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 20,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "acid_spray"
+      }
+   },
+   "AERIAL_ACE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1900,
+         "durationMs" : 2400,
+         "energyDelta" : -33,
+         "movementId" : "AERIAL_ACE",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 55,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "aerial_ace"
+      }
+   },
+   "AEROBLAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 3400,
+         "damageWindowStartMs" : 3200,
+         "durationMs" : 3400,
+         "energyDelta" : -100,
+         "movementId" : "AEROBLAST",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 180,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "aeroblast"
+      }
+   },
+   "AIR_CUTTER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movementId" : "AIR_CUTTER",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 60,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "air_cutter"
+      }
+   },
+   "AIR_SLASH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1200,
+         "energyDelta" : 10,
+         "movementId" : "AIR_SLASH_FAST",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 14,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "air_slash_fast"
+      }
+   },
+   "ANCIENT_POWER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3100,
+         "damageWindowStartMs" : 2850,
+         "durationMs" : 3500,
+         "energyDelta" : -33,
+         "movementId" : "ANCIENT_POWER",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 70,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "ancient_power"
+      }
+   },
+   "AQUA_JET" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -33,
+         "movementId" : "AQUA_JET",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 45,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "aqua_jet"
+      }
+   },
+   "AQUA_TAIL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1650,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "AQUA_TAIL",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 50,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "aqua_tail"
+      }
+   },
+   "ASTONISH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movementId" : "ASTONISH_FAST",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "astonish_fast"
+      }
+   },
+   "AURA_SPHERE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1800,
+         "energyDelta" : -50,
+         "movementId" : "AURA_SPHERE",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 90,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "aura_sphere"
+      }
+   },
+   "AURORA_BEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3550,
+         "damageWindowStartMs" : 3350,
+         "durationMs" : 3550,
+         "energyDelta" : -50,
+         "movementId" : "AURORA_BEAM",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 80,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "aurora_beam"
+      }
+   },
+   "AVALANCHE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movementId" : "AVALANCHE",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 90,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "avalanche"
+      }
+   },
+   "BITE_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 4,
+         "movementId" : "BITE_FAST",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 6,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bite_fast"
+      }
+   },
+   "BLAST_BURN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 3200,
+         "damageWindowStartMs" : 2750,
+         "durationMs" : 3300,
+         "energyDelta" : -50,
+         "movementId" : "BLAST_BURN",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 110,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "blast_burn"
+      }
+   },
+   "BLAZE_KICK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 450,
+         "durationMs" : 1200,
+         "energyDelta" : -33,
+         "movementId" : "BLAZE_KICK",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 45,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "blaze_kick"
+      }
+   },
+   "BLIZZARD" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2900,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 3100,
+         "energyDelta" : -100,
+         "movementId" : "BLIZZARD",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 130,
+         "staminaLossScalar" : 0.11,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "blizzard"
+      }
+   },
+   "BODY_SLAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "BODY_SLAM",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 50,
+         "staminaLossScalar" : 0.085,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "body_slam"
+      }
+   },
+   "BONE_CLUB" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "BONE_CLUB",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 40,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bone_club"
+      }
+   },
+   "BRAVE_BIRD" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "BRAVE_BIRD",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 130,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "brave_bird"
+      }
+   },
+   "BRICK_BREAK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "BRICK_BREAK",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 40,
+         "staminaLossScalar" : 0.075,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "brick_break"
+      }
+   },
+   "BRINE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movementId" : "BRINE",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 60,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "brine"
+      }
+   },
+   "BUBBLE_BEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1450,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "BUBBLE_BEAM",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 45,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bubble_beam"
+      }
+   },
+   "BUBBLE_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 750,
+         "durationMs" : 1200,
+         "energyDelta" : 14,
+         "movementId" : "BUBBLE_FAST",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bubble_fast"
+      }
+   },
+   "BUG_BITE_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 450,
+         "damageWindowStartMs" : 250,
+         "durationMs" : 500,
+         "energyDelta" : 6,
+         "movementId" : "BUG_BITE_FAST",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bug_bite_fast"
+      }
+   },
+   "BUG_BUZZ" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3100,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3700,
+         "energyDelta" : -50,
+         "movementId" : "BUG_BUZZ",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 100,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bug_buzz"
+      }
+   },
+   "BULLDOZE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3100,
+         "damageWindowStartMs" : 2600,
+         "durationMs" : 3500,
+         "energyDelta" : -50,
+         "movementId" : "BULLDOZE",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 80,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bulldoze"
+      }
+   },
+   "BULLET_PUNCH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 900,
+         "energyDelta" : 10,
+         "movementId" : "BULLET_PUNCH_FAST",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 9,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bullet_punch_fast"
+      }
+   },
+   "BULLET_SEED_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movementId" : "BULLET_SEED_FAST",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "bullet_seed_fast"
+      }
+   },
+   "CHARGE_BEAM_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 15,
+         "movementId" : "CHARGE_BEAM_FAST",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "charge_beam_fast"
+      }
+   },
+   "CHARM_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 1500,
+         "energyDelta" : 11,
+         "movementId" : "CHARM_FAST",
+         "pokemonType" : "POKEMON_TYPE_FAIRY",
+         "power" : 20,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "charm_fast"
+      }
+   },
+   "CLOSE_COMBAT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2300,
+         "energyDelta" : -100,
+         "movementId" : "CLOSE_COMBAT",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 100,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "close_combat"
+      }
+   },
+   "CONFUSION_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1600,
+         "energyDelta" : 15,
+         "movementId" : "CONFUSION_FAST",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 20,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "confusion_fast"
+      }
+   },
+   "COUNTER_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 900,
+         "energyDelta" : 8,
+         "movementId" : "COUNTER_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "counter_fast"
+      }
+   },
+   "CRABHAMMER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1750,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 1900,
+         "energyDelta" : -50,
+         "movementId" : "CRABHAMMER",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 85,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "crabhammer"
+      }
+   },
+   "CROSS_CHOP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1500,
+         "energyDelta" : -50,
+         "movementId" : "CROSS_CHOP",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 50,
+         "staminaLossScalar" : 0.1,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "cross_chop"
+      }
+   },
+   "CROSS_POISON" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 1500,
+         "energyDelta" : -33,
+         "movementId" : "CROSS_POISON",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 40,
+         "staminaLossScalar" : 0.07,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "cross_poison"
+      }
+   },
+   "CRUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3200,
+         "energyDelta" : -33,
+         "movementId" : "CRUNCH",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 70,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "crunch"
+      }
+   },
+   "CRUSH_CLAW" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "movementId" : "CRUSH_CLAW",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "crush_claw"
+      }
+   },
+   "CUT_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 5,
+         "movementId" : "CUT_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "cut_fast"
+      }
+   },
+   "DARK_PULSE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movementId" : "DARK_PULSE",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 80,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dark_pulse"
+      }
+   },
+   "DAZZLING_GLEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3300,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 3500,
+         "energyDelta" : -50,
+         "movementId" : "DAZZLING_GLEAM",
+         "pokemonType" : "POKEMON_TYPE_FAIRY",
+         "power" : 100,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dazzling_gleam"
+      }
+   },
+   "DIG" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 4500,
+         "damageWindowStartMs" : 2800,
+         "durationMs" : 4700,
+         "energyDelta" : -50,
+         "movementId" : "DIG",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 100,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dig"
+      }
+   },
+   "DISARMING_VOICE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3200,
+         "durationMs" : 3900,
+         "energyDelta" : -33,
+         "movementId" : "DISARMING_VOICE",
+         "pokemonType" : "POKEMON_TYPE_FAIRY",
+         "power" : 70,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "disarming_voice"
+      }
+   },
+   "DISCHARGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2500,
+         "energyDelta" : -33,
+         "movementId" : "DISCHARGE",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 65,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "discharge"
+      }
+   },
+   "DOOM_DESIRE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movementId" : "DOOM_DESIRE",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 70,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "doom_desire"
+      }
+   },
+   "DRACO_METEOR" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3600,
+         "energyDelta" : -100,
+         "movementId" : "DRACO_METEOR",
+         "pokemonType" : "POKEMON_TYPE_DRAGON",
+         "power" : 150,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "draco_meteor"
+      }
+   },
+   "DRAGON_BREATH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 4,
+         "movementId" : "DRAGON_BREATH_FAST",
+         "pokemonType" : "POKEMON_TYPE_DRAGON",
+         "power" : 6,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dragon_breath_fast"
+      }
+   },
+   "DRAGON_CLAW" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movementId" : "DRAGON_CLAW",
+         "pokemonType" : "POKEMON_TYPE_DRAGON",
+         "power" : 50,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dragon_claw"
+      }
+   },
+   "DRAGON_PULSE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3300,
+         "damageWindowStartMs" : 2150,
+         "durationMs" : 3600,
+         "energyDelta" : -50,
+         "movementId" : "DRAGON_PULSE",
+         "pokemonType" : "POKEMON_TYPE_DRAGON",
+         "power" : 90,
+         "staminaLossScalar" : 0.085,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dragon_pulse"
+      }
+   },
+   "DRAGON_TAIL_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 9,
+         "movementId" : "DRAGON_TAIL_FAST",
+         "pokemonType" : "POKEMON_TYPE_DRAGON",
+         "power" : 15,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dragon_tail_fast"
+      }
+   },
+   "DRAINING_KISS" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "healScalar" : 1,
+         "movementId" : "DRAINING_KISS",
+         "pokemonType" : "POKEMON_TYPE_FAIRY",
+         "power" : 60,
+         "staminaLossScalar" : 0.05,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "draining_kiss"
+      }
+   },
+   "DRAIN_PUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2400,
+         "movementId" : "DRAIN_PUNCH",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "drain_punch"
+      }
+   },
+   "DRILL_PECK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2300,
+         "energyDelta" : -33,
+         "movementId" : "DRILL_PECK",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 65,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "drill_peck"
+      }
+   },
+   "DRILL_RUN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movementId" : "DRILL_RUN",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 80,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "drill_run"
+      }
+   },
+   "DYNAMIC_PUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movementId" : "DYNAMIC_PUNCH",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 90,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "dynamic_punch"
+      }
+   },
+   "EARTHQUAKE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 3600,
+         "energyDelta" : -100,
+         "movementId" : "EARTHQUAKE",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 140,
+         "staminaLossScalar" : 0.1,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "earthquake"
+      }
+   },
+   "EARTH_POWER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 3400,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 3600,
+         "energyDelta" : -50,
+         "movementId" : "EARTH_POWER",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 100,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "earth_power"
+      }
+   },
+   "EMBER_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1000,
+         "energyDelta" : 10,
+         "movementId" : "EMBER_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "ember_fast"
+      }
+   },
+   "ENERGY_BALL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3800,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3900,
+         "energyDelta" : -50,
+         "movementId" : "ENERGY_BALL",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 90,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "energy_ball"
+      }
+   },
+   "EXTRASENSORY_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 12,
+         "movementId" : "EXTRASENSORY_FAST",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "extrasensory_fast"
+      }
+   },
+   "FEATHER_DANCE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movementId" : "FEATHER_DANCE",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 35,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "feather_dance"
+      }
+   },
+   "FEINT_ATTACK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 750,
+         "durationMs" : 900,
+         "energyDelta" : 9,
+         "movementId" : "FEINT_ATTACK_FAST",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "feint_attack_fast"
+      }
+   },
+   "FELL_STINGER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movementId" : "FELL_STINGER",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 50,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fell_stinger"
+      }
+   },
+   "FIRE_BLAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3900,
+         "damageWindowStartMs" : 3100,
+         "durationMs" : 4200,
+         "energyDelta" : -100,
+         "movementId" : "FIRE_BLAST",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 140,
+         "staminaLossScalar" : 0.11,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fire_blast"
+      }
+   },
+   "FIRE_FANG_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 840,
+         "damageWindowStartMs" : 640,
+         "durationMs" : 900,
+         "energyDelta" : 8,
+         "movementId" : "FIRE_FANG_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fire_fang_fast"
+      }
+   },
+   "FIRE_PUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movementId" : "FIRE_PUNCH",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 55,
+         "staminaLossScalar" : 0.075,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fire_punch"
+      }
+   },
+   "FIRE_SPIN_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 10,
+         "movementId" : "FIRE_SPIN_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 14,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fire_spin_fast"
+      }
+   },
+   "FISSURE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2800,
+         "movementId" : "FISSURE",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fissure"
+      }
+   },
+   "FLAMETHROWER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2200,
+         "energyDelta" : -50,
+         "movementId" : "FLAMETHROWER",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 70,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "flamethrower"
+      }
+   },
+   "FLAME_BURST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "FLAME_BURST",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 70,
+         "staminaLossScalar" : 0.07,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "flame_burst"
+      }
+   },
+   "FLAME_CHARGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3450,
+         "damageWindowStartMs" : 2900,
+         "durationMs" : 3800,
+         "energyDelta" : -33,
+         "movementId" : "FLAME_CHARGE",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 70,
+         "staminaLossScalar" : 0.05,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "flame_charge"
+      }
+   },
+   "FLAME_WHEEL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movementId" : "FLAME_WHEEL",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 60,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "flame_wheel"
+      }
+   },
+   "FLASH_CANNON" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "movementId" : "FLASH_CANNON",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 100,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "flash_cannon"
+      }
+   },
+   "FLY" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1800,
+         "energyDelta" : -50,
+         "movementId" : "FLY",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 80,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fly"
+      }
+   },
+   "FLYING_PRESS" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movementId" : "FLYING_PRESS",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 110,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "flying_press"
+      }
+   },
+   "FOCUS_BLAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3500,
+         "energyDelta" : -100,
+         "movementId" : "FOCUS_BLAST",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 140,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "focus_blast"
+      }
+   },
+   "FOUL_PLAY" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2000,
+         "energyDelta" : -50,
+         "movementId" : "FOUL_PLAY",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 70,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "foul_play"
+      }
+   },
+   "FRENZY_PLANT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2550,
+         "damageWindowStartMs" : 2145,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "FRENZY_PLANT",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 100,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "frenzy_plant"
+      }
+   },
+   "FROST_BREATH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 750,
+         "damageWindowStartMs" : 450,
+         "durationMs" : 900,
+         "energyDelta" : 8,
+         "movementId" : "FROST_BREATH_FAST",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "frost_breath_fast"
+      }
+   },
+   "FRUSTRATION" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1800,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2000,
+         "energyDelta" : -33,
+         "isLocked" : true,
+         "movementId" : "FRUSTRATION",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "frustration"
+      }
+   },
+   "FURY_CUTTER_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 400,
+         "damageWindowStartMs" : 100,
+         "durationMs" : 400,
+         "energyDelta" : 6,
+         "movementId" : "FURY_CUTTER_FAST",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 3,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "fury_cutter_fast"
+      }
+   },
+   "FUTURESIGHT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "movementId" : "FUTURESIGHT",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 120,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "futuresight"
+      }
+   },
+   "GIGA_DRAIN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 3900,
+         "energyDelta" : -100,
+         "healScalar" : 0.5,
+         "movementId" : "GIGA_DRAIN",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 50,
+         "staminaLossScalar" : 0.075,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "giga_drain"
+      }
+   },
+   "GIGA_IMPACT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 4700,
+         "energyDelta" : -100,
+         "movementId" : "GIGA_IMPACT",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 200,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "giga_impact"
+      }
+   },
+   "GRASS_KNOT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "GRASS_KNOT",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 90,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "grass_knot"
+      }
+   },
+   "GUNK_SHOT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 3100,
+         "energyDelta" : -100,
+         "movementId" : "GUNK_SHOT",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 130,
+         "staminaLossScalar" : 0.12,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "gunk_shot"
+      }
+   },
+   "GUST_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 2000,
+         "energyDelta" : 20,
+         "movementId" : "GUST_FAST",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 25,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "gust_fast"
+      }
+   },
+   "GYRO_BALL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3300,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3300,
+         "energyDelta" : -50,
+         "movementId" : "GYRO_BALL",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 80,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "gyro_ball"
+      }
+   },
+   "HEART_STAMP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "HEART_STAMP",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 40,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "heart_stamp"
+      }
+   },
+   "HEAT_WAVE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 3000,
+         "energyDelta" : -100,
+         "movementId" : "HEAT_WAVE",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 95,
+         "staminaLossScalar" : 0.095,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "heat_wave"
+      }
+   },
+   "HEAVY_SLAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2100,
+         "energyDelta" : -50,
+         "movementId" : "HEAVY_SLAM",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 70,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "heavy_slam"
+      }
+   },
+   "HEX_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1200,
+         "energyDelta" : 16,
+         "movementId" : "HEX_FAST",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hex_fast"
+      }
+   },
+   "HIDDEN_POWER_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1500,
+         "energyDelta" : 15,
+         "movementId" : "HIDDEN_POWER_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 15,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hidden_power_fast"
+      }
+   },
+   "HORN_ATTACK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1650,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1850,
+         "energyDelta" : -33,
+         "movementId" : "HORN_ATTACK",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 40,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "horn_attack"
+      }
+   },
+   "HORN_DRILL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1900,
+         "movementId" : "HORN_DRILL",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "horn_drill"
+      }
+   },
+   "HURRICANE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "movementId" : "HURRICANE",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 110,
+         "staminaLossScalar" : 0.11,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hurricane"
+      }
+   },
+   "HYDRO_CANNON" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1900,
+         "energyDelta" : -50,
+         "movementId" : "HYDRO_CANNON",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 90,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hydro_cannon"
+      }
+   },
+   "HYDRO_PUMP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 3300,
+         "energyDelta" : -100,
+         "movementId" : "HYDRO_PUMP",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 130,
+         "staminaLossScalar" : 0.11,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hydro_pump"
+      }
+   },
+   "HYDRO_PUMP_BLASTOISE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 4300,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 4500,
+         "energyDelta" : -100,
+         "movementId" : "HYDRO_PUMP_BLASTOISE",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 90,
+         "staminaLossScalar" : 0.11,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hydro_pump_blastoise"
+      }
+   },
+   "HYPER_BEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3600,
+         "damageWindowStartMs" : 3300,
+         "durationMs" : 3800,
+         "energyDelta" : -100,
+         "movementId" : "HYPER_BEAM",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 150,
+         "staminaLossScalar" : 0.15,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hyper_beam"
+      }
+   },
+   "HYPER_FANG" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2500,
+         "energyDelta" : -50,
+         "movementId" : "HYPER_FANG",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 80,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "hyper_fang"
+      }
+   },
+   "ICE_BEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3300,
+         "energyDelta" : -50,
+         "movementId" : "ICE_BEAM",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 90,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "ice_beam"
+      }
+   },
+   "ICE_FANG_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 1500,
+         "energyDelta" : 20,
+         "movementId" : "ICE_FANG_FAST",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "ice_fang_fast"
+      }
+   },
+   "ICE_PUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "ICE_PUNCH",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 50,
+         "staminaLossScalar" : 0.075,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "ice_punch"
+      }
+   },
+   "ICE_SHARD_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1200,
+         "energyDelta" : 12,
+         "movementId" : "ICE_SHARD_FAST",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "ice_shard_fast"
+      }
+   },
+   "ICY_WIND" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3300,
+         "energyDelta" : -33,
+         "movementId" : "ICY_WIND",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 60,
+         "staminaLossScalar" : 0.055,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "icy_wind"
+      }
+   },
+   "INCINERATE_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 2300,
+         "energyDelta" : 20,
+         "movementId" : "INCINERATE_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 29,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "incinerate_fast"
+      }
+   },
+   "INFESTATION_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movementId" : "INFESTATION_FAST",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "infestation_fast"
+      }
+   },
+   "IRON_HEAD" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1900,
+         "energyDelta" : -50,
+         "movementId" : "IRON_HEAD",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 60,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "iron_head"
+      }
+   },
+   "IRON_TAIL_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 7,
+         "movementId" : "IRON_TAIL_FAST",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 15,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "iron_tail_fast"
+      }
+   },
+   "KARATE_CHOP_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 800,
+         "energyDelta" : 10,
+         "movementId" : "KARATE_CHOP_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "karate_chop_fast"
+      }
+   },
+   "LAST_RESORT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2850,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movementId" : "LAST_RESORT",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 90,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "last_resort"
+      }
+   },
+   "LEAF_BLADE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1250,
+         "durationMs" : 2400,
+         "energyDelta" : -33,
+         "movementId" : "LEAF_BLADE",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 70,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "leaf_blade"
+      }
+   },
+   "LEAF_STORM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1250,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 2500,
+         "energyDelta" : -100,
+         "movementId" : "LEAF_STORM",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 130,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "leaf_storm"
+      }
+   },
+   "LEAF_TORNADO" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3100,
+         "energyDelta" : -33,
+         "movementId" : "LEAF_TORNADO",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 45,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "leaf_tornado"
+      }
+   },
+   "LEECH_LIFE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1150,
+         "durationMs" : 2500,
+         "movementId" : "LEECH_LIFE",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "leech_life"
+      }
+   },
+   "LICK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 200,
+         "durationMs" : 500,
+         "energyDelta" : 6,
+         "movementId" : "LICK_FAST",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "lick_fast"
+      }
+   },
+   "LOCK_ON_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 300,
+         "damageWindowStartMs" : 170,
+         "durationMs" : 300,
+         "energyDelta" : 6,
+         "movementId" : "LOCK_ON_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 1,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "lock_on_fast"
+      }
+   },
+   "LOW_KICK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 600,
+         "energyDelta" : 6,
+         "movementId" : "LOW_KICK_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 6,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "low_kick_fast"
+      }
+   },
+   "LOW_SWEEP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1650,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "LOW_SWEEP",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 40,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "low_sweep"
+      }
+   },
+   "LUNGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2400,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movementId" : "LUNGE",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 55,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "lunge"
+      }
+   },
+   "MAGNET_BOMB" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 2800,
+         "energyDelta" : -33,
+         "movementId" : "MAGNET_BOMB",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 70,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "magnet_bomb"
+      }
+   },
+   "MEGAHORN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2200,
+         "energyDelta" : -100,
+         "movementId" : "MEGAHORN",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 110,
+         "staminaLossScalar" : 0.12,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "megahorn"
+      }
+   },
+   "MEGA_DRAIN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "healScalar" : 0.5,
+         "movementId" : "MEGA_DRAIN",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 25,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "mega_drain"
+      }
+   },
+   "METAL_CLAW_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 630,
+         "damageWindowStartMs" : 430,
+         "durationMs" : 700,
+         "energyDelta" : 7,
+         "movementId" : "METAL_CLAW_FAST",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "metal_claw_fast"
+      }
+   },
+   "METEOR_MASH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 2300,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "METEOR_MASH",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 100,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "meteor_mash"
+      }
+   },
+   "MIRROR_COAT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 2300,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "MIRROR_COAT",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 60,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "mirror_coat"
+      }
+   },
+   "MIRROR_SHOT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2400,
+         "energyDelta" : -33,
+         "movementId" : "MIRROR_SHOT",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 50,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "mirror_shot"
+      }
+   },
+   "MOONBLAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3700,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 3900,
+         "energyDelta" : -100,
+         "movementId" : "MOONBLAST",
+         "pokemonType" : "POKEMON_TYPE_FAIRY",
+         "power" : 130,
+         "staminaLossScalar" : 0.095,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "moonblast"
+      }
+   },
+   "MUDDY_WATER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movementId" : "MUDDY_WATER",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 50,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "muddy_water"
+      }
+   },
+   "MUD_BOMB" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2300,
+         "energyDelta" : -33,
+         "movementId" : "MUD_BOMB",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 55,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "mud_bomb"
+      }
+   },
+   "MUD_SHOT_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 550,
+         "damageWindowStartMs" : 350,
+         "durationMs" : 600,
+         "energyDelta" : 7,
+         "movementId" : "MUD_SHOT_FAST",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "mud_shot_fast"
+      }
+   },
+   "MUD_SLAP_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1350,
+         "damageWindowStartMs" : 1150,
+         "durationMs" : 1400,
+         "energyDelta" : 12,
+         "movementId" : "MUD_SLAP_FAST",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 18,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "mud_slap_fast"
+      }
+   },
+   "NIGHT_SHADE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "NIGHT_SHADE",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 60,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "night_shade"
+      }
+   },
+   "NIGHT_SLASH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movementId" : "NIGHT_SLASH",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 50,
+         "staminaLossScalar" : 0.07,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "night_slash"
+      }
+   },
+   "OCTAZOOKA" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movementId" : "OCTAZOOKA",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 50,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "octazooka"
+      }
+   },
+   "OMINOUS_WIND" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1850,
+         "durationMs" : 2300,
+         "energyDelta" : -33,
+         "movementId" : "OMINOUS_WIND",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 50,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "ominous_wind"
+      }
+   },
+   "ORIGIN_PULSE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -100,
+         "movementId" : "ORIGIN_PULSE",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 130,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "origin_pulse"
+      }
+   },
+   "OUTRAGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3700,
+         "damageWindowStartMs" : 2500,
+         "durationMs" : 3900,
+         "energyDelta" : -50,
+         "movementId" : "OUTRAGE",
+         "pokemonType" : "POKEMON_TYPE_DRAGON",
+         "power" : 110,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "outrage"
+      }
+   },
+   "OVERHEAT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3800,
+         "damageWindowStartMs" : 2600,
+         "durationMs" : 4000,
+         "energyDelta" : -100,
+         "movementId" : "OVERHEAT",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 160,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "overheat"
+      }
+   },
+   "PARABOLIC_CHARGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "healScalar" : 0.5,
+         "movementId" : "PARABOLIC_CHARGE",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 25,
+         "staminaLossScalar" : 0.05,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "parabolic_charge"
+      }
+   },
+   "PAYBACK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 2200,
+         "energyDelta" : -100,
+         "movementId" : "PAYBACK",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 100,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "payback"
+      }
+   },
+   "PECK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 450,
+         "durationMs" : 1000,
+         "energyDelta" : 10,
+         "movementId" : "PECK_FAST",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "peck_fast"
+      }
+   },
+   "PETAL_BLIZZARD" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -100,
+         "movementId" : "PETAL_BLIZZARD",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 110,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "petal_blizzard"
+      }
+   },
+   "PLAY_ROUGH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movementId" : "PLAY_ROUGH",
+         "pokemonType" : "POKEMON_TYPE_FAIRY",
+         "power" : 90,
+         "staminaLossScalar" : 0.1,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "play_rough"
+      }
+   },
+   "POISON_FANG" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movementId" : "POISON_FANG",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 35,
+         "staminaLossScalar" : 0.05,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "poison_fang"
+      }
+   },
+   "POISON_JAB_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 200,
+         "durationMs" : 800,
+         "energyDelta" : 7,
+         "movementId" : "POISON_JAB_FAST",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "poison_jab_fast"
+      }
+   },
+   "POISON_STING_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 575,
+         "damageWindowStartMs" : 375,
+         "durationMs" : 600,
+         "energyDelta" : 7,
+         "movementId" : "POISON_STING_FAST",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "poison_sting_fast"
+      }
+   },
+   "POUND_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 540,
+         "damageWindowStartMs" : 340,
+         "durationMs" : 600,
+         "energyDelta" : 6,
+         "movementId" : "POUND_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 7,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "pound_fast"
+      }
+   },
+   "POWDER_SNOW_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1000,
+         "energyDelta" : 15,
+         "movementId" : "POWDER_SNOW_FAST",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 6,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "powder_snow_fast"
+      }
+   },
+   "POWER_GEM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1950,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movementId" : "POWER_GEM",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 80,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "power_gem"
+      }
+   },
+   "POWER_UP_PUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2000,
+         "energyDelta" : -33,
+         "movementId" : "POWER_UP_PUNCH",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 50,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "power_up_punch"
+      }
+   },
+   "POWER_WHIP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2350,
+         "damageWindowStartMs" : 1250,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "POWER_WHIP",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 90,
+         "staminaLossScalar" : 0.12,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "power_whip"
+      }
+   },
+   "PRECIPICE_BLADES" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -100,
+         "movementId" : "PRECIPICE_BLADES",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 130,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "precipice_blades"
+      }
+   },
+   "PRESENT_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1300,
+         "energyDelta" : 20,
+         "movementId" : "PRESENT_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "present_fast"
+      }
+   },
+   "PSYBEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3200,
+         "energyDelta" : -50,
+         "movementId" : "PSYBEAM",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 70,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "psybeam"
+      }
+   },
+   "PSYCHIC" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movementId" : "PSYCHIC",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 90,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "psychic"
+      }
+   },
+   "PSYCHIC_FANGS" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 1200,
+         "energyDelta" : -33,
+         "movementId" : "PSYCHIC_FANGS",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 30,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "psychic_fangs"
+      }
+   },
+   "PSYCHO_BOOST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 4000,
+         "damageWindowStartMs" : 3500,
+         "durationMs" : 4000,
+         "energyDelta" : -50,
+         "movementId" : "PSYCHO_BOOST",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 70,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "psycho_boost"
+      }
+   },
+   "PSYCHO_CUT_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 570,
+         "damageWindowStartMs" : 370,
+         "durationMs" : 600,
+         "energyDelta" : 8,
+         "movementId" : "PSYCHO_CUT_FAST",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "psycho_cut_fast"
+      }
+   },
+   "PSYSHOCK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 2700,
+         "energyDelta" : -33,
+         "movementId" : "PSYSHOCK",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 65,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "psyshock"
+      }
+   },
+   "PSYSTRIKE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movementId" : "PSYSTRIKE",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 90,
+         "staminaLossScalar" : 0.1,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "psystrike"
+      }
+   },
+   "QUICK_ATTACK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 550,
+         "damageWindowStartMs" : 250,
+         "durationMs" : 800,
+         "energyDelta" : 10,
+         "movementId" : "QUICK_ATTACK_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "quick_attack_fast"
+      }
+   },
+   "RAZOR_LEAF_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 850,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1000,
+         "energyDelta" : 7,
+         "movementId" : "RAZOR_LEAF_FAST",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 13,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "razor_leaf_fast"
+      }
+   },
+   "RAZOR_SHELL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 650,
+         "durationMs" : 1300,
+         "energyDelta" : -33,
+         "movementId" : "RAZOR_SHELL",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 45,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "razor_shell"
+      }
+   },
+   "REST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "healScalar" : 1,
+         "movementId" : "REST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 50,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rest"
+      }
+   },
+   "RETURN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 350,
+         "damageWindowStartMs" : 100,
+         "durationMs" : 700,
+         "energyDelta" : -33,
+         "movementId" : "RETURN",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 35,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "return"
+      }
+   },
+   "ROCK_BLAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2100,
+         "energyDelta" : -33,
+         "movementId" : "ROCK_BLAST",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 50,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rock_blast"
+      }
+   },
+   "ROCK_SLIDE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movementId" : "ROCK_SLIDE",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 80,
+         "staminaLossScalar" : 0.075,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rock_slide"
+      }
+   },
+   "ROCK_SMASH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 550,
+         "durationMs" : 1300,
+         "energyDelta" : 10,
+         "movementId" : "ROCK_SMASH_FAST",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 15,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rock_smash_fast"
+      }
+   },
+   "ROCK_THROW_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 900,
+         "energyDelta" : 7,
+         "movementId" : "ROCK_THROW_FAST",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rock_throw_fast"
+      }
+   },
+   "ROCK_TOMB" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.25,
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 2250,
+         "durationMs" : 3200,
+         "energyDelta" : -50,
+         "movementId" : "ROCK_TOMB",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 70,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rock_tomb"
+      }
+   },
+   "ROCK_WRECKER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3600,
+         "energyDelta" : -50,
+         "movementId" : "ROCK_WRECKER",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 110,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rock_wrecker"
+      }
+   },
+   "SACRED_SWORD" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1200,
+         "energyDelta" : -33,
+         "movementId" : "SACRED_SWORD",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 55,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "sacred_sword"
+      }
+   },
+   "SAND_TOMB" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 4000,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 4000,
+         "energyDelta" : -33,
+         "movementId" : "SAND_TOMB",
+         "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 60,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "sand_tomb"
+      }
+   },
+   "SCALD" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3400,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3700,
+         "energyDelta" : -50,
+         "movementId" : "SCALD",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 80,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "scald"
+      }
+   },
+   "SCALD_BLASTOISE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 4600,
+         "damageWindowStartMs" : 2500,
+         "durationMs" : 4700,
+         "energyDelta" : -100,
+         "movementId" : "SCALD_BLASTOISE",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 50,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "scald_blastoise"
+      }
+   },
+   "SCRATCH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 4,
+         "movementId" : "SCRATCH_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 6,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "scratch_fast"
+      }
+   },
+   "SEED_BOMB" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2100,
+         "energyDelta" : -33,
+         "movementId" : "SEED_BOMB",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 55,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "seed_bomb"
+      }
+   },
+   "SHADOW_BALL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2400,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movementId" : "SHADOW_BALL",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 100,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "shadow_ball"
+      }
+   },
+   "SHADOW_BONE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2250,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movementId" : "SHADOW_BONE",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 80,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "shadow_bone"
+      }
+   },
+   "SHADOW_CLAW_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 250,
+         "durationMs" : 700,
+         "energyDelta" : 6,
+         "movementId" : "SHADOW_CLAW_FAST",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 9,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "shadow_claw_fast"
+      }
+   },
+   "SHADOW_PUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movementId" : "SHADOW_PUNCH",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 40,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "shadow_punch"
+      }
+   },
+   "SHADOW_SNEAK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movementId" : "SHADOW_SNEAK",
+         "pokemonType" : "POKEMON_TYPE_GHOST",
+         "power" : 50,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "shadow_sneak"
+      }
+   },
+   "SIGNAL_BEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movementId" : "SIGNAL_BEAM",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 75,
+         "staminaLossScalar" : 0.075,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "signal_beam"
+      }
+   },
+   "SILVER_WIND" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 3700,
+         "energyDelta" : -33,
+         "movementId" : "SILVER_WIND",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 70,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "silver_wind"
+      }
+   },
+   "SKULL_BASH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 3100,
+         "energyDelta" : -100,
+         "movementId" : "SKULL_BASH",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 130,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "skull_bash"
+      }
+   },
+   "SKY_ATTACK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2000,
+         "energyDelta" : -50,
+         "movementId" : "SKY_ATTACK",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 80,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "sky_attack"
+      }
+   },
+   "SLUDGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1550,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2100,
+         "energyDelta" : -33,
+         "movementId" : "SLUDGE",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 50,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "sludge"
+      }
+   },
+   "SLUDGE_BOMB" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movementId" : "SLUDGE_BOMB",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 80,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "sludge_bomb"
+      }
+   },
+   "SLUDGE_WAVE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3200,
+         "energyDelta" : -100,
+         "movementId" : "SLUDGE_WAVE",
+         "pokemonType" : "POKEMON_TYPE_POISON",
+         "power" : 110,
+         "staminaLossScalar" : 0.095,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "sludge_wave"
+      }
+   },
+   "SMACK_DOWN_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1200,
+         "energyDelta" : 8,
+         "movementId" : "SMACK_DOWN_FAST",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 16,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "smack_down_fast"
+      }
+   },
+   "SNARL_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movementId" : "SNARL_FAST",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "snarl_fast"
+      }
+   },
+   "SOLAR_BEAM" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 4700,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 4900,
+         "energyDelta" : -100,
+         "movementId" : "SOLAR_BEAM",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 180,
+         "staminaLossScalar" : 0.12,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "solar_beam"
+      }
+   },
+   "SPARK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 700,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 700,
+         "energyDelta" : 9,
+         "movementId" : "SPARK_FAST",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 6,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "spark_fast"
+      }
+   },
+   "SPLASH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1230,
+         "damageWindowStartMs" : 1030,
+         "durationMs" : 1730,
+         "energyDelta" : 20,
+         "movementId" : "SPLASH_FAST",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "splash_fast"
+      }
+   },
+   "STEEL_WING_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 800,
+         "energyDelta" : 6,
+         "movementId" : "STEEL_WING_FAST",
+         "pokemonType" : "POKEMON_TYPE_STEEL",
+         "power" : 11,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "steel_wing_fast"
+      }
+   },
+   "STOMP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1700,
+         "energyDelta" : -50,
+         "movementId" : "STOMP",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 55,
+         "staminaLossScalar" : 0.065,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "stomp"
+      }
+   },
+   "STONE_EDGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.5,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 2300,
+         "energyDelta" : -100,
+         "movementId" : "STONE_EDGE",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 100,
+         "staminaLossScalar" : 0.1,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "stone_edge"
+      }
+   },
+   "STRUGGLE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2200,
+         "movementId" : "STRUGGLE",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 35,
+         "staminaLossScalar" : 0.1,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "struggle"
+      }
+   },
+   "STRUGGLE_BUG_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1500,
+         "energyDelta" : 15,
+         "movementId" : "STRUGGLE_BUG_FAST",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 15,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "struggle_bug_fast"
+      }
+   },
+   "SUBMISSION" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2200,
+         "energyDelta" : -50,
+         "movementId" : "SUBMISSION",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 60,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "submission"
+      }
+   },
+   "SUCKER_PUNCH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 700,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 700,
+         "energyDelta" : 8,
+         "movementId" : "SUCKER_PUNCH_FAST",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 7,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "sucker_punch_fast"
+      }
+   },
+   "SUPER_POWER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movementId" : "SUPER_POWER",
+         "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 85,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "super_power"
+      }
+   },
+   "SURF" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -50,
+         "movementId" : "SURF",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 65,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "surf"
+      }
+   },
+   "SWIFT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movementId" : "SWIFT",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 60,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "swift"
+      }
+   },
+   "SYNCHRONOISE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "SYNCHRONOISE",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 80,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "synchronoise"
+      }
+   },
+   "TACKLE_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 5,
+         "movementId" : "TACKLE_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "tackle_fast"
+      }
+   },
+   "TAKE_DOWN_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 1200,
+         "energyDelta" : 10,
+         "movementId" : "TAKE_DOWN_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "take_down_fast"
+      }
+   },
+   "TECHNO_BLAST_BURN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "TECHNO_BLAST_BURN",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 120,
+         "vfxName" : "techno_blast_burn"
+      }
+   },
+   "TECHNO_BLAST_CHILL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "TECHNO_BLAST_CHILL",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 120,
+         "vfxName" : "techno_blast_chill"
+      }
+   },
+   "TECHNO_BLAST_NORMAL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "TECHNO_BLAST_NORMAL",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 120,
+         "vfxName" : "techno_blast_normal"
+      }
+   },
+   "TECHNO_BLAST_SHOCK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "TECHNO_BLAST_SHOCK",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 120,
+         "vfxName" : "techno_blast_shock"
+      }
+   },
+   "TECHNO_BLAST_WATER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "TECHNO_BLAST_WATER",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 120,
+         "vfxName" : "techno_blast_water"
+      }
+   },
+   "THUNDER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2400,
+         "energyDelta" : -100,
+         "movementId" : "THUNDER",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 100,
+         "staminaLossScalar" : 0.11,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "thunder"
+      }
+   },
+   "THUNDERBOLT" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2500,
+         "energyDelta" : -50,
+         "movementId" : "THUNDERBOLT",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 80,
+         "staminaLossScalar" : 0.09,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "thunderbolt"
+      }
+   },
+   "THUNDER_FANG_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 1200,
+         "energyDelta" : 16,
+         "movementId" : "THUNDER_FANG_FAST",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "thunder_fang_fast"
+      }
+   },
+   "THUNDER_PUNCH" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1550,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 1800,
+         "energyDelta" : -33,
+         "movementId" : "THUNDER_PUNCH",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 45,
+         "staminaLossScalar" : 0.075,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "thunder_punch"
+      }
+   },
+   "THUNDER_SHOCK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 600,
+         "energyDelta" : 8,
+         "movementId" : "THUNDER_SHOCK_FAST",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "thunder_shock_fast"
+      }
+   },
+   "TRANSFORM_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 700,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 2230,
+         "movementId" : "TRANSFORM_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "transform_fast"
+      }
+   },
+   "TRI_ATTACK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2500,
+         "energyDelta" : -50,
+         "movementId" : "TRI_ATTACK",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 75,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "tri_attack"
+      }
+   },
+   "TWISTER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 2800,
+         "energyDelta" : -33,
+         "movementId" : "TWISTER",
+         "pokemonType" : "POKEMON_TYPE_DRAGON",
+         "power" : 45,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "twister"
+      }
+   },
+   "VICE_GRIP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "VICE_GRIP",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 35,
+         "staminaLossScalar" : 0.055,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "vice_grip"
+      }
+   },
+   "VINE_WHIP_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 350,
+         "durationMs" : 600,
+         "energyDelta" : 6,
+         "movementId" : "VINE_WHIP_FAST",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 7,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "vine_whip_fast"
+      }
+   },
+   "VOLT_SWITCH_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 1600,
+         "energyDelta" : 21,
+         "movementId" : "VOLT_SWITCH_FAST",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 14,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "volt_switch_fast"
+      }
+   },
+   "V_CREATE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2800,
+         "energyDelta" : -33,
+         "movementId" : "V_CREATE",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 95,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "v_create"
+      }
+   },
+   "WATERFALL_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 1200,
+         "energyDelta" : 8,
+         "movementId" : "WATERFALL_FAST",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 16,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "waterfall_fast"
+      }
+   },
+   "WATER_GUN_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 5,
+         "movementId" : "WATER_GUN_FAST",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 5,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "water_gun_fast"
+      }
+   },
+   "WATER_GUN_FAST_BLASTOISE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 1000,
+         "energyDelta" : 6,
+         "movementId" : "WATER_GUN_FAST_BLASTOISE",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 10,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "water_gun_fast_blastoise"
+      }
+   },
+   "WATER_PULSE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2900,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 3200,
+         "energyDelta" : -50,
+         "movementId" : "WATER_PULSE",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 70,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "water_pulse"
+      }
+   },
+   "WEATHER_BALL_FIRE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "WEATHER_BALL_FIRE",
+         "pokemonType" : "POKEMON_TYPE_FIRE",
+         "power" : 55,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "weather_ball_fire"
+      }
+   },
+   "WEATHER_BALL_ICE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "WEATHER_BALL_ICE",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 55,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "weather_ball_ice"
+      }
+   },
+   "WEATHER_BALL_NORMAL" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "WEATHER_BALL_NORMAL",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 55,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "weather_ball_normal"
+      }
+   },
+   "WEATHER_BALL_ROCK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "WEATHER_BALL_ROCK",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 55,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "weather_ball_rock"
+      }
+   },
+   "WEATHER_BALL_WATER" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "WEATHER_BALL_WATER",
+         "pokemonType" : "POKEMON_TYPE_WATER",
+         "power" : 55,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "weather_ball_water"
+      }
+   },
+   "WILD_CHARGE" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movementId" : "WILD_CHARGE",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 90,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "wild_charge"
+      }
+   },
+   "WING_ATTACK_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 750,
+         "damageWindowStartMs" : 550,
+         "durationMs" : 800,
+         "energyDelta" : 9,
+         "movementId" : "WING_ATTACK_FAST",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 8,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "wing_attack_fast"
+      }
+   },
+   "WRAP" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2050,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movementId" : "WRAP",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 60,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "wrap"
+      }
+   },
+   "WRAP_GREEN" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2050,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movementId" : "WRAP_GREEN",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 25,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "wrap_green"
+      }
+   },
+   "WRAP_PINK" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2050,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movementId" : "WRAP_PINK",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 25,
+         "staminaLossScalar" : 0.06,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "wrap_pink"
+      }
+   },
+   "X_SCISSOR" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movementId" : "X_SCISSOR",
+         "pokemonType" : "POKEMON_TYPE_BUG",
+         "power" : 45,
+         "staminaLossScalar" : 0.08,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "x_scissor"
+      }
+   },
+   "YAWN_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : 15,
+         "movementId" : "YAWN_FAST",
+         "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "yawn_fast"
+      }
+   },
+   "ZAP_CANNON" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "criticalChance" : 0.05,
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3700,
+         "energyDelta" : -100,
+         "movementId" : "ZAP_CANNON",
+         "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+         "power" : 140,
+         "staminaLossScalar" : 0.04,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "zap_cannon"
+      }
+   },
+   "ZEN_HEADBUTT_FAST" : {
+      "built" : {},
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 10,
+         "movementId" : "ZEN_HEADBUTT_FAST",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 12,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "zen_headbutt_fast"
+      }
+   }
+}

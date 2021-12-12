@@ -1,21 +1,27 @@
 {
    "conversion" : {
+      "Farfetch'd" : "FARFETCHD",
+      "Flabébé" : "FLABEBE",
       "Ho-Oh" : "HO_OH",
       "Mime Jr." : "MIME_JR",
       "Mr. Mime" : "MR_MIME",
       "Mr. Rime" : "MR_RIME",
       "Nidoran♀" : "NIDORAN_FEMALE",
       "Nidoran♂" : "NIDORAN_MALE",
-      "Porygon-Z" : "PORYGON_Z"
+      "Porygon-Z" : "PORYGON_Z",
+      "Sirfetch'd" : "SIRFETCHD"
    },
    "conversionInv" : {
+      "FARFETCHD" : "Farfetch'd",
+      "FLABEBE" : "Flabébé",
       "HO_OH" : "Ho-Oh",
       "MIME_JR" : "Mime Jr.",
       "MR_MIME" : "Mr. Mime",
       "MR_RIME" : "Mr. Rime",
       "NIDORAN_FEMALE" : "Nidoran♀",
       "NIDORAN_MALE" : "Nidoran♂",
-      "PORYGON_Z" : "Porygon-Z"
+      "PORYGON_Z" : "Porygon-Z",
+      "SIRFETCHD" : "Sirfetch'd"
    },
    "ids" : [
       "BULBASAUR",
