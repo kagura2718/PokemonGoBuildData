@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 13,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.23809524,
          "cylinderHeightM" : 5,
@@ -77,6 +81,103 @@
          "EXTRASENSORY_FAST",
          "DRAGON_TAIL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            30,
+            -30,
+            -150
+         ],
+         "buddyOffsetMale" : [
+            30,
+            -30,
+            -150
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.23809524,
+            "cylinderHeightM" : 5,
+            "cylinderRadiusM" : 3,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "SKY_ATTACK",
+            "HYDRO_PUMP",
+            "FUTURESIGHT"
+         ],
+         "eliteCinematicMove" : [
+            "AEROBLAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.8,
+            "collisionHeightM" : 4,
+            "collisionRadiusM" : 1.6,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.02,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_LUGIA",
+         "heightStdDev" : 0.65125,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 4.85,
+         "modelScale" : 0.42,
+         "modelScaleV2" : 0.67,
+         "pokedexHeightM" : 5.21,
+         "pokedexWeightKg" : 216,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "LUGIA",
+         "quickMoves" : [
+            "EXTRASENSORY_FAST",
+            "DRAGON_TAIL_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 20,
+            "purificationStardustNeeded" : 20000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 193,
+            "baseDefense" : 310,
+            "baseStamina" : 235
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 27
+      },
       "shadow" : {
          "purificationCandyNeeded" : 20,
          "purificationStardustNeeded" : 20000,
@@ -120,6 +221,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 13,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.23809524,
          "cylinderHeightM" : 5,
@@ -175,6 +280,104 @@
          "EXTRASENSORY_FAST",
          "DRAGON_TAIL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            30,
+            -30,
+            -150
+         ],
+         "buddyOffsetMale" : [
+            30,
+            -30,
+            -150
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.23809524,
+            "cylinderHeightM" : 5,
+            "cylinderRadiusM" : 3,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "SKY_ATTACK",
+            "HYDRO_PUMP",
+            "FUTURESIGHT"
+         ],
+         "eliteCinematicMove" : [
+            "AEROBLAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.8,
+            "collisionHeightM" : 4,
+            "collisionRadiusM" : 1.6,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.02,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_LUGIA",
+         "form" : "LUGIA_NORMAL",
+         "heightStdDev" : 0.65125,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 4.85,
+         "modelScale" : 0.42,
+         "modelScaleV2" : 0.67,
+         "pokedexHeightM" : 5.21,
+         "pokedexWeightKg" : 216,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "LUGIA",
+         "quickMoves" : [
+            "EXTRASENSORY_FAST",
+            "DRAGON_TAIL_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 20,
+            "purificationStardustNeeded" : 20000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 193,
+            "baseDefense" : 310,
+            "baseStamina" : 235
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 27
+      },
       "shadow" : {
          "purificationCandyNeeded" : 20,
          "purificationStardustNeeded" : 20000,

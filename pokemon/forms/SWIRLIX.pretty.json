@@ -19,6 +19,9 @@
          0,
          -10
       ],
+      "built" : {
+         "pokemonType" : 17
+      },
       "camera" : {
          "cylinderHeightM" : 0.4,
          "cylinderRadiusM" : 0.25
@@ -69,6 +72,88 @@
       "quickMoves" : [
          "TACKLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyOffsetFemale" : [
+            2.5,
+            0,
+            -10
+         ],
+         "buddyOffsetMale" : [
+            2.5,
+            0,
+            -10
+         ],
+         "camera" : {
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.25
+         },
+         "cinematicMoves" : [
+            "DRAINING_KISS",
+            "ENERGY_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "SLURPUFF",
+               "questDisplay" : [
+                  {
+                     "questRequirementTemplateId" : "SWIRLIX_EVOLUTION_QUEST"
+                  }
+               ]
+            }
+         ],
+         "familyId" : "FAMILY_SWIRLIX",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.4,
+         "modelScale" : 1.48,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 3.5,
+         "pokemonId" : "SWIRLIX",
+         "quickMoves" : [
+            "TACKLE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 109,
+            "baseDefense" : 119,
+            "baseStamina" : 158
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 0.4375
+      },
       "stats" : {
          "baseAttack" : 109,
          "baseDefense" : 119,

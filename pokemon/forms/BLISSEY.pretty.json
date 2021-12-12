@@ -23,6 +23,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.5,
          "cylinderRadiusM" : 1,
@@ -73,6 +76,92 @@
          "POUND_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            0,
+            20.8
+         ],
+         "buddyOffsetMale" : [
+            15,
+            0,
+            20.8
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "PSYCHIC",
+            "HYPER_BEAM",
+            "DAZZLING_GLEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.25,
+            "collisionHeadRadiusM" : 0.6,
+            "collisionHeightM" : 0.91,
+            "collisionRadiusM" : 0.7,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHANSEY",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.5,
+         "modelScale" : 0.84,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CHANSEY",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 46.8,
+         "pokemonId" : "BLISSEY",
+         "quickMoves" : [
+            "POUND_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 129,
+            "baseDefense" : 169,
+            "baseStamina" : 496
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 5.85
+      },
       "stats" : {
          "baseAttack" : 129,
          "baseDefense" : 169,

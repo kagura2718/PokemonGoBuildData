@@ -10,6 +10,10 @@
          0
       ],
       "buddyGroupNumber" : 2,
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 10
+      },
       "camera" : {
          "cylinderGroundM" : 0.2,
          "cylinderHeightM" : 0.65,
@@ -61,6 +65,81 @@
          "WATER_GUN_FAST",
          "ACID_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "camera" : {
+            "cylinderGroundM" : 0.2,
+            "cylinderHeightM" : 0.65,
+            "cylinderRadiusM" : 0.25
+         },
+         "cinematicMoves" : [
+            "AQUA_TAIL",
+            "WATER_PULSE",
+            "TWISTER",
+            "SLUDGE_BOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 3,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "DRAGALGE"
+            }
+         ],
+         "familyId" : "FAMILY_SKRELP",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.68,
+         "modelScale" : 1.18,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 7.3,
+         "pokemonId" : "SKRELP",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "ACID_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 109,
+            "baseDefense" : 109,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 0.9125
+      },
       "stats" : {
          "baseAttack" : 109,
          "baseDefense" : 109,

@@ -23,6 +23,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.8,
          "cylinderRadiusM" : 1,
@@ -77,6 +80,102 @@
          "COUNTER_FAST",
          "SHADOW_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            28.06
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            28.06
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.8,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "CLOSE_COMBAT",
+            "HYPER_BEAM",
+            "PLAY_ROUGH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.15,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.15,
+            "collisionHeadRadiusM" : 0.31,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.1,
+            "shadowFormBaseCaptureRate" : 0.15,
+            "shadowFormDodgeProbability" : 0.15
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TEDDIURSA",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "TEDDIURSA",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 125.8,
+         "pokemonId" : "URSARING",
+         "quickMoves" : [
+            "METAL_CLAW_FAST",
+            "COUNTER_FAST",
+            "SHADOW_CLAW_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 236,
+            "baseDefense" : 144,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 15.725
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -119,6 +218,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.8,
          "cylinderRadiusM" : 1,
@@ -174,6 +276,103 @@
          "COUNTER_FAST",
          "SHADOW_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            28.06
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            28.06
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.8,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "CLOSE_COMBAT",
+            "HYPER_BEAM",
+            "PLAY_ROUGH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.15,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.15,
+            "collisionHeadRadiusM" : 0.31,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.1,
+            "shadowFormBaseCaptureRate" : 0.15,
+            "shadowFormDodgeProbability" : 0.15
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TEDDIURSA",
+         "form" : "URSARING_NORMAL",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "TEDDIURSA",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 125.8,
+         "pokemonId" : "URSARING",
+         "quickMoves" : [
+            "METAL_CLAW_FAST",
+            "COUNTER_FAST",
+            "SHADOW_CLAW_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 236,
+            "baseDefense" : 144,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 15.725
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

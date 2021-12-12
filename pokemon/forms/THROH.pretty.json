@@ -27,6 +27,9 @@
          0.75
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 1.51,
          "cylinderRadiusM" : 1.15,
@@ -74,6 +77,93 @@
          "LOW_KICK_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            6.3,
+            0,
+            -86.2
+         ],
+         "buddyOffsetMale" : [
+            6.3,
+            0,
+            -86.2
+         ],
+         "buddyPortraitOffset" : [
+            0.29,
+            0.11,
+            0.75
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.51,
+            "cylinderRadiusM" : 1.15,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FOCUS_BLAST",
+            "LOW_SWEEP",
+            "BODY_SLAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.33,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_THROH",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.25,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 55.5,
+         "pokemonId" : "THROH",
+         "quickMoves" : [
+            "LOW_KICK_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 172,
+            "baseDefense" : 160,
+            "baseStamina" : 260
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 6.9375
+      },
       "stats" : {
          "baseAttack" : 172,
          "baseDefense" : 160,

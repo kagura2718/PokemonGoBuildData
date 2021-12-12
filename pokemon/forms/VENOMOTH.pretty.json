@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.08,
@@ -81,6 +85,107 @@
          "INFESTATION_FAST",
          "CONFUSION_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6,
+            1.6667,
+            0.6,
+            0,
+            2.1333,
+            1.6,
+            0
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            20,
+            8.5,
+            9.1
+         ],
+         "buddyOffsetMale" : [
+            20,
+            8.5,
+            9.1
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.08,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.864,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "SILVER_WIND",
+            "PSYCHIC",
+            "BUG_BUZZ",
+            "POISON_FANG"
+         ],
+         "eliteQuickMove" : [
+            "BUG_BITE_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 17,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.32,
+            "collisionHeadRadiusM" : 0.288,
+            "collisionHeightM" : 0.72,
+            "collisionRadiusM" : 0.36,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 0.7,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 6,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_VENONAT",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.6,
+         "modelScale" : 0.72,
+         "modelScaleV2" : 0.8,
+         "parentPokemonId" : "VENONAT",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 12.5,
+         "pokemonId" : "VENOMOTH",
+         "quickMoves" : [
+            "INFESTATION_FAST",
+            "CONFUSION_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 179,
+            "baseDefense" : 143,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 1.5625
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -124,6 +229,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.08,
@@ -183,6 +292,108 @@
          "INFESTATION_FAST",
          "CONFUSION_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6,
+            1.6667,
+            0.6,
+            0,
+            2.1333,
+            1.6,
+            0
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            20,
+            8.5,
+            9.1
+         ],
+         "buddyOffsetMale" : [
+            20,
+            8.5,
+            9.1
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.08,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.864,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "SILVER_WIND",
+            "PSYCHIC",
+            "BUG_BUZZ",
+            "POISON_FANG"
+         ],
+         "eliteQuickMove" : [
+            "BUG_BITE_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 17,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.32,
+            "collisionHeadRadiusM" : 0.288,
+            "collisionHeightM" : 0.72,
+            "collisionRadiusM" : 0.36,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 0.7,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 6,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_VENONAT",
+         "form" : "VENOMOTH_NORMAL",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.6,
+         "modelScale" : 0.72,
+         "modelScaleV2" : 0.8,
+         "parentPokemonId" : "VENONAT",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 12.5,
+         "pokemonId" : "VENOMOTH",
+         "quickMoves" : [
+            "INFESTATION_FAST",
+            "CONFUSION_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 179,
+            "baseDefense" : 143,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 1.5625
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

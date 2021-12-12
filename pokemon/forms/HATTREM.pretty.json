@@ -17,6 +17,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 13
+      },
       "camera" : {},
       "cinematicMoves" : [
          "PSYBEAM",
@@ -59,6 +62,78 @@
          "CONFUSION_FAST",
          "CHARM_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "PSYBEAM",
+            "PSYCHIC",
+            "DAZZLING_GLEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "HATTERENE"
+            }
+         ],
+         "familyId" : "FAMILY_HATENNA",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "HATENNA",
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 4.8,
+         "pokemonId" : "HATTREM",
+         "quickMoves" : [
+            "CONFUSION_FAST",
+            "CHARM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 153,
+            "baseDefense" : 133,
+            "baseStamina" : 149
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 0.6
+      },
       "stats" : {
          "baseAttack" : 153,
          "baseDefense" : 133,

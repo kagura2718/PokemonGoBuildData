@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.104,
          "cylinderRadiusM" : 0.75,
@@ -83,6 +86,102 @@
          "LICK_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.6667,
+            0.6667,
+            1.6667,
+            1.7333,
+            0,
+            2,
+            0.8,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            15.1,
+            0,
+            10.1
+         ],
+         "buddyOffsetMale" : [
+            15.1,
+            0,
+            10.1
+         ],
+         "buddyPortraitOffset" : [
+            0.08,
+            0.1,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.104,
+            "cylinderRadiusM" : 0.75,
+            "diskRadiusM" : 0.69,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HYPER_BEAM",
+            "STOMP",
+            "POWER_WHIP"
+         ],
+         "eliteCinematicMove" : [
+            "BODY_SLAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 5.625,
+            "collisionHeadRadiusM" : 0.253,
+            "collisionHeightM" : 0.92,
+            "collisionRadiusM" : 0.46,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 23,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "LICKILICKY",
+               "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_LICKITUNG",
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 65.5,
+         "pokemonId" : "LICKITUNG",
+         "quickMoves" : [
+            "LICK_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 108,
+            "baseDefense" : 137,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 8.1875
+      },
       "stats" : {
          "baseAttack" : 108,
          "baseDefense" : 137,

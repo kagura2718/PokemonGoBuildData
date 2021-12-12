@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5
+      },
       "camera" : {
          "cylinderHeightM" : 0.44,
          "cylinderRadiusM" : 0.16,
@@ -80,6 +83,99 @@
          "TACKLE_FAST",
          "SMACK_DOWN_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            10.6,
+            0,
+            -26.6
+         ],
+         "buddyOffsetMale" : [
+            10.6,
+            0,
+            -26.6
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.44,
+            "cylinderRadiusM" : 0.16,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "BULLDOZE",
+            "ROCK_BLAST",
+            "STONE_EDGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.15,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.15,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "BOLDORE"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ROGGENROLA",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.4,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 18,
+         "pokemonId" : "ROGGENROLA",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "SMACK_DOWN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 121,
+            "baseDefense" : 110,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "weightStdDev" : 2.25
+      },
       "stats" : {
          "baseAttack" : 121,
          "baseDefense" : 110,

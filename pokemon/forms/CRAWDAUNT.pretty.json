@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 16
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 1.2,
@@ -79,6 +83,99 @@
          "WATERFALL_FAST",
          "SNARL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.48,
+            0,
+            1.27
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 1.2,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "VICE_GRIP",
+            "BUBBLE_BEAM",
+            "NIGHT_SLASH",
+            "CRABHAMMER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CORPHISH",
+         "heightStdDev" : 0.13625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CORPHISH",
+         "pokedexHeightM" : 1.09,
+         "pokedexWeightKg" : 32.8,
+         "pokemonId" : "CRAWDAUNT",
+         "quickMoves" : [
+            "WATERFALL_FAST",
+            "SNARL_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 224,
+            "baseDefense" : 142,
+            "baseStamina" : 160
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 4.1
+      },
       "stats" : {
          "baseAttack" : 224,
          "baseDefense" : 142,

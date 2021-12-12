@@ -26,6 +26,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 0.55,
          "cylinderRadiusM" : 0.28
@@ -75,6 +78,94 @@
          "SCRATCH_FAST",
          "EMBER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            8,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            8,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0.062,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.28
+         },
+         "cinematicMoves" : [
+            "PSYSHOCK",
+            "FLAMETHROWER",
+            "FLAME_CHARGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.13,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "BRAIXEN"
+            }
+         ],
+         "familyId" : "FAMILY_FENNEKIN",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.55,
+         "modelScale" : 1.29,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 9.4,
+         "pokemonId" : "FENNEKIN",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "EMBER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 116,
+            "baseDefense" : 102,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 1.175
+      },
       "stats" : {
          "baseAttack" : 116,
          "baseDefense" : 102,

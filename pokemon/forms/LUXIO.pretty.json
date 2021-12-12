@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 12
+      },
       "camera" : {
          "cylinderHeightM" : 0.8,
          "cylinderRadiusM" : 0.45,
@@ -79,6 +82,98 @@
          "SPARK_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.8,
+            "cylinderRadiusM" : 0.45,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "THUNDERBOLT",
+            "WILD_CHARGE",
+            "CRUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "LUXRAY"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHINX",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.9,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SHINX",
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 30.5,
+         "pokemonId" : "LUXIO",
+         "quickMoves" : [
+            "SPARK_FAST",
+            "BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 159,
+            "baseDefense" : 95,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 3.8125
+      },
       "stats" : {
          "baseAttack" : 159,
          "baseDefense" : 95,

@@ -20,6 +20,10 @@
          -60,
          -100
       ],
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.7,
          "cylinderHeightM" : 4,
@@ -68,6 +72,88 @@
          "SNARL_FAST",
          "GUST_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            0,
+            -60,
+            -100
+         ],
+         "buddyOffsetMale" : [
+            0,
+            -60,
+            -100
+         ],
+         "camera" : {
+            "cylinderGroundM" : 0.7,
+            "cylinderHeightM" : 4,
+            "cylinderRadiusM" : 3.5
+         },
+         "cinematicMoves" : [
+            "DARK_PULSE",
+            "HURRICANE",
+            "FOCUS_BLAST",
+            "HYPER_BEAM",
+            "PSYCHIC"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.1,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 4,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_FLYING"
+         },
+         "familyId" : "FAMILY_YVELTAL",
+         "heightStdDev" : 0.725,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 5.5,
+         "modelScale" : 0.48,
+         "modelScaleV2" : 0.62,
+         "pokedexHeightM" : 5.8,
+         "pokedexWeightKg" : 203,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "YVELTAL",
+         "quickMoves" : [
+            "SUCKER_PUNCH_FAST",
+            "SNARL_FAST",
+            "GUST_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 250,
+            "baseDefense" : 185,
+            "baseStamina" : 246
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 25.375
+      },
       "stats" : {
          "baseAttack" : 250,
          "baseDefense" : 185,

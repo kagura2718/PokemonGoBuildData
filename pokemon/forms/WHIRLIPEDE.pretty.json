@@ -27,6 +27,10 @@
          0.17
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 1.04,
@@ -84,6 +88,104 @@
          "BUG_BITE_FAST",
          "POISON_STING_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            9.4,
+            0,
+            -86.1
+         ],
+         "buddyOffsetMale" : [
+            9.4,
+            0,
+            -86.1
+         ],
+         "buddyPortraitOffset" : [
+            0.03,
+            0.08,
+            0.17
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 1.04,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "SIGNAL_BEAM",
+            "SLUDGE_BOMB",
+            "GYRO_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.15,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.55,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.55,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "SCOLIPEDE"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_VENIPEDE",
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 2.04,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "VENIPEDE",
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 58.5,
+         "pokemonId" : "WHIRLIPEDE",
+         "quickMoves" : [
+            "BUG_BITE_FAST",
+            "POISON_STING_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 100,
+            "baseDefense" : 173,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 7.3125
+      },
       "stats" : {
          "baseAttack" : 100,
          "baseDefense" : 173,

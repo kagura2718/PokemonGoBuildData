@@ -9,6 +9,10 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.4,
          "cylinderRadiusM" : 0.25
@@ -56,6 +60,76 @@
          "TAKE_DOWN_FAST",
          "EMBER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.25
+         },
+         "cinematicMoves" : [
+            "FLAME_CHARGE",
+            "SOLAR_BEAM",
+            "DARK_PULSE",
+            "OVERHEAT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.4,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_LITLEO",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "LITLEO",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 81.5,
+         "pokemonId" : "PYROAR",
+         "quickMoves" : [
+            "FIRE_FANG_FAST",
+            "TAKE_DOWN_FAST",
+            "EMBER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 221,
+            "baseDefense" : 149,
+            "baseStamina" : 200
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 10.1875
+      },
       "stats" : {
          "baseAttack" : 221,
          "baseDefense" : 149,
@@ -97,6 +171,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.7,
          "cylinderRadiusM" : 0.35
@@ -146,6 +224,96 @@
          "FIRE_FANG_FAST",
          "TAKE_DOWN_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            18,
+            0,
+            65
+         ],
+         "buddyOffsetMale" : [
+            18,
+            0,
+            63
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            -0.15
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.7,
+            "cylinderRadiusM" : 0.35
+         },
+         "cinematicMoves" : [
+            "FLAME_CHARGE",
+            "SOLAR_BEAM",
+            "DARK_PULSE",
+            "OVERHEAT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.4,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.7,
+            "collisionHeadRadiusM" : 0.23,
+            "collisionHeightM" : 0.35,
+            "collisionRadiusM" : 0.31,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_LITLEO",
+         "form" : "PYROAR_FEMALE",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "LITLEO",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 81.5,
+         "pokemonId" : "PYROAR",
+         "quickMoves" : [
+            "FIRE_FANG_FAST",
+            "TAKE_DOWN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 221,
+            "baseDefense" : 149,
+            "baseStamina" : 200
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 10.1875
+      },
       "stats" : {
          "baseAttack" : 221,
          "baseDefense" : 149,
@@ -187,6 +355,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.8,
          "cylinderRadiusM" : 0.53
@@ -236,6 +408,96 @@
          "FIRE_FANG_FAST",
          "TAKE_DOWN_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            29.9,
+            0,
+            76.3
+         ],
+         "buddyOffsetMale" : [
+            29.9,
+            0,
+            76.3
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            -0.15
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.8,
+            "cylinderRadiusM" : 0.53
+         },
+         "cinematicMoves" : [
+            "FLAME_CHARGE",
+            "SOLAR_BEAM",
+            "DARK_PULSE",
+            "OVERHEAT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.4,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.7,
+            "collisionHeadRadiusM" : 0.34,
+            "collisionHeightM" : 0.38,
+            "collisionRadiusM" : 0.38,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_LITLEO",
+         "form" : "PYROAR_NORMAL",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "LITLEO",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 81.5,
+         "pokemonId" : "PYROAR",
+         "quickMoves" : [
+            "FIRE_FANG_FAST",
+            "TAKE_DOWN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 221,
+            "baseDefense" : 149,
+            "baseStamina" : 200
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 10.1875
+      },
       "stats" : {
          "baseAttack" : 221,
          "baseDefense" : 149,

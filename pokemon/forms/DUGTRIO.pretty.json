@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 0.84,
          "cylinderRadiusM" : 0.672,
@@ -78,6 +81,103 @@
          "SUCKER_PUNCH_FAST",
          "MUD_SLAP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.7333,
+            0.6667,
+            1.6667,
+            0.9,
+            0,
+            2.1333,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            4.5,
+            0,
+            51.9
+         ],
+         "buddyOffsetMale" : [
+            4.5,
+            0,
+            51.9
+         ],
+         "buddyPortraitOffset" : [
+            -150,
+            180,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 0.84,
+            "cylinderRadiusM" : 0.672,
+            "diskRadiusM" : 1.008,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "MUD_BOMB",
+            "STONE_EDGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 10,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.336,
+            "collisionHeightM" : 0.84,
+            "collisionRadiusM" : 0.448,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 29,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DIGLETT",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.77,
+         "modelScale" : 1.12,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "DIGLETT",
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 33.3,
+         "pokemonId" : "DUGTRIO",
+         "quickMoves" : [
+            "SUCKER_PUNCH_FAST",
+            "MUD_SLAP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 167,
+            "baseDefense" : 134,
+            "baseStamina" : 111
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 4.1625
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -125,6 +225,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderHeightM" : 0.84,
          "cylinderRadiusM" : 0.672,
@@ -176,6 +280,105 @@
          "METAL_CLAW_FAST",
          "MUD_SLAP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.7333,
+            0.6667,
+            1.6667,
+            0.9,
+            0,
+            2.1333,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            4.5,
+            0,
+            51.9
+         ],
+         "buddyOffsetMale" : [
+            4.5,
+            0,
+            51.9
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -250,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 0.84,
+            "cylinderRadiusM" : 0.672,
+            "diskRadiusM" : 1.008,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "MUD_BOMB",
+            "IRON_HEAD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 10,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.336,
+            "collisionHeightM" : 0.84,
+            "collisionRadiusM" : 0.448,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 29,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DIGLETT",
+         "form" : "DUGTRIO_ALOLA",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.77,
+         "modelScale" : 1.12,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "DIGLETT",
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 66.6,
+         "pokemonId" : "DUGTRIO",
+         "quickMoves" : [
+            "METAL_CLAW_FAST",
+            "MUD_SLAP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 201,
+            "baseDefense" : 142,
+            "baseStamina" : 111
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 8.325
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -224,6 +427,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 0.84,
          "cylinderRadiusM" : 0.672,
@@ -275,6 +481,104 @@
          "SUCKER_PUNCH_FAST",
          "MUD_SLAP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.7333,
+            0.6667,
+            1.6667,
+            0.9,
+            0,
+            2.1333,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            4.5,
+            0,
+            51.9
+         ],
+         "buddyOffsetMale" : [
+            4.5,
+            0,
+            51.9
+         ],
+         "buddyPortraitOffset" : [
+            -150,
+            180,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 0.84,
+            "cylinderRadiusM" : 0.672,
+            "diskRadiusM" : 1.008,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "MUD_BOMB",
+            "STONE_EDGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 10,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.336,
+            "collisionHeightM" : 0.84,
+            "collisionRadiusM" : 0.448,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 29,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DIGLETT",
+         "form" : "DUGTRIO_NORMAL",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.77,
+         "modelScale" : 1.12,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "DIGLETT",
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 33.3,
+         "pokemonId" : "DUGTRIO",
+         "quickMoves" : [
+            "SUCKER_PUNCH_FAST",
+            "MUD_SLAP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 167,
+            "baseDefense" : 136,
+            "baseStamina" : 111
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 4.1625
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

@@ -24,6 +24,9 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 12
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 1,
@@ -87,6 +90,125 @@
          "THUNDER_FANG_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            40
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            40
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "THUNDER",
+            "WILD_CHARGE",
+            "FLAME_BURST",
+            "OVERHEAT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.25,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ELECTRIKE",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.6091954,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "ELECTRIKE",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 40.2,
+         "pokemonId" : "MANECTRIC",
+         "quickMoves" : [
+            "SNARL_FAST",
+            "CHARGE_BEAM_FAST",
+            "THUNDER_FANG_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 215,
+            "baseDefense" : 127,
+            "baseStamina" : 172
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 1.8,
+               "averageWeightKg" : 44,
+               "stats" : {
+                  "baseAttack" : 286,
+                  "baseDefense" : 179,
+                  "baseStamina" : 172
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_ELECTRIC"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 5.025
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -143,6 +265,9 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 12
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 1,
@@ -207,6 +332,126 @@
          "THUNDER_FANG_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            40
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            40
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "THUNDER",
+            "WILD_CHARGE",
+            "FLAME_BURST",
+            "OVERHEAT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.25,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ELECTRIKE",
+         "form" : "MANECTRIC_NORMAL",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.6091954,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "ELECTRIKE",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 40.2,
+         "pokemonId" : "MANECTRIC",
+         "quickMoves" : [
+            "SNARL_FAST",
+            "CHARGE_BEAM_FAST",
+            "THUNDER_FANG_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 215,
+            "baseDefense" : 127,
+            "baseStamina" : 172
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 1.8,
+               "averageWeightKg" : 44,
+               "stats" : {
+                  "baseAttack" : 286,
+                  "baseDefense" : 179,
+                  "baseStamina" : 172
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_ELECTRIC"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 5.025
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

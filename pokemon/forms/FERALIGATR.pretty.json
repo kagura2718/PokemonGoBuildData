@@ -23,6 +23,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 1.75,
          "cylinderRadiusM" : 1.25,
@@ -80,6 +83,99 @@
          "BITE_FAST",
          "ICE_FANG_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            11.38,
+            0,
+            14.82
+         ],
+         "buddyOffsetMale" : [
+            11.38,
+            0,
+            14.82
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.75,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "CRUNCH",
+            "HYDRO_PUMP",
+            "ICE_BEAM"
+         ],
+         "eliteCinematicMove" : [
+            "HYDRO_CANNON"
+         ],
+         "eliteQuickMove" : [
+            "WATER_GUN_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5.07375,
+            "collisionHeadRadiusM" : 0.37,
+            "collisionHeightM" : 1.6,
+            "collisionRadiusM" : 0.6,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TOTODILE",
+         "heightStdDev" : 0.28875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2.05,
+         "modelScale" : 0.73,
+         "modelScaleV2" : 0.99,
+         "parentPokemonId" : "CROCONAW",
+         "pokedexHeightM" : 2.31,
+         "pokedexWeightKg" : 88.8,
+         "pokemonId" : "FERALIGATR",
+         "quickMoves" : [
+            "WATERFALL_FAST",
+            "BITE_FAST",
+            "ICE_FANG_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 205,
+            "baseDefense" : 188,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 11.1
+      },
       "stats" : {
          "baseAttack" : 205,
          "baseDefense" : 188,

@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderHeightM" : 1.35,
          "cylinderRadiusM" : 1.63,
@@ -81,6 +85,101 @@
          "BULLET_SEED_FAST",
          "METAL_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            33.8,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            33.8,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0.1,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.35,
+            "cylinderRadiusM" : 1.63,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "POWER_WHIP",
+            "FLASH_CANNON",
+            "ACID_SPRAY",
+            "THUNDER",
+            "MIRROR_SHOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.5,
+            "collisionHeadRadiusM" : 0.9,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.7,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_FERROSEED",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 3,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "FERROSEED",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 110,
+         "pokemonId" : "FERROTHORN",
+         "quickMoves" : [
+            "BULLET_SEED_FAST",
+            "METAL_CLAW_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 158,
+            "baseDefense" : 223,
+            "baseStamina" : 179
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 13.75
+      },
       "stats" : {
          "baseAttack" : 158,
          "baseDefense" : 223,

@@ -24,6 +24,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderHeightM" : 1.5,
          "cylinderRadiusM" : 1.25,
@@ -102,6 +106,148 @@
          "RAZOR_LEAF_FAST",
          "VINE_WHIP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.4667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            2.1333,
+            2,
+            2.066667
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0.1,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 1.1385,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "SLUDGE_BOMB",
+            "PETAL_BLIZZARD",
+            "SOLAR_BEAM"
+         ],
+         "combatDefaultCameraAngle" : [
+            2,
+            2.5,
+            1
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            -1,
+            -0.7,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            2.5,
+            1,
+            1.5
+         ],
+         "eliteCinematicMove" : [
+            "FRENZY_PLANT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5.6925,
+            "collisionHeadRadiusM" : 0.3795,
+            "collisionHeightM" : 1.035,
+            "collisionRadiusM" : 0.759,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_BULBASAUR",
+         "heightStdDev" : 0.25,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.9,
+         "modelScale" : 0.69,
+         "modelScaleV2" : 0.84,
+         "parentPokemonId" : "IVYSAUR",
+         "pokedexHeightM" : 2,
+         "pokedexWeightKg" : 100,
+         "pokemonId" : "VENUSAUR",
+         "quickMoves" : [
+            "RAZOR_LEAF_FAST",
+            "VINE_WHIP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 198,
+            "baseDefense" : 189,
+            "baseStamina" : 190
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2.4,
+               "averageWeightKg" : 155.5,
+               "camera" : {
+                  "cylinderHeightM" : 2,
+                  "cylinderRadiusM" : 1.75
+               },
+               "modelHeight" : 2.45,
+               "modelScaleV2" : 0.84,
+               "stats" : {
+                  "baseAttack" : 241,
+                  "baseDefense" : 246,
+                  "baseStamina" : 190
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_GRASS",
+               "typeOverride2" : "POKEMON_TYPE_POISON"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 12.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -166,6 +312,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderHeightM" : 1.5,
          "cylinderRadiusM" : 1.25,
@@ -239,6 +389,123 @@
          "RAZOR_LEAF_FAST",
          "VINE_WHIP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.4667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            2.1333,
+            2,
+            2.066667
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0.1,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 1.1385,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "SLUDGE_BOMB",
+            "PETAL_BLIZZARD",
+            "SOLAR_BEAM"
+         ],
+         "combatDefaultCameraAngle" : [
+            2,
+            2.5,
+            1
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            -1,
+            -0.7,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            2.5,
+            1,
+            1.5
+         ],
+         "disableTransferToPokemonHome" : true,
+         "eliteCinematicMove" : [
+            "FRENZY_PLANT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5.6925,
+            "collisionHeadRadiusM" : 0.3795,
+            "collisionHeightM" : 1.035,
+            "collisionRadiusM" : 0.759,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_BULBASAUR",
+         "form" : "VENUSAUR_COPY_2019",
+         "heightStdDev" : 0.25,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.9,
+         "modelScale" : 0.69,
+         "modelScaleV2" : 0.84,
+         "parentPokemonId" : "IVYSAUR",
+         "pokedexHeightM" : 2,
+         "pokedexWeightKg" : 100,
+         "pokemonId" : "VENUSAUR",
+         "quickMoves" : [
+            "RAZOR_LEAF_FAST",
+            "VINE_WHIP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 198,
+            "baseDefense" : 189,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 12.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -283,6 +550,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderHeightM" : 1.5,
          "cylinderRadiusM" : 1.25,
@@ -362,6 +633,149 @@
          "RAZOR_LEAF_FAST",
          "VINE_WHIP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.4667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            2.1333,
+            2,
+            2.066667
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0.1,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 1.1385,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "SLUDGE_BOMB",
+            "PETAL_BLIZZARD",
+            "SOLAR_BEAM"
+         ],
+         "combatDefaultCameraAngle" : [
+            2,
+            2.5,
+            1
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            -1,
+            -0.7,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            2.5,
+            1,
+            1.5
+         ],
+         "eliteCinematicMove" : [
+            "FRENZY_PLANT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5.6925,
+            "collisionHeadRadiusM" : 0.3795,
+            "collisionHeightM" : 1.035,
+            "collisionRadiusM" : 0.759,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_BULBASAUR",
+         "form" : "VENUSAUR_NORMAL",
+         "heightStdDev" : 0.25,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.9,
+         "modelScale" : 0.69,
+         "modelScaleV2" : 0.84,
+         "parentPokemonId" : "IVYSAUR",
+         "pokedexHeightM" : 2,
+         "pokedexWeightKg" : 100,
+         "pokemonId" : "VENUSAUR",
+         "quickMoves" : [
+            "RAZOR_LEAF_FAST",
+            "VINE_WHIP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 198,
+            "baseDefense" : 189,
+            "baseStamina" : 190
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2.4,
+               "averageWeightKg" : 155.5,
+               "camera" : {
+                  "cylinderHeightM" : 2,
+                  "cylinderRadiusM" : 1.75
+               },
+               "modelHeight" : 2.45,
+               "modelScaleV2" : 0.84,
+               "stats" : {
+                  "baseAttack" : 241,
+                  "baseDefense" : 246,
+                  "baseStamina" : 190
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_GRASS",
+               "typeOverride2" : "POKEMON_TYPE_POISON"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 12.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

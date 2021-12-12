@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.912,
          "cylinderRadiusM" : 0.45,
@@ -85,6 +88,110 @@
          "SCRATCH_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            10.21,
+            0,
+            -4.26
+         ],
+         "buddyOffsetMale" : [
+            10.21,
+            0,
+            -4.26
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.15,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.912,
+            "cylinderRadiusM" : 0.45,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "LOW_SWEEP",
+            "SWIFT",
+            "AERIAL_ACE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 3.42,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "AMBIPOM",
+               "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+               "form" : "AMBIPOM_NORMAL",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_AIPOM",
+         "heightStdDev" : 0.09875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.8,
+         "modelScale" : 1.1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.79,
+         "pokedexWeightKg" : 11.5,
+         "pokemonId" : "AIPOM",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "ASTONISH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 136,
+            "baseDefense" : 112,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 1.4375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -131,6 +238,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.912,
          "cylinderRadiusM" : 0.45,
@@ -190,6 +300,111 @@
          "SCRATCH_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            10.21,
+            0,
+            -4.26
+         ],
+         "buddyOffsetMale" : [
+            10.21,
+            0,
+            -4.26
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.15,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.912,
+            "cylinderRadiusM" : 0.45,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "LOW_SWEEP",
+            "SWIFT",
+            "AERIAL_ACE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 3.42,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "AMBIPOM",
+               "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+               "form" : "AMBIPOM_NORMAL",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_AIPOM",
+         "form" : "AIPOM_NORMAL",
+         "heightStdDev" : 0.09875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.8,
+         "modelScale" : 1.1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.79,
+         "pokedexWeightKg" : 11.5,
+         "pokemonId" : "AIPOM",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "ASTONISH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 136,
+            "baseDefense" : 112,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 1.4375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

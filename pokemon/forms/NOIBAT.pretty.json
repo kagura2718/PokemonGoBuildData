@@ -27,6 +27,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 2,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderGroundM" : 0.45,
          "cylinderHeightM" : 0.85,
@@ -102,6 +106,122 @@
          "WING_ATTACK_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            33,
+            28,
+            25
+         ],
+         "buddyOffsetMale" : [
+            33,
+            28,
+            25
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.45,
+            "cylinderHeightM" : 0.85,
+            "cylinderRadiusM" : 0.35
+         },
+         "cinematicMoves" : [
+            "DRAGON_PULSE",
+            "AIR_CUTTER",
+            "HEAT_WAVE"
+         ],
+         "combatDefaultCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatOpponentFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerPokemonPositionOffset" : [
+            0,
+            0,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 0.7,
+            "dodgeDurationS" : 0.75,
+            "dodgeProbability" : 0.35,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.9,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_ELECTRIC"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 400,
+               "evolution" : "NOIVERN"
+            }
+         ],
+         "familyId" : "FAMILY_NOIBAT",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.1,
+         "modelScale" : 0.96,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 8,
+         "pokemonId" : "NOIBAT",
+         "quickMoves" : [
+            "WING_ATTACK_FAST",
+            "BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 83,
+            "baseDefense" : 73,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_FLYING",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 1
+      },
       "stats" : {
          "baseAttack" : 83,
          "baseDefense" : 73,

@@ -23,6 +23,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.8800001,
          "cylinderRadiusM" : 0.4125,
@@ -80,6 +83,99 @@
          "TACKLE_FAST",
          "WATER_GUN_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.6667,
+            2,
+            2
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            25,
+            0,
+            60
+         ],
+         "buddyOffsetMale" : [
+            25,
+            0,
+            60
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 0.8800001,
+            "cylinderRadiusM" : 0.4125,
+            "diskRadiusM" : 0.6188,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "SWIFT",
+            "BUBBLE_BEAM",
+            "POWER_GEM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.15,
+            "bonusStardustCaptureReward" : 650,
+            "cameraDistance" : 3.3000004,
+            "collisionHeadRadiusM" : 0.20625,
+            "collisionHeightM" : 0.8800001,
+            "collisionRadiusM" : 0.4125,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.35,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "STARMIE"
+            }
+         ],
+         "evolutionIds" : [
+            "STARMIE"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_STARYU",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.8,
+         "modelScale" : 1.1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 34.5,
+         "pokemonId" : "STARYU",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "WATER_GUN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 137,
+            "baseDefense" : 112,
+            "baseStamina" : 102
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 4.3125
+      },
       "stats" : {
          "baseAttack" : 137,
          "baseDefense" : 112,

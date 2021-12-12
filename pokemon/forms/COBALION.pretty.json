@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 18,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 8,
+         "pokemonType2" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 2.56,
          "cylinderRadiusM" : 1.22,
@@ -79,6 +83,99 @@
          "METAL_CLAW_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            35,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            35,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 18,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 2.56,
+            "cylinderRadiusM" : 1.22,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "CLOSE_COMBAT",
+            "IRON_HEAD",
+            "STONE_EDGE"
+         ],
+         "eliteCinematicMove" : [
+            "SACRED_SWORD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.01,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 7,
+            "collisionHeadRadiusM" : 0.31,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_COBALION",
+         "heightStdDev" : 0.2625,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 2.1,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.99,
+         "pokedexHeightM" : 2.1,
+         "pokedexWeightKg" : 250,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "COBALION",
+         "quickMoves" : [
+            "METAL_CLAW_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 192,
+            "baseDefense" : 229,
+            "baseStamina" : 209
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_STEEL",
+         "type2" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 31.25
+      },
       "stats" : {
          "baseAttack" : 192,
          "baseDefense" : 229,

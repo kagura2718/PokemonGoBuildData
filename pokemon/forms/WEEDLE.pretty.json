@@ -24,6 +24,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_SHOULDER",
       "buddyWalkedMegaEnergyAward" : 5,
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderHeightM" : 0.2,
          "cylinderRadiusM" : 0.1,
@@ -83,6 +87,109 @@
          "BUG_BITE_FAST",
          "POISON_STING_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.6667,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_SHOULDER",
+         "buddyWalkedMegaEnergyAward" : 5,
+         "camera" : {
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.1,
+            "diskRadiusM" : 0.3135,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 12,
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 1.5675,
+            "collisionHeadRadiusM" : 0.15675,
+            "collisionHeightM" : 0.209,
+            "collisionRadiusM" : 0.1045,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 12,
+               "evolution" : "KAKUNA",
+               "form" : "KAKUNA_NORMAL",
+               "purificationEvolutionCandyCost" : 10
+            }
+         ],
+         "evolutionIds" : [
+            "KAKUNA"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_WEEDLE",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.18,
+         "modelScale" : 2.09,
+         "modelScaleV2" : 1.72,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 3.2,
+         "pokemonId" : "WEEDLE",
+         "quickMoves" : [
+            "BUG_BITE_FAST",
+            "POISON_STING_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 63,
+            "baseDefense" : 50,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 0.4
+      },
       "shadow" : {
          "purificationCandyNeeded" : 1,
          "purificationStardustNeeded" : 1000,
@@ -127,6 +234,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_SHOULDER",
       "buddyWalkedMegaEnergyAward" : 5,
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderHeightM" : 0.2,
          "cylinderRadiusM" : 0.1,
@@ -187,6 +298,110 @@
          "BUG_BITE_FAST",
          "POISON_STING_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.6667,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_SHOULDER",
+         "buddyWalkedMegaEnergyAward" : 5,
+         "camera" : {
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.1,
+            "diskRadiusM" : 0.3135,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 12,
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 1.5675,
+            "collisionHeadRadiusM" : 0.15675,
+            "collisionHeightM" : 0.209,
+            "collisionRadiusM" : 0.1045,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 12,
+               "evolution" : "KAKUNA",
+               "form" : "KAKUNA_NORMAL",
+               "purificationEvolutionCandyCost" : 10
+            }
+         ],
+         "evolutionIds" : [
+            "KAKUNA"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_WEEDLE",
+         "form" : "WEEDLE_NORMAL",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.18,
+         "modelScale" : 2.09,
+         "modelScaleV2" : 1.72,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 3.2,
+         "pokemonId" : "WEEDLE",
+         "quickMoves" : [
+            "BUG_BITE_FAST",
+            "POISON_STING_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 63,
+            "baseDefense" : 50,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 0.4
+      },
       "shadow" : {
          "purificationCandyNeeded" : 1,
          "purificationStardustNeeded" : 1000,

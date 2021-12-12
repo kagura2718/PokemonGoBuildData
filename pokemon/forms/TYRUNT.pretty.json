@@ -26,6 +26,10 @@
          350
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.475
@@ -75,6 +79,95 @@
          "TACKLE_FAST"
       ],
       "raidBossDistanceOffset" : 1,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            6,
+            0,
+            -40
+         ],
+         "buddyOffsetMale" : [
+            6,
+            0,
+            -40
+         ],
+         "buddyPortraitOffset" : [
+            -50,
+            0,
+            350
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.475
+         },
+         "cinematicMoves" : [
+            "STOMP",
+            "ANCIENT_POWER",
+            "DRAGON_CLAW"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.7,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.75,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.3,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "TYRANTRUM",
+               "onlyDaytime" : true
+            }
+         ],
+         "familyId" : "FAMILY_TYRUNT",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.55,
+         "modelScale" : 0.83,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 26,
+         "pokemonId" : "TYRUNT",
+         "quickMoves" : [
+            "DRAGON_TAIL_FAST",
+            "TACKLE_FAST"
+         ],
+         "raidBossDistanceOffset" : 1,
+         "stats" : {
+            "baseAttack" : 158,
+            "baseDefense" : 123,
+            "baseStamina" : 151
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 3.25
+      },
       "stats" : {
          "baseAttack" : 158,
          "baseDefense" : 123,

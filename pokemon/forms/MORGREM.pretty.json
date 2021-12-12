@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 17
+      },
       "camera" : {},
       "cinematicMoves" : [
          "FOUL_PLAY",
@@ -59,6 +63,79 @@
          "BITE_FAST",
          "SUCKER_PUNCH_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "FOUL_PLAY",
+            "DARK_PULSE",
+            "PLAY_ROUGH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "GRIMMSNARL"
+            }
+         ],
+         "familyId" : "FAMILY_IMPIDIMP",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "IMPIDIMP",
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 12.5,
+         "pokemonId" : "MORGREM",
+         "quickMoves" : [
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 145,
+            "baseDefense" : 102,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 1.5625
+      },
       "stats" : {
          "baseAttack" : 145,
          "baseDefense" : 102,

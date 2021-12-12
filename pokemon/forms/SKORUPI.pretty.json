@@ -22,6 +22,10 @@
          3.62
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 6
+      },
       "camera" : {
          "cylinderHeightM" : 0.6,
          "cylinderRadiusM" : 0.4,
@@ -80,6 +84,106 @@
          "POISON_STING_FAST",
          "INFESTATION_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            3.8,
+            0,
+            3.62
+         ],
+         "buddyOffsetMale" : [
+            3.8,
+            0,
+            3.62
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.6,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "CROSS_POISON",
+            "AQUA_TAIL",
+            "SLUDGE_BOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.3,
+            "collisionHeadRadiusM" : 0.16,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.189,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "DRAPION",
+               "form" : "DRAPION_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SKORUPI",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.8,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 12,
+         "pokemonId" : "SKORUPI",
+         "quickMoves" : [
+            "POISON_STING_FAST",
+            "INFESTATION_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 93,
+            "baseDefense" : 151,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_BUG",
+         "weightStdDev" : 1.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,
@@ -122,6 +226,10 @@
          3.62
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 6
+      },
       "camera" : {
          "cylinderHeightM" : 0.6,
          "cylinderRadiusM" : 0.4,
@@ -181,6 +289,107 @@
          "POISON_STING_FAST",
          "INFESTATION_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            3.8,
+            0,
+            3.62
+         ],
+         "buddyOffsetMale" : [
+            3.8,
+            0,
+            3.62
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.6,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "CROSS_POISON",
+            "AQUA_TAIL",
+            "SLUDGE_BOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.3,
+            "collisionHeadRadiusM" : 0.16,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.189,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "DRAPION",
+               "form" : "DRAPION_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SKORUPI",
+         "form" : "SKORUPI_NORMAL",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.8,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 12,
+         "pokemonId" : "SKORUPI",
+         "quickMoves" : [
+            "POISON_STING_FAST",
+            "INFESTATION_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 93,
+            "baseDefense" : 151,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_BUG",
+         "weightStdDev" : 1.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,

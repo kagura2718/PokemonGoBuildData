@@ -27,6 +27,10 @@
          1230
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderGroundM" : 0.4,
          "cylinderHeightM" : 1.45,
@@ -81,6 +85,107 @@
          "ROCK_THROW_FAST",
          "SPARK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -72.9
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -72.9
+         ],
+         "buddyPortraitOffset" : [
+            -70,
+            450,
+            1230
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.4,
+            "cylinderHeightM" : 1.45,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "MAGNET_BOMB",
+            "ROCK_SLIDE",
+            "THUNDERBOLT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 7,
+            "collisionHeadRadiusM" : 0.35,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.45,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_NOSEPASS",
+         "heightStdDev" : 0.175,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.4,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "NOSEPASS",
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 340,
+         "pokemonId" : "PROBOPASS",
+         "quickMoves" : [
+            "ROCK_THROW_FAST",
+            "SPARK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 135,
+            "baseDefense" : 275,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 42.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -128,6 +233,10 @@
          1230
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderGroundM" : 0.4,
          "cylinderHeightM" : 1.45,
@@ -183,6 +292,108 @@
          "ROCK_THROW_FAST",
          "SPARK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -72.9
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -72.9
+         ],
+         "buddyPortraitOffset" : [
+            -70,
+            450,
+            1230
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.4,
+            "cylinderHeightM" : 1.45,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "MAGNET_BOMB",
+            "ROCK_SLIDE",
+            "THUNDERBOLT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 7,
+            "collisionHeadRadiusM" : 0.35,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.45,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_NOSEPASS",
+         "form" : "PROBOPASS_NORMAL",
+         "heightStdDev" : 0.175,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.4,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "NOSEPASS",
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 340,
+         "pokemonId" : "PROBOPASS",
+         "quickMoves" : [
+            "ROCK_THROW_FAST",
+            "SPARK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 135,
+            "baseDefense" : 275,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 42.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

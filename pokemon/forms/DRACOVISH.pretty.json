@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 15
+      },
       "camera" : {},
       "cinematicMoves" : [
          "BRINE",
@@ -49,6 +53,69 @@
          "DRAGON_BREATH_FAST",
          "WATER_GUN_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "BRINE",
+            "DRAGON_PULSE",
+            "ANCIENT_POWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "familyId" : "FAMILY_DRACOVISH",
+         "heightStdDev" : 0.2875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 2.3,
+         "pokedexWeightKg" : 215,
+         "pokemonId" : "DRACOVISH",
+         "quickMoves" : [
+            "DRAGON_BREATH_FAST",
+            "WATER_GUN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 175,
+            "baseDefense" : 185,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 26.875
+      },
       "stats" : {
          "baseAttack" : 175,
          "baseDefense" : 185,

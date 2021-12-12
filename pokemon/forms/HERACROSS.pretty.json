@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 1.6,
          "cylinderRadiusM" : 1,
@@ -70,6 +74,90 @@
          "COUNTER_FAST",
          "STRUGGLE_BUG_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            8.96,
+            0,
+            41.27
+         ],
+         "buddyOffsetMale" : [
+            8.96,
+            0,
+            41.27
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.6,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "MEGAHORN",
+            "CLOSE_COMBAT",
+            "EARTHQUAKE",
+            "ROCK_BLAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 5.25,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 1.2,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_HERACROSS",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.5,
+         "modelScale" : 0.84,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 54,
+         "pokemonId" : "HERACROSS",
+         "quickMoves" : [
+            "COUNTER_FAST",
+            "STRUGGLE_BUG_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 234,
+            "baseDefense" : 179,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 6.75
+      },
       "stats" : {
          "baseAttack" : 234,
          "baseDefense" : 179,

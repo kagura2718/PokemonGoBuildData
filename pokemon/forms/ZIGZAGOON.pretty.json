@@ -27,6 +27,9 @@
          1.33
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.7,
          "cylinderRadiusM" : 0.8,
@@ -85,6 +88,110 @@
          "ROCK_SMASH_FAST"
       ],
       "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.53,
+            0,
+            1.33
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.7,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "GRASS_KNOT",
+            "THUNDERBOLT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "LINOONE",
+               "form" : "LINOONE_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ZIGZAGOON",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1.1,
+         "modelScale" : 0.96,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 17.5,
+         "pokemonId" : "ZIGZAGOON",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "ROCK_SMASH_FAST"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 58,
+            "baseDefense" : 80,
+            "baseStamina" : 116
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 2.1875
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -131,6 +238,10 @@
          1.33
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.7,
          "cylinderRadiusM" : 0.45,
@@ -190,6 +301,112 @@
          "TAKE_DOWN_FAST"
       ],
       "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            12,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            12,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.53,
+            0,
+            1.33
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.7,
+            "cylinderRadiusM" : 0.45,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "BODY_SLAM",
+            "SWIFT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 3.5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "LINOONE",
+               "form" : "LINOONE_GALARIAN",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ZIGZAGOON",
+         "form" : "ZIGZAGOON_GALARIAN",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1.1,
+         "modelScale" : 0.96,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 17.5,
+         "pokemonId" : "ZIGZAGOON",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "TAKE_DOWN_FAST"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 58,
+            "baseDefense" : 80,
+            "baseStamina" : 116
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 2.1875
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -237,6 +454,9 @@
          1.33
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.7,
          "cylinderRadiusM" : 0.8,
@@ -296,6 +516,111 @@
          "ROCK_SMASH_FAST"
       ],
       "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.53,
+            0,
+            1.33
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.7,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "GRASS_KNOT",
+            "THUNDERBOLT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "LINOONE",
+               "form" : "LINOONE_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ZIGZAGOON",
+         "form" : "ZIGZAGOON_NORMAL",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1.1,
+         "modelScale" : 0.96,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 17.5,
+         "pokemonId" : "ZIGZAGOON",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "ROCK_SMASH_FAST"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 58,
+            "baseDefense" : 80,
+            "baseStamina" : 116
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 2.1875
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

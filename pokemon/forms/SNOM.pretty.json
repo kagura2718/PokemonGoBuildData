@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 14,
+         "pokemonType2" : 6
+      },
       "camera" : {},
       "cinematicMoves" : [
          "ICY_WIND",
@@ -54,6 +58,74 @@
          "POWDER_SNOW_FAST",
          "STRUGGLE_BUG_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "ICY_WIND",
+            "BUG_BUZZ"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.25,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "FROSMOTH"
+            }
+         ],
+         "familyId" : "FAMILY_SNOM",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 3.8,
+         "pokemonId" : "SNOM",
+         "quickMoves" : [
+            "POWDER_SNOW_FAST",
+            "STRUGGLE_BUG_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 76,
+            "baseDefense" : 59,
+            "baseStamina" : 102
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "type2" : "POKEMON_TYPE_BUG",
+         "weightStdDev" : 0.475
+      },
       "stats" : {
          "baseAttack" : 76,
          "baseDefense" : 59,

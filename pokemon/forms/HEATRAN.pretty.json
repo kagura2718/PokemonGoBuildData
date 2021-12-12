@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 16,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderHeightM" : 1.7,
          "cylinderRadiusM" : 2,
@@ -77,6 +81,97 @@
          "FIRE_SPIN_FAST",
          "BUG_BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            9.65,
+            0,
+            -7.8
+         ],
+         "buddyOffsetMale" : [
+            9.65,
+            0,
+            -7.8
+         ],
+         "buddyPortraitOffset" : [
+            -0.34,
+            0.23,
+            -1.29
+         ],
+         "buddyScale" : 16,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.7,
+            "cylinderRadiusM" : 2,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FIRE_BLAST",
+            "IRON_HEAD",
+            "STONE_EDGE",
+            "FLAMETHROWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 1.5,
+            "collisionRadiusM" : 0.7,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_HEATRAN",
+         "heightStdDev" : 0.2125,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 2.36,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.94,
+         "pokedexHeightM" : 1.7,
+         "pokedexWeightKg" : 430,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "HEATRAN",
+         "quickMoves" : [
+            "FIRE_SPIN_FAST",
+            "BUG_BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 251,
+            "baseDefense" : 213,
+            "baseStamina" : 209
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 53.75
+      },
       "stats" : {
          "baseAttack" : 251,
          "baseDefense" : 213,

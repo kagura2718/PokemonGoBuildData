@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 15,
+         "pokemonType2" : 7
+      },
       "camera" : {},
       "cinematicMoves" : [
          "DRAGON_PULSE",
@@ -60,6 +64,80 @@
          "ASTONISH_FAST",
          "DRAGON_TAIL_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "DRAGON_PULSE",
+            "SHADOW_BALL",
+            "OUTRAGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "DRAGAPULT"
+            }
+         ],
+         "familyId" : "FAMILY_DREEPY",
+         "heightStdDev" : 0.175,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "DREEPY",
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 11,
+         "pokemonId" : "DRAKLOAK",
+         "quickMoves" : [
+            "ASTONISH_FAST",
+            "DRAGON_TAIL_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 163,
+            "baseDefense" : 105,
+            "baseStamina" : 169
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_DRAGON",
+         "type2" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 1.375
+      },
       "stats" : {
          "baseAttack" : 163,
          "baseDefense" : 105,

@@ -17,6 +17,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 15
+      },
       "camera" : {},
       "cinematicMoves" : [
          "HYPER_BEAM",
@@ -50,6 +53,69 @@
       "quickMoves" : [
          "BITE_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "HYPER_BEAM",
+            "OUTRAGE",
+            "DRAGON_PULSE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.1,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_REGIDRAGO",
+         "heightStdDev" : 0.2625,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 2.1,
+         "pokedexWeightKg" : 200,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "REGIDRAGO",
+         "quickMoves" : [
+            "BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 202,
+            "baseDefense" : 101,
+            "baseStamina" : 400
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 25
+      },
       "stats" : {
          "baseAttack" : 202,
          "baseDefense" : 101,

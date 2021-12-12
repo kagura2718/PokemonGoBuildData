@@ -27,6 +27,9 @@
          0.25
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 0.7,
          "cylinderRadiusM" : 0.33,
@@ -92,6 +95,111 @@
          "ROCK_SMASH_FAST",
          "TACKLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.09,
+            -0.07,
+            0.25
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.7,
+            "cylinderRadiusM" : 0.33,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "BRICK_BREAK",
+            "ROCK_SLIDE",
+            "LOW_SWEEP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 2.9,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.2,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "HITMONLEE"
+            },
+            {
+               "candyCost" : 25,
+               "evolution" : "HITMONCHAN"
+            },
+            {
+               "candyCost" : 25,
+               "evolution" : "HITMONTOP"
+            }
+         ],
+         "evolutionIds" : [
+            "HITMONLEE",
+            "HITMONCHAN",
+            "HITMONTOP"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TYROGUE",
+         "heightStdDev" : 0.08875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.7,
+         "modelScale" : 1.17,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.71,
+         "pokedexWeightKg" : 21,
+         "pokemonId" : "TYROGUE",
+         "quickMoves" : [
+            "ROCK_SMASH_FAST",
+            "TACKLE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 64,
+            "baseDefense" : 64,
+            "baseStamina" : 111
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 2.625
+      },
       "stats" : {
          "baseAttack" : 64,
          "baseDefense" : 64,

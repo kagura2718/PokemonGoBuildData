@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.52325,
          "cylinderRadiusM" : 0.3,
@@ -65,6 +68,84 @@
       "quickMoves" : [
          "TRANSFORM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            1.6667,
+            1.6667,
+            0,
+            2,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            6,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            6,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.52325,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.6038,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 3600,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.01875,
+            "collisionHeadRadiusM" : 0.20125,
+            "collisionHeightM" : 0.52325,
+            "collisionRadiusM" : 0.4025,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3600,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DITTO",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.33,
+         "modelScale" : 1.61,
+         "modelScaleV2" : 1.21,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 4,
+         "pokemonId" : "DITTO",
+         "quickMoves" : [
+            "TRANSFORM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 91,
+            "baseDefense" : 91,
+            "baseStamina" : 134
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 0.5
+      },
       "stats" : {
          "baseAttack" : 91,
          "baseDefense" : 91,

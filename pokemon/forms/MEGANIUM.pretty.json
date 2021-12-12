@@ -23,6 +23,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 11
+      },
       "camera" : {
          "cylinderHeightM" : 1.75,
          "cylinderRadiusM" : 0.85,
@@ -76,6 +79,95 @@
          "RAZOR_LEAF_FAST",
          "VINE_WHIP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            13.39,
+            0,
+            31.23
+         ],
+         "buddyOffsetMale" : [
+            13.39,
+            0,
+            31.23
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.75,
+            "cylinderRadiusM" : 0.85,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "PETAL_BLIZZARD",
+            "SOLAR_BEAM",
+            "EARTHQUAKE"
+         ],
+         "eliteCinematicMove" : [
+            "FRENZY_PLANT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 4.790625,
+            "collisionHeadRadiusM" : 0.28,
+            "collisionHeightM" : 0.91,
+            "collisionRadiusM" : 0.36,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.7,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHIKORITA",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.75,
+         "modelScale" : 0.79,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "BAYLEEF",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 100.5,
+         "pokemonId" : "MEGANIUM",
+         "quickMoves" : [
+            "RAZOR_LEAF_FAST",
+            "VINE_WHIP_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 168,
+            "baseDefense" : 202,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 12.5625
+      },
       "stats" : {
          "baseAttack" : 168,
          "baseDefense" : 202,

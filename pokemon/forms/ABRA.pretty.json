@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.15,
          "cylinderHeightM" : 0.784,
@@ -84,6 +87,109 @@
          "ZEN_HEADBUTT_FAST",
          "CHARGE_BEAM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            1.6667,
+            0.6667,
+            0,
+            2.1667,
+            2.6667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.15,
+            "cylinderHeightM" : 0.784,
+            "cylinderRadiusM" : 0.448,
+            "diskRadiusM" : 0.672,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "PSYSHOCK",
+            "SIGNAL_BEAM",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 10,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.99,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.28,
+            "collisionHeightM" : 0.56,
+            "collisionRadiusM" : 0.28,
+            "dodgeDistance" : 0.6,
+            "dodgeDurationS" : 2.4,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 29,
+            "movementType" : "MOVEMENT_PSYCHIC",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "KADABRA",
+               "form" : "KADABRA_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "KADABRA"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ABRA",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.77,
+         "modelScale" : 1.12,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 19.5,
+         "pokemonId" : "ABRA",
+         "quickMoves" : [
+            "ZEN_HEADBUTT_FAST",
+            "CHARGE_BEAM_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 195,
+            "baseDefense" : 82,
+            "baseStamina" : 93
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 2.4375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -125,6 +231,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.15,
          "cylinderHeightM" : 0.784,
@@ -188,6 +297,110 @@
          "ZEN_HEADBUTT_FAST",
          "CHARGE_BEAM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            1.6667,
+            0.6667,
+            0,
+            2.1667,
+            2.6667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.15,
+            "cylinderHeightM" : 0.784,
+            "cylinderRadiusM" : 0.448,
+            "diskRadiusM" : 0.672,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "PSYSHOCK",
+            "SIGNAL_BEAM",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 10,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.99,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.28,
+            "collisionHeightM" : 0.56,
+            "collisionRadiusM" : 0.28,
+            "dodgeDistance" : 0.6,
+            "dodgeDurationS" : 2.4,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 29,
+            "movementType" : "MOVEMENT_PSYCHIC",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "KADABRA",
+               "form" : "KADABRA_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "KADABRA"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ABRA",
+         "form" : "ABRA_NORMAL",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.77,
+         "modelScale" : 1.12,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 19.5,
+         "pokemonId" : "ABRA",
+         "quickMoves" : [
+            "ZEN_HEADBUTT_FAST",
+            "CHARGE_BEAM_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 195,
+            "baseDefense" : 82,
+            "baseStamina" : 93
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 2.4375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

@@ -22,6 +22,10 @@
          -56.1
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 5
+      },
       "camera" : {
          "cylinderHeightM" : 0.897,
          "cylinderRadiusM" : 0.6,
@@ -74,6 +78,94 @@
          "ROCK_THROW_FAST",
          "INCINERATE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            1.29,
+            0,
+            -56.1
+         ],
+         "buddyOffsetMale" : [
+            1.29,
+            0,
+            -56.1
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.897,
+            "cylinderRadiusM" : 0.6,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HEAT_WAVE",
+            "OVERHEAT",
+            "STONE_EDGE",
+            "ROCK_TOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.28,
+            "collisionHeightM" : 0.8,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SLUGMA",
+         "heightStdDev" : 0.09875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.78,
+         "modelScale" : 1.11,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SLUGMA",
+         "pokedexHeightM" : 0.79,
+         "pokedexWeightKg" : 55,
+         "pokemonId" : "MAGCARGO",
+         "quickMoves" : [
+            "EMBER_FAST",
+            "ROCK_THROW_FAST",
+            "INCINERATE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 139,
+            "baseDefense" : 191,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_ROCK",
+         "weightStdDev" : 6.875
+      },
       "stats" : {
          "baseAttack" : 139,
          "baseDefense" : 191,

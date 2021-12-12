@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 1.5,
          "cylinderHeightM" : 2,
@@ -78,6 +82,104 @@
          "FIRE_SPIN_FAST",
          "WING_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.7333,
+            1.3333,
+            2,
+            1.1667,
+            0,
+            2.5,
+            1.8,
+            1.8
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            2.85,
+            -40,
+            18.14
+         ],
+         "buddyOffsetMale" : [
+            2.85,
+            -40,
+            18.14
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 1.5,
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 0.93,
+            "shoulderModeScale" : 0.25
+         },
+         "cinematicMoves" : [
+            "FIRE_BLAST",
+            "HEAT_WAVE",
+            "OVERHEAT",
+            "ANCIENT_POWER"
+         ],
+         "eliteCinematicMove" : [
+            "SKY_ATTACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.03,
+            "baseFleeRate" : 0.1,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 5.23125,
+            "collisionHeadRadiusM" : 0.217,
+            "collisionHeightM" : 0.93,
+            "collisionRadiusM" : 0.403,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.03,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MOLTRES",
+         "heightStdDev" : 0.25,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 3,
+         "modelScale" : 0.62,
+         "modelScaleV2" : 0.86,
+         "pokedexHeightM" : 2,
+         "pokedexWeightKg" : 60,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "MOLTRES",
+         "quickMoves" : [
+            "FIRE_SPIN_FAST",
+            "WING_ATTACK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 20,
+            "purificationStardustNeeded" : 20000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 251,
+            "baseDefense" : 181,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 7.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 20,
          "purificationStardustNeeded" : 20000,
@@ -121,6 +223,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 1.5,
          "cylinderHeightM" : 2,
@@ -177,6 +283,105 @@
          "FIRE_SPIN_FAST",
          "WING_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.7333,
+            1.3333,
+            2,
+            1.1667,
+            0,
+            2.5,
+            1.8,
+            1.8
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            2.85,
+            -40,
+            18.14
+         ],
+         "buddyOffsetMale" : [
+            2.85,
+            -40,
+            18.14
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 1.5,
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 0.93,
+            "shoulderModeScale" : 0.25
+         },
+         "cinematicMoves" : [
+            "FIRE_BLAST",
+            "HEAT_WAVE",
+            "OVERHEAT",
+            "ANCIENT_POWER"
+         ],
+         "eliteCinematicMove" : [
+            "SKY_ATTACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.03,
+            "baseFleeRate" : 0.1,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 5.23125,
+            "collisionHeadRadiusM" : 0.217,
+            "collisionHeightM" : 0.93,
+            "collisionRadiusM" : 0.403,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.03,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MOLTRES",
+         "form" : "MOLTRES_NORMAL",
+         "heightStdDev" : 0.25,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 3,
+         "modelScale" : 0.62,
+         "modelScaleV2" : 0.86,
+         "pokedexHeightM" : 2,
+         "pokedexWeightKg" : 60,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "MOLTRES",
+         "quickMoves" : [
+            "FIRE_SPIN_FAST",
+            "WING_ATTACK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 20,
+            "purificationStardustNeeded" : 20000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 251,
+            "baseDefense" : 181,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 7.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 20,
          "purificationStardustNeeded" : 20000,

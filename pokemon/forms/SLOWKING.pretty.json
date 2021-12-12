@@ -29,6 +29,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 2,
          "cylinderRadiusM" : 0.75,
@@ -81,6 +85,107 @@
          "WATER_GUN_FAST",
          "CONFUSION_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            25,
+            0,
+            32.61
+         ],
+         "buddyOffsetMale" : [
+            25,
+            0,
+            32.61
+         ],
+         "buddyPortraitOffset" : [
+            -0.05,
+            -0.3,
+            -0.32
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 0.75,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "BLIZZARD",
+            "PSYCHIC",
+            "FIRE_BLAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.2,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.91,
+            "collisionRadiusM" : 0.6,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SLOWPOKE",
+         "heightStdDev" : 0.25125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2,
+         "modelScale" : 0.74,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SLOWPOKE",
+         "pokedexHeightM" : 2.01,
+         "pokedexWeightKg" : 79.5,
+         "pokemonId" : "SLOWKING",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "CONFUSION_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 177,
+            "baseDefense" : 180,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 9.9375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -120,6 +225,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 2,
          "cylinderRadiusM" : 0.75
@@ -168,6 +277,93 @@
          "CONFUSION_FAST",
          "ACID_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            25,
+            0,
+            32.61
+         ],
+         "buddyOffsetMale" : [
+            25,
+            0,
+            32.61
+         ],
+         "buddyPortraitOffset" : [
+            -0.05,
+            -0.3,
+            -0.32
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 0.75
+         },
+         "cinematicMoves" : [
+            "FUTURESIGHT",
+            "SHADOW_BALL",
+            "SLUDGE_WAVE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.2,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.91,
+            "collisionRadiusM" : 0.6,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "familyId" : "FAMILY_SLOWPOKE",
+         "form" : "SLOWKING_GALARIAN",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SLOWPOKE",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 79.5,
+         "pokemonId" : "SLOWKING",
+         "quickMoves" : [
+            "HEX_FAST",
+            "CONFUSION_FAST",
+            "ACID_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 190,
+            "baseDefense" : 180,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 9.9375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -217,6 +413,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 2,
          "cylinderRadiusM" : 0.75,
@@ -270,6 +470,108 @@
          "WATER_GUN_FAST",
          "CONFUSION_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            25,
+            0,
+            32.61
+         ],
+         "buddyOffsetMale" : [
+            25,
+            0,
+            32.61
+         ],
+         "buddyPortraitOffset" : [
+            -0.05,
+            -0.3,
+            -0.32
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 0.75,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "BLIZZARD",
+            "PSYCHIC",
+            "FIRE_BLAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.2,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.91,
+            "collisionRadiusM" : 0.6,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SLOWPOKE",
+         "form" : "SLOWKING_NORMAL",
+         "heightStdDev" : 0.25125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2,
+         "modelScale" : 0.74,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SLOWPOKE",
+         "pokedexHeightM" : 2.01,
+         "pokedexWeightKg" : 79.5,
+         "pokemonId" : "SLOWKING",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "CONFUSION_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 177,
+            "baseDefense" : 180,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 9.9375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

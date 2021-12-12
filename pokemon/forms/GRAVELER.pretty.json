@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.8,
@@ -92,6 +96,118 @@
          "ROCK_THROW_FAST",
          "MUD_SLAP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.3333,
+            0.6667,
+            1.8667,
+            1.8333,
+            0,
+            2,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            0,
+            43.9
+         ],
+         "buddyOffsetMale" : [
+            15,
+            0,
+            43.9
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 1.0455,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 100,
+         "cinematicMoves" : [
+            "DIG",
+            "STONE_EDGE",
+            "ROCK_BLAST"
+         ],
+         "eliteCinematicMove" : [
+            "ROCK_SLIDE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 5,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.2275,
+            "collisionHeadRadiusM" : 0.369,
+            "collisionHeightM" : 0.697,
+            "collisionRadiusM" : 0.492,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 14,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.25,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "GOLEM",
+               "form" : "GOLEM_NORMAL",
+               "noCandyCostViaTrade" : true,
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionIds" : [
+            "GOLEM"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GEODUDE",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1.6,
+         "modelScale" : 0.82,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "GEODUDE",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 105,
+         "pokemonId" : "GRAVELER",
+         "quickMoves" : [
+            "ROCK_THROW_FAST",
+            "MUD_SLAP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 164,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 13.125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 1,
          "purificationStardustNeeded" : 1000,
@@ -140,6 +256,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 12
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.8,
@@ -207,6 +327,121 @@
          "ROCK_THROW_FAST",
          "VOLT_SWITCH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.3333,
+            0.6667,
+            1.8667,
+            1.8333,
+            0,
+            2,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            0,
+            43.9
+         ],
+         "buddyOffsetMale" : [
+            15,
+            0,
+            43.9
+         ],
+         "buddyPortraitOffset" : [
+            0.09,
+            0.09,
+            0.12
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 1.0455,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 100,
+         "cinematicMoves" : [
+            "THUNDERBOLT",
+            "STONE_EDGE",
+            "ROCK_BLAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 5,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.2275,
+            "collisionHeadRadiusM" : 0.369,
+            "collisionHeightM" : 0.697,
+            "collisionRadiusM" : 0.492,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 14,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.25,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "GOLEM",
+               "form" : "GOLEM_ALOLA",
+               "noCandyCostViaTrade" : true,
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionIds" : [
+            "GOLEM"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GEODUDE",
+         "form" : "GRAVELER_ALOLA",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1.6,
+         "modelScale" : 0.82,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "GEODUDE",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 110,
+         "pokemonId" : "GRAVELER",
+         "quickMoves" : [
+            "ROCK_THROW_FAST",
+            "VOLT_SWITCH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 164,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 13.75
+      },
       "shadow" : {
          "purificationCandyNeeded" : 1,
          "purificationStardustNeeded" : 1000,
@@ -250,6 +485,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.8,
@@ -320,6 +559,119 @@
          "ROCK_THROW_FAST",
          "MUD_SLAP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.3333,
+            0.6667,
+            1.8667,
+            1.8333,
+            0,
+            2,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            0,
+            43.9
+         ],
+         "buddyOffsetMale" : [
+            15,
+            0,
+            43.9
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 1.0455,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 100,
+         "cinematicMoves" : [
+            "DIG",
+            "STONE_EDGE",
+            "ROCK_BLAST"
+         ],
+         "eliteCinematicMove" : [
+            "ROCK_SLIDE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 5,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.2275,
+            "collisionHeadRadiusM" : 0.369,
+            "collisionHeightM" : 0.697,
+            "collisionRadiusM" : 0.492,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 14,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.25,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "GOLEM",
+               "form" : "GOLEM_NORMAL",
+               "noCandyCostViaTrade" : true,
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionIds" : [
+            "GOLEM"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GEODUDE",
+         "form" : "GRAVELER_NORMAL",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1.6,
+         "modelScale" : 0.82,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "GEODUDE",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 105,
+         "pokemonId" : "GRAVELER",
+         "quickMoves" : [
+            "ROCK_THROW_FAST",
+            "MUD_SLAP_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 164,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 13.125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 1,
          "purificationStardustNeeded" : 1000,

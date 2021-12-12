@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 16
+      },
       "camera" : {
          "cylinderHeightM" : 0.4,
          "cylinderRadiusM" : 0.25,
@@ -80,6 +83,99 @@
          "SCRATCH_FAST",
          "SUCKER_PUNCH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            6.3,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            6.3,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.02,
+            0.01,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.25,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "NIGHT_SLASH",
+            "PLAY_ROUGH",
+            "DARK_PULSE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.05,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.8,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "LIEPARD"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_PURRLOIN",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.4,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.3,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 10.1,
+         "pokemonId" : "PURRLOIN",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 98,
+            "baseDefense" : 73,
+            "baseStamina" : 121
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 1.2625
+      },
       "stats" : {
          "baseAttack" : 98,
          "baseDefense" : 73,

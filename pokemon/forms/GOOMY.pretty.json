@@ -24,6 +24,9 @@
          -90,
          0
       ],
+      "built" : {
+         "pokemonType" : 15
+      },
       "camera" : {
          "cylinderHeightM" : 0.4,
          "cylinderRadiusM" : 0.25
@@ -71,6 +74,90 @@
          "WATER_GUN_FAST",
          "TACKLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyOffsetFemale" : [
+            7,
+            0,
+            -15
+         ],
+         "buddyOffsetMale" : [
+            7,
+            0,
+            -15
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -90,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.25
+         },
+         "cinematicMoves" : [
+            "DRAGON_PULSE",
+            "SLUDGE_WAVE",
+            "MUDDY_WATER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "SLIGGOO"
+            }
+         ],
+         "familyId" : "FAMILY_GOOMY",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.47,
+         "modelScale" : 1.38,
+         "modelScaleV2" : 1.02,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 2.8,
+         "pokemonId" : "GOOMY",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "TACKLE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 101,
+            "baseDefense" : 112,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 0.35
+      },
       "stats" : {
          "baseAttack" : 101,
          "baseDefense" : 112,

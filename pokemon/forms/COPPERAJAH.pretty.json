@@ -17,6 +17,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 8
+      },
       "camera" : {},
       "cinematicMoves" : [
          "IRON_HEAD",
@@ -54,6 +57,73 @@
          "TACKLE_FAST",
          "ROCK_SMASH_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "IRON_HEAD",
+            "DIG",
+            "PLAY_ROUGH",
+            "HEAVY_SLAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "familyId" : "FAMILY_CUFANT",
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CUFANT",
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 100,
+         "pokemonId" : "COPPERAJAH",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "ROCK_SMASH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 226,
+            "baseDefense" : 126,
+            "baseStamina" : 263
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 12.5
+      },
       "stats" : {
          "baseAttack" : 226,
          "baseDefense" : 126,

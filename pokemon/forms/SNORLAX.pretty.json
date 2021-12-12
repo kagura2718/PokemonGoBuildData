@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 2,
          "cylinderRadiusM" : 1.15,
@@ -95,6 +98,120 @@
          "ZEN_HEADBUTT_FAST",
          "LICK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.4,
+            0.6667,
+            1.8333,
+            1.6667,
+            0,
+            2.5,
+            2.5,
+            2.333333
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            28.01
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            28.01
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.18,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 1.15,
+            "diskRadiusM" : 1.11,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HEAVY_SLAM",
+            "HYPER_BEAM",
+            "EARTHQUAKE",
+            "OUTRAGE",
+            "SKULL_BASH",
+            "BODY_SLAM",
+            "SUPER_POWER"
+         ],
+         "combatDefaultCameraAngle" : [
+            2.7,
+            2,
+            2
+         ],
+         "combatShoulderCameraAngle" : [
+            2.5,
+            1,
+            1.5
+         ],
+         "eliteQuickMove" : [
+            "YAWN_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 5.55,
+            "collisionHeadRadiusM" : 0.481,
+            "collisionHeightM" : 1.11,
+            "collisionRadiusM" : 0.74,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SNORLAX",
+         "heightStdDev" : 0.2625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 2,
+         "modelScale" : 0.74,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "MUNCHLAX",
+         "pokedexHeightM" : 2.1,
+         "pokedexWeightKg" : 460,
+         "pokemonId" : "SNORLAX",
+         "quickMoves" : [
+            "ZEN_HEADBUTT_FAST",
+            "LICK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 190,
+            "baseDefense" : 169,
+            "baseStamina" : 330
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 57.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,
@@ -142,6 +259,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 2,
          "cylinderRadiusM" : 1.15,
@@ -210,6 +330,121 @@
          "ZEN_HEADBUTT_FAST",
          "LICK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.4,
+            0.6667,
+            1.8333,
+            1.6667,
+            0,
+            2.5,
+            2.5,
+            2.333333
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            28.01
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            28.01
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.18,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 1.15,
+            "diskRadiusM" : 1.11,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HEAVY_SLAM",
+            "HYPER_BEAM",
+            "EARTHQUAKE",
+            "OUTRAGE",
+            "SKULL_BASH",
+            "BODY_SLAM",
+            "SUPER_POWER"
+         ],
+         "combatDefaultCameraAngle" : [
+            2.7,
+            2,
+            2
+         ],
+         "combatShoulderCameraAngle" : [
+            2.5,
+            1,
+            1.5
+         ],
+         "eliteQuickMove" : [
+            "YAWN_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 5.55,
+            "collisionHeadRadiusM" : 0.481,
+            "collisionHeightM" : 1.11,
+            "collisionRadiusM" : 0.74,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SNORLAX",
+         "form" : "SNORLAX_NORMAL",
+         "heightStdDev" : 0.2625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 2,
+         "modelScale" : 0.74,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "MUNCHLAX",
+         "pokedexHeightM" : 2.1,
+         "pokedexWeightKg" : 460,
+         "pokemonId" : "SNORLAX",
+         "quickMoves" : [
+            "ZEN_HEADBUTT_FAST",
+            "LICK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 190,
+            "baseDefense" : 169,
+            "baseStamina" : 330
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 57.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,

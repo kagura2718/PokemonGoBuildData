@@ -22,6 +22,10 @@
          15
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.10309278,
          "cylinderHeightM" : 1.1,
@@ -81,6 +85,107 @@
          "FURY_CUTTER_FAST",
          "WING_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            5.82,
+            8.88,
+            15
+         ],
+         "buddyOffsetMale" : [
+            5.82,
+            8.88,
+            15
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.10309278,
+            "cylinderHeightM" : 1.1,
+            "cylinderRadiusM" : 0.6,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "AERIAL_ACE",
+            "NIGHT_SLASH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4.125,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.7,
+            "collisionRadiusM" : 0.3,
+            "dodgeDistance" : 0.75,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "GLISCOR",
+               "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+               "form" : "GLISCOR_NORMAL",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GLIGAR",
+         "heightStdDev" : 0.13625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.07,
+         "modelScale" : 0.97,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.09,
+         "pokedexWeightKg" : 64.8,
+         "pokemonId" : "GLIGAR",
+         "quickMoves" : [
+            "FURY_CUTTER_FAST",
+            "WING_ATTACK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 143,
+            "baseDefense" : 184,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 8.1
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,
@@ -123,6 +228,10 @@
          15
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.10309278,
          "cylinderHeightM" : 1.1,
@@ -183,6 +292,108 @@
          "FURY_CUTTER_FAST",
          "WING_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            5.82,
+            8.88,
+            15
+         ],
+         "buddyOffsetMale" : [
+            5.82,
+            8.88,
+            15
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.10309278,
+            "cylinderHeightM" : 1.1,
+            "cylinderRadiusM" : 0.6,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "AERIAL_ACE",
+            "NIGHT_SLASH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4.125,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.7,
+            "collisionRadiusM" : 0.3,
+            "dodgeDistance" : 0.75,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "GLISCOR",
+               "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE",
+               "form" : "GLISCOR_NORMAL",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GLIGAR",
+         "form" : "GLIGAR_NORMAL",
+         "heightStdDev" : 0.13625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.07,
+         "modelScale" : 0.97,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.09,
+         "pokedexWeightKg" : 64.8,
+         "pokemonId" : "GLIGAR",
+         "quickMoves" : [
+            "FURY_CUTTER_FAST",
+            "WING_ATTACK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 143,
+            "baseDefense" : 184,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 8.1
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,

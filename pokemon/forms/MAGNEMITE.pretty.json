@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 12,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderGroundM" : 0.6,
          "cylinderHeightM" : 0.456,
@@ -85,6 +89,111 @@
          "SPARK_FAST",
          "THUNDER_SHOCK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.2333,
+            0.6667,
+            0,
+            2,
+            1.1667,
+            1.166667
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            -3.88,
+            -12.4,
+            86.88
+         ],
+         "buddyOffsetMale" : [
+            -3.88,
+            -12.4,
+            86.88
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.6,
+            "cylinderHeightM" : 0.456,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.684,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "DISCHARGE",
+            "MAGNET_BOMB",
+            "THUNDERBOLT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.42,
+            "collisionHeadRadiusM" : 0.228,
+            "collisionHeightM" : 0.456,
+            "collisionRadiusM" : 0.456,
+            "dodgeDistance" : 0.1,
+            "dodgeDurationS" : 0.4,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_ELECTRIC",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "MAGNETON",
+               "form" : "MAGNETON_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "MAGNETON"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MAGNEMITE",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.38,
+         "modelScale" : 1.52,
+         "modelScaleV2" : 1.13,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 6,
+         "pokemonId" : "MAGNEMITE",
+         "quickMoves" : [
+            "SPARK_FAST",
+            "THUNDER_SHOCK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 165,
+            "baseDefense" : 121,
+            "baseStamina" : 93
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 0.75
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -128,6 +237,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 12,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderGroundM" : 0.6,
          "cylinderHeightM" : 0.456,
@@ -191,6 +304,112 @@
          "SPARK_FAST",
          "THUNDER_SHOCK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.2333,
+            0.6667,
+            0,
+            2,
+            1.1667,
+            1.166667
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            -3.88,
+            -12.4,
+            86.88
+         ],
+         "buddyOffsetMale" : [
+            -3.88,
+            -12.4,
+            86.88
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.6,
+            "cylinderHeightM" : 0.456,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.684,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "DISCHARGE",
+            "MAGNET_BOMB",
+            "THUNDERBOLT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.42,
+            "collisionHeadRadiusM" : 0.228,
+            "collisionHeightM" : 0.456,
+            "collisionRadiusM" : 0.456,
+            "dodgeDistance" : 0.1,
+            "dodgeDurationS" : 0.4,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_ELECTRIC",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "MAGNETON",
+               "form" : "MAGNETON_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "MAGNETON"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MAGNEMITE",
+         "form" : "MAGNEMITE_NORMAL",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.38,
+         "modelScale" : 1.52,
+         "modelScaleV2" : 1.13,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 6,
+         "pokemonId" : "MAGNEMITE",
+         "quickMoves" : [
+            "SPARK_FAST",
+            "THUNDER_SHOCK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 165,
+            "baseDefense" : 121,
+            "baseStamina" : 93
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 0.75
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

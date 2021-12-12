@@ -9,6 +9,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 6
+      },
       "camera" : {
          "cylinderHeightM" : 0.4,
          "cylinderRadiusM" : 0.25
@@ -56,6 +59,75 @@
          "BUG_BITE_FAST",
          "TACKLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.25
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.09,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "VIVILLON"
+            }
+         ],
+         "familyId" : "FAMILY_SCATTERBUG",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.32,
+         "modelScale" : 1.63,
+         "modelScaleV2" : 1.22,
+         "parentPokemonId" : "SCATTERBUG",
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 8.4,
+         "pokemonId" : "SPEWPA",
+         "quickMoves" : [
+            "BUG_BITE_FAST",
+            "TACKLE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 48,
+            "baseDefense" : 89,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "weightStdDev" : 1.05
+      },
       "stats" : {
          "baseAttack" : 48,
          "baseDefense" : 89,

@@ -27,6 +27,9 @@
          -0.12
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 0.5,
          "cylinderRadiusM" : 0.35,
@@ -84,6 +87,103 @@
          "TACKLE_FAST"
       ],
       "raidBossDistanceOffset" : 5.5,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4.46,
+            0,
+            4.76
+         ],
+         "buddyOffsetMale" : [
+            4.46,
+            0,
+            4.76
+         ],
+         "buddyPortraitOffset" : [
+            -0.03,
+            0.06,
+            -0.12
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.35,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FLAME_CHARGE",
+            "SWIFT",
+            "FLAMETHROWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.6,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.2,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "QUILAVA"
+            }
+         ],
+         "evolutionIds" : [
+            "QUILAVA"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CYNDAQUIL",
+         "heightStdDev" : 0.06375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.46,
+         "modelScale" : 1.4,
+         "modelScaleV2" : 1.04,
+         "pokedexHeightM" : 0.51,
+         "pokedexWeightKg" : 7.9,
+         "pokemonId" : "CYNDAQUIL",
+         "quickMoves" : [
+            "EMBER_FAST",
+            "TACKLE_FAST"
+         ],
+         "raidBossDistanceOffset" : 5.5,
+         "stats" : {
+            "baseAttack" : 116,
+            "baseDefense" : 93,
+            "baseStamina" : 118
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 0.9875
+      },
       "stats" : {
          "baseAttack" : 116,
          "baseDefense" : 93,

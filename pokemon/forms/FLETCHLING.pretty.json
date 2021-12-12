@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderHeightM" : 0.25,
          "cylinderRadiusM" : 0.15
@@ -63,6 +67,83 @@
          "PECK_FAST",
          "QUICK_ATTACK_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            2,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            2,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.25,
+            "cylinderRadiusM" : 0.15
+         },
+         "cinematicMoves" : [
+            "AERIAL_ACE",
+            "HEAT_WAVE",
+            "SWIFT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 2.75,
+            "collisionHeadRadiusM" : 0.095,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.09,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "FLETCHINDER"
+            }
+         ],
+         "familyId" : "FAMILY_FLETCHLING",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.3,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 1.7,
+         "pokemonId" : "FLETCHLING",
+         "quickMoves" : [
+            "PECK_FAST",
+            "QUICK_ATTACK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 95,
+            "baseDefense" : 80,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.2125
+      },
       "stats" : {
          "baseAttack" : 95,
          "baseDefense" : 80,

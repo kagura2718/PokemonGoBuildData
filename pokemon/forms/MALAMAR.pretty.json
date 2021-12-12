@@ -19,6 +19,10 @@
          0,
          -52
       ],
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 2,
          "cylinderRadiusM" : 1
@@ -65,6 +69,85 @@
          "PECK_FAST",
          "PSYCHO_CUT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyOffsetFemale" : [
+            -0.5,
+            0,
+            -52
+         ],
+         "buddyOffsetMale" : [
+            -0.5,
+            0,
+            -52
+         ],
+         "camera" : {
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 1
+         },
+         "cinematicMoves" : [
+            "PSYBEAM",
+            "FOUL_PLAY",
+            "SUPER_POWER",
+            "HYPER_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_INKAY",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "INKAY",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 47,
+         "pokemonId" : "MALAMAR",
+         "quickMoves" : [
+            "PECK_FAST",
+            "PSYCHO_CUT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 177,
+            "baseDefense" : 165,
+            "baseStamina" : 200
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 5.875
+      },
       "stats" : {
          "baseAttack" : 177,
          "baseDefense" : 165,

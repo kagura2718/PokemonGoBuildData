@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 1.16,
          "cylinderRadiusM" : 0.9,
@@ -74,6 +77,93 @@
          "LICK_FAST",
          "FIRE_SPIN_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            18,
+            0,
+            -70
+         ],
+         "buddyOffsetMale" : [
+            18,
+            0,
+            -70
+         ],
+         "buddyPortraitOffset" : [
+            -110,
+            -180,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.16,
+            "cylinderRadiusM" : 0.9,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FLAMETHROWER",
+            "THUNDER_PUNCH",
+            "POWER_UP_PUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.7,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.35,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.35,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.05,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_HEATMOR",
+         "heightStdDev" : 0.175,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.15,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 58,
+         "pokemonId" : "HEATMOR",
+         "quickMoves" : [
+            "LICK_FAST",
+            "FIRE_SPIN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 204,
+            "baseDefense" : 129,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 7.25
+      },
       "stats" : {
          "baseAttack" : 204,
          "baseDefense" : 129,

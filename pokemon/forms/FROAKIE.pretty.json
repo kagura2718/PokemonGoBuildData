@@ -26,6 +26,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.42,
          "cylinderRadiusM" : 0.19
@@ -75,6 +78,94 @@
          "POUND_FAST",
          "BUBBLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            3.9,
+            0,
+            -11.8
+         ],
+         "buddyOffsetMale" : [
+            3.9,
+            0,
+            -11.8
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0.075,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.42,
+            "cylinderRadiusM" : 0.19
+         },
+         "cinematicMoves" : [
+            "WATER_PULSE",
+            "AERIAL_ACE",
+            "SURF"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.2,
+            "collisionHeadRadiusM" : 0.18,
+            "collisionHeightM" : 0.225,
+            "collisionRadiusM" : 0.09,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "FROGADIER"
+            }
+         ],
+         "familyId" : "FAMILY_FROAKIE",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.42,
+         "modelScale" : 1.45,
+         "modelScaleV2" : 1.07,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 7,
+         "pokemonId" : "FROAKIE",
+         "quickMoves" : [
+            "POUND_FAST",
+            "BUBBLE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 122,
+            "baseDefense" : 84,
+            "baseStamina" : 121
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 0.875
+      },
       "stats" : {
          "baseAttack" : 122,
          "baseDefense" : 84,

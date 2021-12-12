@@ -17,6 +17,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 17
+      },
       "camera" : {},
       "cinematicMoves" : [
          "DAZZLING_GLEAM",
@@ -53,6 +56,72 @@
          "TACKLE_FAST",
          "CHARM_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "DAZZLING_GLEAM",
+            "PSYSHOCK",
+            "ENERGY_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "familyId" : "FAMILY_MILCERY",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "MILCERY",
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 0.5,
+         "pokemonId" : "ALCREMIE",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "CHARM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 203,
+            "baseDefense" : 203,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 0.0625
+      },
       "stats" : {
          "baseAttack" : 203,
          "baseDefense" : 203,

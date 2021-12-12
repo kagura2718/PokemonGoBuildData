@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 7
+      },
       "camera" : {
          "cylinderGroundM" : 0.4,
          "cylinderHeightM" : 0.8,
@@ -80,6 +83,105 @@
          "FEINT_ATTACK_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            4,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.4,
+            "cylinderHeightM" : 0.8,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "OMINOUS_WIND",
+            "NIGHT_SHADE",
+            "SHADOW_SNEAK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "BANETTE",
+               "form" : "BANETTE_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHUPPET",
+         "heightStdDev" : 0.07625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.64,
+         "modelScale" : 1.21,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.61,
+         "pokedexWeightKg" : 2.3,
+         "pokemonId" : "SHUPPET",
+         "quickMoves" : [
+            "FEINT_ATTACK_FAST",
+            "ASTONISH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 138,
+            "baseDefense" : 65,
+            "baseStamina" : 127
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 0.2875
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -121,6 +223,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 7
+      },
       "camera" : {
          "cylinderGroundM" : 0.4,
          "cylinderHeightM" : 0.8,
@@ -180,6 +285,106 @@
          "FEINT_ATTACK_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            4,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.4,
+            "cylinderHeightM" : 0.8,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "OMINOUS_WIND",
+            "NIGHT_SHADE",
+            "SHADOW_SNEAK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "BANETTE",
+               "form" : "BANETTE_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHUPPET",
+         "form" : "SHUPPET_NORMAL",
+         "heightStdDev" : 0.07625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.64,
+         "modelScale" : 1.21,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.61,
+         "pokedexWeightKg" : 2.3,
+         "pokemonId" : "SHUPPET",
+         "quickMoves" : [
+            "FEINT_ATTACK_FAST",
+            "ASTONISH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 138,
+            "baseDefense" : 65,
+            "baseStamina" : 127
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 0.2875
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

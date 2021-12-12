@@ -29,6 +29,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 25,
+      "built" : {
+         "pokemonType" : 8,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 5,
          "cylinderRadiusM" : 4,
@@ -89,6 +93,139 @@
          "THUNDER_FANG_FAST"
       ],
       "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            -2.2,
+            -200
+         ],
+         "buddyOffsetMale" : [
+            20,
+            -2.2,
+            -200
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0.33,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 25,
+         "camera" : {
+            "cylinderHeightM" : 5,
+            "cylinderRadiusM" : 4,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "HEAVY_SLAM",
+            "CRUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 1.2,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ONIX",
+         "heightStdDev" : 1.14875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 7.26,
+         "modelScale" : 0.43,
+         "modelScaleV2" : 0.58,
+         "parentPokemonId" : "ONIX",
+         "pokedexHeightM" : 9.19,
+         "pokedexWeightKg" : 400,
+         "pokemonId" : "STEELIX",
+         "quickMoves" : [
+            "IRON_TAIL_FAST",
+            "DRAGON_TAIL_FAST",
+            "THUNDER_FANG_FAST"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 148,
+            "baseDefense" : 272,
+            "baseStamina" : 181
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 10.5,
+               "averageWeightKg" : 740,
+               "buddyOffsetFemale" : [
+                  0,
+                  0,
+                  -89
+               ],
+               "buddyOffsetMale" : [
+                  0,
+                  0,
+                  -89
+               ],
+               "stats" : {
+                  "baseAttack" : 212,
+                  "baseDefense" : 327,
+                  "baseStamina" : 181
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_STEEL",
+               "typeOverride2" : "POKEMON_TYPE_GROUND"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_STEEL",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 50
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,
@@ -162,6 +299,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 25,
+      "built" : {
+         "pokemonType" : 8,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 5,
          "cylinderRadiusM" : 4,
@@ -223,6 +364,140 @@
          "THUNDER_FANG_FAST"
       ],
       "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            -2.2,
+            -200
+         ],
+         "buddyOffsetMale" : [
+            20,
+            -2.2,
+            -200
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0.33,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 25,
+         "camera" : {
+            "cylinderHeightM" : 5,
+            "cylinderRadiusM" : 4,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "HEAVY_SLAM",
+            "CRUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 1.2,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ONIX",
+         "form" : "STEELIX_NORMAL",
+         "heightStdDev" : 1.14875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 7.26,
+         "modelScale" : 0.43,
+         "modelScaleV2" : 0.58,
+         "parentPokemonId" : "ONIX",
+         "pokedexHeightM" : 9.19,
+         "pokedexWeightKg" : 400,
+         "pokemonId" : "STEELIX",
+         "quickMoves" : [
+            "IRON_TAIL_FAST",
+            "DRAGON_TAIL_FAST",
+            "THUNDER_FANG_FAST"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 148,
+            "baseDefense" : 272,
+            "baseStamina" : 181
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 10.5,
+               "averageWeightKg" : 740,
+               "buddyOffsetFemale" : [
+                  0,
+                  0,
+                  -89
+               ],
+               "buddyOffsetMale" : [
+                  0,
+                  0,
+                  -89
+               ],
+               "stats" : {
+                  "baseAttack" : 212,
+                  "baseDefense" : 327,
+                  "baseStamina" : 181
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_STEEL",
+               "typeOverride2" : "POKEMON_TYPE_GROUND"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_STEEL",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 50
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,

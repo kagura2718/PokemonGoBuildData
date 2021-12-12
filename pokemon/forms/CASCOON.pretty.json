@@ -27,6 +27,9 @@
          -0.46
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 6
+      },
       "camera" : {
          "cylinderHeightM" : 0.7,
          "cylinderRadiusM" : 0.4,
@@ -81,6 +84,100 @@
          "POISON_STING_FAST",
          "BUG_BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            -0.13,
+            0,
+            -0.46
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.7,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.09,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "DUSTOX"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_WURMPLE",
+         "heightStdDev" : 0.08875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.46,
+         "modelScale" : 1.4,
+         "modelScaleV2" : 1.04,
+         "parentPokemonId" : "WURMPLE",
+         "pokedexHeightM" : 0.71,
+         "pokedexWeightKg" : 11.5,
+         "pokemonId" : "CASCOON",
+         "quickMoves" : [
+            "POISON_STING_FAST",
+            "BUG_BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 60,
+            "baseDefense" : 77,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "weightStdDev" : 1.4375
+      },
       "stats" : {
          "baseAttack" : 60,
          "baseDefense" : 77,

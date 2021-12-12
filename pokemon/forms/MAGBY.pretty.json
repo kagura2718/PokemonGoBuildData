@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 10,
       "buddySize" : "BUDDY_BABY",
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 0.75,
          "cylinderRadiusM" : 0.4,
@@ -86,6 +89,105 @@
          "EMBER_FAST",
          "KARATE_CHOP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            0,
+            -3,
+            1
+         ],
+         "buddyOffsetMale" : [
+            0,
+            -3,
+            1
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.1,
+            0
+         ],
+         "buddyScale" : 10,
+         "buddySize" : "BUDDY_BABY",
+         "camera" : {
+            "cylinderHeightM" : 0.75,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "BRICK_BREAK",
+            "FIRE_PUNCH",
+            "FLAME_BURST"
+         ],
+         "eliteCinematicMove" : [
+            "FLAMETHROWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 3.22875,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.3,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "MAGMAR"
+            }
+         ],
+         "evolutionIds" : [
+            "MAGMAR"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MAGMAR",
+         "heightStdDev" : 0.08875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.7,
+         "modelScale" : 1.17,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.71,
+         "pokedexWeightKg" : 21.4,
+         "pokemonId" : "MAGBY",
+         "quickMoves" : [
+            "EMBER_FAST",
+            "KARATE_CHOP_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 151,
+            "baseDefense" : 99,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 2.675
+      },
       "stats" : {
          "baseAttack" : 151,
          "baseDefense" : 99,

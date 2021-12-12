@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 15,
+         "pokemonType2" : 12
+      },
       "camera" : {
          "cylinderHeightM" : 3.41,
          "cylinderRadiusM" : 2.9,
@@ -77,6 +81,97 @@
          "DRAGON_BREATH_FAST",
          "CHARGE_BEAM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            19,
+            0,
+            -21
+         ],
+         "buddyOffsetMale" : [
+            19,
+            0,
+            -21
+         ],
+         "buddyPortraitOffset" : [
+            0.43,
+            0.02,
+            1.16
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 3.41,
+            "cylinderRadiusM" : 2.9,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "OUTRAGE",
+            "WILD_CHARGE",
+            "FLASH_CANNON",
+            "CRUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.01,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 7,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ZEKROM",
+         "heightStdDev" : 0.3625,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 4.43,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.86,
+         "pokedexHeightM" : 2.9,
+         "pokedexWeightKg" : 345,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "ZEKROM",
+         "quickMoves" : [
+            "DRAGON_BREATH_FAST",
+            "CHARGE_BEAM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 275,
+            "baseDefense" : 211,
+            "baseStamina" : 205
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_DRAGON",
+         "type2" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 43.125
+      },
       "stats" : {
          "baseAttack" : 275,
          "baseDefense" : 211,

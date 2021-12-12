@@ -9,6 +9,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -64,6 +67,83 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -86,6 +166,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -142,6 +225,84 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_DANDY",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -164,6 +325,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -221,6 +385,85 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_DEBUTANTE",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -243,6 +486,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -299,6 +545,84 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_DIAMOND",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -321,6 +645,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -378,6 +705,85 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_HEART",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -400,6 +806,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -457,6 +866,85 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_KABUKI",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -479,6 +967,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -535,6 +1026,84 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_LA_REINE",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -557,6 +1126,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -613,6 +1185,84 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_MATRON",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -635,6 +1285,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -691,6 +1344,84 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_NATURAL",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -713,6 +1444,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -770,6 +1504,85 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_PHARAOH",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,
@@ -792,6 +1605,9 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.8
@@ -849,6 +1665,85 @@
          "SUCKER_PUNCH_FAST"
       ],
       "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "SURF",
+            "DARK_PULSE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FURFROU",
+         "form" : "FURFROU_STAR",
+         "formChange" : [
+            {
+               "availableForm" : [
+                  "FURFROU_NATURAL",
+                  "FURFROU_DIAMOND",
+                  "FURFROU_MATRON",
+                  "FURFROU_DANDY",
+                  "FURFROU_LA_REINE"
+               ],
+               "candyCost" : 25,
+               "stardustCost" : 10000
+            }
+         ],
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "FURFROU",
+         "quickMoves" : [
+            "TAKE_DOWN_FAST",
+            "BITE_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 167,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 167,

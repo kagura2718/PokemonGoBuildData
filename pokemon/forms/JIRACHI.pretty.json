@@ -22,6 +22,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 8,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.2,
          "cylinderHeightM" : 0.4,
@@ -67,6 +71,87 @@
          "CONFUSION_FAST",
          "CHARGE_BEAM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.2,
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DAZZLING_GLEAM",
+            "PSYCHIC",
+            "DOOM_DESIRE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 100,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 3.12,
+            "collisionHeadRadiusM" : 0.35,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.02,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_JIRACHI",
+         "heightStdDev" : 0.0375,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 0.3,
+         "modelScale" : 1.68,
+         "modelScaleV2" : 1.27,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 1.1,
+         "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+         "pokemonId" : "JIRACHI",
+         "quickMoves" : [
+            "CONFUSION_FAST",
+            "CHARGE_BEAM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 210,
+            "baseDefense" : 210,
+            "baseStamina" : 225
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_STEEL",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 0.1375
+      },
       "stats" : {
          "baseAttack" : 210,
          "baseDefense" : 210,

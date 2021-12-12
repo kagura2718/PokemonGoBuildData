@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 14
+      },
       "camera" : {
          "cylinderGroundM" : 0.3,
          "cylinderHeightM" : 1.15,
@@ -85,6 +88,104 @@
          "FROST_BREATH_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            13,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            13,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.3,
+            "cylinderHeightM" : 1.15,
+            "cylinderRadiusM" : 0.35,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ICY_WIND",
+            "ICE_BEAM",
+            "SIGNAL_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 0.6,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "VANILLUXE"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_VANILLITE",
+         "heightStdDev" : 0.1375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.1,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "VANILLITE",
+         "pokedexHeightM" : 1.1,
+         "pokedexWeightKg" : 41,
+         "pokemonId" : "VANILLISH",
+         "quickMoves" : [
+            "FROST_BREATH_FAST",
+            "ASTONISH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 151,
+            "baseDefense" : 138,
+            "baseStamina" : 139
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 5.125
+      },
       "stats" : {
          "baseAttack" : 151,
          "baseDefense" : 138,

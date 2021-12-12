@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 17,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 1,
@@ -80,6 +84,106 @@
          "BITE_FAST",
          "RAZOR_LEAF_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            37.25,
+            0,
+            1
+         ],
+         "buddyOffsetMale" : [
+            37.25,
+            0,
+            1
+         ],
+         "buddyScale" : 17,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "STONE_EDGE",
+            "SOLAR_BEAM",
+            "EARTHQUAKE",
+            "SAND_TOMB"
+         ],
+         "eliteCinematicMove" : [
+            "FRENZY_PLANT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.7,
+            "collisionRadiusM" : 0.9,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TURTWIG",
+         "heightStdDev" : 0.275,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2.2,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.8,
+         "parentPokemonId" : "GROTLE",
+         "pokedexHeightM" : 2.2,
+         "pokedexWeightKg" : 310,
+         "pokemonId" : "TORTERRA",
+         "quickMoves" : [
+            "BITE_FAST",
+            "RAZOR_LEAF_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 202,
+            "baseDefense" : 188,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 38.75
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -123,6 +227,10 @@
       ],
       "buddyScale" : 17,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 1,
@@ -181,6 +289,107 @@
          "BITE_FAST",
          "RAZOR_LEAF_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            37.25,
+            0,
+            1
+         ],
+         "buddyOffsetMale" : [
+            37.25,
+            0,
+            1
+         ],
+         "buddyScale" : 17,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "STONE_EDGE",
+            "SOLAR_BEAM",
+            "EARTHQUAKE",
+            "SAND_TOMB"
+         ],
+         "eliteCinematicMove" : [
+            "FRENZY_PLANT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.7,
+            "collisionRadiusM" : 0.9,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TURTWIG",
+         "form" : "TORTERRA_NORMAL",
+         "heightStdDev" : 0.275,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2.2,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.8,
+         "parentPokemonId" : "GROTLE",
+         "pokedexHeightM" : 2.2,
+         "pokedexWeightKg" : 310,
+         "pokemonId" : "TORTERRA",
+         "quickMoves" : [
+            "BITE_FAST",
+            "RAZOR_LEAF_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 202,
+            "baseDefense" : 188,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 38.75
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

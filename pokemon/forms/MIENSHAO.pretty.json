@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 1.5,
          "cylinderRadiusM" : 1,
@@ -78,6 +81,97 @@
          "LOW_KICK_FAST",
          "POISON_JAB_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            6.1,
+            0,
+            -42.44
+         ],
+         "buddyOffsetMale" : [
+            6.1,
+            0,
+            -42.44
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "BRICK_BREAK",
+            "GRASS_KNOT",
+            "STONE_EDGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.15,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.16,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.15,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MIENFOO",
+         "heightStdDev" : 0.175,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.4,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "MIENFOO",
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 35.5,
+         "pokemonId" : "MIENSHAO",
+         "quickMoves" : [
+            "LOW_KICK_FAST",
+            "POISON_JAB_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 258,
+            "baseDefense" : 127,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 4.4375
+      },
       "stats" : {
          "baseAttack" : 258,
          "baseDefense" : 127,

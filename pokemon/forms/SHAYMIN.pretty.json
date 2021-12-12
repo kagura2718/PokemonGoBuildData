@@ -27,6 +27,9 @@
          0.41
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11
+      },
       "camera" : {
          "cylinderHeightM" : 0.24,
          "cylinderRadiusM" : 0.12,
@@ -72,6 +75,91 @@
          "HIDDEN_POWER_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.19,
+            -0.05,
+            0.41
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.24,
+            "cylinderRadiusM" : 0.12,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ENERGY_BALL",
+            "GRASS_KNOT",
+            "SOLAR_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.07,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.08,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHAYMIN",
+         "heightStdDev" : 0.025,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 0.39,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.2,
+         "pokedexWeightKg" : 2.1,
+         "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+         "pokemonId" : "SHAYMIN",
+         "quickMoves" : [
+            "HIDDEN_POWER_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 210,
+            "baseDefense" : 210,
+            "baseStamina" : 225
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 0.2625
+      },
       "stats" : {
          "baseAttack" : 210,
          "baseDefense" : 210,
@@ -107,6 +195,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11
+      },
       "camera" : {
          "cylinderHeightM" : 0.2,
          "cylinderRadiusM" : 0.18,
@@ -153,6 +244,87 @@
          "HIDDEN_POWER_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.18,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ENERGY_BALL",
+            "GRASS_KNOT",
+            "SOLAR_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.12,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHAYMIN",
+         "form" : "SHAYMIN_LAND",
+         "heightStdDev" : 0.025,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 0.3,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.27,
+         "pokedexHeightM" : 0.2,
+         "pokedexWeightKg" : 2.1,
+         "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+         "pokemonId" : "SHAYMIN",
+         "quickMoves" : [
+            "HIDDEN_POWER_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 210,
+            "baseDefense" : 210,
+            "baseStamina" : 225
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 0.2625
+      },
       "stats" : {
          "baseAttack" : 210,
          "baseDefense" : 210,
@@ -188,6 +360,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderHeightM" : 0.378,
          "cylinderRadiusM" : 0.252,
@@ -234,6 +410,88 @@
          "HIDDEN_POWER_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.378,
+            "cylinderRadiusM" : 0.252,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ENERGY_BALL",
+            "GRASS_KNOT",
+            "SOLAR_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.189,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHAYMIN",
+         "form" : "SHAYMIN_SKY",
+         "heightStdDev" : 0.05,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 0.39,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 5.2,
+         "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+         "pokemonId" : "SHAYMIN",
+         "quickMoves" : [
+            "HIDDEN_POWER_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 261,
+            "baseDefense" : 166,
+            "baseStamina" : 225
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.65
+      },
       "stats" : {
          "baseAttack" : 261,
          "baseDefense" : 166,

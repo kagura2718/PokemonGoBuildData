@@ -22,6 +22,9 @@
          -29.9
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.8,
@@ -79,6 +82,104 @@
          "SCRATCH_FAST",
          "FEINT_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.6667,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            3.5,
+            0,
+            -29.9
+         ],
+         "buddyOffsetMale" : [
+            3.5,
+            0,
+            -29.9
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.7995,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "FOUL_PLAY",
+            "POWER_GEM",
+            "PLAY_ROUGH",
+            "PAYBACK"
+         ],
+         "eliteCinematicMove" : [
+            "NIGHT_SLASH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 600,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.9975,
+            "collisionHeadRadiusM" : 0.164,
+            "collisionHeightM" : 0.615,
+            "collisionRadiusM" : 0.328,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MEOWTH",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.38,
+         "modelScale" : 0.82,
+         "modelScaleV2" : 0.9,
+         "parentPokemonId" : "MEOWTH",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 32,
+         "pokemonId" : "PERSIAN",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "FEINT_ATTACK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 150,
+            "baseDefense" : 136,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 4
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -120,6 +221,9 @@
          -29.9
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 16
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.8,
@@ -175,6 +279,102 @@
          "SCRATCH_FAST",
          "FEINT_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.6667,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            3.5,
+            0,
+            -29.9
+         ],
+         "buddyOffsetMale" : [
+            3.5,
+            0,
+            -29.9
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.7995,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "FOUL_PLAY",
+            "DARK_PULSE",
+            "PLAY_ROUGH",
+            "PAYBACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 850,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.9975,
+            "collisionHeadRadiusM" : 0.164,
+            "collisionHeightM" : 0.615,
+            "collisionRadiusM" : 0.328,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MEOWTH",
+         "form" : "PERSIAN_ALOLA",
+         "heightStdDev" : 0.1375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.38,
+         "modelScale" : 0.82,
+         "modelScaleV2" : 0.9,
+         "parentPokemonId" : "MEOWTH",
+         "pokedexHeightM" : 1.1,
+         "pokedexWeightKg" : 33,
+         "pokemonId" : "PERSIAN",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "FEINT_ATTACK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 158,
+            "baseDefense" : 136,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 4.125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -221,6 +421,9 @@
          1.36
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.8,
@@ -279,6 +482,110 @@
          "SCRATCH_FAST",
          "FEINT_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.6667,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            3.5,
+            0,
+            -29.9
+         ],
+         "buddyOffsetMale" : [
+            3.5,
+            0,
+            -29.9
+         ],
+         "buddyPortraitOffset" : [
+            0.5,
+            -0.03,
+            1.36
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.7995,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "FOUL_PLAY",
+            "POWER_GEM",
+            "PLAY_ROUGH",
+            "PAYBACK"
+         ],
+         "eliteCinematicMove" : [
+            "NIGHT_SLASH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 600,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.9975,
+            "collisionHeadRadiusM" : 0.164,
+            "collisionHeightM" : 0.615,
+            "collisionRadiusM" : 0.328,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MEOWTH",
+         "form" : "PERSIAN_NORMAL",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.38,
+         "modelScale" : 0.82,
+         "modelScaleV2" : 0.9,
+         "parentPokemonId" : "MEOWTH",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 32,
+         "pokemonId" : "PERSIAN",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "FEINT_ATTACK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 150,
+            "baseDefense" : 136,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 4
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

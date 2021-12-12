@@ -24,6 +24,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 7,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 2,
@@ -90,6 +94,110 @@
          "SHADOW_CLAW_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.1667,
+            0.6667,
+            1.6667,
+            0.6667,
+            0,
+            2.3333,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            25,
+            0,
+            -25
+         ],
+         "buddyOffsetMale" : [
+            25,
+            0,
+            -25
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 1.5,
+            "diskRadiusM" : 0.765,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 100,
+         "cinematicMoves" : [
+            "SHADOW_PUNCH",
+            "DARK_PULSE",
+            "SLUDGE_BOMB",
+            "SHADOW_BALL"
+         ],
+         "eliteQuickMove" : [
+            "LICK_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.625,
+            "collisionHeadRadiusM" : 0.442,
+            "collisionHeightM" : 1.7,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 0.8,
+            "dodgeDurationS" : 2,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 23,
+            "movementType" : "MOVEMENT_PSYCHIC"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "GENGAR",
+               "noCandyCostViaTrade" : true
+            }
+         ],
+         "evolutionIds" : [
+            "GENGAR"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GASTLY",
+         "heightStdDev" : 0.2,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.87,
+         "modelScale" : 0.68,
+         "modelScaleV2" : 0.81,
+         "parentPokemonId" : "GASTLY",
+         "pokedexHeightM" : 1.6,
+         "pokedexWeightKg" : 0.1,
+         "pokemonId" : "HAUNTER",
+         "quickMoves" : [
+            "SHADOW_CLAW_FAST",
+            "ASTONISH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 223,
+            "baseDefense" : 107,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 0.0125
+      },
       "stats" : {
          "baseAttack" : 223,
          "baseDefense" : 107,

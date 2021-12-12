@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 14
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.4,
@@ -81,6 +85,107 @@
          "FROST_BREATH_FAST",
          "ICE_SHARD_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.4333,
+            0.6667,
+            1.7333,
+            0.6667,
+            0,
+            2.3333,
+            1.9667,
+            3.8
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            -1.7,
+            29.51
+         ],
+         "buddyOffsetMale" : [
+            15,
+            -1.7,
+            29.51
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.4,
+            "cylinderRadiusM" : 0.85,
+            "diskRadiusM" : 0.945,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "AURORA_BEAM",
+            "HYDRO_PUMP",
+            "AVALANCHE",
+            "ICY_WIND"
+         ],
+         "eliteCinematicMove" : [
+            "BLIZZARD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 1100,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.725,
+            "collisionHeadRadiusM" : 0.5459999,
+            "collisionHeightM" : 1.05,
+            "collisionRadiusM" : 0.42,
+            "dodgeDistance" : 0.8,
+            "dodgeDurationS" : 0.8,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHELLDER",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.5,
+         "modelScale" : 0.84,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SHELLDER",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 132.5,
+         "pokemonId" : "CLOYSTER",
+         "quickMoves" : [
+            "FROST_BREATH_FAST",
+            "ICE_SHARD_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 186,
+            "baseDefense" : 256,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 16.5625
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -124,6 +229,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 14
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.4,
@@ -183,6 +292,108 @@
          "FROST_BREATH_FAST",
          "ICE_SHARD_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.4333,
+            0.6667,
+            1.7333,
+            0.6667,
+            0,
+            2.3333,
+            1.9667,
+            3.8
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            -1.7,
+            29.51
+         ],
+         "buddyOffsetMale" : [
+            15,
+            -1.7,
+            29.51
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.4,
+            "cylinderRadiusM" : 0.85,
+            "diskRadiusM" : 0.945,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "AURORA_BEAM",
+            "HYDRO_PUMP",
+            "AVALANCHE",
+            "ICY_WIND"
+         ],
+         "eliteCinematicMove" : [
+            "BLIZZARD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 1100,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4.725,
+            "collisionHeadRadiusM" : 0.5459999,
+            "collisionHeightM" : 1.05,
+            "collisionRadiusM" : 0.42,
+            "dodgeDistance" : 0.8,
+            "dodgeDurationS" : 0.8,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHELLDER",
+         "form" : "CLOYSTER_NORMAL",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.5,
+         "modelScale" : 0.84,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SHELLDER",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 132.5,
+         "pokemonId" : "CLOYSTER",
+         "quickMoves" : [
+            "FROST_BREATH_FAST",
+            "ICE_SHARD_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 186,
+            "baseDefense" : 256,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 16.5625
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

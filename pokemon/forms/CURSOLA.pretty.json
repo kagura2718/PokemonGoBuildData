@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 7
+      },
       "camera" : {
          "cylinderHeightM" : 0.65,
          "cylinderRadiusM" : 0.37,
@@ -80,6 +83,105 @@
          "ASTONISH_FAST",
          "HEX_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.65,
+            "cylinderRadiusM" : 0.37,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "ROCK_BLAST",
+            "BRINE",
+            "NIGHT_SHADE",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 2.9925,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.65,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.3,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.1
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CORSOLA",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.6,
+         "modelScale" : 1.25,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CORSOLA",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 0.4,
+         "pokemonId" : "CURSOLA",
+         "quickMoves" : [
+            "ASTONISH_FAST",
+            "HEX_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 253,
+            "baseDefense" : 182,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 0.05
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -126,6 +228,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 7
+      },
       "camera" : {
          "cylinderHeightM" : 0.65,
          "cylinderRadiusM" : 0.37,
@@ -180,6 +285,106 @@
          "ASTONISH_FAST",
          "HEX_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.65,
+            "cylinderRadiusM" : 0.37,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "ROCK_BLAST",
+            "BRINE",
+            "NIGHT_SHADE",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 2.9925,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.65,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.3,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.1
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CORSOLA",
+         "form" : "CURSOLA_NORMAL",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.6,
+         "modelScale" : 1.25,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CORSOLA",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 0.4,
+         "pokemonId" : "CURSOLA",
+         "quickMoves" : [
+            "ASTONISH_FAST",
+            "HEX_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 253,
+            "baseDefense" : 182,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 0.05
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

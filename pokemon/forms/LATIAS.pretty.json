@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 15,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.4,
          "cylinderHeightM" : 1.1,
@@ -72,6 +76,92 @@
          "ZEN_HEADBUTT_FAST",
          "CHARM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            70
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            70
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.4,
+            "cylinderHeightM" : 1.1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "PSYCHIC",
+            "OUTRAGE",
+            "THUNDER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.01,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_LATIAS",
+         "heightStdDev" : 0.175,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 1.5225806,
+         "modelScale" : 1.2,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 40,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "LATIAS",
+         "quickMoves" : [
+            "DRAGON_BREATH_FAST",
+            "ZEN_HEADBUTT_FAST",
+            "CHARM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 228,
+            "baseDefense" : 246,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_DRAGON",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 5
+      },
       "stats" : {
          "baseAttack" : 228,
          "baseDefense" : 246,

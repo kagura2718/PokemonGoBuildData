@@ -17,6 +17,9 @@
          -1700
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 1.5
@@ -58,6 +61,77 @@
          "COUNTER_FAST"
       ],
       "raidBossDistanceOffset" : 17,
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            17,
+            0,
+            -89
+         ],
+         "buddyOffsetMale" : [
+            17,
+            0,
+            -89
+         ],
+         "buddyPortraitOffset" : [
+            -20,
+            0,
+            -1700
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 1.5
+         },
+         "cinematicMoves" : [
+            "SUPER_POWER",
+            "BRICK_BREAK",
+            "MEGAHORN"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.23,
+            "collisionHeightM" : 0.35,
+            "collisionRadiusM" : 0.35,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 0.75,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_FALINKS",
+         "heightStdDev" : 0.375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.6,
+         "modelScaleV2" : 1.05,
+         "pokedexHeightM" : 3,
+         "pokedexWeightKg" : 62,
+         "pokemonId" : "FALINKS",
+         "quickMoves" : [
+            "ROCK_SMASH_FAST",
+            "COUNTER_FAST"
+         ],
+         "raidBossDistanceOffset" : 17,
+         "stats" : {
+            "baseAttack" : 193,
+            "baseDefense" : 170,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 7.75
+      },
       "stats" : {
          "baseAttack" : 193,
          "baseDefense" : 170,

@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 3.5,
          "cylinderRadiusM" : 1.5,
@@ -75,6 +78,94 @@
          "ZEN_HEADBUTT_FAST",
          "HIDDEN_POWER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            12.07,
+            0,
+            55.68
+         ],
+         "buddyOffsetMale" : [
+            12.07,
+            0,
+            55.68
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -610,
+            1730
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 3.5,
+            "cylinderRadiusM" : 1.5,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "GIGA_IMPACT",
+            "FOCUS_BLAST",
+            "THUNDER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.7,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.8,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_REGIGIGAS",
+         "heightStdDev" : 0.4625,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 3.24,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.83,
+         "pokedexHeightM" : 3.7,
+         "pokedexWeightKg" : 420,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "REGIGIGAS",
+         "quickMoves" : [
+            "ZEN_HEADBUTT_FAST",
+            "HIDDEN_POWER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 287,
+            "baseDefense" : 210,
+            "baseStamina" : 221
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 52.5
+      },
       "stats" : {
          "baseAttack" : 287,
          "baseDefense" : 210,

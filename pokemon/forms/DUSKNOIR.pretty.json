@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 7
+      },
       "camera" : {
          "cylinderGroundM" : 1.2,
          "cylinderHeightM" : 1.6,
@@ -86,6 +89,111 @@
          "HEX_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            48,
+            0,
+            -77.4
+         ],
+         "buddyOffsetMale" : [
+            48,
+            0,
+            -77.4
+         ],
+         "buddyPortraitOffset" : [
+            -0.46,
+            0,
+            -1.2
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 1.2,
+            "cylinderHeightM" : 1.6,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "OMINOUS_WIND",
+            "PSYCHIC",
+            "DARK_PULSE"
+         ],
+         "eliteCinematicMove" : [
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.7,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DUSKULL",
+         "heightStdDev" : 0.275,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2.2,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.97,
+         "parentPokemonId" : "DUSCLOPS",
+         "pokedexHeightM" : 2.2,
+         "pokedexWeightKg" : 106.6,
+         "pokemonId" : "DUSKNOIR",
+         "quickMoves" : [
+            "HEX_FAST",
+            "ASTONISH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 180,
+            "baseDefense" : 254,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 13.325
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -133,6 +241,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 7
+      },
       "camera" : {
          "cylinderGroundM" : 1.2,
          "cylinderHeightM" : 1.6,
@@ -192,6 +303,112 @@
          "HEX_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            48,
+            0,
+            -77.4
+         ],
+         "buddyOffsetMale" : [
+            48,
+            0,
+            -77.4
+         ],
+         "buddyPortraitOffset" : [
+            -0.46,
+            0,
+            -1.2
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 1.2,
+            "cylinderHeightM" : 1.6,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "OMINOUS_WIND",
+            "PSYCHIC",
+            "DARK_PULSE"
+         ],
+         "eliteCinematicMove" : [
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.7,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DUSKULL",
+         "form" : "DUSKNOIR_NORMAL",
+         "heightStdDev" : 0.275,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2.2,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.97,
+         "parentPokemonId" : "DUSCLOPS",
+         "pokedexHeightM" : 2.2,
+         "pokedexWeightKg" : 106.6,
+         "pokemonId" : "DUSKNOIR",
+         "quickMoves" : [
+            "HEX_FAST",
+            "ASTONISH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 180,
+            "baseDefense" : 254,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 13.325
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

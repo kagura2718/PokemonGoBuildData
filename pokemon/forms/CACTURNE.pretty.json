@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 16
+      },
       "camera" : {
          "cylinderHeightM" : 1.3,
          "cylinderRadiusM" : 0.8,
@@ -77,6 +81,103 @@
          "POISON_JAB_FAST",
          "SUCKER_PUNCH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            70
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            70
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.3,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DARK_PULSE",
+            "DYNAMIC_PUNCH",
+            "GRASS_KNOT",
+            "PAYBACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CACNEA",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.3736264,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CACNEA",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 77.4,
+         "pokemonId" : "CACTURNE",
+         "quickMoves" : [
+            "POISON_JAB_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 221,
+            "baseDefense" : 115,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 9.675
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -120,6 +221,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 16
+      },
       "camera" : {
          "cylinderHeightM" : 1.3,
          "cylinderRadiusM" : 0.8,
@@ -175,6 +280,104 @@
          "POISON_JAB_FAST",
          "SUCKER_PUNCH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            70
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            70
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.3,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DARK_PULSE",
+            "DYNAMIC_PUNCH",
+            "GRASS_KNOT",
+            "PAYBACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CACNEA",
+         "form" : "CACTURNE_NORMAL",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.3736264,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CACNEA",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 77.4,
+         "pokemonId" : "CACTURNE",
+         "quickMoves" : [
+            "POISON_JAB_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 221,
+            "baseDefense" : 115,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 9.675
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

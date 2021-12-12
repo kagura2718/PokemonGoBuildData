@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 16
+      },
       "camera" : {
          "cylinderHeightM" : 0.72,
          "cylinderRadiusM" : 0.43,
@@ -80,6 +83,99 @@
          "SCRATCH_FAST",
          "FEINT_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            8,
+            0,
+            16
+         ],
+         "buddyOffsetMale" : [
+            8,
+            0,
+            16
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.72,
+            "cylinderRadiusM" : 0.43,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FOUL_PLAY",
+            "AERIAL_ACE",
+            "DARK_PULSE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "ZOROARK"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ZORUA",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.7,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 12.5,
+         "pokemonId" : "ZORUA",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "FEINT_ATTACK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 153,
+            "baseDefense" : 78,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 1.5625
+      },
       "stats" : {
          "baseAttack" : 153,
          "baseDefense" : 78,

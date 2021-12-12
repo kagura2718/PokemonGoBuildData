@@ -22,6 +22,10 @@
          -1.9
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 11
+      },
       "camera" : {
          "cylinderHeightM" : 0.448,
          "cylinderRadiusM" : 0.384,
@@ -79,6 +83,99 @@
          "SCRATCH_FAST",
          "BUG_BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.6667,
+            0.6667,
+            1.7667,
+            1.6333,
+            0,
+            2.3333,
+            1.3333,
+            1.533333
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            2.7,
+            0,
+            -1.9
+         ],
+         "buddyOffsetMale" : [
+            2.7,
+            0,
+            -1.9
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.448,
+            "cylinderRadiusM" : 0.384,
+            "diskRadiusM" : 0.576,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "CROSS_POISON",
+            "X_SCISSOR",
+            "SEED_BOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 10,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.15,
+            "bonusStardustCaptureReward" : 400,
+            "cameraDistance" : 2.88,
+            "collisionHeadRadiusM" : 0.192,
+            "collisionHeightM" : 0.32,
+            "collisionRadiusM" : 0.192,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 29,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "PARASECT"
+            }
+         ],
+         "evolutionIds" : [
+            "PARASECT"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_PARAS",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.43,
+         "modelScale" : 1.28,
+         "modelScaleV2" : 0.95,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 5.4,
+         "pokemonId" : "PARAS",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "BUG_BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 121,
+            "baseDefense" : 99,
+            "baseStamina" : 111
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 0.675
+      },
       "stats" : {
          "baseAttack" : 121,
          "baseDefense" : 99,

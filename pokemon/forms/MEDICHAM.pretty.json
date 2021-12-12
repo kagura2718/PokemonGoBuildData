@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 1,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 0.7,
@@ -74,6 +78,94 @@
          "PSYCHO_CUT_FAST",
          "COUNTER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            65
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            65
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 0.7,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "ICE_PUNCH",
+            "PSYCHIC",
+            "DYNAMIC_PUNCH",
+            "POWER_UP_PUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MEDITITE",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.5113636,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "MEDITITE",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 31.5,
+         "pokemonId" : "MEDICHAM",
+         "quickMoves" : [
+            "PSYCHO_CUT_FAST",
+            "COUNTER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 121,
+            "baseDefense" : 152,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 3.9375
+      },
       "stats" : {
          "baseAttack" : 121,
          "baseDefense" : 152,

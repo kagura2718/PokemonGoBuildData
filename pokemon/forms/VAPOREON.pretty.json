@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.9449999,
          "cylinderRadiusM" : 0.45,
@@ -80,6 +83,99 @@
       "quickMoves" : [
          "WATER_GUN_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.8667,
+            0.6667,
+            1.9,
+            1.7,
+            0,
+            2,
+            2.1333,
+            2.133333
+         ],
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.9449999,
+            "cylinderRadiusM" : 0.45,
+            "diskRadiusM" : 0.5198,
+            "shoulderModeScale" : 0.4
+         },
+         "cinematicMoves" : [
+            "WATER_PULSE",
+            "HYDRO_PUMP",
+            "AQUA_TAIL"
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            0,
+            -0.4,
+            0
+         ],
+         "eliteCinematicMove" : [
+            "LAST_RESORT",
+            "SCALD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.5437496,
+            "collisionHeadRadiusM" : 0.2625,
+            "collisionHeightM" : 0.525,
+            "collisionRadiusM" : 0.21,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_EEVEE",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.89,
+         "modelScale" : 1.05,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "EEVEE",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 29,
+         "pokemonId" : "VAPOREON",
+         "quickMoves" : [
+            "WATER_GUN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 205,
+            "baseDefense" : 161,
+            "baseStamina" : 277
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 3.625
+      },
       "stats" : {
          "baseAttack" : 205,
          "baseDefense" : 161,

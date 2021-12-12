@@ -27,6 +27,10 @@
          0.49
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.31578946,
          "cylinderHeightM" : 0.8,
@@ -81,6 +85,101 @@
          "QUICK_ATTACK_FAST",
          "WING_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            3.3,
+            37.82,
+            -63.16
+         ],
+         "buddyOffsetMale" : [
+            3.3,
+            37.82,
+            -63.16
+         ],
+         "buddyPortraitOffset" : [
+            0.31,
+            0,
+            0.49
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.31578946,
+            "cylinderHeightM" : 0.8,
+            "cylinderRadiusM" : 0.7,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "ANCIENT_POWER",
+            "AERIAL_ACE",
+            "SILVER_WIND"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 1.5,
+            "collisionRadiusM" : 0.2,
+            "dodgeDistance" : 0.125,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_ELECTRIC"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "YANMEGA",
+               "evolutionItemRequirement" : "ITEM_GEN4_EVOLUTION_STONE"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_YANMA",
+         "heightStdDev" : 0.14875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.13,
+         "modelScale" : 0.95,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.19,
+         "pokedexWeightKg" : 38,
+         "pokemonId" : "YANMA",
+         "quickMoves" : [
+            "QUICK_ATTACK_FAST",
+            "WING_ATTACK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 154,
+            "baseDefense" : 94,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 4.75
+      },
       "stats" : {
          "baseAttack" : 154,
          "baseDefense" : 94,

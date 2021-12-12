@@ -24,6 +24,9 @@
          -100,
          0
       ],
+      "built" : {
+         "pokemonType" : 17
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.4
@@ -73,6 +76,92 @@
          "CHARM_FAST",
          "QUICK_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyOffsetFemale" : [
+            7,
+            0,
+            -26
+         ],
+         "buddyOffsetMale" : [
+            7,
+            0,
+            -26
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -100,
+            0
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.4
+         },
+         "cinematicMoves" : [
+            "MOONBLAST",
+            "DAZZLING_GLEAM",
+            "DRAINING_KISS"
+         ],
+         "eliteCinematicMove" : [
+            "LAST_RESORT",
+            "PSYSHOCK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_EEVEE",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.98,
+         "modelScale" : 1.01,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "EEVEE",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 23.5,
+         "pokemonId" : "SYLVEON",
+         "quickMoves" : [
+            "CHARM_FAST",
+            "QUICK_ATTACK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 203,
+            "baseDefense" : 205,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 2.9375
+      },
       "stats" : {
          "baseAttack" : 203,
          "baseDefense" : 205,

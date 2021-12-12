@@ -27,6 +27,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 0.412,
          "cylinderRadiusM" : 0.515,
@@ -88,6 +92,114 @@
          "CONFUSION_FAST",
          "BULLET_SEED_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.5,
+            0.6667,
+            1.6667,
+            1.6667,
+            0,
+            2,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            -55
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            -55
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -180,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.412,
+            "cylinderRadiusM" : 0.515,
+            "diskRadiusM" : 0.7725,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "SEED_BOMB",
+            "PSYCHIC",
+            "ANCIENT_POWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.8625,
+            "collisionHeadRadiusM" : 0.2575,
+            "collisionHeightM" : 0.412,
+            "collisionRadiusM" : 0.515,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "EXEGGUTOR",
+               "form" : "EXEGGUTOR_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionIds" : [
+            "EXEGGUTOR"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_EXEGGCUTE",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.93,
+         "modelScale" : 1.03,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 2.5,
+         "pokemonId" : "EXEGGCUTE",
+         "quickMoves" : [
+            "CONFUSION_FAST",
+            "BULLET_SEED_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 107,
+            "baseDefense" : 125,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 0.3125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -135,6 +247,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 0.412,
          "cylinderRadiusM" : 0.515,
@@ -197,6 +313,115 @@
          "CONFUSION_FAST",
          "BULLET_SEED_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.5,
+            0.6667,
+            1.6667,
+            1.6667,
+            0,
+            2,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            -55
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            -55
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -180,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.412,
+            "cylinderRadiusM" : 0.515,
+            "diskRadiusM" : 0.7725,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "SEED_BOMB",
+            "PSYCHIC",
+            "ANCIENT_POWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.8625,
+            "collisionHeadRadiusM" : 0.2575,
+            "collisionHeightM" : 0.412,
+            "collisionRadiusM" : 0.515,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "EXEGGUTOR",
+               "form" : "EXEGGUTOR_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionIds" : [
+            "EXEGGUTOR"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_EXEGGCUTE",
+         "form" : "EXEGGCUTE_NORMAL",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.93,
+         "modelScale" : 1.03,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 2.5,
+         "pokemonId" : "EXEGGCUTE",
+         "quickMoves" : [
+            "CONFUSION_FAST",
+            "BULLET_SEED_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 107,
+            "baseDefense" : 125,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 0.3125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

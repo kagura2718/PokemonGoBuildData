@@ -22,6 +22,10 @@
          -46.4
       ],
       "buddyScale" : 15,
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.85,
          "cylinderHeightM" : 0.8,
@@ -78,6 +82,104 @@
          "PECK_FAST",
          "SNARL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -46.4
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -46.4
+         ],
+         "buddyScale" : 15,
+         "camera" : {
+            "cylinderGroundM" : 0.85,
+            "cylinderHeightM" : 0.8,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "BRAVE_BIRD",
+            "PSYCHIC",
+            "DARK_PULSE",
+            "SKY_ATTACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.255,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MURKROW",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.65,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "MURKROW",
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 27.3,
+         "pokemonId" : "HONCHKROW",
+         "quickMoves" : [
+            "PECK_FAST",
+            "SNARL_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 243,
+            "baseDefense" : 103,
+            "baseStamina" : 225
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 3.4125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -120,6 +222,10 @@
          -46.4
       ],
       "buddyScale" : 15,
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.85,
          "cylinderHeightM" : 0.8,
@@ -177,6 +283,105 @@
          "PECK_FAST",
          "SNARL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -46.4
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -46.4
+         ],
+         "buddyScale" : 15,
+         "camera" : {
+            "cylinderGroundM" : 0.85,
+            "cylinderHeightM" : 0.8,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "BRAVE_BIRD",
+            "PSYCHIC",
+            "DARK_PULSE",
+            "SKY_ATTACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.255,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MURKROW",
+         "form" : "HONCHKROW_NORMAL",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.65,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "MURKROW",
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 27.3,
+         "pokemonId" : "HONCHKROW",
+         "quickMoves" : [
+            "PECK_FAST",
+            "SNARL_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 243,
+            "baseDefense" : 103,
+            "baseStamina" : 225
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 3.4125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

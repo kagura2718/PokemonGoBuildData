@@ -22,6 +22,9 @@
          -19.8
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.05,
          "cylinderHeightM" : 0.6,
@@ -100,6 +103,119 @@
          "CUT_FAST",
          "WATERFALL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.6667,
+            0.6667,
+            1.6667,
+            0.6667,
+            0,
+            2.6667,
+            1.6667,
+            2
+         ],
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            0,
+            56.9,
+            -19.8
+         ],
+         "buddyOffsetMale" : [
+            0,
+            56.9,
+            -19.8
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.05,
+            "cylinderHeightM" : 0.6,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.423,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "PSYCHIC",
+            "ANCIENT_POWER",
+            "DRAGON_CLAW",
+            "PSYSHOCK",
+            "ICE_BEAM",
+            "BLIZZARD",
+            "HYPER_BEAM",
+            "SOLAR_BEAM",
+            "THUNDERBOLT",
+            "THUNDER",
+            "FLAME_CHARGE",
+            "LOW_SWEEP",
+            "OVERHEAT",
+            "FOCUS_BLAST",
+            "ENERGY_BALL",
+            "STONE_EDGE",
+            "GYRO_BALL",
+            "BULLDOZE",
+            "ROCK_SLIDE",
+            "GRASS_KNOT",
+            "FLASH_CANNON",
+            "WILD_CHARGE",
+            "DARK_PULSE",
+            "DAZZLING_GLEAM",
+            "SURF"
+         ],
+         "encounter" : {
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 100,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 2.908125,
+            "collisionHeadRadiusM" : 0.17625,
+            "collisionHeightM" : 0.564,
+            "collisionRadiusM" : 0.141,
+            "dodgeDistance" : 0.3,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 1,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MEW",
+         "heightStdDev" : 0.05,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 0.45,
+         "modelScale" : 1.41,
+         "modelScaleV2" : 1.04,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 4,
+         "pokemonClass" : "POKEMON_CLASS_MYTHIC",
+         "pokemonId" : "MEW",
+         "quickMoves" : [
+            "POUND_FAST",
+            "STEEL_WING_FAST",
+            "CHARGE_BEAM_FAST",
+            "SHADOW_CLAW_FAST",
+            "VOLT_SWITCH_FAST",
+            "STRUGGLE_BUG_FAST",
+            "FROST_BREATH_FAST",
+            "DRAGON_TAIL_FAST",
+            "INFESTATION_FAST",
+            "POISON_JAB_FAST",
+            "ROCK_SMASH_FAST",
+            "SNARL_FAST",
+            "CUT_FAST",
+            "WATERFALL_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 210,
+            "baseDefense" : 210,
+            "baseStamina" : 225
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 0.5
+      },
       "stats" : {
          "baseAttack" : 210,
          "baseDefense" : 210,

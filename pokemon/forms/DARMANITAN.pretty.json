@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 1.4,
          "cylinderRadiusM" : 1,
@@ -81,6 +84,100 @@
          "FIRE_FANG_FAST",
          "INCINERATE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.4,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "OVERHEAT",
+            "FOCUS_BLAST",
+            "PSYCHIC",
+            "ROCK_SLIDE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DARUMAKA",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.79,
+         "modelScale" : 0.9,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "DARUMAKA",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 92.9,
+         "pokemonId" : "DARMANITAN",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "FIRE_FANG_FAST",
+            "INCINERATE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 263,
+            "baseDefense" : 114,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 11.6125
+      },
       "stats" : {
          "baseAttack" : 263,
          "baseDefense" : 114,
@@ -121,6 +218,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 14
+      },
       "camera" : {
          "cylinderHeightM" : 1.65,
          "cylinderRadiusM" : 0.95,
@@ -172,6 +272,97 @@
          "TACKLE_FAST",
          "ICE_FANG_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            16,
+            0,
+            -72
+         ],
+         "buddyOffsetMale" : [
+            16,
+            0,
+            -72
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.65,
+            "cylinderRadiusM" : 0.95,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "OVERHEAT",
+            "AVALANCHE",
+            "SUPER_POWER",
+            "ICE_PUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_DARUMAKA",
+         "form" : "DARMANITAN_GALARIAN_STANDARD",
+         "heightStdDev" : 0.2125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.7,
+         "modelScale" : 0.9,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "DARUMAKA",
+         "pokedexHeightM" : 1.7,
+         "pokedexWeightKg" : 120,
+         "pokemonId" : "DARMANITAN",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "ICE_FANG_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 263,
+            "baseDefense" : 114,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 15
+      },
       "stats" : {
          "baseAttack" : 263,
          "baseDefense" : 114,
@@ -212,6 +403,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 14,
+         "pokemonType2" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 2.4,
          "cylinderRadiusM" : 0.85,
@@ -263,6 +458,98 @@
          "TACKLE_FAST",
          "ICE_FANG_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            16,
+            0,
+            -128
+         ],
+         "buddyOffsetMale" : [
+            16,
+            0,
+            -128
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 2.4,
+            "cylinderRadiusM" : 0.85,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "OVERHEAT",
+            "AVALANCHE",
+            "SUPER_POWER",
+            "ICE_PUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_DARUMAKA",
+         "form" : "DARMANITAN_GALARIAN_ZEN",
+         "heightStdDev" : 0.2125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.7,
+         "modelScale" : 0.9,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "DARUMAKA",
+         "pokedexHeightM" : 1.7,
+         "pokedexWeightKg" : 120,
+         "pokemonId" : "DARMANITAN",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "ICE_FANG_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 323,
+            "baseDefense" : 123,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "type2" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 15
+      },
       "stats" : {
          "baseAttack" : 323,
          "baseDefense" : 123,
@@ -305,6 +592,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 1.4,
          "cylinderRadiusM" : 1,
@@ -359,6 +649,101 @@
          "FIRE_FANG_FAST",
          "INCINERATE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.4,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "OVERHEAT",
+            "FOCUS_BLAST",
+            "PSYCHIC",
+            "ROCK_SLIDE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DARUMAKA",
+         "form" : "DARMANITAN_STANDARD",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.79,
+         "modelScale" : 0.9,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "DARUMAKA",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 92.9,
+         "pokemonId" : "DARMANITAN",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "FIRE_FANG_FAST",
+            "INCINERATE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 263,
+            "baseDefense" : 114,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 11.6125
+      },
       "stats" : {
          "baseAttack" : 263,
          "baseDefense" : 114,
@@ -399,6 +784,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 0.95,
          "cylinderRadiusM" : 0.55,
@@ -453,6 +842,101 @@
          "FIRE_FANG_FAST",
          "INCINERATE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            5,
+            0,
+            -60
+         ],
+         "buddyOffsetMale" : [
+            5,
+            0,
+            -60
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.95,
+            "cylinderRadiusM" : 0.55,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "OVERHEAT",
+            "FOCUS_BLAST",
+            "PSYCHIC",
+            "ROCK_SLIDE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.5,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DARUMAKA",
+         "form" : "DARMANITAN_ZEN",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.31,
+         "modelScale" : 0.9,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "DARUMAKA",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 92.9,
+         "pokemonId" : "DARMANITAN",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "FIRE_FANG_FAST",
+            "INCINERATE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 243,
+            "baseDefense" : 202,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 11.6125
+      },
       "stats" : {
          "baseAttack" : 243,
          "baseDefense" : 202,

@@ -22,6 +22,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.50625,
          "cylinderRadiusM" : 0.3375,
@@ -83,6 +87,109 @@
          "SCRATCH_FAST",
          "MUD_SHOT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            0,
+            1.5,
+            0,
+            2,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.50625,
+            "cylinderRadiusM" : 0.3375,
+            "diskRadiusM" : 0.5063,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "ANCIENT_POWER",
+            "AQUA_JET",
+            "ROCK_TOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 2.53125,
+            "collisionHeadRadiusM" : 0.16875,
+            "collisionHeightM" : 0.50625,
+            "collisionRadiusM" : 0.3375,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "KABUTOPS",
+               "form" : "KABUTOPS_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionIds" : [
+            "KABUTOPS"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_KABUTO",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.35,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 11.5,
+         "pokemonId" : "KABUTO",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "MUD_SHOT_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 148,
+            "baseDefense" : 140,
+            "baseStamina" : 102
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 1.4375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,
@@ -125,6 +232,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.50625,
          "cylinderRadiusM" : 0.3375,
@@ -187,6 +298,110 @@
          "SCRATCH_FAST",
          "MUD_SHOT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            0,
+            1.5,
+            0,
+            2,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.50625,
+            "cylinderRadiusM" : 0.3375,
+            "diskRadiusM" : 0.5063,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "ANCIENT_POWER",
+            "AQUA_JET",
+            "ROCK_TOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 2.53125,
+            "collisionHeadRadiusM" : 0.16875,
+            "collisionHeightM" : 0.50625,
+            "collisionRadiusM" : 0.3375,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "KABUTOPS",
+               "form" : "KABUTOPS_NORMAL",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
+         "evolutionIds" : [
+            "KABUTOPS"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_KABUTO",
+         "form" : "KABUTO_NORMAL",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.35,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 11.5,
+         "pokemonId" : "KABUTO",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "MUD_SHOT_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 148,
+            "baseDefense" : 140,
+            "baseStamina" : 102
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 1.4375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,

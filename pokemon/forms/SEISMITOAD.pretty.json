@@ -27,6 +27,10 @@
          0.35
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 1.42,
          "cylinderRadiusM" : 0.85,
@@ -78,6 +82,98 @@
          "MUD_SHOT_FAST",
          "BUBBLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            14.5,
+            0,
+            -73.8
+         ],
+         "buddyOffsetMale" : [
+            14.5,
+            0,
+            -73.8
+         ],
+         "buddyPortraitOffset" : [
+            0.13,
+            0.04,
+            0.35
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.42,
+            "cylinderRadiusM" : 0.85,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "MUDDY_WATER",
+            "EARTH_POWER",
+            "SLUDGE_BOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.41,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TYMPOLE",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.37,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "PALPITOAD",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 62,
+         "pokemonId" : "SEISMITOAD",
+         "quickMoves" : [
+            "MUD_SHOT_FAST",
+            "BUBBLE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 188,
+            "baseDefense" : 150,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 7.75
+      },
       "stats" : {
          "baseAttack" : 188,
          "baseDefense" : 150,

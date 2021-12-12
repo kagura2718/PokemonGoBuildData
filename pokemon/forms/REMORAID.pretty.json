@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderGroundM" : 0.3875969,
          "cylinderHeightM" : 0.4,
@@ -79,6 +82,98 @@
          "WATER_GUN_FAST",
          "MUD_SHOT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.3875969,
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.32,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "AURORA_BEAM",
+            "WATER_PULSE",
+            "ROCK_BLAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.15,
+            "dodgeDistance" : 0.55,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "OCTILLERY"
+            }
+         ],
+         "evolutionIds" : [
+            "OCTILLERY"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_REMORAID",
+         "heightStdDev" : 0.07625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.55,
+         "modelScale" : 1.29,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.61,
+         "pokedexWeightKg" : 12,
+         "pokemonId" : "REMORAID",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "MUD_SHOT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 127,
+            "baseDefense" : 69,
+            "baseStamina" : 111
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 1.5
+      },
       "stats" : {
          "baseAttack" : 127,
          "baseDefense" : 69,

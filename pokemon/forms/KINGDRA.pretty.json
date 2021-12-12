@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderGroundM" : 0.64102566,
          "cylinderHeightM" : 2,
@@ -81,6 +85,107 @@
          "WATERFALL_FAST",
          "DRAGON_BREATH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            -33.6,
+            41.58
+         ],
+         "buddyOffsetMale" : [
+            20,
+            -33.6,
+            41.58
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.64102566,
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 0.85,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HYDRO_PUMP",
+            "BLIZZARD",
+            "OUTRAGE",
+            "OCTAZOOKA"
+         ],
+         "eliteQuickMove" : [
+            "WATER_GUN_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 4.875,
+            "collisionHeadRadiusM" : 0.45,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_HORSEA",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SEADRA",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 152,
+         "pokemonId" : "KINGDRA",
+         "quickMoves" : [
+            "WATERFALL_FAST",
+            "DRAGON_BREATH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 194,
+            "baseDefense" : 194,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 19
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -124,6 +229,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderGroundM" : 0.64102566,
          "cylinderHeightM" : 2,
@@ -183,6 +292,108 @@
          "WATERFALL_FAST",
          "DRAGON_BREATH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            -33.6,
+            41.58
+         ],
+         "buddyOffsetMale" : [
+            20,
+            -33.6,
+            41.58
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.64102566,
+            "cylinderHeightM" : 2,
+            "cylinderRadiusM" : 0.85,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HYDRO_PUMP",
+            "BLIZZARD",
+            "OUTRAGE",
+            "OCTAZOOKA"
+         ],
+         "eliteQuickMove" : [
+            "WATER_GUN_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 4.875,
+            "collisionHeadRadiusM" : 0.45,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_HORSEA",
+         "form" : "KINGDRA_NORMAL",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScale" : 0.78,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SEADRA",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 152,
+         "pokemonId" : "KINGDRA",
+         "quickMoves" : [
+            "WATERFALL_FAST",
+            "DRAGON_BREATH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 194,
+            "baseDefense" : 194,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 19
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

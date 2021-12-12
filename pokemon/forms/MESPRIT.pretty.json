@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.2,
          "cylinderHeightM" : 0.3,
@@ -70,6 +73,89 @@
          "CONFUSION_FAST",
          "EXTRASENSORY_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.2,
+            "cylinderHeightM" : 0.3,
+            "cylinderRadiusM" : 0.14,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FUTURESIGHT",
+            "SWIFT",
+            "BLIZZARD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.05,
+            "dodgeDistance" : 0.4,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_FLYING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MESPRIT",
+         "heightStdDev" : 0.0375,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 0.3,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.27,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 0.3,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "MESPRIT",
+         "quickMoves" : [
+            "CONFUSION_FAST",
+            "EXTRASENSORY_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 212,
+            "baseDefense" : 212,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 0.0375
+      },
       "stats" : {
          "baseAttack" : 212,
          "baseDefense" : 212,

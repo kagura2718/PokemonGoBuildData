@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 14
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.7,
@@ -79,6 +82,98 @@
          "ICE_SHARD_FAST",
          "FROST_BREATH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            50
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            50
+         ],
+         "buddyPortraitOffset" : [
+            -0.18,
+            0,
+            -0.65
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.7,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "AVALANCHE",
+            "GYRO_BALL",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.3,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SNORUNT",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.5,
+         "modelScale" : 0.84,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SNORUNT",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 256.5,
+         "pokemonId" : "GLALIE",
+         "quickMoves" : [
+            "ICE_SHARD_FAST",
+            "FROST_BREATH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 162,
+            "baseDefense" : 162,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 32.0625
+      },
       "stats" : {
          "baseAttack" : 162,
          "baseDefense" : 162,

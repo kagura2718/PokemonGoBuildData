@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 1.62,
          "cylinderRadiusM" : 1.01,
@@ -83,6 +87,103 @@
          "LOW_KICK_FAST",
          "EMBER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            24,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            24,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0.16,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.62,
+            "cylinderRadiusM" : 1.01,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "HEAT_WAVE",
+            "ROCK_SLIDE",
+            "FOCUS_BLAST",
+            "FLAME_CHARGE"
+         ],
+         "eliteCinematicMove" : [
+            "BLAST_BURN"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5.5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TEPIG",
+         "heightStdDev" : 0.2,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.6,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "PIGNITE",
+         "pokedexHeightM" : 1.6,
+         "pokedexWeightKg" : 150,
+         "pokemonId" : "EMBOAR",
+         "quickMoves" : [
+            "LOW_KICK_FAST",
+            "EMBER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 235,
+            "baseDefense" : 127,
+            "baseStamina" : 242
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 18.75
+      },
       "stats" : {
          "baseAttack" : 235,
          "baseDefense" : 127,

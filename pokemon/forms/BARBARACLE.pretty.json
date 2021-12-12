@@ -19,6 +19,10 @@
          0,
          -50
       ],
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 1.5,
          "cylinderRadiusM" : 1
@@ -66,6 +70,86 @@
          "MUD_SLAP_FAST",
          "FURY_CUTTER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyOffsetFemale" : [
+            17,
+            0,
+            -50
+         ],
+         "buddyOffsetMale" : [
+            17,
+            0,
+            -50
+         ],
+         "camera" : {
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1
+         },
+         "cinematicMoves" : [
+            "SKULL_BASH",
+            "CROSS_CHOP",
+            "STONE_EDGE",
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.15,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_BINACLE",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.5,
+         "modelScale" : 0.84,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "BINACLE",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 96,
+         "pokemonId" : "BARBARACLE",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "MUD_SLAP_FAST",
+            "FURY_CUTTER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 194,
+            "baseDefense" : 205,
+            "baseStamina" : 176
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 12
+      },
       "stats" : {
          "baseAttack" : 194,
          "baseDefense" : 205,

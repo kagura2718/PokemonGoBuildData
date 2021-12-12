@@ -22,6 +22,9 @@
          -72.77
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 1.25,
          "cylinderRadiusM" : 0.8,
@@ -69,6 +72,88 @@
          "ROCK_SMASH_FAST",
          "COUNTER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            -0.1,
+            0,
+            -72.77
+         ],
+         "buddyOffsetMale" : [
+            -0.1,
+            0,
+            -72.77
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.25,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "CLOSE_COMBAT",
+            "GYRO_BALL",
+            "STONE_EDGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.05,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.5,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TYROGUE",
+         "heightStdDev" : 0.175,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.3,
+         "modelScale" : 0.89,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "TYROGUE",
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 48,
+         "pokemonId" : "HITMONTOP",
+         "quickMoves" : [
+            "ROCK_SMASH_FAST",
+            "COUNTER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 173,
+            "baseDefense" : 207,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 6
+      },
       "stats" : {
          "baseAttack" : 173,
          "baseDefense" : 207,

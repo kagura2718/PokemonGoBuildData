@@ -27,6 +27,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 12
+      },
       "camera" : {
          "cylinderHeightM" : 0.2,
          "cylinderRadiusM" : 0.4,
@@ -77,6 +81,103 @@
          "THUNDER_SHOCK_FAST",
          "MUD_SHOT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            12.75,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            12.75,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "MUD_BOMB",
+            "DISCHARGE",
+            "MUDDY_WATER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_STUNFISK",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.7,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 11,
+         "pokemonId" : "STUNFISK",
+         "quickMoves" : [
+            "THUNDER_SHOCK_FAST",
+            "MUD_SHOT_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 144,
+            "baseDefense" : 171,
+            "baseStamina" : 240
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 1.375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -123,6 +224,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderHeightM" : 0.4,
          "cylinderRadiusM" : 0.4,
@@ -175,6 +280,104 @@
          "MUD_SHOT_FAST",
          "METAL_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            8,
+            0,
+            16
+         ],
+         "buddyOffsetMale" : [
+            8,
+            0,
+            16
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "FLASH_CANNON",
+            "MUDDY_WATER",
+            "ROCK_SLIDE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_STUNFISK",
+         "form" : "STUNFISK_GALARIAN",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.7,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 20.5,
+         "pokemonId" : "STUNFISK",
+         "quickMoves" : [
+            "MUD_SHOT_FAST",
+            "METAL_CLAW_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 144,
+            "baseDefense" : 171,
+            "baseStamina" : 240
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 2.5625
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -222,6 +425,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 12
+      },
       "camera" : {
          "cylinderHeightM" : 0.2,
          "cylinderRadiusM" : 0.4,
@@ -273,6 +480,104 @@
          "THUNDER_SHOCK_FAST",
          "MUD_SHOT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            12.75,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            12.75,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "MUD_BOMB",
+            "DISCHARGE",
+            "MUDDY_WATER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_STUNFISK",
+         "form" : "STUNFISK_NORMAL",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.7,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 11,
+         "pokemonId" : "STUNFISK",
+         "quickMoves" : [
+            "THUNDER_SHOCK_FAST",
+            "MUD_SHOT_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 144,
+            "baseDefense" : 171,
+            "baseStamina" : 240
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 1.375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

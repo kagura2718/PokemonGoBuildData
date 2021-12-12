@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.2,
          "cylinderHeightM" : 0.55,
@@ -81,6 +84,100 @@
          "CONFUSION_FAST",
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            3.79,
+            0,
+            -17.92
+         ],
+         "buddyOffsetMale" : [
+            3.79,
+            0,
+            -17.92
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.2,
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "PSYBEAM",
+            "DARK_PULSE",
+            "PSYCHIC"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.12,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.08,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 3,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_PSYCHIC"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "BEHEEYEM"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ELGYEM",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 9,
+         "pokemonId" : "ELGYEM",
+         "quickMoves" : [
+            "CONFUSION_FAST",
+            "ASTONISH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 148,
+            "baseDefense" : 100,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 1.125
+      },
       "stats" : {
          "baseAttack" : 148,
          "baseDefense" : 100,

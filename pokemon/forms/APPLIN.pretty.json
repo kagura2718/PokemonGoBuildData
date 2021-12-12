@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 15
+      },
       "camera" : {},
       "cinematicMoves" : [
          "STRUGGLE"
@@ -56,6 +60,76 @@
       "quickMoves" : [
          "ASTONISH_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.4,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 400,
+               "evolution" : "FLAPPLE"
+            },
+            {
+               "candyCost" : 400,
+               "evolution" : "APPLETUN"
+            }
+         ],
+         "familyId" : "FAMILY_APPLIN",
+         "heightStdDev" : 0.025,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.2,
+         "pokedexWeightKg" : 0.5,
+         "pokemonId" : "APPLIN",
+         "quickMoves" : [
+            "ASTONISH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 71,
+            "baseDefense" : 116,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 0.0625
+      },
       "stats" : {
          "baseAttack" : 71,
          "baseDefense" : 116,

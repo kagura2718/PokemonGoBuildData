@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.55,
          "cylinderRadiusM" : 0.5,
@@ -84,6 +87,103 @@
          "ICE_SHARD_FAST",
          "LICK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.6667,
+            0.6667,
+            1.8333,
+            1.6667,
+            0,
+            2,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.4125,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "AURORA_BEAM",
+            "ICY_WIND",
+            "AQUA_TAIL"
+         ],
+         "eliteCinematicMove" : [
+            "AQUA_JET"
+         ],
+         "eliteQuickMove" : [
+            "WATER_GUN_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 3.75,
+            "collisionHeadRadiusM" : 0.22,
+            "collisionHeightM" : 0.4125,
+            "collisionRadiusM" : 0.275,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "DEWGONG"
+            }
+         ],
+         "evolutionIds" : [
+            "DEWGONG"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SEEL",
+         "heightStdDev" : 0.1375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.8,
+         "modelScale" : 1.1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.1,
+         "pokedexWeightKg" : 90,
+         "pokemonId" : "SEEL",
+         "quickMoves" : [
+            "ICE_SHARD_FAST",
+            "LICK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 85,
+            "baseDefense" : 121,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 11.25
+      },
       "stats" : {
          "baseAttack" : 85,
          "baseDefense" : 121,

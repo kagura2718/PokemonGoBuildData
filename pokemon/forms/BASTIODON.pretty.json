@@ -22,6 +22,10 @@
          -69.6
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderHeightM" : 1.2,
          "cylinderRadiusM" : 0.98,
@@ -72,6 +76,92 @@
          "SMACK_DOWN_FAST",
          "IRON_TAIL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -69.6
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -69.6
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 0.98,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "STONE_EDGE",
+            "FLAMETHROWER",
+            "FLASH_CANNON"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 1.3,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SHIELDON",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.3,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.95,
+         "parentPokemonId" : "SHIELDON",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 149.5,
+         "pokemonId" : "BASTIODON",
+         "quickMoves" : [
+            "SMACK_DOWN_FAST",
+            "IRON_TAIL_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 94,
+            "baseDefense" : 286,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 18.6875
+      },
       "stats" : {
          "baseAttack" : 94,
          "baseDefense" : 286,

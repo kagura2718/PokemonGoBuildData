@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderGroundM" : 0.3,
          "cylinderHeightM" : 2.4,
@@ -80,6 +84,106 @@
          "MUD_SHOT_FAST",
          "DRAGON_TAIL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.3,
+            "cylinderHeightM" : 2.4,
+            "cylinderRadiusM" : 1.5,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "DRAGON_CLAW",
+            "STONE_EDGE"
+         ],
+         "eliteCinematicMove" : [
+            "EARTH_POWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TRAPINCH",
+         "heightStdDev" : 0.25125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 2.0869565,
+         "modelScale" : 0.6,
+         "modelScaleV2" : 0.94,
+         "parentPokemonId" : "VIBRAVA",
+         "pokedexHeightM" : 2.01,
+         "pokedexWeightKg" : 82,
+         "pokemonId" : "FLYGON",
+         "quickMoves" : [
+            "MUD_SHOT_FAST",
+            "DRAGON_TAIL_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 205,
+            "baseDefense" : 168,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 10.25
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,
@@ -123,6 +227,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 4,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderGroundM" : 0.3,
          "cylinderHeightM" : 2.4,
@@ -181,6 +289,107 @@
          "MUD_SHOT_FAST",
          "DRAGON_TAIL_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.3,
+            "cylinderHeightM" : 2.4,
+            "cylinderRadiusM" : 1.5,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "DRAGON_CLAW",
+            "STONE_EDGE"
+         ],
+         "eliteCinematicMove" : [
+            "EARTH_POWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TRAPINCH",
+         "form" : "FLYGON_NORMAL",
+         "heightStdDev" : 0.25125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 2.0869565,
+         "modelScale" : 0.6,
+         "modelScaleV2" : 0.94,
+         "parentPokemonId" : "VIBRAVA",
+         "pokedexHeightM" : 2.01,
+         "pokedexWeightKg" : 82,
+         "pokemonId" : "FLYGON",
+         "quickMoves" : [
+            "MUD_SHOT_FAST",
+            "DRAGON_TAIL_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 205,
+            "baseDefense" : 168,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GROUND",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 10.25
+      },
       "shadow" : {
          "purificationCandyNeeded" : 5,
          "purificationStardustNeeded" : 5000,

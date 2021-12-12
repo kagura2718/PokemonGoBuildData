@@ -27,6 +27,9 @@
          0.63
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 12
+      },
       "camera" : {
          "cylinderGroundM" : 0.15,
          "cylinderHeightM" : 0.69,
@@ -83,6 +86,102 @@
          "ACID_FAST",
          "SPARK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            6.7,
+            0,
+            -29.5
+         ],
+         "buddyOffsetMale" : [
+            6.7,
+            0,
+            -29.5
+         ],
+         "buddyPortraitOffset" : [
+            0.21,
+            -0.02,
+            0.63
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.15,
+            "cylinderHeightM" : 0.69,
+            "cylinderRadiusM" : 0.58,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "CRUNCH",
+            "THUNDERBOLT",
+            "DISCHARGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.12,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.12,
+            "dodgeDistance" : 0.6,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "EELEKTROSS",
+               "evolutionItemRequirement" : "ITEM_GEN5_EVOLUTION_STONE"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TYNAMO",
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.6,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "TYNAMO",
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 22,
+         "pokemonId" : "EELEKTRIK",
+         "quickMoves" : [
+            "ACID_FAST",
+            "SPARK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 156,
+            "baseDefense" : 130,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 2.75
+      },
       "stats" : {
          "baseAttack" : 156,
          "baseDefense" : 130,

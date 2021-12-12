@@ -17,6 +17,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 16
+      },
       "camera" : {},
       "cinematicMoves" : [
          "NIGHT_SLASH",
@@ -55,6 +58,74 @@
          "QUICK_ATTACK_FAST",
          "SNARL_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "NIGHT_SLASH",
+            "PLAY_ROUGH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.4,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "THIEVUL"
+            }
+         ],
+         "familyId" : "FAMILY_NICKIT",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 8.9,
+         "pokemonId" : "NICKIT",
+         "quickMoves" : [
+            "QUICK_ATTACK_FAST",
+            "SNARL_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 85,
+            "baseDefense" : 82,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 1.1125
+      },
       "stats" : {
          "baseAttack" : 85,
          "baseDefense" : 82,

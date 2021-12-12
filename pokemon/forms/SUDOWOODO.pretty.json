@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 5
+      },
       "camera" : {
          "cylinderHeightM" : 1.15,
          "cylinderRadiusM" : 0.5,
@@ -73,6 +76,92 @@
          "ROCK_THROW_FAST",
          "COUNTER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            -4.8,
+            0,
+            30
+         ],
+         "buddyOffsetMale" : [
+            -4.8,
+            0,
+            30
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.09,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.15,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "STONE_EDGE",
+            "EARTHQUAKE",
+            "ROCK_SLIDE",
+            "ROCK_TOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.05,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.05,
+            "cameraDistance" : 4.05,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SUDOWOODO",
+         "heightStdDev" : 0.14875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "BONSLY",
+         "pokedexHeightM" : 1.19,
+         "pokedexWeightKg" : 38,
+         "pokemonId" : "SUDOWOODO",
+         "quickMoves" : [
+            "ROCK_THROW_FAST",
+            "COUNTER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 167,
+            "baseDefense" : 176,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "weightStdDev" : 4.75
+      },
       "stats" : {
          "baseAttack" : 167,
          "baseDefense" : 176,

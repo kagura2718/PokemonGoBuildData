@@ -23,6 +23,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 13
+      },
       "camera" : {
          "cylinderGroundM" : 0.3,
          "cylinderHeightM" : 1.5,
@@ -75,6 +78,94 @@
          "PSYCHO_CUT_FAST",
          "CONFUSION_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            19.75,
+            0,
+            31.25
+         ],
+         "buddyOffsetMale" : [
+            19.75,
+            0,
+            31.25
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.3,
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 0.6,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "AURORA_BEAM",
+            "MOONBLAST",
+            "FUTURESIGHT"
+         ],
+         "eliteCinematicMove" : [
+            "GRASS_KNOT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.16,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.37,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CRESSELIA",
+         "heightStdDev" : 0.1875,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 1.5,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 85.6,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "CRESSELIA",
+         "quickMoves" : [
+            "PSYCHO_CUT_FAST",
+            "CONFUSION_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 152,
+            "baseDefense" : 258,
+            "baseStamina" : 260
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 10.7
+      },
       "stats" : {
          "baseAttack" : 152,
          "baseDefense" : 258,

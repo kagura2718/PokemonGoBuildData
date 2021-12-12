@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 11
+      },
       "camera" : {
          "cylinderHeightM" : 1.15,
          "cylinderRadiusM" : 0.6,
@@ -82,6 +85,101 @@
          "IRON_TAIL_FAST",
          "VINE_WHIP_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            24,
+            0,
+            50
+         ],
+         "buddyOffsetMale" : [
+            24,
+            0,
+            50
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.15,
+            "cylinderRadiusM" : 0.6,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "GRASS_KNOT",
+            "LEAF_TORNADO",
+            "AERIAL_ACE"
+         ],
+         "eliteCinematicMove" : [
+            "FRENZY_PLANT"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.12,
+            "collisionHeightM" : 0.25,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SNIVY",
+         "heightStdDev" : 0.4125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.05,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.25,
+         "parentPokemonId" : "SERVINE",
+         "pokedexHeightM" : 3.3,
+         "pokedexWeightKg" : 63,
+         "pokemonId" : "SERPERIOR",
+         "quickMoves" : [
+            "IRON_TAIL_FAST",
+            "VINE_WHIP_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 161,
+            "baseDefense" : 204,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 7.875
+      },
       "stats" : {
          "baseAttack" : 161,
          "baseDefense" : 204,

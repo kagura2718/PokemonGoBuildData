@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 12
+      },
       "camera" : {
          "cylinderGroundM" : 0.4597701,
          "cylinderHeightM" : 0.7,
@@ -75,6 +79,95 @@
          "CHARGE_BEAM_FAST",
          "SPARK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            -13.5,
+            82.54
+         ],
+         "buddyOffsetMale" : [
+            20,
+            -13.5,
+            82.54
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.4597701,
+            "cylinderHeightM" : 0.7,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HYDRO_PUMP",
+            "THUNDERBOLT",
+            "THUNDER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.15,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.75,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.8,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHINCHOU",
+         "heightStdDev" : 0.14875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.4,
+         "modelScale" : 0.87,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "CHINCHOU",
+         "pokedexHeightM" : 1.19,
+         "pokedexWeightKg" : 22.5,
+         "pokemonId" : "LANTURN",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "CHARGE_BEAM_FAST",
+            "SPARK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 146,
+            "baseDefense" : 137,
+            "baseStamina" : 268
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 2.8125
+      },
       "stats" : {
          "baseAttack" : 146,
          "baseDefense" : 137,

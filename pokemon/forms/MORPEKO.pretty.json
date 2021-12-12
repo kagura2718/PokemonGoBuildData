@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 12,
+         "pokemonType2" : 16
+      },
       "camera" : {},
       "cinematicMoves" : [
          "CRUNCH",
@@ -51,6 +55,71 @@
          "THUNDER_SHOCK_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "CRUNCH",
+            "PAYBACK",
+            "THUNDERBOLT",
+            "WILD_CHARGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_MORPEKO",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 3,
+         "pokemonId" : "MORPEKO",
+         "quickMoves" : [
+            "THUNDER_SHOCK_FAST",
+            "BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 192,
+            "baseDefense" : 121,
+            "baseStamina" : 151
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 0.375
+      },
       "stats" : {
          "baseAttack" : 192,
          "baseDefense" : 121,
@@ -82,6 +151,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 12,
+         "pokemonType2" : 16
+      },
       "camera" : {},
       "cinematicMoves" : [
          "CRUNCH",
@@ -117,6 +190,72 @@
          "THUNDER_SHOCK_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "CRUNCH",
+            "PAYBACK",
+            "THUNDERBOLT",
+            "WILD_CHARGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_MORPEKO",
+         "form" : "MORPEKO_FULL_BELLY",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 3,
+         "pokemonId" : "MORPEKO",
+         "quickMoves" : [
+            "THUNDER_SHOCK_FAST",
+            "BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 192,
+            "baseDefense" : 121,
+            "baseStamina" : 151
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 0.375
+      },
       "stats" : {
          "baseAttack" : 192,
          "baseDefense" : 121,
@@ -148,6 +287,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 12,
+         "pokemonType2" : 16
+      },
       "camera" : {},
       "cinematicMoves" : [
          "CRUNCH",
@@ -183,6 +326,72 @@
          "THUNDER_SHOCK_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "CRUNCH",
+            "PAYBACK",
+            "THUNDERBOLT",
+            "WILD_CHARGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_MORPEKO",
+         "form" : "MORPEKO_HANGRY",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 3,
+         "pokemonId" : "MORPEKO",
+         "quickMoves" : [
+            "THUNDER_SHOCK_FAST",
+            "BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 192,
+            "baseDefense" : 121,
+            "baseStamina" : 151
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 0.375
+      },
       "stats" : {
          "baseAttack" : 192,
          "baseDefense" : 121,

@@ -22,6 +22,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderGroundM" : 0.125,
          "cylinderHeightM" : 0.5,
@@ -84,6 +87,109 @@
          "WATER_GUN_FAST",
          "BUBBLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            1.7333,
+            0.8333,
+            0.333333,
+            1.6667,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.125,
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.25,
+            "diskRadiusM" : 0.2775,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "BUBBLE_BEAM",
+            "DRAGON_PULSE",
+            "FLASH_CANNON"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.775,
+            "collisionHeadRadiusM" : 0.185,
+            "collisionHeightM" : 0.444,
+            "collisionRadiusM" : 0.148,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 0.6,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "SEADRA",
+               "form" : "SEADRA_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "SEADRA"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_HORSEA",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.4,
+         "modelScale" : 1.48,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 8,
+         "pokemonId" : "HORSEA",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "BUBBLE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 129,
+            "baseDefense" : 103,
+            "baseStamina" : 102
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 1
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -125,6 +231,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderGroundM" : 0.125,
          "cylinderHeightM" : 0.5,
@@ -188,6 +297,110 @@
          "WATER_GUN_FAST",
          "BUBBLE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            0,
+            0.6667,
+            1.7333,
+            0.8333,
+            0.333333,
+            1.6667,
+            2,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.125,
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.25,
+            "diskRadiusM" : 0.2775,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "BUBBLE_BEAM",
+            "DRAGON_PULSE",
+            "FLASH_CANNON"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.775,
+            "collisionHeadRadiusM" : 0.185,
+            "collisionHeightM" : 0.444,
+            "collisionRadiusM" : 0.148,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 0.6,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "SEADRA",
+               "form" : "SEADRA_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "SEADRA"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_HORSEA",
+         "form" : "HORSEA_NORMAL",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.4,
+         "modelScale" : 1.48,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 8,
+         "pokemonId" : "HORSEA",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "BUBBLE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 129,
+            "baseDefense" : 103,
+            "baseStamina" : 102
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 1
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

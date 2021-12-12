@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 1.183,
          "cylinderRadiusM" : 0.8,
@@ -78,6 +82,104 @@
          "POISON_JAB_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.8333,
+            0.6667,
+            1.6667,
+            1.6667,
+            0,
+            2,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            5.69,
+            0,
+            57.56
+         ],
+         "buddyOffsetMale" : [
+            5.69,
+            0,
+            57.56
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.183,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.6143,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "SLUDGE_WAVE",
+            "STONE_EDGE",
+            "EARTH_POWER",
+            "POISON_FANG"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 5,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 4.43625,
+            "collisionHeadRadiusM" : 0.2275,
+            "collisionHeightM" : 0.79625,
+            "collisionRadiusM" : 0.455,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 14,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.125,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_NIDORAN_FEMALE",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.25,
+         "modelScale" : 0.91,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "NIDORINA",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 60,
+         "pokemonId" : "NIDOQUEEN",
+         "quickMoves" : [
+            "POISON_JAB_FAST",
+            "BITE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 180,
+            "baseDefense" : 173,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 7.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -121,6 +223,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 4
+      },
       "camera" : {
          "cylinderHeightM" : 1.183,
          "cylinderRadiusM" : 0.8,
@@ -177,6 +283,105 @@
          "POISON_JAB_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.8333,
+            0.6667,
+            1.6667,
+            1.6667,
+            0,
+            2,
+            1.6667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            5.69,
+            0,
+            57.56
+         ],
+         "buddyOffsetMale" : [
+            5.69,
+            0,
+            57.56
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.183,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.6143,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "EARTHQUAKE",
+            "SLUDGE_WAVE",
+            "STONE_EDGE",
+            "EARTH_POWER",
+            "POISON_FANG"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 5,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 4.43625,
+            "collisionHeadRadiusM" : 0.2275,
+            "collisionHeightM" : 0.79625,
+            "collisionRadiusM" : 0.455,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 14,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.125,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_NIDORAN_FEMALE",
+         "form" : "NIDOQUEEN_NORMAL",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.25,
+         "modelScale" : 0.91,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "NIDORINA",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 60,
+         "pokemonId" : "NIDOQUEEN",
+         "quickMoves" : [
+            "POISON_JAB_FAST",
+            "BITE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 180,
+            "baseDefense" : 173,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 7.5
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

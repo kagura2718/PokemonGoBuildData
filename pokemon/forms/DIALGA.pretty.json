@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 8,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderHeightM" : 5,
          "cylinderRadiusM" : 2,
@@ -71,6 +75,91 @@
          "DRAGON_BREATH_FAST",
          "METAL_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            1.1,
+            0,
+            -14.79
+         ],
+         "buddyOffsetMale" : [
+            1.1,
+            0,
+            -14.79
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 5,
+            "cylinderRadiusM" : 2,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "DRACO_METEOR",
+            "IRON_HEAD",
+            "THUNDER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 1.5,
+            "collisionRadiusM" : 0.7,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DIALGA",
+         "heightStdDev" : 0.675,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 5.6,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.61,
+         "pokedexHeightM" : 5.4,
+         "pokedexWeightKg" : 683,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "DIALGA",
+         "quickMoves" : [
+            "DRAGON_BREATH_FAST",
+            "METAL_CLAW_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 275,
+            "baseDefense" : 211,
+            "baseStamina" : 205
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_STEEL",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 85.375
+      },
       "stats" : {
          "baseAttack" : 275,
          "baseDefense" : 211,

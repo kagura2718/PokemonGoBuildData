@@ -27,6 +27,10 @@
          0.017
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11,
+         "pokemonType2" : 3
+      },
       "camera" : {
          "cylinderHeightM" : 0.9,
          "cylinderRadiusM" : 0.18,
@@ -86,6 +90,106 @@
          "POISON_JAB_FAST",
          "RAZOR_LEAF_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.125,
+            0.017
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.9,
+            "cylinderRadiusM" : 0.18,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "SOLAR_BEAM",
+            "SLUDGE_BOMB",
+            "DAZZLING_GLEAM",
+            "GRASS_KNOT",
+            "LEAF_STORM"
+         ],
+         "eliteCinematicMove" : [
+            "WEATHER_BALL_FIRE"
+         ],
+         "eliteQuickMove" : [
+            "BULLET_SEED_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.15,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.17,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.16,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ROSELIA",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.9,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "ROSELIA",
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 14.5,
+         "pokemonId" : "ROSERADE",
+         "quickMoves" : [
+            "POISON_JAB_FAST",
+            "RAZOR_LEAF_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 243,
+            "baseDefense" : 185,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 1.8125
+      },
       "stats" : {
          "baseAttack" : 243,
          "baseDefense" : 185,

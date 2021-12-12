@@ -22,6 +22,9 @@
          -9.46
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 0.9213,
          "cylinderRadiusM" : 0.5,
@@ -72,6 +75,91 @@
          "QUICK_ATTACK_FAST",
          "SUCKER_PUNCH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            -9.46
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            -9.46
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.9213,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "BRICK_BREAK",
+            "HYPER_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.15,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.454875,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.3,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SENTRET",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.83,
+         "modelScale" : 1.08,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SENTRET",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 32.5,
+         "pokemonId" : "FURRET",
+         "quickMoves" : [
+            "QUICK_ATTACK_FAST",
+            "SUCKER_PUNCH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 148,
+            "baseDefense" : 125,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 4.0625
+      },
       "stats" : {
          "baseAttack" : 148,
          "baseDefense" : 125,

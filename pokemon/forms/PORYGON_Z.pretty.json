@@ -27,6 +27,9 @@
          -0.08
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderGroundM" : 0.4,
          "cylinderHeightM" : 0.9,
@@ -87,6 +90,112 @@
          "CHARGE_BEAM_FAST",
          "LOCK_ON_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            16.27
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            16.27
+         ],
+         "buddyPortraitOffset" : [
+            -0.01,
+            -0.11,
+            -0.08
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.4,
+            "cylinderHeightM" : 0.9,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "SOLAR_BEAM",
+            "HYPER_BEAM",
+            "ZAP_CANNON",
+            "BLIZZARD"
+         ],
+         "eliteCinematicMove" : [
+            "TRI_ATTACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.12,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_PORYGON",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.9,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "PORYGON2",
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 34,
+         "pokemonId" : "PORYGON_Z",
+         "quickMoves" : [
+            "HIDDEN_POWER_FAST",
+            "CHARGE_BEAM_FAST",
+            "LOCK_ON_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 264,
+            "baseDefense" : 150,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 4.25
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -133,6 +242,9 @@
          -0.08
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderGroundM" : 0.4,
          "cylinderHeightM" : 0.9,
@@ -194,6 +306,113 @@
          "CHARGE_BEAM_FAST",
          "LOCK_ON_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            16.27
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            16.27
+         ],
+         "buddyPortraitOffset" : [
+            -0.01,
+            -0.11,
+            -0.08
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.4,
+            "cylinderHeightM" : 0.9,
+            "cylinderRadiusM" : 0.4,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "SOLAR_BEAM",
+            "HYPER_BEAM",
+            "ZAP_CANNON",
+            "BLIZZARD"
+         ],
+         "eliteCinematicMove" : [
+            "TRI_ATTACK"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.12,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_PORYGON",
+         "form" : "PORYGON_Z_NORMAL",
+         "heightStdDev" : 0.1125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.9,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "PORYGON2",
+         "pokedexHeightM" : 0.9,
+         "pokedexWeightKg" : 34,
+         "pokemonId" : "PORYGON_Z",
+         "quickMoves" : [
+            "HIDDEN_POWER_FAST",
+            "CHARGE_BEAM_FAST",
+            "LOCK_ON_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 264,
+            "baseDefense" : 150,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 4.25
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

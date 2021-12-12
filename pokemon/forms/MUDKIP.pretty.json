@@ -27,6 +27,9 @@
          0.77
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.2,
          "cylinderRadiusM" : 0.2,
@@ -85,6 +88,110 @@
          "WATER_GUN_FAST"
       ],
       "raidBossDistanceOffset" : 4.5,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.34,
+            0.07,
+            0.77
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.2,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "SLUDGE",
+            "STOMP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.2,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "MARSHTOMP",
+               "form" : "MARSHTOMP_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MUDKIP",
+         "heightStdDev" : 0.05125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.4,
+         "modelScale" : 1.48,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.41,
+         "pokedexWeightKg" : 7.6,
+         "pokemonId" : "MUDKIP",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "WATER_GUN_FAST"
+         ],
+         "raidBossDistanceOffset" : 4.5,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 126,
+            "baseDefense" : 93,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 0.95
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -131,6 +238,9 @@
          0.77
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 0.2,
          "cylinderRadiusM" : 0.2,
@@ -190,6 +300,111 @@
          "WATER_GUN_FAST"
       ],
       "raidBossDistanceOffset" : 4.5,
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.34,
+            0.07,
+            0.77
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.2,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DIG",
+            "SLUDGE",
+            "STOMP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.2,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "MARSHTOMP",
+               "form" : "MARSHTOMP_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MUDKIP",
+         "form" : "MUDKIP_NORMAL",
+         "heightStdDev" : 0.05125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.4,
+         "modelScale" : 1.48,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.41,
+         "pokedexWeightKg" : 7.6,
+         "pokemonId" : "MUDKIP",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "WATER_GUN_FAST"
+         ],
+         "raidBossDistanceOffset" : 4.5,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 126,
+            "baseDefense" : 93,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 0.95
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

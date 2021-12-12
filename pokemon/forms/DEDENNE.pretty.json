@@ -14,6 +14,10 @@
          -30,
          -90
       ],
+      "built" : {
+         "pokemonType" : 12,
+         "pokemonType2" : 17
+      },
       "camera" : {
          "cylinderHeightM" : 0.3,
          "cylinderRadiusM" : 0.15
@@ -54,6 +58,74 @@
          "TACKLE_FAST",
          "THUNDER_SHOCK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -30,
+            -90
+         ],
+         "camera" : {
+            "cylinderHeightM" : 0.3,
+            "cylinderRadiusM" : 0.15
+         },
+         "cinematicMoves" : [
+            "DISCHARGE",
+            "PLAY_ROUGH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_DEDENNE",
+         "heightStdDev" : 0.025,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.25,
+         "modelScale" : 1.82,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.2,
+         "pokedexWeightKg" : 2.2,
+         "pokemonId" : "DEDENNE",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "THUNDER_SHOCK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 164,
+            "baseDefense" : 134,
+            "baseStamina" : 167
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 0.275
+      },
       "stats" : {
          "baseAttack" : 164,
          "baseDefense" : 134,

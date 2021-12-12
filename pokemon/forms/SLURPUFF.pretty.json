@@ -19,6 +19,9 @@
          0,
          -23
       ],
+      "built" : {
+         "pokemonType" : 17
+      },
       "camera" : {
          "cylinderHeightM" : 0.75,
          "cylinderRadiusM" : 0.35
@@ -65,6 +68,84 @@
          "TACKLE_FAST",
          "CHARM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "buddyOffsetFemale" : [
+            8,
+            0,
+            -23
+         ],
+         "buddyOffsetMale" : [
+            8,
+            0,
+            -23
+         ],
+         "camera" : {
+            "cylinderHeightM" : 0.75,
+            "cylinderRadiusM" : 0.35
+         },
+         "cinematicMoves" : [
+            "PLAY_ROUGH",
+            "ENERGY_BALL",
+            "FLAMETHROWER",
+            "DRAINING_KISS"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.23,
+            "collisionHeightM" : 0.56,
+            "collisionRadiusM" : 0.26,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_SWIRLIX",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.8,
+         "modelScale" : 1.1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SWIRLIX",
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 5,
+         "pokemonId" : "SLURPUFF",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "CHARM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 168,
+            "baseDefense" : 163,
+            "baseStamina" : 193
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 0.625
+      },
       "stats" : {
          "baseAttack" : 168,
          "baseDefense" : 163,

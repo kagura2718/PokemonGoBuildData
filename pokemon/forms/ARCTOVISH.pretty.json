@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 14
+      },
       "camera" : {},
       "cinematicMoves" : [
          "BRINE",
@@ -49,6 +53,69 @@
          "POWDER_SNOW_FAST",
          "WATER_GUN_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "BRINE",
+            "AVALANCHE",
+            "ANCIENT_POWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.3,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "familyId" : "FAMILY_ARCTOVISH",
+         "heightStdDev" : 0.25,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 2,
+         "pokedexWeightKg" : 175,
+         "pokemonId" : "ARCTOVISH",
+         "quickMoves" : [
+            "POWDER_SNOW_FAST",
+            "WATER_GUN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 171,
+            "baseDefense" : 185,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 21.875
+      },
       "stats" : {
          "baseAttack" : 171,
          "baseDefense" : 185,

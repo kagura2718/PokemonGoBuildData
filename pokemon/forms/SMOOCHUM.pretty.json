@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 10,
       "buddySize" : "BUDDY_BABY",
+      "built" : {
+         "pokemonType" : 14,
+         "pokemonType2" : 13
+      },
       "camera" : {
          "cylinderHeightM" : 0.5,
          "cylinderRadiusM" : 0.25,
@@ -87,6 +91,107 @@
          "POWDER_SNOW_FAST",
          "POUND_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            0,
+            0.67,
+            -1
+         ],
+         "buddyOffsetMale" : [
+            0,
+            1.5,
+            1
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -0.08,
+            0
+         ],
+         "buddyScale" : 10,
+         "buddySize" : "BUDDY_BABY",
+         "camera" : {
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.25,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ICE_BEAM",
+            "ICE_PUNCH",
+            "PSYSHOCK"
+         ],
+         "eliteQuickMove" : [
+            "FROST_BREATH_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.2,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "JYNX"
+            }
+         ],
+         "evolutionIds" : [
+            "JYNX"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_JYNX",
+         "heightStdDev" : 0.05125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.48,
+         "modelScale" : 1.37,
+         "modelScaleV2" : 1.02,
+         "pokedexHeightM" : 0.41,
+         "pokedexWeightKg" : 6,
+         "pokemonId" : "SMOOCHUM",
+         "quickMoves" : [
+            "POWDER_SNOW_FAST",
+            "POUND_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 153,
+            "baseDefense" : 91,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "type2" : "POKEMON_TYPE_PSYCHIC",
+         "weightStdDev" : 0.75
+      },
       "stats" : {
          "baseAttack" : 153,
          "baseDefense" : 91,

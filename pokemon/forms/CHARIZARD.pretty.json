@@ -24,6 +24,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.5,
@@ -99,6 +103,175 @@
          "FIRE_SPIN_FAST",
          "AIR_SLASH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.2,
+            0.6667,
+            1.6667,
+            0.8667,
+            6.666667,
+            2,
+            1.6,
+            2
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            1.9,
+            -11.4,
+            36.04
+         ],
+         "buddyOffsetMale" : [
+            1.8,
+            -11.4,
+            36.04
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 1.215,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "FIRE_BLAST",
+            "DRAGON_CLAW",
+            "OVERHEAT"
+         ],
+         "eliteCinematicMove" : [
+            "BLAST_BURN",
+            "FLAMETHROWER"
+         ],
+         "eliteQuickMove" : [
+            "EMBER_FAST",
+            "WING_ATTACK_FAST",
+            "DRAGON_BREATH_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.2025,
+            "collisionHeightM" : 1.0125,
+            "collisionRadiusM" : 0.405,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 0.7,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA_X",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            },
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA_Y",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHARMANDER",
+         "heightStdDev" : 0.2125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.91,
+         "modelScale" : 0.81,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "CHARMELEON",
+         "pokedexHeightM" : 1.7,
+         "pokedexWeightKg" : 90.5,
+         "pokemonId" : "CHARIZARD",
+         "quickMoves" : [
+            "FIRE_SPIN_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 223,
+            "baseDefense" : 173,
+            "baseStamina" : 186
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 1.7,
+               "averageWeightKg" : 110.5,
+               "camera" : {
+                  "cylinderGroundM" : 1,
+                  "cylinderHeightM" : 1.75,
+                  "cylinderRadiusM" : 1.25
+               },
+               "modelHeight" : 1.91,
+               "modelScaleV2" : 1.1,
+               "stats" : {
+                  "baseAttack" : 273,
+                  "baseDefense" : 213,
+                  "baseStamina" : 186
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA_X",
+               "typeOverride" : "POKEMON_TYPE_FIRE",
+               "typeOverride2" : "POKEMON_TYPE_DRAGON"
+            },
+            {
+               "averageHeightM" : 1.7,
+               "averageWeightKg" : 100.5,
+               "buddyOffsetFemale" : [
+                  15,
+                  -11.4,
+                  -34.8
+               ],
+               "buddyOffsetMale" : [
+                  15,
+                  -11.4,
+                  -34.8
+               ],
+               "camera" : {
+                  "cylinderGroundM" : 0.45,
+                  "cylinderHeightM" : 2.7,
+                  "cylinderRadiusM" : 2
+               },
+               "modelHeight" : 3.18,
+               "modelScaleV2" : 1.1,
+               "stats" : {
+                  "baseAttack" : 319,
+                  "baseDefense" : 212,
+                  "baseStamina" : 186
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA_Y",
+               "typeOverride" : "POKEMON_TYPE_FIRE",
+               "typeOverride2" : "POKEMON_TYPE_FLYING"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 11.3125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -193,6 +366,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.5,
@@ -258,6 +435,115 @@
          "FIRE_SPIN_FAST",
          "AIR_SLASH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.2,
+            0.6667,
+            1.6667,
+            0.8667,
+            6.666667,
+            2,
+            1.6,
+            2
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            1.9,
+            -11.4,
+            36.04
+         ],
+         "buddyOffsetMale" : [
+            1.8,
+            -11.4,
+            36.04
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 1.215,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "FIRE_BLAST",
+            "DRAGON_CLAW",
+            "OVERHEAT"
+         ],
+         "disableTransferToPokemonHome" : true,
+         "eliteCinematicMove" : [
+            "BLAST_BURN",
+            "FLAMETHROWER"
+         ],
+         "eliteQuickMove" : [
+            "EMBER_FAST",
+            "WING_ATTACK_FAST",
+            "DRAGON_BREATH_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.2025,
+            "collisionHeightM" : 1.0125,
+            "collisionRadiusM" : 0.405,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 0.7,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHARMANDER",
+         "form" : "CHARIZARD_COPY_2019",
+         "heightStdDev" : 0.2125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.91,
+         "modelScale" : 0.81,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "CHARMELEON",
+         "pokedexHeightM" : 1.7,
+         "pokedexWeightKg" : 90.5,
+         "pokemonId" : "CHARIZARD",
+         "quickMoves" : [
+            "FIRE_SPIN_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 223,
+            "baseDefense" : 173,
+            "baseStamina" : 186
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 11.3125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -302,6 +588,10 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 9,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 1.5,
@@ -378,6 +668,176 @@
          "FIRE_SPIN_FAST",
          "AIR_SLASH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.2,
+            0.6667,
+            1.6667,
+            0.8667,
+            6.666667,
+            2,
+            1.6,
+            2
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            1.9,
+            -11.4,
+            36.04
+         ],
+         "buddyOffsetMale" : [
+            1.8,
+            -11.4,
+            36.04
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 1.215,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "FIRE_BLAST",
+            "DRAGON_CLAW",
+            "OVERHEAT"
+         ],
+         "eliteCinematicMove" : [
+            "BLAST_BURN",
+            "FLAMETHROWER"
+         ],
+         "eliteQuickMove" : [
+            "EMBER_FAST",
+            "WING_ATTACK_FAST",
+            "DRAGON_BREATH_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.05,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.2025,
+            "collisionHeightM" : 1.0125,
+            "collisionRadiusM" : 0.405,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 0.7,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA_X",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            },
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA_Y",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHARMANDER",
+         "form" : "CHARIZARD_NORMAL",
+         "heightStdDev" : 0.2125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.91,
+         "modelScale" : 0.81,
+         "modelScaleV2" : 1.1,
+         "parentPokemonId" : "CHARMELEON",
+         "pokedexHeightM" : 1.7,
+         "pokedexWeightKg" : 90.5,
+         "pokemonId" : "CHARIZARD",
+         "quickMoves" : [
+            "FIRE_SPIN_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 223,
+            "baseDefense" : 173,
+            "baseStamina" : 186
+         },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 1.7,
+               "averageWeightKg" : 110.5,
+               "camera" : {
+                  "cylinderGroundM" : 1,
+                  "cylinderHeightM" : 1.75,
+                  "cylinderRadiusM" : 1.25
+               },
+               "modelHeight" : 1.91,
+               "modelScaleV2" : 1.1,
+               "stats" : {
+                  "baseAttack" : 273,
+                  "baseDefense" : 213,
+                  "baseStamina" : 186
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA_X",
+               "typeOverride" : "POKEMON_TYPE_FIRE",
+               "typeOverride2" : "POKEMON_TYPE_DRAGON"
+            },
+            {
+               "averageHeightM" : 1.7,
+               "averageWeightKg" : 100.5,
+               "buddyOffsetFemale" : [
+                  15,
+                  -11.4,
+                  -34.8
+               ],
+               "buddyOffsetMale" : [
+                  15,
+                  -11.4,
+                  -34.8
+               ],
+               "camera" : {
+                  "cylinderGroundM" : 0.45,
+                  "cylinderHeightM" : 2.7,
+                  "cylinderRadiusM" : 2
+               },
+               "modelHeight" : 3.18,
+               "modelScaleV2" : 1.1,
+               "stats" : {
+                  "baseAttack" : 319,
+                  "baseDefense" : 212,
+                  "baseStamina" : 186
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA_Y",
+               "typeOverride" : "POKEMON_TYPE_FIRE",
+               "typeOverride2" : "POKEMON_TYPE_FLYING"
+            }
+         ],
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 11.3125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

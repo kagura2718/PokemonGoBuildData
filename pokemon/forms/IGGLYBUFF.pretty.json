@@ -27,6 +27,10 @@
          -0.18
       ],
       "buddyScale" : 14,
+      "built" : {
+         "pokemonType" : 0,
+         "pokemonType2" : 17
+      },
       "camera" : {
          "cylinderGroundM" : 0.3,
          "cylinderHeightM" : 0.2,
@@ -86,6 +90,106 @@
          "POUND_FAST",
          "FEINT_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            -0.06,
+            -0.06,
+            -0.18
+         ],
+         "buddyScale" : 14,
+         "camera" : {
+            "cylinderGroundM" : 0.3,
+            "cylinderHeightM" : 0.2,
+            "cylinderRadiusM" : 0.2,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "WILD_CHARGE",
+            "SHADOW_BALL",
+            "PSYCHIC"
+         ],
+         "eliteCinematicMove" : [
+            "BODY_SLAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseFleeRate" : 0.05,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.15,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 0.5,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "JIGGLYPUFF"
+            }
+         ],
+         "evolutionIds" : [
+            "JIGGLYPUFF"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_JIGGLYPUFF",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.33,
+         "modelScale" : 1.61,
+         "modelScaleV2" : 1.21,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 1,
+         "pokemonId" : "IGGLYBUFF",
+         "quickMoves" : [
+            "POUND_FAST",
+            "FEINT_ATTACK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 69,
+            "baseDefense" : 32,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "type2" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 0.125
+      },
       "stats" : {
          "baseAttack" : 69,
          "baseDefense" : 32,

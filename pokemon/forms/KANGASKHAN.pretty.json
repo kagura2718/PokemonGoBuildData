@@ -28,6 +28,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 2.25,
          "cylinderRadiusM" : 1.25,
@@ -82,6 +85,107 @@
          "MUD_SLAP_FAST",
          "LOW_KICK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.1333,
+            0.6667,
+            1.6667,
+            1.5,
+            0,
+            2.3333,
+            2.3333,
+            2.333333
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            0,
+            35
+         ],
+         "buddyOffsetMale" : [
+            15,
+            0,
+            35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 2.25,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 0.864,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "CRUNCH",
+            "EARTHQUAKE",
+            "OUTRAGE",
+            "POWER_UP_PUNCH"
+         ],
+         "eliteCinematicMove" : [
+            "BRICK_BREAK",
+            "STOMP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.36,
+            "collisionHeightM" : 3.3,
+            "collisionRadiusM" : 0.8,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.7,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_KANGASKHAN",
+         "heightStdDev" : 0.275,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2.18,
+         "modelScale" : 0.72,
+         "modelScaleV2" : 0.97,
+         "pokedexHeightM" : 2.2,
+         "pokedexWeightKg" : 80,
+         "pokemonId" : "KANGASKHAN",
+         "quickMoves" : [
+            "MUD_SLAP_FAST",
+            "LOW_KICK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 181,
+            "baseDefense" : 165,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 10
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -129,6 +233,9 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 0
+      },
       "camera" : {
          "cylinderHeightM" : 2.25,
          "cylinderRadiusM" : 1.25,
@@ -184,6 +291,108 @@
          "MUD_SLAP_FAST",
          "LOW_KICK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2.1333,
+            0.6667,
+            1.6667,
+            1.5,
+            0,
+            2.3333,
+            2.3333,
+            2.333333
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            15,
+            0,
+            35
+         ],
+         "buddyOffsetMale" : [
+            15,
+            0,
+            35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 2.25,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 0.864,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "CRUNCH",
+            "EARTHQUAKE",
+            "OUTRAGE",
+            "POWER_UP_PUNCH"
+         ],
+         "eliteCinematicMove" : [
+            "BRICK_BREAK",
+            "STOMP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 4,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.36,
+            "collisionHeightM" : 3.3,
+            "collisionRadiusM" : 0.8,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.7,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_KANGASKHAN",
+         "form" : "KANGASKHAN_NORMAL",
+         "heightStdDev" : 0.275,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2.18,
+         "modelScale" : 0.72,
+         "modelScaleV2" : 0.97,
+         "pokedexHeightM" : 2.2,
+         "pokedexWeightKg" : 80,
+         "pokemonId" : "KANGASKHAN",
+         "quickMoves" : [
+            "MUD_SLAP_FAST",
+            "LOW_KICK_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 181,
+            "baseDefense" : 165,
+            "baseStamina" : 233
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 10
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

@@ -9,6 +9,10 @@
          0.08667,
          0
       ],
+      "built" : {
+         "pokemonType" : 8,
+         "pokemonType2" : 7
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 0.9,
@@ -56,6 +60,72 @@
          "TACKLE_FAST",
          "FURY_CUTTER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+         ],
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 0.9,
+            "cylinderRadiusM" : 0.5
+         },
+         "cinematicMoves" : [
+            "IRON_HEAD",
+            "GYRO_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.15,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.1,
+            "dodgeProbability" : 0.3,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "DOUBLADE"
+            }
+         ],
+         "familyId" : "FAMILY_HONEDGE",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.9,
+         "modelScale" : 1.05,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 2,
+         "pokemonId" : "HONEDGE",
+         "quickMoves" : [
+            "TACKLE_FAST",
+            "FURY_CUTTER_FAST"
+         ],
+         "stats" : {},
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_STEEL",
+         "type2" : "POKEMON_TYPE_GHOST",
+         "weightStdDev" : 0.25
+      },
       "stats" : {},
       "thirdMove" : {
          "candyToUnlock" : 75,

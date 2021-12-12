@@ -27,6 +27,9 @@
          0.14
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 0.55,
          "cylinderRadiusM" : 0.3,
@@ -86,6 +89,111 @@
          "SCRATCH_FAST"
       ],
       "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.04,
+            -0.03,
+            0.14
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FLAME_WHEEL",
+            "FLAMETHROWER",
+            "FLAME_CHARGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2,
+            "collisionHeadRadiusM" : 0.11,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "MONFERNO",
+               "form" : "MONFERNO_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHIMCHAR",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.48,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.02,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 6.2,
+         "pokemonId" : "CHIMCHAR",
+         "quickMoves" : [
+            "EMBER_FAST",
+            "SCRATCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 113,
+            "baseDefense" : 86,
+            "baseStamina" : 127
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 0.775
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -132,6 +240,9 @@
          0.14
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 9
+      },
       "camera" : {
          "cylinderHeightM" : 0.55,
          "cylinderRadiusM" : 0.3,
@@ -192,6 +303,112 @@
          "SCRATCH_FAST"
       ],
       "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0.04,
+            -0.03,
+            0.14
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "FLAME_WHEEL",
+            "FLAMETHROWER",
+            "FLAME_CHARGE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2,
+            "collisionHeadRadiusM" : 0.11,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "MONFERNO",
+               "form" : "MONFERNO_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CHIMCHAR",
+         "form" : "CHIMCHAR_NORMAL",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.48,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.02,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 6.2,
+         "pokemonId" : "CHIMCHAR",
+         "quickMoves" : [
+            "EMBER_FAST",
+            "SCRATCH_FAST"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 113,
+            "baseDefense" : 86,
+            "baseStamina" : 127
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 0.775
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

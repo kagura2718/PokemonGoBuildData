@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderHeightM" : 1.42,
          "cylinderRadiusM" : 1.11,
@@ -85,6 +89,105 @@
          "BITE_FAST",
          "DRAGON_BREATH_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            35,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            35,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            -260,
+            -450,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.42,
+            "cylinderRadiusM" : 1.11,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "DRAGON_PULSE",
+            "DARK_PULSE",
+            "BODY_SLAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.5,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.3,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "HYDREIGON"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_DEINO",
+         "heightStdDev" : 0.175,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.4,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.96,
+         "parentPokemonId" : "DEINO",
+         "pokedexHeightM" : 1.4,
+         "pokedexWeightKg" : 50,
+         "pokemonId" : "ZWEILOUS",
+         "quickMoves" : [
+            "BITE_FAST",
+            "DRAGON_BREATH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 159,
+            "baseDefense" : 135,
+            "baseStamina" : 176
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 6.25
+      },
       "stats" : {
          "baseAttack" : 159,
          "baseDefense" : 135,

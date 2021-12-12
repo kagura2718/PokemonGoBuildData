@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 14
+      },
       "camera" : {
          "cylinderHeightM" : 0.5,
          "cylinderRadiusM" : 0.24,
@@ -80,6 +83,99 @@
          "POWDER_SNOW_FAST",
          "CHARM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            8.4,
+            0,
+            -27
+         ],
+         "buddyOffsetMale" : [
+            8.4,
+            0,
+            -27
+         ],
+         "buddyPortraitOffset" : [
+            0.01,
+            -0.08,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.24,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ICE_PUNCH",
+            "ICY_WIND",
+            "PLAY_ROUGH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.13,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.08,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.8,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "BEARTIC"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CUBCHOO",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 8.5,
+         "pokemonId" : "CUBCHOO",
+         "quickMoves" : [
+            "POWDER_SNOW_FAST",
+            "CHARM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 128,
+            "baseDefense" : 74,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 1.0625
+      },
       "stats" : {
          "baseAttack" : 128,
          "baseDefense" : 74,
@@ -120,6 +216,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 14
+      },
       "camera" : {
          "cylinderHeightM" : 0.5,
          "cylinderRadiusM" : 0.24,
@@ -174,6 +273,100 @@
          "POWDER_SNOW_FAST",
          "CHARM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            8.4,
+            0,
+            -27
+         ],
+         "buddyOffsetMale" : [
+            8.4,
+            0,
+            -27
+         ],
+         "buddyPortraitOffset" : [
+            0.01,
+            -0.08,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.24,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ICE_PUNCH",
+            "ICY_WIND",
+            "PLAY_ROUGH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.13,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.08,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.8,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "BEARTIC"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CUBCHOO",
+         "form" : "CUBCHOO_NORMAL",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 8.5,
+         "pokemonId" : "CUBCHOO",
+         "quickMoves" : [
+            "POWDER_SNOW_FAST",
+            "CHARM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 128,
+            "baseDefense" : 74,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 1.0625
+      },
       "stats" : {
          "baseAttack" : 128,
          "baseDefense" : 74,
@@ -214,6 +407,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 14
+      },
       "camera" : {
          "cylinderHeightM" : 0.5,
          "cylinderRadiusM" : 0.24,
@@ -263,6 +459,95 @@
          "POWDER_SNOW_FAST",
          "CHARM_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            8.4,
+            0,
+            -27
+         ],
+         "buddyOffsetMale" : [
+            8.4,
+            0,
+            -27
+         ],
+         "buddyPortraitOffset" : [
+            0.01,
+            -0.08,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.24,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "ICE_PUNCH",
+            "ICY_WIND",
+            "PLAY_ROUGH"
+         ],
+         "disableTransferToPokemonHome" : true,
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.13,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.08,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.8,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_CUBCHOO",
+         "form" : "CUBCHOO_WINTER_2020",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 8.5,
+         "pokemonId" : "CUBCHOO",
+         "quickMoves" : [
+            "POWDER_SNOW_FAST",
+            "CHARM_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 128,
+            "baseDefense" : 74,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ICE",
+         "weightStdDev" : 1.0625
+      },
       "stats" : {
          "baseAttack" : 128,
          "baseDefense" : 74,

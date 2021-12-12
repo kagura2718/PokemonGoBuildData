@@ -27,6 +27,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 16,
+         "pokemonType2" : 8
+      },
       "camera" : {
          "cylinderHeightM" : 0.45,
          "cylinderRadiusM" : 0.22,
@@ -80,6 +84,100 @@
          "SCRATCH_FAST",
          "FURY_CUTTER_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            6.11,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            6.11,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.45,
+            "cylinderRadiusM" : 0.22,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "NIGHT_SLASH",
+            "IRON_HEAD",
+            "X_SCISSOR"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.09,
+            "cameraDistance" : 2.25,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.08,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "BISHARP"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_PAWNIARD",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.49,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1.2,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 10.2,
+         "pokemonId" : "PAWNIARD",
+         "quickMoves" : [
+            "SCRATCH_FAST",
+            "FURY_CUTTER_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 154,
+            "baseDefense" : 114,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_STEEL",
+         "weightStdDev" : 1.275
+      },
       "stats" : {
          "baseAttack" : 154,
          "baseDefense" : 114,

@@ -17,6 +17,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 1
+      },
       "camera" : {},
       "cinematicMoves" : [
          "BRICK_BREAK",
@@ -54,6 +57,73 @@
       "quickMoves" : [
          "ROCK_SMASH_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "BRICK_BREAK",
+            "SUPER_POWER",
+            "ICE_PUNCH"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "GRAPPLOCT"
+            }
+         ],
+         "familyId" : "FAMILY_CLOBBOPUS",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 4,
+         "pokemonId" : "CLOBBOPUS",
+         "quickMoves" : [
+            "ROCK_SMASH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 121,
+            "baseDefense" : 103,
+            "baseStamina" : 137
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 0.5
+      },
       "stats" : {
          "baseAttack" : 121,
          "baseDefense" : 103,

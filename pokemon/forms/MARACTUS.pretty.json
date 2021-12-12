@@ -27,6 +27,9 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 11
+      },
       "camera" : {
          "cylinderHeightM" : 0.99,
          "cylinderRadiusM" : 0.5,
@@ -74,6 +77,93 @@
          "BULLET_SEED_FAST",
          "POISON_JAB_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            14.8,
+            0,
+            -33.7
+         ],
+         "buddyOffsetMale" : [
+            14.8,
+            0,
+            -33.7
+         ],
+         "buddyPortraitOffset" : [
+            0.03,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.99,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "AERIAL_ACE",
+            "PETAL_BLIZZARD",
+            "SOLAR_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.15,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_MARACTUS",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 28,
+         "pokemonId" : "MARACTUS",
+         "quickMoves" : [
+            "BULLET_SEED_FAST",
+            "POISON_JAB_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 201,
+            "baseDefense" : 130,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 3.5
+      },
       "stats" : {
          "baseAttack" : 201,
          "baseDefense" : 130,

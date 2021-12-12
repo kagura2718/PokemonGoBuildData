@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 0.6955,
@@ -88,6 +92,114 @@
          "QUICK_ATTACK_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.3333,
+            0.6667,
+            0,
+            1.5,
+            1.3333,
+            0
+         ],
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            6.13,
+            31.63,
+            32.8
+         ],
+         "buddyOffsetMale" : [
+            6.13,
+            31.63,
+            32.8
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 0.6955,
+            "cylinderRadiusM" : 0.642,
+            "diskRadiusM" : 0.963,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "POISON_FANG",
+            "AIR_CUTTER",
+            "SWIFT"
+         ],
+         "eliteCinematicMove" : [
+            "SLUDGE_BOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 4.8150005,
+            "collisionHeadRadiusM" : 0.1605,
+            "collisionHeightM" : 0.0535,
+            "collisionRadiusM" : 0.0535,
+            "dodgeDistance" : 0.125,
+            "dodgeDurationS" : 0.7,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_ELECTRIC",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "GOLBAT",
+               "form" : "GOLBAT_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "GOLBAT"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ZUBAT",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.85,
+         "modelScale" : 1.07,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 7.5,
+         "pokemonId" : "ZUBAT",
+         "quickMoves" : [
+            "QUICK_ATTACK_FAST",
+            "BITE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 83,
+            "baseDefense" : 73,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.9375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 1,
          "purificationStardustNeeded" : 1000,
@@ -131,6 +243,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 3,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 0.6955,
@@ -197,6 +313,115 @@
          "QUICK_ATTACK_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.3333,
+            0.6667,
+            0,
+            1.5,
+            1.3333,
+            0
+         ],
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            6.13,
+            31.63,
+            32.8
+         ],
+         "buddyOffsetMale" : [
+            6.13,
+            31.63,
+            32.8
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 0.6955,
+            "cylinderRadiusM" : 0.642,
+            "diskRadiusM" : 0.963,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "POISON_FANG",
+            "AIR_CUTTER",
+            "SWIFT"
+         ],
+         "eliteCinematicMove" : [
+            "SLUDGE_BOMB"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 4.8150005,
+            "collisionHeadRadiusM" : 0.1605,
+            "collisionHeightM" : 0.0535,
+            "collisionRadiusM" : 0.0535,
+            "dodgeDistance" : 0.125,
+            "dodgeDurationS" : 0.7,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_ELECTRIC",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "GOLBAT",
+               "form" : "GOLBAT_NORMAL",
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
+         "evolutionIds" : [
+            "GOLBAT"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ZUBAT",
+         "form" : "ZUBAT_NORMAL",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.85,
+         "modelScale" : 1.07,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 7.5,
+         "pokemonId" : "ZUBAT",
+         "quickMoves" : [
+            "QUICK_ATTACK_FAST",
+            "BITE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 83,
+            "baseDefense" : 73,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_POISON",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.9375
+      },
       "shadow" : {
          "purificationCandyNeeded" : 1,
          "purificationStardustNeeded" : 1000,

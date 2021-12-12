@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 2
+      },
       "camera" : {
          "cylinderGroundM" : 0.6,
          "cylinderHeightM" : 0.4,
@@ -81,6 +85,101 @@
          "WATER_GUN_FAST",
          "QUICK_ATTACK_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            35
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            35
+         ],
+         "buddyPortraitOffset" : [
+            -30,
+            0,
+            -1900
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.6,
+            "cylinderHeightM" : 0.4,
+            "cylinderRadiusM" : 0.9,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "WATER_PULSE",
+            "AIR_CUTTER",
+            "ICE_BEAM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_FLYING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "PELIPPER"
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_WINGULL",
+         "heightStdDev" : 0.07625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.7341464,
+         "modelScale" : 0.9,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.61,
+         "pokedexWeightKg" : 9.5,
+         "pokemonId" : "WINGULL",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "QUICK_ATTACK_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 106,
+            "baseDefense" : 61,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 1.1875
+      },
       "stats" : {
          "baseAttack" : 106,
          "baseDefense" : 61,

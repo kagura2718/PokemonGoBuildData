@@ -23,6 +23,9 @@
       ],
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.5,
@@ -88,6 +91,113 @@
          "WATER_GUN_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.8,
+            1.0667,
+            1.133333
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            9.5,
+            0,
+            0.3
+         ],
+         "buddyOffsetMale" : [
+            9.5,
+            0,
+            0.3
+         ],
+         "buddyScale" : 19,
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.5625,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 100,
+         "cinematicMoves" : [
+            "AQUA_JET",
+            "ICE_BEAM",
+            "HYDRO_PUMP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.75,
+            "collisionHeadRadiusM" : 0.1875,
+            "collisionHeightM" : 0.625,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 23,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "BLASTOISE",
+               "form" : "BLASTOISE_NORMAL",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionIds" : [
+            "BLASTOISE"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SQUIRTLE",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SQUIRTLE",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 22.5,
+         "pokemonId" : "WARTORTLE",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "BITE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 126,
+            "baseDefense" : 155,
+            "baseStamina" : 153
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 2.8125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,
@@ -130,6 +240,9 @@
       ],
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
+      "built" : {
+         "pokemonType" : 10
+      },
       "camera" : {
          "cylinderHeightM" : 1,
          "cylinderRadiusM" : 0.5,
@@ -196,6 +309,114 @@
          "WATER_GUN_FAST",
          "BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            2,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.8,
+            1.0667,
+            1.133333
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            9.5,
+            0,
+            0.3
+         ],
+         "buddyOffsetMale" : [
+            9.5,
+            0,
+            0.3
+         ],
+         "buddyScale" : 19,
+         "buddyWalkedMegaEnergyAward" : 15,
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.5,
+            "diskRadiusM" : 0.5625,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 100,
+         "cinematicMoves" : [
+            "AQUA_JET",
+            "ICE_BEAM",
+            "HYDRO_PUMP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.75,
+            "collisionHeadRadiusM" : 0.1875,
+            "collisionHeightM" : 0.625,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 23,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "BLASTOISE",
+               "form" : "BLASTOISE_NORMAL",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionIds" : [
+            "BLASTOISE"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_SQUIRTLE",
+         "form" : "WARTORTLE_NORMAL",
+         "heightStdDev" : 0.125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SQUIRTLE",
+         "pokedexHeightM" : 1,
+         "pokedexWeightKg" : 22.5,
+         "pokemonId" : "WARTORTLE",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "BITE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 126,
+            "baseDefense" : 155,
+            "baseStamina" : 153
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 2.8125
+      },
       "shadow" : {
          "purificationCandyNeeded" : 3,
          "purificationStardustNeeded" : 3000,

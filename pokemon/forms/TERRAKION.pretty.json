@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 18,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 5,
+         "pokemonType2" : 1
+      },
       "camera" : {
          "cylinderHeightM" : 1.84,
          "cylinderRadiusM" : 1.53,
@@ -79,6 +83,99 @@
          "SMACK_DOWN_FAST",
          "ZEN_HEADBUTT_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            24,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            24,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0.22,
+            0
+         ],
+         "buddyScale" : 18,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.84,
+            "cylinderRadiusM" : 1.53,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "CLOSE_COMBAT",
+            "EARTHQUAKE",
+            "ROCK_SLIDE"
+         ],
+         "eliteCinematicMove" : [
+            "SACRED_SWORD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.01,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 7,
+            "collisionHeadRadiusM" : 0.5,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.75,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TERRAKION",
+         "heightStdDev" : 0.2375,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 2.7,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.9,
+         "pokedexWeightKg" : 260,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "TERRAKION",
+         "quickMoves" : [
+            "SMACK_DOWN_FAST",
+            "ZEN_HEADBUTT_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 260,
+            "baseDefense" : 192,
+            "baseStamina" : 209
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "type2" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 32.5
+      },
       "stats" : {
          "baseAttack" : 260,
          "baseDefense" : 192,

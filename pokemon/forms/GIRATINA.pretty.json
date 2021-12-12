@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 7,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderHeightM" : 4,
          "cylinderRadiusM" : 2.5,
@@ -76,6 +80,96 @@
          "DRAGON_BREATH_FAST",
          "SHADOW_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            25.5,
+            0,
+            1.25
+         ],
+         "buddyOffsetMale" : [
+            25.5,
+            0,
+            1.25
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 4,
+            "cylinderRadiusM" : 2.5,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "DRAGON_CLAW",
+            "ANCIENT_POWER",
+            "SHADOW_SNEAK"
+         ],
+         "combatDefaultCameraAngle" : [
+            3,
+            3,
+            2
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.5,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GIRATINA",
+         "heightStdDev" : 0.5625,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 5.8,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.6,
+         "pokedexHeightM" : 4.5,
+         "pokedexWeightKg" : 750,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "GIRATINA",
+         "quickMoves" : [
+            "DRAGON_BREATH_FAST",
+            "SHADOW_CLAW_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 187,
+            "baseDefense" : 225,
+            "baseStamina" : 284
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 93.75
+      },
       "stats" : {
          "baseAttack" : 187,
          "baseDefense" : 225,
@@ -118,6 +212,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 7,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderHeightM" : 4,
          "cylinderRadiusM" : 1.5,
@@ -172,6 +270,102 @@
          "DRAGON_BREATH_FAST",
          "SHADOW_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            25.5,
+            0,
+            1.25
+         ],
+         "buddyOffsetMale" : [
+            25.5,
+            0,
+            1.25
+         ],
+         "buddyPortraitOffset" : [
+            0.33,
+            0.21,
+            0.84
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 4,
+            "cylinderRadiusM" : 1.5,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "DRAGON_CLAW",
+            "ANCIENT_POWER",
+            "SHADOW_SNEAK"
+         ],
+         "combatDefaultCameraAngle" : [
+            3,
+            3,
+            2
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 6,
+            "collisionHeadRadiusM" : 0.5,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GIRATINA",
+         "form" : "GIRATINA_ALTERED",
+         "heightStdDev" : 0.5625,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 5.38,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.63,
+         "pokedexHeightM" : 4.5,
+         "pokedexWeightKg" : 750,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "GIRATINA",
+         "quickMoves" : [
+            "DRAGON_BREATH_FAST",
+            "SHADOW_CLAW_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 187,
+            "baseDefense" : 225,
+            "baseStamina" : 284
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 93.75
+      },
       "stats" : {
          "baseAttack" : 187,
          "baseDefense" : 225,
@@ -214,6 +408,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 7,
+         "pokemonType2" : 15
+      },
       "camera" : {
          "cylinderHeightM" : 5,
          "cylinderRadiusM" : 3.5,
@@ -263,6 +461,97 @@
          "DRAGON_TAIL_FAST",
          "SHADOW_CLAW_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            14.15,
+            0,
+            -34.5
+         ],
+         "buddyOffsetMale" : [
+            14.19,
+            0,
+            -34.5
+         ],
+         "buddyPortraitOffset" : [
+            -0.35,
+            0.14,
+            -0.88
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 5,
+            "cylinderRadiusM" : 3.5,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "DRAGON_PULSE",
+            "OMINOUS_WIND",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.04,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.126,
+            "collisionHeightM" : 0.252,
+            "collisionRadiusM" : 0.189,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.05,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_FLYING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GIRATINA",
+         "form" : "GIRATINA_ORIGIN",
+         "heightStdDev" : 0.8625,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 5.8,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 0.6,
+         "pokedexHeightM" : 6.9,
+         "pokedexWeightKg" : 650,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "GIRATINA",
+         "quickMoves" : [
+            "DRAGON_TAIL_FAST",
+            "SHADOW_CLAW_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 225,
+            "baseDefense" : 187,
+            "baseStamina" : 284
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "type2" : "POKEMON_TYPE_DRAGON",
+         "weightStdDev" : 81.25
+      },
       "stats" : {
          "baseAttack" : 225,
          "baseDefense" : 187,

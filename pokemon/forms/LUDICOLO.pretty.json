@@ -23,6 +23,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokemonType" : 10,
+         "pokemonType2" : 11
+      },
       "camera" : {
          "cylinderHeightM" : 1.5,
          "cylinderRadiusM" : 1,
@@ -76,6 +80,96 @@
          "BUBBLE_FAST",
          "RAZOR_LEAF_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            60
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            60
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.5,
+            "cylinderRadiusM" : 1,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "HYDRO_PUMP",
+            "BLIZZARD",
+            "SOLAR_BEAM",
+            "ICE_BEAM",
+            "ENERGY_BALL",
+            "LEAF_STORM"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.7,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_LOTAD",
+         "heightStdDev" : 0.1875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.9642857,
+         "modelScale" : 1.1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "LOMBRE",
+         "pokedexHeightM" : 1.5,
+         "pokedexWeightKg" : 55,
+         "pokemonId" : "LUDICOLO",
+         "quickMoves" : [
+            "BUBBLE_FAST",
+            "RAZOR_LEAF_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 173,
+            "baseDefense" : 176,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 6.875
+      },
       "stats" : {
          "baseAttack" : 173,
          "baseDefense" : 176,

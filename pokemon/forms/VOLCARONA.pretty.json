@@ -28,6 +28,10 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "pokemonType" : 6,
+         "pokemonType2" : 9
+      },
       "camera" : {
          "cylinderGroundM" : 0.15,
          "cylinderHeightM" : 1.6,
@@ -81,6 +85,101 @@
          "FIRE_SPIN_FAST",
          "BUG_BITE_FAST"
       ],
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            37.2,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            37.2,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.15,
+            "cylinderHeightM" : 1.6,
+            "cylinderRadiusM" : 1.2,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "OVERHEAT",
+            "BUG_BUZZ",
+            "SOLAR_BEAM",
+            "HURRICANE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.32,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_LARVESTA",
+         "heightStdDev" : 0.2,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.51,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "LARVESTA",
+         "pokedexHeightM" : 1.6,
+         "pokedexWeightKg" : 46,
+         "pokemonId" : "VOLCARONA",
+         "quickMoves" : [
+            "FIRE_SPIN_FAST",
+            "BUG_BITE_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 264,
+            "baseDefense" : 189,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_BUG",
+         "type2" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 5.75
+      },
       "stats" : {
          "baseAttack" : 264,
          "baseDefense" : 189,

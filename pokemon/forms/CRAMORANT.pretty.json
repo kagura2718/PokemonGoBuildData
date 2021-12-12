@@ -17,6 +17,10 @@
          0
       ],
       "buddyScale" : 19,
+      "built" : {
+         "pokemonType" : 2,
+         "pokemonType2" : 10
+      },
       "camera" : {},
       "cinematicMoves" : [
          "DRILL_PECK",
@@ -49,6 +53,69 @@
          "PECK_FAST",
          "WATER_GUN_FAST"
       ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "DRILL_PECK",
+            "FLY",
+            "HYDRO_PUMP"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.2,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2
+         },
+         "familyId" : "FAMILY_CRAMORANT",
+         "heightStdDev" : 0.1,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.8,
+         "pokedexWeightKg" : 18,
+         "pokemonId" : "CRAMORANT",
+         "quickMoves" : [
+            "PECK_FAST",
+            "WATER_GUN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 173,
+            "baseDefense" : 163,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FLYING",
+         "type2" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 2.25
+      },
       "stats" : {
          "baseAttack" : 173,
          "baseDefense" : 163,
