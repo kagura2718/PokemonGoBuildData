@@ -1,5 +1,74 @@
 {
-   "interpolation" : {},
+   "interpolation" : {
+      "@MEGA_ABOMASNOW" : {
+         "en" : "Mega Abomasnow",
+         "ja" : "メガユキノオー"
+      },
+      "@MEGA_ABSOL" : {
+         "en" : "Mega Absol",
+         "ja" : "メガアブソル"
+      },
+      "@MEGA_ALTARIA" : {
+         "en" : "Mega Altaria",
+         "ja" : "メガチルタリス"
+      },
+      "@MEGA_AMPHAROS" : {
+         "en" : "Mega Ampharos",
+         "ja" : "メガデンリュー"
+      },
+      "@MEGA_BEEDRILL" : {
+         "en" : "Mega Beedrill",
+         "ja" : "メガスピアー"
+      },
+      "@MEGA_BLASTOISE" : {
+         "en" : "Mega Blastoise",
+         "ja" : "メガカメックス"
+      },
+      "@MEGA_CHARIZARD_X" : {
+         "en" : "Mega Charizard X",
+         "ja" : "メガリザードンX"
+      },
+      "@MEGA_CHARIZARD_Y" : {
+         "en" : "Mega Charizard Y",
+         "ja" : "メガリザードンY"
+      },
+      "@MEGA_GENGAR" : {
+         "en" : "Mega Gengar",
+         "ja" : "メガゲンガー"
+      },
+      "@MEGA_GYARADOS" : {
+         "en" : "Mega Gyarados",
+         "ja" : "メガギャラドス"
+      },
+      "@MEGA_HOUNDOOM" : {
+         "en" : "Mega Houndoom",
+         "ja" : "メガヘルガー"
+      },
+      "@MEGA_LOPUNNY" : {
+         "en" : "Mega Lopunny",
+         "ja" : "メガミミロップ"
+      },
+      "@MEGA_MANECTRIC" : {
+         "en" : "Mega Manectric",
+         "ja" : "メガライボルト"
+      },
+      "@MEGA_PIDGEOT" : {
+         "en" : "Mega Pidgeot",
+         "ja" : "メガピジョット"
+      },
+      "@MEGA_SLOWBRO" : {
+         "en" : "Mega Snowbro",
+         "ja" : "メガヤドラン"
+      },
+      "@MEGA_STEELIX" : {
+         "en" : "Mega Steelix",
+         "ja" : "メガハガネール"
+      },
+      "@MEGA_VENUSAUR" : {
+         "en" : "",
+         "ja" : "メガフシギバナ"
+      }
+   },
    "table" : {
       "ABOMASNOW" : "Abomasnow",
       "ABRA" : "Abra",

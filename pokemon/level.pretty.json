@@ -110,6 +110,221 @@
       0.8628,
       0.8653
    ],
+   "evolutionMap" : {
+      "ABOMASNOW" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_ABOMASNOW",
+            "pokemonId" : "ABOMASNOW"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_ABOMASNOW",
+            "pokemonForm" : "ABOMASNOW_NORMAL",
+            "pokemonId" : "ABOMASNOW"
+         }
+      ],
+      "ABSOL" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_ABSOL",
+            "pokemonId" : "ABSOL"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_ABSOL",
+            "pokemonForm" : "ABSOL_NORMAL",
+            "pokemonId" : "ABSOL"
+         }
+      ],
+      "ALTARIA" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_ALTARIA",
+            "pokemonId" : "ALTARIA"
+         }
+      ],
+      "AMPHAROS" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_AMPHAROS",
+            "pokemonId" : "AMPHAROS"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_AMPHAROS",
+            "pokemonForm" : "AMPHAROS_NORMAL",
+            "pokemonId" : "AMPHAROS"
+         }
+      ],
+      "BEEDRILL" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_BEEDRILL",
+            "pokemonId" : "BEEDRILL"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_BEEDRILL",
+            "pokemonForm" : "BEEDRILL_NORMAL",
+            "pokemonId" : "BEEDRILL"
+         }
+      ],
+      "BLASTOISE" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_BLASTOISE",
+            "pokemonId" : "BLASTOISE"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_BLASTOISE",
+            "pokemonForm" : "BLASTOISE_NORMAL",
+            "pokemonId" : "BLASTOISE"
+         }
+      ],
+      "CHARIZARD" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA_X",
+            "ownId" : "@MEGA_CHARIZARD_X",
+            "pokemonId" : "CHARIZARD"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA_Y",
+            "ownId" : "@MEGA_CHARIZARD_Y",
+            "pokemonId" : "CHARIZARD"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA_X",
+            "ownId" : "@MEGA_CHARIZARD_X",
+            "pokemonForm" : "CHARIZARD_NORMAL",
+            "pokemonId" : "CHARIZARD"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA_Y",
+            "ownId" : "@MEGA_CHARIZARD_Y",
+            "pokemonForm" : "CHARIZARD_NORMAL",
+            "pokemonId" : "CHARIZARD"
+         }
+      ],
+      "GENGAR" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_GENGAR",
+            "pokemonId" : "GENGAR"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_GENGAR",
+            "pokemonForm" : "GENGAR_COSTUME_2020",
+            "pokemonId" : "GENGAR"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_GENGAR",
+            "pokemonForm" : "GENGAR_NORMAL",
+            "pokemonId" : "GENGAR"
+         }
+      ],
+      "GYARADOS" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_GYARADOS",
+            "pokemonId" : "GYARADOS"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_GYARADOS",
+            "pokemonForm" : "GYARADOS_NORMAL",
+            "pokemonId" : "GYARADOS"
+         }
+      ],
+      "HOUNDOOM" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_HOUNDOOM",
+            "pokemonId" : "HOUNDOOM"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_HOUNDOOM",
+            "pokemonForm" : "HOUNDOOM_NORMAL",
+            "pokemonId" : "HOUNDOOM"
+         }
+      ],
+      "LOPUNNY" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_LOPUNNY",
+            "pokemonId" : "LOPUNNY"
+         }
+      ],
+      "MANECTRIC" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_MANECTRIC",
+            "pokemonId" : "MANECTRIC"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_MANECTRIC",
+            "pokemonForm" : "MANECTRIC_NORMAL",
+            "pokemonId" : "MANECTRIC"
+         }
+      ],
+      "PIDGEOT" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_PIDGEOT",
+            "pokemonId" : "PIDGEOT"
+         }
+      ],
+      "SLOWBRO" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_SLOWBRO",
+            "pokemonId" : "SLOWBRO"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_SLOWBRO",
+            "pokemonForm" : "SLOWBRO_2021",
+            "pokemonId" : "SLOWBRO"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_SLOWBRO",
+            "pokemonForm" : "SLOWBRO_NORMAL",
+            "pokemonId" : "SLOWBRO"
+         }
+      ],
+      "STEELIX" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_STEELIX",
+            "pokemonId" : "STEELIX"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_STEELIX",
+            "pokemonForm" : "STEELIX_NORMAL",
+            "pokemonId" : "STEELIX"
+         }
+      ],
+      "VENUSAUR" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_VENUSAUR",
+            "pokemonId" : "VENUSAUR"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_VENUSAUR",
+            "pokemonForm" : "VENUSAUR_NORMAL",
+            "pokemonId" : "VENUSAUR"
+         }
+      ]
+   },
    "requireCandyCost" : [
       1,
       1,
