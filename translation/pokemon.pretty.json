@@ -57,7 +57,7 @@
          "ja" : "メガピジョット"
       },
       "@MEGA_SLOWBRO" : {
-         "en" : "Mega Snowbro",
+         "en" : "Mega Slowbro",
          "ja" : "メガヤドラン"
       },
       "@MEGA_STEELIX" : {
@@ -65,7 +65,7 @@
          "ja" : "メガハガネール"
       },
       "@MEGA_VENUSAUR" : {
-         "en" : "",
+         "en" : "Mega Venusaur",
          "ja" : "メガフシギバナ"
       }
    },
