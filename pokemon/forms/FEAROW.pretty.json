@@ -25,7 +25,16 @@
       "buddySize" : "BUDDY_FLYING",
       "built" : {
          "pokemonType" : 0,
-         "pokemonType2" : 2
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 0,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 182,
+            "baseDefense" : 133,
+            "baseStamina" : 163
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.5,

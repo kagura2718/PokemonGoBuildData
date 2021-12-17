@@ -11,7 +11,12 @@
       ],
       "built" : {
          "pokemonType" : 8,
-         "pokemonType2" : 7
+         "pokemonType2" : 7,
+         "pokemonTypes" : {
+            "pokemonType" : 8,
+            "pokemonType2" : 7
+         },
+         "stats" : {}
       },
       "camera" : {
          "cylinderHeightM" : 0.4,

@@ -10,7 +10,15 @@
          0
       ],
       "built" : {
-         "pokemonType" : 17
+         "pokemonType" : 17,
+         "pokemonTypes" : {
+            "pokemonType" : 17
+         },
+         "stats" : {
+            "baseAttack" : 110,
+            "baseDefense" : 113,
+            "baseStamina" : 186
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.1,

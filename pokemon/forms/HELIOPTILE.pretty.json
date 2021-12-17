@@ -11,7 +11,16 @@
       ],
       "built" : {
          "pokemonType" : 12,
-         "pokemonType2" : 0
+         "pokemonType2" : 0,
+         "pokemonTypes" : {
+            "pokemonType" : 12,
+            "pokemonType2" : 0
+         },
+         "stats" : {
+            "baseAttack" : 115,
+            "baseDefense" : 78,
+            "baseStamina" : 127
+         }
       },
       "camera" : {
          "cylinderHeightM" : 0.4,

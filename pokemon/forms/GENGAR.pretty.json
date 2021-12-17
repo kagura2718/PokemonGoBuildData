@@ -31,7 +31,29 @@
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 3
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 261,
+            "baseDefense" : 149,
+            "baseStamina" : 155
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 7,
+                  "pokemonType2" : 3
+               },
+               "stats" : {
+                  "baseAttack" : 349,
+                  "baseDefense" : 199,
+                  "baseStamina" : 155
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.5,
@@ -307,7 +329,29 @@
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 3
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 261,
+            "baseDefense" : 149,
+            "baseStamina" : 155
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 7,
+                  "pokemonType2" : 3
+               },
+               "stats" : {
+                  "baseAttack" : 349,
+                  "baseDefense" : 199,
+                  "baseStamina" : 155
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.5,
@@ -587,7 +631,29 @@
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 3
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 261,
+            "baseDefense" : 149,
+            "baseStamina" : 155
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 7,
+                  "pokemonType2" : 3
+               },
+               "stats" : {
+                  "baseAttack" : 349,
+                  "baseDefense" : 199,
+                  "baseStamina" : 155
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.5,

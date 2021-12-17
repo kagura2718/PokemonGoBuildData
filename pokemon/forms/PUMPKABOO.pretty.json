@@ -22,7 +22,16 @@
       ],
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 11
+         "pokemonType2" : 11,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 11
+         },
+         "stats" : {
+            "baseAttack" : 122,
+            "baseDefense" : 124,
+            "baseStamina" : 127
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.42,
@@ -220,7 +229,16 @@
       ],
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 11
+         "pokemonType2" : 11,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 11
+         },
+         "stats" : {
+            "baseAttack" : 121,
+            "baseDefense" : 123,
+            "baseStamina" : 135
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.42,
@@ -420,7 +438,16 @@
       ],
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 11
+         "pokemonType2" : 11,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 11
+         },
+         "stats" : {
+            "baseAttack" : 120,
+            "baseDefense" : 122,
+            "baseStamina" : 144
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.42,
@@ -620,7 +647,16 @@
       ],
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 11
+         "pokemonType2" : 11,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 11
+         },
+         "stats" : {
+            "baseAttack" : 122,
+            "baseDefense" : 124,
+            "baseStamina" : 127
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.42,
@@ -825,7 +861,16 @@
       ],
       "built" : {
          "pokemonType" : 7,
-         "pokemonType2" : 11
+         "pokemonType2" : 11,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 11
+         },
+         "stats" : {
+            "baseAttack" : 118,
+            "baseDefense" : 120,
+            "baseStamina" : 153
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.17,

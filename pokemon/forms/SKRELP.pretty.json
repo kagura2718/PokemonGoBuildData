@@ -12,7 +12,16 @@
       "buddyGroupNumber" : 2,
       "built" : {
          "pokemonType" : 3,
-         "pokemonType2" : 10
+         "pokemonType2" : 10,
+         "pokemonTypes" : {
+            "pokemonType" : 3,
+            "pokemonType2" : 10
+         },
+         "stats" : {
+            "baseAttack" : 109,
+            "baseDefense" : 109,
+            "baseStamina" : 137
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.2,

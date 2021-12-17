@@ -24,7 +24,16 @@
       "buddyScale" : 19,
       "built" : {
          "pokemonType" : 6,
-         "pokemonType2" : 3
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 6,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 100,
+            "baseDefense" : 100,
+            "baseStamina" : 155
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.1715,
@@ -234,7 +243,16 @@
       "buddyScale" : 19,
       "built" : {
          "pokemonType" : 6,
-         "pokemonType2" : 3
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 6,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 100,
+            "baseDefense" : 100,
+            "baseStamina" : 155
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.1715,

@@ -25,7 +25,27 @@
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
-         "pokemonType" : 10
+         "pokemonType" : 10,
+         "pokemonTypes" : {
+            "pokemonType" : 10
+         },
+         "stats" : {
+            "baseAttack" : 171,
+            "baseDefense" : 207,
+            "baseStamina" : 188
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 10
+               },
+               "stats" : {
+                  "baseAttack" : 264,
+                  "baseDefense" : 237,
+                  "baseStamina" : 188
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.2925,
@@ -280,7 +300,15 @@
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
-         "pokemonType" : 10
+         "pokemonType" : 10,
+         "pokemonTypes" : {
+            "pokemonType" : 10
+         },
+         "stats" : {
+            "baseAttack" : 171,
+            "baseDefense" : 207,
+            "baseStamina" : 188
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.2925,
@@ -487,7 +515,27 @@
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
-         "pokemonType" : 10
+         "pokemonType" : 10,
+         "pokemonTypes" : {
+            "pokemonType" : 10
+         },
+         "stats" : {
+            "baseAttack" : 171,
+            "baseDefense" : 207,
+            "baseStamina" : 188
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 10
+               },
+               "stats" : {
+                  "baseAttack" : 264,
+                  "baseDefense" : 237,
+                  "baseStamina" : 188
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.2925,

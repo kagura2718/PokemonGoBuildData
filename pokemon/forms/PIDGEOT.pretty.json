@@ -26,7 +26,29 @@
       "buddyWalkedMegaEnergyAward" : 5,
       "built" : {
          "pokemonType" : 0,
-         "pokemonType2" : 2
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 0,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 166,
+            "baseDefense" : 154,
+            "baseStamina" : 195
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 0,
+                  "pokemonType2" : 2
+               },
+               "stats" : {
+                  "baseAttack" : 280,
+                  "baseDefense" : 175,
+                  "baseStamina" : 195
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderGroundM" : 0.65,

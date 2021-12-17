@@ -24,7 +24,27 @@
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
-         "pokemonType" : 16
+         "pokemonType" : 16,
+         "pokemonTypes" : {
+            "pokemonType" : 16
+         },
+         "stats" : {
+            "baseAttack" : 246,
+            "baseDefense" : 120,
+            "baseStamina" : 163
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 16
+               },
+               "stats" : {
+                  "baseAttack" : 314,
+                  "baseDefense" : 130,
+                  "baseStamina" : 163
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.2,
@@ -273,7 +293,27 @@
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
-         "pokemonType" : 16
+         "pokemonType" : 16,
+         "pokemonTypes" : {
+            "pokemonType" : 16
+         },
+         "stats" : {
+            "baseAttack" : 246,
+            "baseDefense" : 120,
+            "baseStamina" : 163
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 16
+               },
+               "stats" : {
+                  "baseAttack" : 314,
+                  "baseDefense" : 130,
+                  "baseStamina" : 163
+               }
+            }
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.2,

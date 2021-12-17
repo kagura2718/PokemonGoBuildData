@@ -29,7 +29,15 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
-         "pokemonType" : 9
+         "pokemonType" : 9,
+         "pokemonTypes" : {
+            "pokemonType" : 9
+         },
+         "stats" : {
+            "baseAttack" : 263,
+            "baseDefense" : 114,
+            "baseStamina" : 233
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.4,
@@ -219,7 +227,15 @@
       ],
       "buddyScale" : 19,
       "built" : {
-         "pokemonType" : 14
+         "pokemonType" : 14,
+         "pokemonTypes" : {
+            "pokemonType" : 14
+         },
+         "stats" : {
+            "baseAttack" : 263,
+            "baseDefense" : 114,
+            "baseStamina" : 233
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.65,
@@ -405,7 +421,16 @@
       "buddyScale" : 19,
       "built" : {
          "pokemonType" : 14,
-         "pokemonType2" : 9
+         "pokemonType2" : 9,
+         "pokemonTypes" : {
+            "pokemonType" : 14,
+            "pokemonType2" : 9
+         },
+         "stats" : {
+            "baseAttack" : 323,
+            "baseDefense" : 123,
+            "baseStamina" : 233
+         }
       },
       "camera" : {
          "cylinderHeightM" : 2.4,
@@ -593,7 +618,15 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
-         "pokemonType" : 9
+         "pokemonType" : 9,
+         "pokemonTypes" : {
+            "pokemonType" : 9
+         },
+         "stats" : {
+            "baseAttack" : 263,
+            "baseDefense" : 114,
+            "baseStamina" : 233
+         }
       },
       "camera" : {
          "cylinderHeightM" : 1.4,
@@ -786,7 +819,16 @@
       "buddyScale" : 19,
       "built" : {
          "pokemonType" : 9,
-         "pokemonType2" : 13
+         "pokemonType2" : 13,
+         "pokemonTypes" : {
+            "pokemonType" : 9,
+            "pokemonType2" : 13
+         },
+         "stats" : {
+            "baseAttack" : 243,
+            "baseDefense" : 202,
+            "baseStamina" : 233
+         }
       },
       "camera" : {
          "cylinderHeightM" : 0.95,

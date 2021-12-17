@@ -28,7 +28,15 @@
       ],
       "buddyScale" : 19,
       "built" : {
-         "pokemonType" : 15
+         "pokemonType" : 15,
+         "pokemonTypes" : {
+            "pokemonType" : 15
+         },
+         "stats" : {
+            "baseAttack" : 212,
+            "baseDefense" : 123,
+            "baseStamina" : 165
+         }
       },
       "camera" : {
          "cylinderHeightM" : 0.87,

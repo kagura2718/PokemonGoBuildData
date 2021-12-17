@@ -25,7 +25,16 @@
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "pokemonType" : 16,
-         "pokemonType2" : 9
+         "pokemonType2" : 9,
+         "pokemonTypes" : {
+            "pokemonType" : 16,
+            "pokemonType2" : 9
+         },
+         "stats" : {
+            "baseAttack" : 152,
+            "baseDefense" : 83,
+            "baseStamina" : 128
+         }
       },
       "camera" : {
          "cylinderHeightM" : 0.65,
@@ -237,7 +246,16 @@
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "pokemonType" : 16,
-         "pokemonType2" : 9
+         "pokemonType2" : 9,
+         "pokemonTypes" : {
+            "pokemonType" : 16,
+            "pokemonType2" : 9
+         },
+         "stats" : {
+            "baseAttack" : 152,
+            "baseDefense" : 83,
+            "baseStamina" : 128
+         }
       },
       "camera" : {
          "cylinderHeightM" : 0.65,

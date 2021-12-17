@@ -11,7 +11,15 @@
       ],
       "buddyGroupNumber" : 3,
       "built" : {
-         "pokemonType" : 17
+         "pokemonType" : 17,
+         "pokemonTypes" : {
+            "pokemonType" : 17
+         },
+         "stats" : {
+            "baseAttack" : 250,
+            "baseDefense" : 185,
+            "baseStamina" : 246
+         }
       },
       "camera" : {
          "cylinderHeightM" : 3,
