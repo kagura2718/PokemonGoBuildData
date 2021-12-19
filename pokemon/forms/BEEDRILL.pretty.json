@@ -25,6 +25,7 @@
       "buddySize" : "BUDDY_FLYING",
       "buddyWalkedMegaEnergyAward" : 5,
       "built" : {
+         "pokedexNumber" : 15,
          "pokemonType" : 6,
          "pokemonType2" : 3,
          "pokemonTypes" : {
@@ -317,6 +318,7 @@
       "buddySize" : "BUDDY_FLYING",
       "buddyWalkedMegaEnergyAward" : 5,
       "built" : {
+         "pokedexNumber" : 15,
          "pokemonType" : 6,
          "pokemonType2" : 3,
          "pokemonTypes" : {

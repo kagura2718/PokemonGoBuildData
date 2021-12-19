@@ -29,6 +29,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 377,
          "pokemonType" : 5,
          "pokemonTypes" : {
             "pokemonType" : 5

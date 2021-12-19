@@ -18,6 +18,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 898,
          "pokemonType" : 13,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -161,6 +162,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 898,
          "pokemonType" : 13,
          "pokemonType2" : 14,
          "pokemonTypes" : {
@@ -308,6 +310,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 898,
          "pokemonType" : 13,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -453,6 +456,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 898,
          "pokemonType" : 13,
          "pokemonType2" : 7,
          "pokemonTypes" : {

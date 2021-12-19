@@ -25,6 +25,7 @@
       "buddySize" : "BUDDY_SHOULDER",
       "buddyWalkedMegaEnergyAward" : 5,
       "built" : {
+         "pokedexNumber" : 16,
          "pokemonType" : 0,
          "pokemonType2" : 2,
          "pokemonTypes" : {

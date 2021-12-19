@@ -25,6 +25,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 700,
          "pokemonType" : 17,
          "pokemonTypes" : {
             "pokemonType" : 17

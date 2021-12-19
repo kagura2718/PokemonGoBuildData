@@ -23,6 +23,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 231,
          "pokemonType" : 4,
          "pokemonTypes" : {
             "pokemonType" : 4

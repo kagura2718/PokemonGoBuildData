@@ -10,6 +10,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 721,
          "pokemonType" : 9,
          "pokemonType2" : 10,
          "pokemonTypes" : {

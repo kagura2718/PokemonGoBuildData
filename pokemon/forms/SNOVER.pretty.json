@@ -29,6 +29,7 @@
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
+         "pokedexNumber" : 459,
          "pokemonType" : 11,
          "pokemonType2" : 14,
          "pokemonTypes" : {
@@ -254,6 +255,7 @@
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
+         "pokedexNumber" : 459,
          "pokemonType" : 11,
          "pokemonType2" : 14,
          "pokemonTypes" : {

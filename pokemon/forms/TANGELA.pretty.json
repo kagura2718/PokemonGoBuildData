@@ -23,6 +23,7 @@
       ],
       "buddyScale" : 15,
       "built" : {
+         "pokedexNumber" : 114,
          "pokemonType" : 11,
          "pokemonTypes" : {
             "pokemonType" : 11
@@ -238,6 +239,7 @@
       ],
       "buddyScale" : 15,
       "built" : {
+         "pokedexNumber" : 114,
          "pokemonType" : 11,
          "pokemonTypes" : {
             "pokemonType" : 11

@@ -24,6 +24,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 137,
          "pokemonType" : 0,
          "pokemonTypes" : {
             "pokemonType" : 0
@@ -255,6 +256,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 137,
          "pokemonType" : 0,
          "pokemonTypes" : {
             "pokemonType" : 0

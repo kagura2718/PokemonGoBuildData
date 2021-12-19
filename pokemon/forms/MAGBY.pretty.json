@@ -29,6 +29,7 @@
       "buddyScale" : 10,
       "buddySize" : "BUDDY_BABY",
       "built" : {
+         "pokedexNumber" : 240,
          "pokemonType" : 9,
          "pokemonTypes" : {
             "pokemonType" : 9

@@ -21,6 +21,7 @@
          -30
       ],
       "built" : {
+         "pokedexNumber" : 710,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -228,6 +229,7 @@
          -30
       ],
       "built" : {
+         "pokedexNumber" : 710,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -437,6 +439,7 @@
          -30
       ],
       "built" : {
+         "pokedexNumber" : 710,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -646,6 +649,7 @@
          -30
       ],
       "built" : {
+         "pokedexNumber" : 710,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -860,6 +864,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 710,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {

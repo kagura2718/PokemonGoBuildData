@@ -29,6 +29,7 @@
       "buddyScale" : 15,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 465,
          "pokemonType" : 11,
          "pokemonTypes" : {
             "pokemonType" : 11
@@ -246,6 +247,7 @@
       "buddyScale" : 15,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 465,
          "pokemonType" : 11,
          "pokemonTypes" : {
             "pokemonType" : 11

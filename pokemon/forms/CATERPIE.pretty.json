@@ -24,6 +24,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 10,
          "pokemonType" : 6,
          "pokemonTypes" : {
             "pokemonType" : 6

@@ -10,6 +10,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 720,
          "pokemonType" : 13,
          "pokemonType2" : 7,
          "pokemonTypes" : {
@@ -145,6 +146,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 720,
          "pokemonType" : 13,
          "pokemonType2" : 7,
          "pokemonTypes" : {
@@ -290,6 +292,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 720,
          "pokemonType" : 13,
          "pokemonType2" : 16,
          "pokemonTypes" : {

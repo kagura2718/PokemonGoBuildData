@@ -29,6 +29,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 78,
          "pokemonType" : 9,
          "pokemonTypes" : {
             "pokemonType" : 9
@@ -251,6 +252,7 @@
       "buddySize" : "BUDDY_BIG",
       "built" : {
          "isGalarian" : true,
+         "pokedexNumber" : 78,
          "pokemonType" : 13,
          "pokemonType2" : 17,
          "pokemonTypes" : {
@@ -472,6 +474,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 78,
          "pokemonType" : 9,
          "pokemonTypes" : {
             "pokemonType" : 9

@@ -24,6 +24,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
       "built" : {
+         "pokedexNumber" : 42,
          "pokemonType" : 3,
          "pokemonType2" : 2,
          "pokemonTypes" : {
@@ -253,6 +254,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
       "built" : {
+         "pokedexNumber" : 42,
          "pokemonType" : 3,
          "pokemonType2" : 2,
          "pokemonTypes" : {

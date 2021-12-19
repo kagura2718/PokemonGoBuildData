@@ -29,6 +29,7 @@
       "buddyScale" : 18,
       "buddySize" : "BUDDY_FLYING",
       "built" : {
+         "pokedexNumber" : 635,
          "pokemonType" : 16,
          "pokemonType2" : 15,
          "pokemonTypes" : {

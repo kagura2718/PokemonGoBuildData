@@ -18,6 +18,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 849,
          "pokemonType" : 12,
          "pokemonType2" : 3,
          "pokemonTypes" : {
@@ -169,6 +170,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 849,
          "pokemonType" : 12,
          "pokemonType2" : 3,
          "pokemonTypes" : {
@@ -322,6 +324,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 849,
          "pokemonType" : 12,
          "pokemonType2" : 3,
          "pokemonTypes" : {

@@ -28,6 +28,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 52,
          "pokemonType" : 0,
          "pokemonTypes" : {
             "pokemonType" : 0
@@ -262,6 +263,7 @@
       "buddyScale" : 19,
       "built" : {
          "isAlola" : true,
+         "pokedexNumber" : 52,
          "pokemonType" : 16,
          "pokemonTypes" : {
             "pokemonType" : 16
@@ -492,6 +494,7 @@
       "buddyScale" : 19,
       "built" : {
          "isGalarian" : true,
+         "pokedexNumber" : 52,
          "pokemonType" : 8,
          "pokemonTypes" : {
             "pokemonType" : 8
@@ -713,6 +716,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "pokedexNumber" : 52,
          "pokemonType" : 0,
          "pokemonTypes" : {
             "pokemonType" : 0

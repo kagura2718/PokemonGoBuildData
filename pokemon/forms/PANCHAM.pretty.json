@@ -15,6 +15,7 @@
          -0.36
       ],
       "built" : {
+         "pokedexNumber" : 674,
          "pokemonType" : 1,
          "pokemonTypes" : {
             "pokemonType" : 1

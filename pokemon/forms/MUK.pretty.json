@@ -24,6 +24,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 89,
          "pokemonType" : 3,
          "pokemonTypes" : {
             "pokemonType" : 3
@@ -241,6 +242,7 @@
       "buddySize" : "BUDDY_BIG",
       "built" : {
          "isAlola" : true,
+         "pokedexNumber" : 89,
          "pokemonType" : 3,
          "pokemonType2" : 16,
          "pokemonTypes" : {
@@ -462,6 +464,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 89,
          "pokemonType" : 3,
          "pokemonTypes" : {
             "pokemonType" : 3

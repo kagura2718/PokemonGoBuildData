@@ -24,6 +24,7 @@
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
+         "pokedexNumber" : 79,
          "pokemonType" : 10,
          "pokemonType2" : 13,
          "pokemonTypes" : {
@@ -259,6 +260,7 @@
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
+         "pokedexNumber" : 79,
          "pokemonType" : 10,
          "pokemonType2" : 13,
          "pokemonTypes" : {
@@ -480,6 +482,7 @@
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "isGalarian" : true,
+         "pokedexNumber" : 79,
          "pokemonType" : 13,
          "pokemonTypes" : {
             "pokemonType" : 13
@@ -710,6 +713,7 @@
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
+         "pokedexNumber" : 79,
          "pokemonType" : 10,
          "pokemonType2" : 13,
          "pokemonTypes" : {

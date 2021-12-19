@@ -24,6 +24,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -235,6 +236,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -432,6 +434,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -626,6 +629,7 @@
       ],
       "buddyScale" : 11,
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -812,6 +816,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -1006,6 +1011,7 @@
       ],
       "buddyScale" : 11,
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -1196,6 +1202,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -1377,6 +1384,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -1590,6 +1598,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -1769,6 +1778,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -1948,6 +1958,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12
@@ -2127,6 +2138,7 @@
       "buddyScale" : 11,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
+         "pokedexNumber" : 25,
          "pokemonType" : 12,
          "pokemonTypes" : {
             "pokemonType" : 12

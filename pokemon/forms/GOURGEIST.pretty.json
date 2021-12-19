@@ -26,6 +26,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 711,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -233,6 +234,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 711,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -442,6 +444,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 711,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -651,6 +654,7 @@
          0
       ],
       "built" : {
+         "pokedexNumber" : 711,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
@@ -861,6 +865,7 @@
       ],
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "pokedexNumber" : 711,
          "pokemonType" : 7,
          "pokemonType2" : 11,
          "pokemonTypes" : {
