@@ -229,6 +229,7 @@
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
+         "isGalarian" : true,
          "pokemonType" : 3,
          "pokemonType2" : 17,
          "pokemonTypes" : {

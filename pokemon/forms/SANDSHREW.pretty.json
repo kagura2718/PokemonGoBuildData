@@ -244,6 +244,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "isAlola" : true,
          "pokemonType" : 14,
          "pokemonType2" : 8,
          "pokemonTypes" : {

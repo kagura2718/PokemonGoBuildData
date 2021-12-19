@@ -560,6 +560,7 @@
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
+         "isGalarian" : true,
          "pokemonType" : 3,
          "pokemonType2" : 13,
          "pokemonTypes" : {

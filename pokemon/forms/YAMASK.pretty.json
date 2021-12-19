@@ -255,6 +255,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "isGalarian" : true,
          "pokemonType" : 4,
          "pokemonType2" : 7,
          "pokemonTypes" : {

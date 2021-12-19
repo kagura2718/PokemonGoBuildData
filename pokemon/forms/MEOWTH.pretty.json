@@ -261,6 +261,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "isAlola" : true,
          "pokemonType" : 16,
          "pokemonTypes" : {
             "pokemonType" : 16
@@ -490,6 +491,7 @@
       ],
       "buddyScale" : 19,
       "built" : {
+         "isGalarian" : true,
          "pokemonType" : 8,
          "pokemonTypes" : {
             "pokemonType" : 8

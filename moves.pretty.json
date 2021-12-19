@@ -1,6 +1,18 @@
 {
    "ACID_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 3,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 800,
+         "energyDelta" : 8,
+         "movesType" : 3,
+         "power" : 9
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -18,7 +30,19 @@
       }
    },
    "ACID_SPRAY" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 3,
+            "power" : 20
+         },
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movesType" : 3,
+         "power" : 20
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -36,7 +60,19 @@
       }
    },
    "AERIAL_ACE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 2,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1900,
+         "durationMs" : 2400,
+         "energyDelta" : -33,
+         "movesType" : 2,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -55,7 +91,19 @@
       }
    },
    "AEROBLAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -75,
+            "movesType" : 2,
+            "power" : 170
+         },
+         "damageWindowEndMs" : 3400,
+         "damageWindowStartMs" : 3200,
+         "durationMs" : 3400,
+         "energyDelta" : -100,
+         "movesType" : 2,
+         "power" : 180
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -73,7 +121,19 @@
       }
    },
    "AIR_CUTTER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 2,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movesType" : 2,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -92,7 +152,19 @@
       }
    },
    "AIR_SLASH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 9,
+            "movesType" : 2,
+            "power" : 9
+         },
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1200,
+         "energyDelta" : 10,
+         "movesType" : 2,
+         "power" : 14
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -110,7 +182,19 @@
       }
    },
    "ANCIENT_POWER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 5,
+            "power" : 45
+         },
+         "damageWindowEndMs" : 3100,
+         "damageWindowStartMs" : 2850,
+         "durationMs" : 3500,
+         "energyDelta" : -33,
+         "movesType" : 5,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -129,7 +213,19 @@
       }
    },
    "AQUA_JET" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 10,
+            "power" : 45
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -33,
+         "movesType" : 10,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -148,7 +244,19 @@
       }
    },
    "AQUA_TAIL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 10,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 1650,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 10,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -167,7 +275,19 @@
       }
    },
    "ASTONISH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 9,
+            "movesType" : 7,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movesType" : 7,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -185,7 +305,19 @@
       }
    },
    "AURA_SPHERE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 1,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1800,
+         "energyDelta" : -50,
+         "movesType" : 1,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -203,7 +335,19 @@
       }
    },
    "AURORA_BEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 14,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 3550,
+         "damageWindowStartMs" : 3350,
+         "durationMs" : 3550,
+         "energyDelta" : -50,
+         "movesType" : 14,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -222,7 +366,19 @@
       }
    },
    "AVALANCHE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 14,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movesType" : 14,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -241,7 +397,19 @@
       }
    },
    "BITE_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 2,
+            "movesType" : 16,
+            "power" : 4
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 4,
+         "movesType" : 16,
+         "power" : 6
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -259,7 +427,19 @@
       }
    },
    "BLAST_BURN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 9,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 3200,
+         "damageWindowStartMs" : 2750,
+         "durationMs" : 3300,
+         "energyDelta" : -50,
+         "movesType" : 9,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -277,7 +457,19 @@
       }
    },
    "BLAZE_KICK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 9,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 450,
+         "durationMs" : 1200,
+         "energyDelta" : -33,
+         "movesType" : 9,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -295,7 +487,19 @@
       }
    },
    "BLIZZARD" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -75,
+            "movesType" : 14,
+            "power" : 140
+         },
+         "damageWindowEndMs" : 2900,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 3100,
+         "energyDelta" : -100,
+         "movesType" : 14,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -314,7 +518,19 @@
       }
    },
    "BODY_SLAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 0,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -333,7 +549,19 @@
       }
    },
    "BONE_CLUB" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 4,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 4,
+         "power" : 40
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -352,7 +580,19 @@
       }
    },
    "BRAVE_BIRD" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 2,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movesType" : 2,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -371,7 +611,19 @@
       }
    },
    "BRICK_BREAK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 1,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 1,
+         "power" : 40
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -390,7 +642,19 @@
       }
    },
    "BRINE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 10,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movesType" : 10,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -409,7 +673,19 @@
       }
    },
    "BUBBLE_BEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 10,
+            "power" : 25
+         },
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1450,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 10,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -428,7 +704,19 @@
       }
    },
    "BUBBLE_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 11,
+            "movesType" : 10,
+            "power" : 7
+         },
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 750,
+         "durationMs" : 1200,
+         "energyDelta" : 14,
+         "movesType" : 10,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -446,7 +734,19 @@
       }
    },
    "BUG_BITE_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 3,
+            "movesType" : 6,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 450,
+         "damageWindowStartMs" : 250,
+         "durationMs" : 500,
+         "energyDelta" : 6,
+         "movesType" : 6,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -464,7 +764,19 @@
       }
    },
    "BUG_BUZZ" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 6,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 3100,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3700,
+         "energyDelta" : -50,
+         "movesType" : 6,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -483,7 +795,19 @@
       }
    },
    "BULLDOZE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 4,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 3100,
+         "damageWindowStartMs" : 2600,
+         "durationMs" : 3500,
+         "energyDelta" : -50,
+         "movesType" : 4,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -502,7 +826,19 @@
       }
    },
    "BULLET_PUNCH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 7,
+            "movesType" : 8,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 900,
+         "energyDelta" : 10,
+         "movesType" : 8,
+         "power" : 9
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -520,7 +856,19 @@
       }
    },
    "BULLET_SEED_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 13,
+            "movesType" : 11,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movesType" : 11,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -538,7 +886,19 @@
       }
    },
    "CHARGE_BEAM_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 11,
+            "movesType" : 12,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 15,
+         "movesType" : 12,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -556,7 +916,19 @@
       }
    },
    "CHARM_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 6,
+            "movesType" : 17,
+            "power" : 16
+         },
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 1500,
+         "energyDelta" : 11,
+         "movesType" : 17,
+         "power" : 20
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -574,7 +946,19 @@
       }
    },
    "CLOSE_COMBAT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 1,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2300,
+         "energyDelta" : -100,
+         "movesType" : 1,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -593,7 +977,19 @@
       }
    },
    "CONFUSION_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 12,
+            "movesType" : 13,
+            "power" : 16
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1600,
+         "energyDelta" : 15,
+         "movesType" : 13,
+         "power" : 20
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -611,7 +1007,19 @@
       }
    },
    "COUNTER_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 7,
+            "movesType" : 1,
+            "power" : 8
+         },
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 900,
+         "energyDelta" : 8,
+         "movesType" : 1,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -629,7 +1037,19 @@
       }
    },
    "CRABHAMMER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 10,
+            "power" : 85
+         },
+         "damageWindowEndMs" : 1750,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 1900,
+         "energyDelta" : -50,
+         "movesType" : 10,
+         "power" : 85
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -647,7 +1067,19 @@
       }
    },
    "CROSS_CHOP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 1,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1500,
+         "energyDelta" : -50,
+         "movesType" : 1,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -666,7 +1098,19 @@
       }
    },
    "CROSS_POISON" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 3,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 1500,
+         "energyDelta" : -33,
+         "movesType" : 3,
+         "power" : 40
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -685,7 +1129,19 @@
       }
    },
    "CRUNCH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 16,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3200,
+         "energyDelta" : -33,
+         "movesType" : 16,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -704,7 +1160,12 @@
       }
    },
    "CRUSH_CLAW" : {
-      "built" : {},
+      "built" : {
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "movesType" : 0
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -720,7 +1181,19 @@
       }
    },
    "CUT_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 2,
+            "movesType" : 0,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 5,
+         "movesType" : 0,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -738,7 +1211,19 @@
       }
    },
    "DARK_PULSE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 16,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movesType" : 16,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -757,7 +1242,19 @@
       }
    },
    "DAZZLING_GLEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -70,
+            "movesType" : 17,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 3300,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 3500,
+         "energyDelta" : -50,
+         "movesType" : 17,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -776,7 +1273,19 @@
       }
    },
    "DIG" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 4,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 4500,
+         "damageWindowStartMs" : 2800,
+         "durationMs" : 4700,
+         "energyDelta" : -50,
+         "movesType" : 4,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -795,7 +1304,19 @@
       }
    },
    "DISARMING_VOICE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 17,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3200,
+         "durationMs" : 3900,
+         "energyDelta" : -33,
+         "movesType" : 17,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -814,7 +1335,19 @@
       }
    },
    "DISCHARGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 12,
+            "power" : 65
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2500,
+         "energyDelta" : -33,
+         "movesType" : 12,
+         "power" : 65
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -833,7 +1366,19 @@
       }
    },
    "DOOM_DESIRE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 8,
+            "power" : 75
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movesType" : 8,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -851,7 +1396,19 @@
       }
    },
    "DRACO_METEOR" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -65,
+            "movesType" : 15,
+            "power" : 150
+         },
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3600,
+         "energyDelta" : -100,
+         "movesType" : 15,
+         "power" : 150
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -869,7 +1426,19 @@
       }
    },
    "DRAGON_BREATH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 3,
+            "movesType" : 15,
+            "power" : 4
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 4,
+         "movesType" : 15,
+         "power" : 6
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -887,7 +1456,19 @@
       }
    },
    "DRAGON_CLAW" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 15,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movesType" : 15,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -906,7 +1487,19 @@
       }
    },
    "DRAGON_PULSE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 15,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 3300,
+         "damageWindowStartMs" : 2150,
+         "durationMs" : 3600,
+         "energyDelta" : -50,
+         "movesType" : 15,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -925,7 +1518,19 @@
       }
    },
    "DRAGON_TAIL_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 9,
+            "movesType" : 15,
+            "power" : 13
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 9,
+         "movesType" : 15,
+         "power" : 15
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -943,7 +1548,19 @@
       }
    },
    "DRAINING_KISS" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 17,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 17,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -963,7 +1580,12 @@
       }
    },
    "DRAIN_PUNCH" : {
-      "built" : {},
+      "built" : {
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2400,
+         "movesType" : 1
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -979,7 +1601,19 @@
       }
    },
    "DRILL_PECK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 2,
+            "power" : 65
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2300,
+         "energyDelta" : -33,
+         "movesType" : 2,
+         "power" : 65
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -998,7 +1632,19 @@
       }
    },
    "DRILL_RUN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 4,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movesType" : 4,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1017,7 +1663,19 @@
       }
    },
    "DYNAMIC_PUNCH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 1,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movesType" : 1,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1036,7 +1694,19 @@
       }
    },
    "EARTHQUAKE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -65,
+            "movesType" : 4,
+            "power" : 120
+         },
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 3600,
+         "energyDelta" : -100,
+         "movesType" : 4,
+         "power" : 140
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1055,7 +1725,19 @@
       }
    },
    "EARTH_POWER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 4,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 3400,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 3600,
+         "energyDelta" : -50,
+         "movesType" : 4,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1073,7 +1755,19 @@
       }
    },
    "EMBER_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 6,
+            "movesType" : 9,
+            "power" : 7
+         },
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1000,
+         "energyDelta" : 10,
+         "movesType" : 9,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1091,7 +1785,19 @@
       }
    },
    "ENERGY_BALL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 11,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 3800,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3900,
+         "energyDelta" : -50,
+         "movesType" : 11,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1110,7 +1816,19 @@
       }
    },
    "EXTRASENSORY_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 10,
+            "movesType" : 13,
+            "power" : 8
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 12,
+         "movesType" : 13,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1128,7 +1846,19 @@
       }
    },
    "FEATHER_DANCE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 2,
+            "power" : 35
+         },
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movesType" : 2,
+         "power" : 35
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1146,7 +1876,19 @@
       }
    },
    "FEINT_ATTACK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 6,
+            "movesType" : 16,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 750,
+         "durationMs" : 900,
+         "energyDelta" : 9,
+         "movesType" : 16,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1164,7 +1906,19 @@
       }
    },
    "FELL_STINGER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 6,
+            "power" : 20
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movesType" : 6,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1182,7 +1936,19 @@
       }
    },
    "FIRE_BLAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 9,
+            "power" : 140
+         },
+         "damageWindowEndMs" : 3900,
+         "damageWindowStartMs" : 3100,
+         "durationMs" : 4200,
+         "energyDelta" : -100,
+         "movesType" : 9,
+         "power" : 140
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1201,7 +1967,19 @@
       }
    },
    "FIRE_FANG_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 9,
+            "power" : 8
+         },
+         "damageWindowEndMs" : 840,
+         "damageWindowStartMs" : 640,
+         "durationMs" : 900,
+         "energyDelta" : 8,
+         "movesType" : 9,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1219,7 +1997,19 @@
       }
    },
    "FIRE_PUNCH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 9,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movesType" : 9,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1238,7 +2028,19 @@
       }
    },
    "FIRE_SPIN_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 10,
+            "movesType" : 9,
+            "power" : 9
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 10,
+         "movesType" : 9,
+         "power" : 14
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1256,7 +2058,12 @@
       }
    },
    "FISSURE" : {
-      "built" : {},
+      "built" : {
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2800,
+         "movesType" : 4
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1272,7 +2079,19 @@
       }
    },
    "FLAMETHROWER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 9,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2200,
+         "energyDelta" : -50,
+         "movesType" : 9,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1291,7 +2110,19 @@
       }
    },
    "FLAME_BURST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 9,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 9,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1310,7 +2141,19 @@
       }
    },
    "FLAME_CHARGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 9,
+            "power" : 65
+         },
+         "damageWindowEndMs" : 3450,
+         "damageWindowStartMs" : 2900,
+         "durationMs" : 3800,
+         "energyDelta" : -33,
+         "movesType" : 9,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1329,7 +2172,19 @@
       }
    },
    "FLAME_WHEEL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 9,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movesType" : 9,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1348,7 +2203,19 @@
       }
    },
    "FLASH_CANNON" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -70,
+            "movesType" : 8,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "movesType" : 8,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1367,7 +2234,19 @@
       }
    },
    "FLY" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 2,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1800,
+         "energyDelta" : -50,
+         "movesType" : 2,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1385,7 +2264,19 @@
       }
    },
    "FLYING_PRESS" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 1,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movesType" : 1,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1403,7 +2294,19 @@
       }
    },
    "FOCUS_BLAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -75,
+            "movesType" : 1,
+            "power" : 150
+         },
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3500,
+         "energyDelta" : -100,
+         "movesType" : 1,
+         "power" : 140
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1422,7 +2325,19 @@
       }
    },
    "FOUL_PLAY" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 16,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2000,
+         "energyDelta" : -50,
+         "movesType" : 16,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1441,7 +2356,19 @@
       }
    },
    "FRENZY_PLANT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 11,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 2550,
+         "damageWindowStartMs" : 2145,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 11,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1459,7 +2386,19 @@
       }
    },
    "FROST_BREATH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 14,
+            "power" : 7
+         },
+         "damageWindowEndMs" : 750,
+         "damageWindowStartMs" : 450,
+         "durationMs" : 900,
+         "energyDelta" : 8,
+         "movesType" : 14,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1477,7 +2416,19 @@
       }
    },
    "FRUSTRATION" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -70,
+            "movesType" : 0,
+            "power" : 10
+         },
+         "damageWindowEndMs" : 1800,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2000,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1496,7 +2447,19 @@
       }
    },
    "FURY_CUTTER_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 4,
+            "movesType" : 6,
+            "power" : 2
+         },
+         "damageWindowEndMs" : 400,
+         "damageWindowStartMs" : 100,
+         "durationMs" : 400,
+         "energyDelta" : 6,
+         "movesType" : 6,
+         "power" : 3
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1514,7 +2477,19 @@
       }
    },
    "FUTURESIGHT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -65,
+            "movesType" : 13,
+            "power" : 120
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "movesType" : 13,
+         "power" : 120
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1533,7 +2508,19 @@
       }
    },
    "GIGA_DRAIN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 11,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 3900,
+         "energyDelta" : -100,
+         "movesType" : 11,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1553,7 +2540,19 @@
       }
    },
    "GIGA_IMPACT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 0,
+            "power" : 150
+         },
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 4700,
+         "energyDelta" : -100,
+         "movesType" : 0,
+         "power" : 200
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1571,7 +2570,19 @@
       }
    },
    "GRASS_KNOT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 11,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 11,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1590,7 +2601,19 @@
       }
    },
    "GUNK_SHOT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -75,
+            "movesType" : 3,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 3100,
+         "energyDelta" : -100,
+         "movesType" : 3,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1609,7 +2632,19 @@
       }
    },
    "GUST_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 12,
+            "movesType" : 2,
+            "power" : 16
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 2000,
+         "energyDelta" : 20,
+         "movesType" : 2,
+         "power" : 25
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1627,7 +2662,19 @@
       }
    },
    "GYRO_BALL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 8,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 3300,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3300,
+         "energyDelta" : -50,
+         "movesType" : 8,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1646,7 +2693,19 @@
       }
    },
    "HEART_STAMP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 13,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 13,
+         "power" : 40
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1665,7 +2724,19 @@
       }
    },
    "HEAT_WAVE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -75,
+            "movesType" : 9,
+            "power" : 95
+         },
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 3000,
+         "energyDelta" : -100,
+         "movesType" : 9,
+         "power" : 95
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1684,7 +2755,19 @@
       }
    },
    "HEAVY_SLAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 8,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2100,
+         "energyDelta" : -50,
+         "movesType" : 8,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1703,7 +2786,19 @@
       }
    },
    "HEX_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 12,
+            "movesType" : 7,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 1200,
+         "energyDelta" : 16,
+         "movesType" : 7,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1721,7 +2816,19 @@
       }
    },
    "HIDDEN_POWER_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 0,
+            "power" : 9
+         },
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1500,
+         "energyDelta" : 15,
+         "movesType" : 0,
+         "power" : 15
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1740,7 +2847,19 @@
       }
    },
    "HORN_ATTACK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 0,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1650,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1850,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 40
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1759,7 +2878,12 @@
       }
    },
    "HORN_DRILL" : {
-      "built" : {},
+      "built" : {
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1900,
+         "movesType" : 0
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1775,7 +2899,19 @@
       }
    },
    "HURRICANE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -65,
+            "movesType" : 2,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "movesType" : 2,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1794,7 +2930,19 @@
       }
    },
    "HYDRO_CANNON" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 10,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1900,
+         "energyDelta" : -50,
+         "movesType" : 10,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1813,7 +2961,19 @@
       }
    },
    "HYDRO_PUMP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -75,
+            "movesType" : 10,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 3300,
+         "energyDelta" : -100,
+         "movesType" : 10,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1832,7 +2992,19 @@
       }
    },
    "HYDRO_PUMP_BLASTOISE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 10,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 4300,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 4500,
+         "energyDelta" : -100,
+         "movesType" : 10,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1851,7 +3023,19 @@
       }
    },
    "HYPER_BEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 0,
+            "power" : 150
+         },
+         "damageWindowEndMs" : 3600,
+         "damageWindowStartMs" : 3300,
+         "durationMs" : 3800,
+         "energyDelta" : -100,
+         "movesType" : 0,
+         "power" : 150
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1870,7 +3054,19 @@
       }
    },
    "HYPER_FANG" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 0,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2500,
+         "energyDelta" : -50,
+         "movesType" : 0,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1889,7 +3085,19 @@
       }
    },
    "ICE_BEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 14,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3300,
+         "energyDelta" : -50,
+         "movesType" : 14,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1908,7 +3116,19 @@
       }
    },
    "ICE_FANG_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 14,
+            "power" : 8
+         },
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 1500,
+         "energyDelta" : 20,
+         "movesType" : 14,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1926,7 +3146,19 @@
       }
    },
    "ICE_PUNCH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 14,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 14,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1945,7 +3177,19 @@
       }
    },
    "ICE_SHARD_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 10,
+            "movesType" : 14,
+            "power" : 9
+         },
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1200,
+         "energyDelta" : 12,
+         "movesType" : 14,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -1963,7 +3207,19 @@
       }
    },
    "ICY_WIND" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 14,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3300,
+         "energyDelta" : -33,
+         "movesType" : 14,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -1982,7 +3238,19 @@
       }
    },
    "INCINERATE_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 20,
+            "movesType" : 9,
+            "power" : 15
+         },
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 2300,
+         "energyDelta" : 20,
+         "movesType" : 9,
+         "power" : 29
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2000,7 +3268,19 @@
       }
    },
    "INFESTATION_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 12,
+            "movesType" : 6,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movesType" : 6,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2018,7 +3298,19 @@
       }
    },
    "IRON_HEAD" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 8,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1900,
+         "energyDelta" : -50,
+         "movesType" : 8,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2037,7 +3329,19 @@
       }
    },
    "IRON_TAIL_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 6,
+            "movesType" : 8,
+            "power" : 9
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 7,
+         "movesType" : 8,
+         "power" : 15
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2055,7 +3359,19 @@
       }
    },
    "KARATE_CHOP_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 1,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 800,
+         "energyDelta" : 10,
+         "movesType" : 1,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2073,7 +3389,19 @@
       }
    },
    "LAST_RESORT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 0,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2850,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movesType" : 0,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2092,7 +3420,19 @@
       }
    },
    "LEAF_BLADE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 11,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1250,
+         "durationMs" : 2400,
+         "energyDelta" : -33,
+         "movesType" : 11,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2111,7 +3451,19 @@
       }
    },
    "LEAF_STORM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 11,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 1250,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 2500,
+         "energyDelta" : -100,
+         "movesType" : 11,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2129,7 +3481,19 @@
       }
    },
    "LEAF_TORNADO" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 11,
+            "power" : 45
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3100,
+         "energyDelta" : -33,
+         "movesType" : 11,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2147,7 +3511,12 @@
       }
    },
    "LEECH_LIFE" : {
-      "built" : {},
+      "built" : {
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1150,
+         "durationMs" : 2500,
+         "movesType" : 6
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2163,7 +3532,19 @@
       }
    },
    "LICK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 3,
+            "movesType" : 7,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 200,
+         "durationMs" : 500,
+         "energyDelta" : 6,
+         "movesType" : 7,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2181,7 +3562,19 @@
       }
    },
    "LOCK_ON_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 0,
+            "power" : 1
+         },
+         "damageWindowEndMs" : 300,
+         "damageWindowStartMs" : 170,
+         "durationMs" : 300,
+         "energyDelta" : 6,
+         "movesType" : 0,
+         "power" : 1
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2199,7 +3592,19 @@
       }
    },
    "LOW_KICK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 1,
+            "power" : 4
+         },
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 600,
+         "energyDelta" : 6,
+         "movesType" : 1,
+         "power" : 6
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2217,7 +3622,19 @@
       }
    },
    "LOW_SWEEP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 1,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1650,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 1,
+         "power" : 40
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2236,7 +3653,19 @@
       }
    },
    "LUNGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 6,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2400,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movesType" : 6,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2254,7 +3683,19 @@
       }
    },
    "MAGNET_BOMB" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 8,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 2800,
+         "energyDelta" : -33,
+         "movesType" : 8,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2273,7 +3714,19 @@
       }
    },
    "MEGAHORN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 6,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2200,
+         "energyDelta" : -100,
+         "movesType" : 6,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2292,7 +3745,19 @@
       }
    },
    "MEGA_DRAIN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 11,
+            "power" : 25
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 11,
+         "power" : 25
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2312,7 +3777,19 @@
       }
    },
    "METAL_CLAW_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 6,
+            "movesType" : 8,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 630,
+         "damageWindowStartMs" : 430,
+         "durationMs" : 700,
+         "energyDelta" : 7,
+         "movesType" : 8,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2330,7 +3807,19 @@
       }
    },
    "METEOR_MASH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 8,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 2300,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 8,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2349,7 +3838,19 @@
       }
    },
    "MIRROR_COAT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 13,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 2300,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 13,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2368,7 +3869,19 @@
       }
    },
    "MIRROR_SHOT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 8,
+            "power" : 35
+         },
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2400,
+         "energyDelta" : -33,
+         "movesType" : 8,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2386,7 +3899,19 @@
       }
    },
    "MOONBLAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 17,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 3700,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 3900,
+         "energyDelta" : -100,
+         "movesType" : 17,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2405,7 +3930,19 @@
       }
    },
    "MUDDY_WATER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 10,
+            "power" : 35
+         },
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movesType" : 10,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2423,7 +3960,19 @@
       }
    },
    "MUD_BOMB" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 4,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2300,
+         "energyDelta" : -33,
+         "movesType" : 4,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2442,7 +3991,19 @@
       }
    },
    "MUD_SHOT_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 9,
+            "movesType" : 4,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 550,
+         "damageWindowStartMs" : 350,
+         "durationMs" : 600,
+         "energyDelta" : 7,
+         "movesType" : 4,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2460,7 +4021,19 @@
       }
    },
    "MUD_SLAP_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 4,
+            "power" : 11
+         },
+         "damageWindowEndMs" : 1350,
+         "damageWindowStartMs" : 1150,
+         "durationMs" : 1400,
+         "energyDelta" : 12,
+         "movesType" : 4,
+         "power" : 18
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2478,7 +4051,19 @@
       }
    },
    "NIGHT_SHADE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 7,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 7,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2497,7 +4082,19 @@
       }
    },
    "NIGHT_SLASH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 16,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movesType" : 16,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2516,7 +4113,19 @@
       }
    },
    "OCTAZOOKA" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 10,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movesType" : 10,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2534,7 +4143,19 @@
       }
    },
    "OMINOUS_WIND" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 7,
+            "power" : 45
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1850,
+         "durationMs" : 2300,
+         "energyDelta" : -33,
+         "movesType" : 7,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2553,7 +4174,19 @@
       }
    },
    "ORIGIN_PULSE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 10,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -100,
+         "movesType" : 10,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2571,7 +4204,19 @@
       }
    },
    "OUTRAGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 15,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 3700,
+         "damageWindowStartMs" : 2500,
+         "durationMs" : 3900,
+         "energyDelta" : -50,
+         "movesType" : 15,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2590,7 +4235,19 @@
       }
    },
    "OVERHEAT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 9,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 3800,
+         "damageWindowStartMs" : 2600,
+         "durationMs" : 4000,
+         "energyDelta" : -100,
+         "movesType" : 9,
+         "power" : 160
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2609,7 +4266,19 @@
       }
    },
    "PARABOLIC_CHARGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 12,
+            "power" : 25
+         },
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movesType" : 12,
+         "power" : 25
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2629,7 +4298,19 @@
       }
    },
    "PAYBACK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 16,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 2200,
+         "energyDelta" : -100,
+         "movesType" : 16,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2647,7 +4328,19 @@
       }
    },
    "PECK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 2,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 450,
+         "durationMs" : 1000,
+         "energyDelta" : 10,
+         "movesType" : 2,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2665,7 +4358,19 @@
       }
    },
    "PETAL_BLIZZARD" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -65,
+            "movesType" : 11,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -100,
+         "movesType" : 11,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2684,7 +4389,19 @@
       }
    },
    "PLAY_ROUGH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 17,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movesType" : 17,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2703,7 +4420,19 @@
       }
    },
    "POISON_FANG" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 3,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 900,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movesType" : 3,
+         "power" : 35
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2722,7 +4451,19 @@
       }
    },
    "POISON_JAB_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 7,
+            "movesType" : 3,
+            "power" : 7
+         },
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 200,
+         "durationMs" : 800,
+         "energyDelta" : 7,
+         "movesType" : 3,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2740,7 +4481,19 @@
       }
    },
    "POISON_STING_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 9,
+            "movesType" : 3,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 575,
+         "damageWindowStartMs" : 375,
+         "durationMs" : 600,
+         "energyDelta" : 7,
+         "movesType" : 3,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2758,7 +4511,19 @@
       }
    },
    "POUND_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 4,
+            "movesType" : 0,
+            "power" : 4
+         },
+         "damageWindowEndMs" : 540,
+         "damageWindowStartMs" : 340,
+         "durationMs" : 600,
+         "energyDelta" : 6,
+         "movesType" : 0,
+         "power" : 7
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2776,7 +4541,19 @@
       }
    },
    "POWDER_SNOW_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 14,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1000,
+         "energyDelta" : 15,
+         "movesType" : 14,
+         "power" : 6
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2794,7 +4571,19 @@
       }
    },
    "POWER_GEM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 5,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1950,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movesType" : 5,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2813,7 +4602,19 @@
       }
    },
    "POWER_UP_PUNCH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 1,
+            "power" : 20
+         },
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2000,
+         "energyDelta" : -33,
+         "movesType" : 1,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2831,7 +4632,19 @@
       }
    },
    "POWER_WHIP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 11,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2350,
+         "damageWindowStartMs" : 1250,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 11,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2849,7 +4662,19 @@
       }
    },
    "PRECIPICE_BLADES" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 4,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -100,
+         "movesType" : 4,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2867,7 +4692,19 @@
       }
    },
    "PRESENT_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 12,
+            "movesType" : 0,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 1300,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1300,
+         "energyDelta" : 20,
+         "movesType" : 0,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2885,7 +4722,19 @@
       }
    },
    "PSYBEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 13,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3200,
+         "energyDelta" : -50,
+         "movesType" : 13,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2904,7 +4753,19 @@
       }
    },
    "PSYCHIC" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 13,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movesType" : 13,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2923,7 +4784,19 @@
       }
    },
    "PSYCHIC_FANGS" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 13,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 1200,
+         "energyDelta" : -33,
+         "movesType" : 13,
+         "power" : 30
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2941,7 +4814,19 @@
       }
    },
    "PSYCHO_BOOST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 13,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 4000,
+         "damageWindowStartMs" : 3500,
+         "durationMs" : 4000,
+         "energyDelta" : -50,
+         "movesType" : 13,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2959,7 +4844,19 @@
       }
    },
    "PSYCHO_CUT_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 9,
+            "movesType" : 13,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 570,
+         "damageWindowStartMs" : 370,
+         "durationMs" : 600,
+         "energyDelta" : 8,
+         "movesType" : 13,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -2977,7 +4874,19 @@
       }
    },
    "PSYSHOCK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 13,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 2700,
+         "energyDelta" : -33,
+         "movesType" : 13,
+         "power" : 65
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -2996,7 +4905,19 @@
       }
    },
    "PSYSTRIKE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 13,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1000,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movesType" : 13,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3015,7 +4936,19 @@
       }
    },
    "QUICK_ATTACK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 7,
+            "movesType" : 0,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 550,
+         "damageWindowStartMs" : 250,
+         "durationMs" : 800,
+         "energyDelta" : 10,
+         "movesType" : 0,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3033,7 +4966,19 @@
       }
    },
    "RAZOR_LEAF_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 4,
+            "movesType" : 11,
+            "power" : 10
+         },
+         "damageWindowEndMs" : 850,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 1000,
+         "energyDelta" : 7,
+         "movesType" : 11,
+         "power" : 13
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3051,7 +4996,19 @@
       }
    },
    "RAZOR_SHELL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 10,
+            "power" : 35
+         },
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 650,
+         "durationMs" : 1300,
+         "energyDelta" : -33,
+         "movesType" : 10,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3069,7 +5026,19 @@
       }
    },
    "REST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 0,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3087,7 +5056,19 @@
       }
    },
    "RETURN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -70,
+            "movesType" : 0,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 350,
+         "damageWindowStartMs" : 100,
+         "durationMs" : 700,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 35
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3105,7 +5086,19 @@
       }
    },
    "ROCK_BLAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 5,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2100,
+         "energyDelta" : -33,
+         "movesType" : 5,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3124,7 +5117,19 @@
       }
    },
    "ROCK_SLIDE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 5,
+            "power" : 75
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2700,
+         "energyDelta" : -50,
+         "movesType" : 5,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3143,7 +5148,19 @@
       }
    },
    "ROCK_SMASH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 7,
+            "movesType" : 1,
+            "power" : 9
+         },
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 550,
+         "durationMs" : 1300,
+         "energyDelta" : 10,
+         "movesType" : 1,
+         "power" : 15
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3161,7 +5178,19 @@
       }
    },
    "ROCK_THROW_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 5,
+            "power" : 8
+         },
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 900,
+         "energyDelta" : 7,
+         "movesType" : 5,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3179,7 +5208,19 @@
       }
    },
    "ROCK_TOMB" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 5,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 2250,
+         "durationMs" : 3200,
+         "energyDelta" : -50,
+         "movesType" : 5,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3198,7 +5239,19 @@
       }
    },
    "ROCK_WRECKER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 5,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3600,
+         "energyDelta" : -50,
+         "movesType" : 5,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3216,7 +5269,19 @@
       }
    },
    "SACRED_SWORD" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 1,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 1000,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1200,
+         "energyDelta" : -33,
+         "movesType" : 1,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3234,7 +5299,19 @@
       }
    },
    "SAND_TOMB" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 4,
+            "power" : 25
+         },
+         "damageWindowEndMs" : 4000,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 4000,
+         "energyDelta" : -33,
+         "movesType" : 4,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3253,7 +5330,19 @@
       }
    },
    "SCALD" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 10,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 3400,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 3700,
+         "energyDelta" : -50,
+         "movesType" : 10,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3272,7 +5361,19 @@
       }
    },
    "SCALD_BLASTOISE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 10,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 4600,
+         "damageWindowStartMs" : 2500,
+         "durationMs" : 4700,
+         "energyDelta" : -100,
+         "movesType" : 10,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3291,7 +5392,19 @@
       }
    },
    "SCRATCH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 2,
+            "movesType" : 0,
+            "power" : 4
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 4,
+         "movesType" : 0,
+         "power" : 6
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3309,7 +5422,19 @@
       }
    },
    "SEED_BOMB" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 11,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1900,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2100,
+         "energyDelta" : -33,
+         "movesType" : 11,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3328,7 +5453,19 @@
       }
    },
    "SHADOW_BALL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 7,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2400,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movesType" : 7,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3347,7 +5484,19 @@
       }
    },
    "SHADOW_BONE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 7,
+            "power" : 75
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2250,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movesType" : 7,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3365,7 +5514,19 @@
       }
    },
    "SHADOW_CLAW_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 7,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 250,
+         "durationMs" : 700,
+         "energyDelta" : 6,
+         "movesType" : 7,
+         "power" : 9
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3383,7 +5544,19 @@
       }
    },
    "SHADOW_PUNCH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 7,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movesType" : 7,
+         "power" : 40
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3402,7 +5575,19 @@
       }
    },
    "SHADOW_SNEAK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 7,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movesType" : 7,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3421,7 +5606,19 @@
       }
    },
    "SIGNAL_BEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 6,
+            "power" : 75
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2900,
+         "energyDelta" : -50,
+         "movesType" : 6,
+         "power" : 75
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3440,7 +5637,19 @@
       }
    },
    "SILVER_WIND" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 6,
+            "power" : 45
+         },
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 3700,
+         "energyDelta" : -33,
+         "movesType" : 6,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3459,7 +5668,19 @@
       }
    },
    "SKULL_BASH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -75,
+            "movesType" : 0,
+            "power" : 130
+         },
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 3100,
+         "energyDelta" : -100,
+         "movesType" : 0,
+         "power" : 130
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3477,7 +5698,19 @@
       }
    },
    "SKY_ATTACK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 2,
+            "power" : 75
+         },
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2000,
+         "energyDelta" : -50,
+         "movesType" : 2,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3496,7 +5729,19 @@
       }
    },
    "SLUDGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 3,
+            "power" : 50
+         },
+         "damageWindowEndMs" : 1550,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2100,
+         "energyDelta" : -33,
+         "movesType" : 3,
+         "power" : 50
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3515,7 +5760,19 @@
       }
    },
    "SLUDGE_BOMB" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 3,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 2300,
+         "energyDelta" : -50,
+         "movesType" : 3,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3534,7 +5791,19 @@
       }
    },
    "SLUDGE_WAVE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -65,
+            "movesType" : 3,
+            "power" : 110
+         },
+         "damageWindowEndMs" : 3000,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 3200,
+         "energyDelta" : -100,
+         "movesType" : 3,
+         "power" : 110
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3553,7 +5822,19 @@
       }
    },
    "SMACK_DOWN_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 5,
+            "power" : 12
+         },
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 800,
+         "durationMs" : 1200,
+         "energyDelta" : 8,
+         "movesType" : 5,
+         "power" : 16
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3571,7 +5852,19 @@
       }
    },
    "SNARL_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 13,
+            "movesType" : 16,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 14,
+         "movesType" : 16,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3589,7 +5882,19 @@
       }
    },
    "SOLAR_BEAM" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 11,
+            "power" : 150
+         },
+         "damageWindowEndMs" : 4700,
+         "damageWindowStartMs" : 2700,
+         "durationMs" : 4900,
+         "energyDelta" : -100,
+         "movesType" : 11,
+         "power" : 180
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3608,7 +5913,19 @@
       }
    },
    "SPARK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 12,
+            "power" : 4
+         },
+         "damageWindowEndMs" : 700,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 700,
+         "energyDelta" : 9,
+         "movesType" : 12,
+         "power" : 6
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3626,7 +5943,17 @@
       }
    },
    "SPLASH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 12,
+            "movesType" : 10
+         },
+         "damageWindowEndMs" : 1230,
+         "damageWindowStartMs" : 1030,
+         "durationMs" : 1730,
+         "energyDelta" : 20,
+         "movesType" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3643,7 +5970,19 @@
       }
    },
    "STEEL_WING_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 8,
+            "power" : 7
+         },
+         "damageWindowEndMs" : 800,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 800,
+         "energyDelta" : 6,
+         "movesType" : 8,
+         "power" : 11
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3661,7 +6000,19 @@
       }
    },
    "STOMP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 0,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1700,
+         "energyDelta" : -50,
+         "movesType" : 0,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3680,7 +6031,19 @@
       }
    },
    "STONE_EDGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 5,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 2300,
+         "energyDelta" : -100,
+         "movesType" : 5,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3699,7 +6062,18 @@
       }
    },
    "STRUGGLE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -100,
+            "movesType" : 0,
+            "power" : 35
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2200,
+         "movesType" : 0,
+         "power" : 35
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3716,7 +6090,19 @@
       }
    },
    "STRUGGLE_BUG_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 6,
+            "power" : 9
+         },
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1500,
+         "energyDelta" : 15,
+         "movesType" : 6,
+         "power" : 15
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3734,7 +6120,19 @@
       }
    },
    "SUBMISSION" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 1,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2200,
+         "energyDelta" : -50,
+         "movesType" : 1,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3753,7 +6151,19 @@
       }
    },
    "SUCKER_PUNCH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 7,
+            "movesType" : 16,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 700,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 700,
+         "energyDelta" : 8,
+         "movesType" : 16,
+         "power" : 7
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3771,7 +6181,19 @@
       }
    },
    "SUPER_POWER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 1,
+            "power" : 85
+         },
+         "damageWindowEndMs" : 2800,
+         "damageWindowStartMs" : 2100,
+         "durationMs" : 3000,
+         "energyDelta" : -50,
+         "movesType" : 1,
+         "power" : 85
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3789,7 +6211,19 @@
       }
    },
    "SURF" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 10,
+            "power" : 65
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : -50,
+         "movesType" : 10,
+         "power" : 65
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3807,7 +6241,19 @@
       }
    },
    "SWIFT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 0,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2000,
+         "durationMs" : 2800,
+         "energyDelta" : -50,
+         "movesType" : 0,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3826,7 +6272,19 @@
       }
    },
    "SYNCHRONOISE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 13,
+            "power" : 80
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 13,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3844,7 +6302,19 @@
       }
    },
    "TACKLE_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 2,
+            "movesType" : 0,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 5,
+         "movesType" : 0,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3862,7 +6332,19 @@
       }
    },
    "TAKE_DOWN_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 0,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 1200,
+         "energyDelta" : 10,
+         "movesType" : 0,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -3880,7 +6362,19 @@
       }
    },
    "TECHNO_BLAST_BURN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 9,
+            "power" : 120
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movesType" : 9,
+         "power" : 120
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3895,7 +6389,19 @@
       }
    },
    "TECHNO_BLAST_CHILL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 14,
+            "power" : 120
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movesType" : 14,
+         "power" : 120
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3910,7 +6416,19 @@
       }
    },
    "TECHNO_BLAST_NORMAL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 0,
+            "power" : 120
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movesType" : 0,
+         "power" : 120
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3925,7 +6443,19 @@
       }
    },
    "TECHNO_BLAST_SHOCK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 12,
+            "power" : 120
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1600,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movesType" : 12,
+         "power" : 120
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3940,7 +6470,19 @@
       }
    },
    "TECHNO_BLAST_WATER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 10,
+            "power" : 120
+         },
+         "damageWindowEndMs" : 2000,
+         "damageWindowStartMs" : 1500,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movesType" : 10,
+         "power" : 120
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3955,7 +6497,19 @@
       }
    },
    "THUNDER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 12,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 2200,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2400,
+         "energyDelta" : -100,
+         "movesType" : 12,
+         "power" : 100
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3974,7 +6528,19 @@
       }
    },
    "THUNDERBOLT" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -55,
+            "movesType" : 12,
+            "power" : 90
+         },
+         "damageWindowEndMs" : 2300,
+         "damageWindowStartMs" : 1800,
+         "durationMs" : 2500,
+         "energyDelta" : -50,
+         "movesType" : 12,
+         "power" : 80
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -3993,7 +6559,19 @@
       }
    },
    "THUNDER_FANG_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 5,
+            "movesType" : 12,
+            "power" : 8
+         },
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 400,
+         "durationMs" : 1200,
+         "energyDelta" : 16,
+         "movesType" : 12,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4011,7 +6589,19 @@
       }
    },
    "THUNDER_PUNCH" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 12,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1550,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 1800,
+         "energyDelta" : -33,
+         "movesType" : 12,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4030,7 +6620,19 @@
       }
    },
    "THUNDER_SHOCK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 9,
+            "movesType" : 12,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 600,
+         "energyDelta" : 8,
+         "movesType" : 12,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4048,7 +6650,15 @@
       }
    },
    "TRANSFORM_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "movesType" : 0
+         },
+         "damageWindowEndMs" : 700,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 2230,
+         "movesType" : 0
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4064,7 +6674,19 @@
       }
    },
    "TRI_ATTACK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -50,
+            "movesType" : 0,
+            "power" : 65
+         },
+         "damageWindowEndMs" : 2400,
+         "damageWindowStartMs" : 1300,
+         "durationMs" : 2500,
+         "energyDelta" : -50,
+         "movesType" : 0,
+         "power" : 75
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4082,7 +6704,19 @@
       }
    },
    "TWISTER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 15,
+            "power" : 45
+         },
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 2800,
+         "energyDelta" : -33,
+         "movesType" : 15,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4101,7 +6735,19 @@
       }
    },
    "VICE_GRIP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 0,
+            "power" : 40
+         },
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 1100,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 35
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4120,7 +6766,19 @@
       }
    },
    "VINE_WHIP_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 11,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 600,
+         "damageWindowStartMs" : 350,
+         "durationMs" : 600,
+         "energyDelta" : 6,
+         "movesType" : 11,
+         "power" : 7
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4138,7 +6796,19 @@
       }
    },
    "VOLT_SWITCH_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 16,
+            "movesType" : 12,
+            "power" : 12
+         },
+         "damageWindowEndMs" : 900,
+         "damageWindowStartMs" : 700,
+         "durationMs" : 1600,
+         "energyDelta" : 21,
+         "movesType" : 12,
+         "power" : 14
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4156,7 +6826,19 @@
       }
    },
    "V_CREATE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -40,
+            "movesType" : 9,
+            "power" : 95
+         },
+         "damageWindowEndMs" : 2500,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2800,
+         "energyDelta" : -33,
+         "movesType" : 9,
+         "power" : 95
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4174,7 +6856,19 @@
       }
    },
    "WATERFALL_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 8,
+            "movesType" : 10,
+            "power" : 12
+         },
+         "damageWindowEndMs" : 1100,
+         "damageWindowStartMs" : 950,
+         "durationMs" : 1200,
+         "energyDelta" : 8,
+         "movesType" : 10,
+         "power" : 16
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4192,7 +6886,19 @@
       }
    },
    "WATER_GUN_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 3,
+            "movesType" : 10,
+            "power" : 3
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 500,
+         "energyDelta" : 5,
+         "movesType" : 10,
+         "power" : 5
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4210,7 +6916,19 @@
       }
    },
    "WATER_GUN_FAST_BLASTOISE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 4,
+            "movesType" : 10,
+            "power" : 6
+         },
+         "damageWindowEndMs" : 500,
+         "damageWindowStartMs" : 300,
+         "durationMs" : 1000,
+         "energyDelta" : 6,
+         "movesType" : 10,
+         "power" : 10
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4228,7 +6946,19 @@
       }
    },
    "WATER_PULSE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -60,
+            "movesType" : 10,
+            "power" : 70
+         },
+         "damageWindowEndMs" : 2900,
+         "damageWindowStartMs" : 2200,
+         "durationMs" : 3200,
+         "energyDelta" : -50,
+         "movesType" : 10,
+         "power" : 70
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4247,7 +6977,19 @@
       }
    },
    "WEATHER_BALL_FIRE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 9,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 9,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4265,7 +7007,19 @@
       }
    },
    "WEATHER_BALL_ICE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 14,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 14,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4283,7 +7037,19 @@
       }
    },
    "WEATHER_BALL_NORMAL" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 0,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4301,7 +7067,19 @@
       }
    },
    "WEATHER_BALL_ROCK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 5,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 5,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4319,7 +7097,19 @@
       }
    },
    "WEATHER_BALL_WATER" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 10,
+            "power" : 55
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1350,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 10,
+         "power" : 55
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4337,7 +7127,19 @@
       }
    },
    "WILD_CHARGE" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 12,
+            "power" : 100
+         },
+         "damageWindowEndMs" : 2100,
+         "damageWindowStartMs" : 1700,
+         "durationMs" : 2600,
+         "energyDelta" : -50,
+         "movesType" : 12,
+         "power" : 90
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4356,7 +7158,19 @@
       }
    },
    "WING_ATTACK_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 7,
+            "movesType" : 2,
+            "power" : 5
+         },
+         "damageWindowEndMs" : 750,
+         "damageWindowStartMs" : 550,
+         "durationMs" : 800,
+         "energyDelta" : 9,
+         "movesType" : 2,
+         "power" : 8
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4374,7 +7188,19 @@
       }
    },
    "WRAP" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 0,
+            "power" : 60
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2050,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 60
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4393,7 +7219,19 @@
       }
    },
    "WRAP_GREEN" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 0,
+            "power" : 25
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2050,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 25
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4412,7 +7250,19 @@
       }
    },
    "WRAP_PINK" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -45,
+            "movesType" : 0,
+            "power" : 25
+         },
+         "damageWindowEndMs" : 2700,
+         "damageWindowStartMs" : 2050,
+         "durationMs" : 2900,
+         "energyDelta" : -33,
+         "movesType" : 0,
+         "power" : 25
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4431,7 +7281,19 @@
       }
    },
    "X_SCISSOR" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -35,
+            "movesType" : 6,
+            "power" : 45
+         },
+         "damageWindowEndMs" : 1400,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1600,
+         "energyDelta" : -33,
+         "movesType" : 6,
+         "power" : 45
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4450,7 +7312,17 @@
       }
    },
    "YAWN_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 12,
+            "movesType" : 0
+         },
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1400,
+         "durationMs" : 1700,
+         "energyDelta" : 15,
+         "movesType" : 0
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
@@ -4467,7 +7339,19 @@
       }
    },
    "ZAP_CANNON" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : -80,
+            "movesType" : 12,
+            "power" : 150
+         },
+         "damageWindowEndMs" : 3500,
+         "damageWindowStartMs" : 3000,
+         "durationMs" : 3700,
+         "energyDelta" : -100,
+         "movesType" : 12,
+         "power" : 140
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 5,
@@ -4486,7 +7370,19 @@
       }
    },
    "ZEN_HEADBUTT_FAST" : {
-      "built" : {},
+      "built" : {
+         "combatOverrides" : {
+            "energyDelta" : 6,
+            "movesType" : 13,
+            "power" : 8
+         },
+         "damageWindowEndMs" : 1050,
+         "damageWindowStartMs" : 850,
+         "durationMs" : 1100,
+         "energyDelta" : 10,
+         "movesType" : 13,
+         "power" : 12
+      },
       "raw" : {
          "accuracyChance" : 1,
          "animationId" : 4,
