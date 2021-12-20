@@ -137,6 +137,19 @@
             "pokemonId" : "ABSOL"
          }
       ],
+      "AERODACTYL" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_AERODACTYL",
+            "pokemonId" : "AERODACTYL"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_AERODACTYL",
+            "pokemonForm" : "AERODACTYL_NORMAL",
+            "pokemonId" : "AERODACTYL"
+         }
+      ],
       "ALTARIA" : [
          {
             "megaBranch" : "TEMP_EVOLUTION_MEGA",

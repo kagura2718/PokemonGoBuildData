@@ -28,6 +28,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
          "pokedexNumber" : 142,
          "pokemonType" : 5,
@@ -40,6 +41,19 @@
             "baseAttack" : 221,
             "baseDefense" : 159,
             "baseStamina" : 190
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 5,
+                  "pokemonType2" : 2
+               },
+               "stats" : {
+                  "baseAttack" : 292,
+                  "baseDefense" : 210,
+                  "baseStamina" : 190
+               }
+            }
          }
       },
       "camera" : {
@@ -77,6 +91,13 @@
          "shadowFormBaseCaptureRate" : 0.2,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_AERODACTYL",
       "heightStdDev" : 0.225,
@@ -124,6 +145,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 25,
          "camera" : {
             "cylinderGroundM" : 1.5,
             "cylinderHeightM" : 2,
@@ -159,6 +181,13 @@
             "shadowFormBaseCaptureRate" : 0.2,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_AERODACTYL",
          "heightStdDev" : 0.225,
@@ -188,6 +217,20 @@
             "baseDefense" : 159,
             "baseStamina" : 190
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2.1,
+               "averageWeightKg" : 79,
+               "stats" : {
+                  "baseAttack" : 292,
+                  "baseDefense" : 210,
+                  "baseStamina" : 190
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_ROCK",
+               "typeOverride2" : "POKEMON_TYPE_FLYING"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 75,
             "stardustToUnlock" : 75000
@@ -207,6 +250,20 @@
          "baseDefense" : 159,
          "baseStamina" : 190
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.1,
+            "averageWeightKg" : 79,
+            "stats" : {
+               "baseAttack" : 292,
+               "baseDefense" : 210,
+               "baseStamina" : 190
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_ROCK",
+            "typeOverride2" : "POKEMON_TYPE_FLYING"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 75,
          "stardustToUnlock" : 75000
@@ -244,6 +301,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
          "pokedexNumber" : 142,
          "pokemonType" : 5,
@@ -256,6 +314,19 @@
             "baseAttack" : 221,
             "baseDefense" : 159,
             "baseStamina" : 190
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 5,
+                  "pokemonType2" : 2
+               },
+               "stats" : {
+                  "baseAttack" : 292,
+                  "baseDefense" : 210,
+                  "baseStamina" : 190
+               }
+            }
          }
       },
       "camera" : {
@@ -293,6 +364,13 @@
          "shadowFormBaseCaptureRate" : 0.2,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_AERODACTYL",
       "form" : "AERODACTYL_NORMAL",
@@ -341,6 +419,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 25,
          "camera" : {
             "cylinderGroundM" : 1.5,
             "cylinderHeightM" : 2,
@@ -376,6 +455,13 @@
             "shadowFormBaseCaptureRate" : 0.2,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_AERODACTYL",
          "form" : "AERODACTYL_NORMAL",
@@ -406,6 +492,20 @@
             "baseDefense" : 159,
             "baseStamina" : 190
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2.1,
+               "averageWeightKg" : 79,
+               "stats" : {
+                  "baseAttack" : 292,
+                  "baseDefense" : 210,
+                  "baseStamina" : 190
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_ROCK",
+               "typeOverride2" : "POKEMON_TYPE_FLYING"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 75,
             "stardustToUnlock" : 75000
@@ -425,6 +525,20 @@
          "baseDefense" : 159,
          "baseStamina" : 190
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.1,
+            "averageWeightKg" : 79,
+            "stats" : {
+               "baseAttack" : 292,
+               "baseDefense" : 210,
+               "baseStamina" : 190
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_ROCK",
+            "typeOverride2" : "POKEMON_TYPE_FLYING"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 75,
          "stardustToUnlock" : 75000

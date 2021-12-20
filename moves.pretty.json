@@ -2,14 +2,18 @@
    "ACID_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.5,
             "energyDelta" : 5,
             "movesType" : 3,
-            "power" : 6
+            "power" : 6,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 600,
          "damageWindowStartMs" : 400,
          "durationMs" : 800,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 3,
          "power" : 9
       },
@@ -31,15 +35,12 @@
    },
    "ACID_SPRAY" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 3,
-            "power" : 20
-         },
          "damageWindowEndMs" : 2800,
          "damageWindowStartMs" : 2100,
          "durationMs" : 3000,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 3,
          "power" : 20
       },
@@ -61,15 +62,12 @@
    },
    "AERIAL_ACE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 2,
-            "power" : 55
-         },
          "damageWindowEndMs" : 2200,
          "damageWindowStartMs" : 1900,
          "durationMs" : 2400,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 55
       },
@@ -92,15 +90,12 @@
    },
    "AEROBLAST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -75,
-            "movesType" : 2,
-            "power" : 170
-         },
          "damageWindowEndMs" : 3400,
          "damageWindowStartMs" : 3200,
          "durationMs" : 3400,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 180
       },
@@ -122,15 +117,12 @@
    },
    "AIR_CUTTER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 2,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2500,
          "damageWindowStartMs" : 1800,
          "durationMs" : 2700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 60
       },
@@ -154,14 +146,18 @@
    "AIR_SLASH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 9,
             "movesType" : 2,
-            "power" : 9
+            "power" : 9,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1200,
          "damageWindowStartMs" : 1000,
          "durationMs" : 1200,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 2,
          "power" : 14
       },
@@ -183,15 +179,12 @@
    },
    "ANCIENT_POWER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 5,
-            "power" : 45
-         },
          "damageWindowEndMs" : 3100,
          "damageWindowStartMs" : 2850,
          "durationMs" : 3500,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 70
       },
@@ -214,15 +207,12 @@
    },
    "AQUA_JET" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 10,
-            "power" : 45
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 45
       },
@@ -245,15 +235,12 @@
    },
    "AQUA_TAIL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 10,
-            "power" : 50
-         },
          "damageWindowEndMs" : 1650,
          "damageWindowStartMs" : 1200,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 50
       },
@@ -277,14 +264,18 @@
    "ASTONISH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 9,
             "movesType" : 7,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 700,
          "durationMs" : 1100,
          "energyDelta" : 14,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 7,
          "power" : 8
       },
@@ -306,15 +297,12 @@
    },
    "AURA_SPHERE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 1,
-            "power" : 100
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1000,
          "durationMs" : 1800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 90
       },
@@ -336,15 +324,12 @@
    },
    "AURORA_BEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 14,
-            "power" : 80
-         },
          "damageWindowEndMs" : 3550,
          "damageWindowStartMs" : 3350,
          "durationMs" : 3550,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 80
       },
@@ -367,15 +352,12 @@
    },
    "AVALANCHE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 14,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 90
       },
@@ -399,14 +381,18 @@
    "BITE_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 2,
             "movesType" : 16,
-            "power" : 4
+            "power" : 4,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 300,
          "durationMs" : 500,
          "energyDelta" : 4,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 16,
          "power" : 6
       },
@@ -428,15 +414,12 @@
    },
    "BLAST_BURN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 9,
-            "power" : 110
-         },
          "damageWindowEndMs" : 3200,
          "damageWindowStartMs" : 2750,
          "durationMs" : 3300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 110
       },
@@ -458,15 +441,12 @@
    },
    "BLAZE_KICK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 9,
-            "power" : 55
-         },
          "damageWindowEndMs" : 800,
          "damageWindowStartMs" : 450,
          "durationMs" : 1200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 45
       },
@@ -488,15 +468,12 @@
    },
    "BLIZZARD" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -75,
-            "movesType" : 14,
-            "power" : 140
-         },
          "damageWindowEndMs" : 2900,
          "damageWindowStartMs" : 1500,
          "durationMs" : 3100,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 130
       },
@@ -519,15 +496,12 @@
    },
    "BODY_SLAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 0,
-            "power" : 60
-         },
          "damageWindowEndMs" : 1700,
          "damageWindowStartMs" : 1200,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 50
       },
@@ -550,15 +524,12 @@
    },
    "BONE_CLUB" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 4,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1400,
          "damageWindowStartMs" : 1000,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 40
       },
@@ -581,15 +552,12 @@
    },
    "BRAVE_BIRD" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 2,
-            "power" : 130
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 130
       },
@@ -612,15 +580,12 @@
    },
    "BRICK_BREAK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 1,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1400,
          "damageWindowStartMs" : 800,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 40
       },
@@ -643,15 +608,12 @@
    },
    "BRINE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 10,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 60
       },
@@ -674,15 +636,12 @@
    },
    "BUBBLE_BEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 10,
-            "power" : 25
-         },
          "damageWindowEndMs" : 1700,
          "damageWindowStartMs" : 1450,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 45
       },
@@ -706,14 +665,18 @@
    "BUBBLE_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.66666666666667,
             "energyDelta" : 11,
             "movesType" : 10,
-            "power" : 7
+            "power" : 7,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1000,
          "damageWindowStartMs" : 750,
          "durationMs" : 1200,
          "energyDelta" : 14,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 10,
          "power" : 12
       },
@@ -736,14 +699,18 @@
    "BUG_BITE_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 3,
             "movesType" : 6,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 450,
          "damageWindowStartMs" : 250,
          "durationMs" : 500,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 6,
          "power" : 5
       },
@@ -765,15 +732,12 @@
    },
    "BUG_BUZZ" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 6,
-            "power" : 100
-         },
          "damageWindowEndMs" : 3100,
          "damageWindowStartMs" : 2000,
          "durationMs" : 3700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6,
          "power" : 100
       },
@@ -796,15 +760,12 @@
    },
    "BULLDOZE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 4,
-            "power" : 80
-         },
          "damageWindowEndMs" : 3100,
          "damageWindowStartMs" : 2600,
          "durationMs" : 3500,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 80
       },
@@ -828,14 +789,18 @@
    "BULLET_PUNCH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.5,
             "energyDelta" : 7,
             "movesType" : 8,
-            "power" : 6
+            "power" : 6,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 900,
          "damageWindowStartMs" : 300,
          "durationMs" : 900,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 8,
          "power" : 9
       },
@@ -858,14 +823,18 @@
    "BULLET_SEED_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4.33333333333333,
             "energyDelta" : 13,
             "movesType" : 11,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 14,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 11,
          "power" : 8
       },
@@ -888,14 +857,18 @@
    "CHARGE_BEAM_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.66666666666667,
             "energyDelta" : 11,
             "movesType" : 12,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 15,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 12,
          "power" : 8
       },
@@ -918,14 +891,18 @@
    "CHARM_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 6,
             "movesType" : 17,
-            "power" : 16
+            "power" : 16,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1200,
          "damageWindowStartMs" : 900,
          "durationMs" : 1500,
          "energyDelta" : 11,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 17,
          "power" : 20
       },
@@ -947,15 +924,12 @@
    },
    "CLOSE_COMBAT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 1,
-            "power" : 100
-         },
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2300,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 100
       },
@@ -979,14 +953,18 @@
    "CONFUSION_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 12,
             "movesType" : 13,
-            "power" : 16
+            "power" : 16,
+            "rigidTurn" : 4
          },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 600,
          "durationMs" : 1600,
          "energyDelta" : 15,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 13,
          "power" : 20
       },
@@ -1009,14 +987,18 @@
    "COUNTER_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.5,
             "energyDelta" : 7,
             "movesType" : 1,
-            "power" : 8
+            "power" : 8,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 900,
          "damageWindowStartMs" : 700,
          "durationMs" : 900,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 1,
          "power" : 12
       },
@@ -1038,15 +1020,12 @@
    },
    "CRABHAMMER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 10,
-            "power" : 85
-         },
          "damageWindowEndMs" : 1750,
          "damageWindowStartMs" : 1500,
          "durationMs" : 1900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 85
       },
@@ -1068,15 +1047,12 @@
    },
    "CROSS_CHOP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 1,
-            "power" : 50
-         },
          "damageWindowEndMs" : 1200,
          "damageWindowStartMs" : 800,
          "durationMs" : 1500,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 50
       },
@@ -1099,15 +1075,12 @@
    },
    "CROSS_POISON" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 3,
-            "power" : 50
-         },
          "damageWindowEndMs" : 1300,
          "damageWindowStartMs" : 900,
          "durationMs" : 1500,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 3,
          "power" : 40
       },
@@ -1130,15 +1103,12 @@
    },
    "CRUNCH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 16,
-            "power" : 70
-         },
          "damageWindowEndMs" : 3000,
          "damageWindowStartMs" : 1300,
          "durationMs" : 3200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 16,
          "power" : 70
       },
@@ -1164,6 +1134,8 @@
          "damageWindowEndMs" : 1700,
          "damageWindowStartMs" : 1200,
          "durationMs" : 1900,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0
       },
       "raw" : {
@@ -1183,14 +1155,18 @@
    "CUT_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 2,
             "movesType" : 0,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 300,
          "durationMs" : 500,
          "energyDelta" : 5,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 5
       },
@@ -1212,15 +1188,12 @@
    },
    "DARK_PULSE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 16,
-            "power" : 80
-         },
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1400,
          "durationMs" : 3000,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 16,
          "power" : 80
       },
@@ -1243,15 +1216,12 @@
    },
    "DAZZLING_GLEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -70,
-            "movesType" : 17,
-            "power" : 110
-         },
          "damageWindowEndMs" : 3300,
          "damageWindowStartMs" : 2100,
          "durationMs" : 3500,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 17,
          "power" : 100
       },
@@ -1274,15 +1244,12 @@
    },
    "DIG" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 4,
-            "power" : 100
-         },
          "damageWindowEndMs" : 4500,
          "damageWindowStartMs" : 2800,
          "durationMs" : 4700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 100
       },
@@ -1305,15 +1272,12 @@
    },
    "DISARMING_VOICE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 17,
-            "power" : 70
-         },
          "damageWindowEndMs" : 3500,
          "damageWindowStartMs" : 3200,
          "durationMs" : 3900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 17,
          "power" : 70
       },
@@ -1336,15 +1300,12 @@
    },
    "DISCHARGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 12,
-            "power" : 65
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2500,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 65
       },
@@ -1367,15 +1328,12 @@
    },
    "DOOM_DESIRE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 8,
-            "power" : 75
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1400,
          "durationMs" : 1700,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 70
       },
@@ -1397,15 +1355,12 @@
    },
    "DRACO_METEOR" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -65,
-            "movesType" : 15,
-            "power" : 150
-         },
          "damageWindowEndMs" : 3500,
          "damageWindowStartMs" : 3000,
          "durationMs" : 3600,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 15,
          "power" : 150
       },
@@ -1428,14 +1383,18 @@
    "DRAGON_BREATH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 3,
             "movesType" : 15,
-            "power" : 4
+            "power" : 4,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 300,
          "durationMs" : 500,
          "energyDelta" : 4,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 15,
          "power" : 6
       },
@@ -1457,15 +1416,12 @@
    },
    "DRAGON_CLAW" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 15,
-            "power" : 50
-         },
          "damageWindowEndMs" : 1300,
          "damageWindowStartMs" : 1100,
          "durationMs" : 1700,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 15,
          "power" : 50
       },
@@ -1488,15 +1444,12 @@
    },
    "DRAGON_PULSE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 15,
-            "power" : 90
-         },
          "damageWindowEndMs" : 3300,
          "damageWindowStartMs" : 2150,
          "durationMs" : 3600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 15,
          "power" : 90
       },
@@ -1520,14 +1473,18 @@
    "DRAGON_TAIL_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 9,
             "movesType" : 15,
-            "power" : 13
+            "power" : 13,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 9,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 15,
          "power" : 15
       },
@@ -1549,15 +1506,12 @@
    },
    "DRAINING_KISS" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 17,
-            "power" : 60
-         },
          "damageWindowEndMs" : 1300,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 17,
          "power" : 60
       },
@@ -1584,6 +1538,8 @@
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2400,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1
       },
       "raw" : {
@@ -1602,15 +1558,12 @@
    },
    "DRILL_PECK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 2,
-            "power" : 65
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2300,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 65
       },
@@ -1633,15 +1586,12 @@
    },
    "DRILL_RUN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 4,
-            "power" : 80
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 80
       },
@@ -1664,15 +1614,12 @@
    },
    "DYNAMIC_PUNCH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 1,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 90
       },
@@ -1695,15 +1642,12 @@
    },
    "EARTHQUAKE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -65,
-            "movesType" : 4,
-            "power" : 120
-         },
          "damageWindowEndMs" : 3500,
          "damageWindowStartMs" : 2700,
          "durationMs" : 3600,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 140
       },
@@ -1726,15 +1670,12 @@
    },
    "EARTH_POWER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 4,
-            "power" : 90
-         },
          "damageWindowEndMs" : 3400,
          "damageWindowStartMs" : 2700,
          "durationMs" : 3600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 100
       },
@@ -1757,14 +1698,18 @@
    "EMBER_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 6,
             "movesType" : 9,
-            "power" : 7
+            "power" : 7,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 800,
          "damageWindowStartMs" : 600,
          "durationMs" : 1000,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 9,
          "power" : 10
       },
@@ -1786,15 +1731,12 @@
    },
    "ENERGY_BALL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 11,
-            "power" : 90
-         },
          "damageWindowEndMs" : 3800,
          "damageWindowStartMs" : 3000,
          "durationMs" : 3900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 90
       },
@@ -1818,14 +1760,18 @@
    "EXTRASENSORY_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.33333333333333,
             "energyDelta" : 10,
             "movesType" : 13,
-            "power" : 8
+            "power" : 8,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 12,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 13,
          "power" : 12
       },
@@ -1847,15 +1793,12 @@
    },
    "FEATHER_DANCE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 2,
-            "power" : 35
-         },
          "damageWindowEndMs" : 2500,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 35
       },
@@ -1878,14 +1821,18 @@
    "FEINT_ATTACK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 6,
             "movesType" : 16,
-            "power" : 6
+            "power" : 6,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 900,
          "damageWindowStartMs" : 750,
          "durationMs" : 900,
          "energyDelta" : 9,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 16,
          "power" : 10
       },
@@ -1907,15 +1854,12 @@
    },
    "FELL_STINGER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 6,
-            "power" : 20
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1800,
          "durationMs" : 2200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6,
          "power" : 50
       },
@@ -1937,15 +1881,12 @@
    },
    "FIRE_BLAST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 9,
-            "power" : 140
-         },
          "damageWindowEndMs" : 3900,
          "damageWindowStartMs" : 3100,
          "durationMs" : 4200,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 140
       },
@@ -1969,14 +1910,18 @@
    "FIRE_FANG_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.5,
             "energyDelta" : 5,
             "movesType" : 9,
-            "power" : 8
+            "power" : 8,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 840,
          "damageWindowStartMs" : 640,
          "durationMs" : 900,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 9,
          "power" : 12
       },
@@ -1998,15 +1943,12 @@
    },
    "FIRE_PUNCH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 9,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1900,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 55
       },
@@ -2030,14 +1972,18 @@
    "FIRE_SPIN_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.33333333333333,
             "energyDelta" : 10,
             "movesType" : 9,
-            "power" : 9
+            "power" : 9,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 9,
          "power" : 14
       },
@@ -2062,6 +2008,8 @@
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2800,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4
       },
       "raw" : {
@@ -2080,15 +2028,12 @@
    },
    "FLAMETHROWER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 9,
-            "power" : 90
-         },
          "damageWindowEndMs" : 1700,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2200,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 70
       },
@@ -2111,15 +2056,12 @@
    },
    "FLAME_BURST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 9,
-            "power" : 70
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 70
       },
@@ -2142,15 +2084,12 @@
    },
    "FLAME_CHARGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 9,
-            "power" : 65
-         },
          "damageWindowEndMs" : 3450,
          "damageWindowStartMs" : 2900,
          "durationMs" : 3800,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 70
       },
@@ -2173,15 +2112,12 @@
    },
    "FLAME_WHEEL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 9,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2400,
          "damageWindowStartMs" : 2100,
          "durationMs" : 2700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 60
       },
@@ -2204,15 +2140,12 @@
    },
    "FLASH_CANNON" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -70,
-            "movesType" : 8,
-            "power" : 110
-         },
          "damageWindowEndMs" : 2500,
          "damageWindowStartMs" : 1600,
          "durationMs" : 2700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 100
       },
@@ -2235,15 +2168,12 @@
    },
    "FLY" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 2,
-            "power" : 80
-         },
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1200,
          "durationMs" : 1800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 80
       },
@@ -2265,15 +2195,12 @@
    },
    "FLYING_PRESS" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 1,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 110
       },
@@ -2295,15 +2222,12 @@
    },
    "FOCUS_BLAST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -75,
-            "movesType" : 1,
-            "power" : 150
-         },
          "damageWindowEndMs" : 3500,
          "damageWindowStartMs" : 3000,
          "durationMs" : 3500,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 140
       },
@@ -2326,15 +2250,12 @@
    },
    "FOUL_PLAY" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 16,
-            "power" : 70
-         },
          "damageWindowEndMs" : 1900,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2000,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 16,
          "power" : 70
       },
@@ -2357,15 +2278,12 @@
    },
    "FRENZY_PLANT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 11,
-            "power" : 100
-         },
          "damageWindowEndMs" : 2550,
          "damageWindowStartMs" : 2145,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 100
       },
@@ -2388,14 +2306,18 @@
    "FROST_BREATH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.5,
             "energyDelta" : 5,
             "movesType" : 14,
-            "power" : 7
+            "power" : 7,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 750,
          "damageWindowStartMs" : 450,
          "durationMs" : 900,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 14,
          "power" : 10
       },
@@ -2417,15 +2339,12 @@
    },
    "FRUSTRATION" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -70,
-            "movesType" : 0,
-            "power" : 10
-         },
          "damageWindowEndMs" : 1800,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2000,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 10
       },
@@ -2449,14 +2368,18 @@
    "FURY_CUTTER_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 4,
             "movesType" : 6,
-            "power" : 2
+            "power" : 2,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 400,
          "damageWindowStartMs" : 100,
          "durationMs" : 400,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 6,
          "power" : 3
       },
@@ -2478,15 +2401,12 @@
    },
    "FUTURESIGHT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -65,
-            "movesType" : 13,
-            "power" : 120
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 1400,
          "durationMs" : 2700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 120
       },
@@ -2509,15 +2429,12 @@
    },
    "GIGA_DRAIN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 11,
-            "power" : 50
-         },
          "damageWindowEndMs" : 2200,
          "damageWindowStartMs" : 1200,
          "durationMs" : 3900,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 50
       },
@@ -2541,15 +2458,12 @@
    },
    "GIGA_IMPACT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 0,
-            "power" : 150
-         },
          "damageWindowEndMs" : 2400,
          "damageWindowStartMs" : 1000,
          "durationMs" : 4700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 200
       },
@@ -2571,15 +2485,12 @@
    },
    "GRASS_KNOT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 11,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 90
       },
@@ -2602,15 +2513,12 @@
    },
    "GUNK_SHOT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -75,
-            "movesType" : 3,
-            "power" : 130
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 1700,
          "durationMs" : 3100,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 3,
          "power" : 130
       },
@@ -2634,14 +2542,18 @@
    "GUST_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 12,
             "movesType" : 2,
-            "power" : 16
+            "power" : 16,
+            "rigidTurn" : 4
          },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 900,
          "durationMs" : 2000,
          "energyDelta" : 20,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 2,
          "power" : 25
       },
@@ -2663,15 +2575,12 @@
    },
    "GYRO_BALL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 8,
-            "power" : 80
-         },
          "damageWindowEndMs" : 3300,
          "damageWindowStartMs" : 3000,
          "durationMs" : 3300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 80
       },
@@ -2694,15 +2603,12 @@
    },
    "HEART_STAMP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 13,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1100,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 40
       },
@@ -2725,15 +2631,12 @@
    },
    "HEAT_WAVE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -75,
-            "movesType" : 9,
-            "power" : 95
-         },
          "damageWindowEndMs" : 2800,
          "damageWindowStartMs" : 1700,
          "durationMs" : 3000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 95
       },
@@ -2756,15 +2659,12 @@
    },
    "HEAVY_SLAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 8,
-            "power" : 70
-         },
          "damageWindowEndMs" : 1900,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2100,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 70
       },
@@ -2788,14 +2688,18 @@
    "HEX_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 12,
             "movesType" : 7,
-            "power" : 6
+            "power" : 6,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1200,
          "damageWindowStartMs" : 1000,
          "durationMs" : 1200,
          "energyDelta" : 16,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 7,
          "power" : 10
       },
@@ -2818,14 +2722,18 @@
    "HIDDEN_POWER_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.66666666666667,
             "energyDelta" : 8,
             "movesType" : 0,
-            "power" : 9
+            "power" : 9,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1400,
          "damageWindowStartMs" : 1100,
          "durationMs" : 1500,
          "energyDelta" : 15,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 15
       },
@@ -2848,15 +2756,12 @@
    },
    "HORN_ATTACK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 0,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1650,
          "damageWindowStartMs" : 800,
          "durationMs" : 1850,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 40
       },
@@ -2882,6 +2787,8 @@
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 500,
          "durationMs" : 1900,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0
       },
       "raw" : {
@@ -2900,15 +2807,12 @@
    },
    "HURRICANE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -65,
-            "movesType" : 2,
-            "power" : 110
-         },
          "damageWindowEndMs" : 2400,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 110
       },
@@ -2931,15 +2835,12 @@
    },
    "HYDRO_CANNON" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 10,
-            "power" : 80
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 500,
          "durationMs" : 1900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 90
       },
@@ -2962,15 +2863,12 @@
    },
    "HYDRO_PUMP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -75,
-            "movesType" : 10,
-            "power" : 130
-         },
          "damageWindowEndMs" : 3000,
          "damageWindowStartMs" : 900,
          "durationMs" : 3300,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 130
       },
@@ -2993,15 +2891,12 @@
    },
    "HYDRO_PUMP_BLASTOISE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 10,
-            "power" : 90
-         },
          "damageWindowEndMs" : 4300,
          "damageWindowStartMs" : 2200,
          "durationMs" : 4500,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 90
       },
@@ -3024,15 +2919,12 @@
    },
    "HYPER_BEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 0,
-            "power" : 150
-         },
          "damageWindowEndMs" : 3600,
          "damageWindowStartMs" : 3300,
          "durationMs" : 3800,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 150
       },
@@ -3055,15 +2947,12 @@
    },
    "HYPER_FANG" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 0,
-            "power" : 80
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2500,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 80
       },
@@ -3086,15 +2975,12 @@
    },
    "ICE_BEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 14,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2800,
          "damageWindowStartMs" : 1300,
          "durationMs" : 3300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 90
       },
@@ -3118,14 +3004,18 @@
    "ICE_FANG_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 1.66666666666667,
             "energyDelta" : 5,
             "movesType" : 14,
-            "power" : 8
+            "power" : 8,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1000,
          "damageWindowStartMs" : 400,
          "durationMs" : 1500,
          "energyDelta" : 20,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 14,
          "power" : 12
       },
@@ -3147,15 +3037,12 @@
    },
    "ICE_PUNCH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 14,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1300,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 50
       },
@@ -3179,14 +3066,18 @@
    "ICE_SHARD_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.33333333333333,
             "energyDelta" : 10,
             "movesType" : 14,
-            "power" : 9
+            "power" : 9,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 900,
          "damageWindowStartMs" : 600,
          "durationMs" : 1200,
          "energyDelta" : 12,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 14,
          "power" : 12
       },
@@ -3208,15 +3099,12 @@
    },
    "ICY_WIND" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 14,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2800,
          "damageWindowStartMs" : 2000,
          "durationMs" : 3300,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 60
       },
@@ -3240,14 +3128,18 @@
    "INCINERATE_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 20,
             "movesType" : 9,
-            "power" : 15
+            "power" : 15,
+            "rigidTurn" : 5
          },
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 500,
          "durationMs" : 2300,
          "energyDelta" : 20,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 9,
          "power" : 29
       },
@@ -3270,14 +3162,18 @@
    "INFESTATION_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 12,
             "movesType" : 6,
-            "power" : 6
+            "power" : 6,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 14,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 6,
          "power" : 10
       },
@@ -3299,15 +3195,12 @@
    },
    "IRON_HEAD" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 8,
-            "power" : 70
-         },
          "damageWindowEndMs" : 1700,
          "damageWindowStartMs" : 1300,
          "durationMs" : 1900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 60
       },
@@ -3331,14 +3224,18 @@
    "IRON_TAIL_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 6,
             "movesType" : 8,
-            "power" : 9
+            "power" : 9,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 7,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 8,
          "power" : 15
       },
@@ -3361,14 +3258,18 @@
    "KARATE_CHOP_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 8,
             "movesType" : 1,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 800,
          "damageWindowStartMs" : 600,
          "durationMs" : 800,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 1,
          "power" : 8
       },
@@ -3390,15 +3291,12 @@
    },
    "LAST_RESORT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 0,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2850,
          "damageWindowStartMs" : 2700,
          "durationMs" : 2900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 90
       },
@@ -3421,15 +3319,12 @@
    },
    "LEAF_BLADE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 11,
-            "power" : 70
-         },
          "damageWindowEndMs" : 2200,
          "damageWindowStartMs" : 1250,
          "durationMs" : 2400,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 70
       },
@@ -3452,15 +3347,12 @@
    },
    "LEAF_STORM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 11,
-            "power" : 130
-         },
          "damageWindowEndMs" : 1250,
          "damageWindowStartMs" : 1100,
          "durationMs" : 2500,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 130
       },
@@ -3482,15 +3374,12 @@
    },
    "LEAF_TORNADO" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 11,
-            "power" : 45
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 2000,
          "durationMs" : 3100,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 45
       },
@@ -3515,6 +3404,8 @@
          "damageWindowEndMs" : 1400,
          "damageWindowStartMs" : 1150,
          "durationMs" : 2500,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6
       },
       "raw" : {
@@ -3534,14 +3425,18 @@
    "LICK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 3,
             "movesType" : 7,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 200,
          "durationMs" : 500,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 7,
          "power" : 5
       },
@@ -3564,14 +3459,18 @@
    "LOCK_ON_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 5,
             "energyDelta" : 5,
             "movesType" : 0,
-            "power" : 1
+            "power" : 1,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 300,
          "damageWindowStartMs" : 170,
          "durationMs" : 300,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 1
       },
@@ -3594,14 +3493,18 @@
    "LOW_KICK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.5,
             "energyDelta" : 5,
             "movesType" : 1,
-            "power" : 4
+            "power" : 4,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 600,
          "damageWindowStartMs" : 300,
          "durationMs" : 600,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 1,
          "power" : 6
       },
@@ -3623,15 +3526,12 @@
    },
    "LOW_SWEEP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 1,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1650,
          "damageWindowStartMs" : 1300,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 40
       },
@@ -3654,15 +3554,12 @@
    },
    "LUNGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 6,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 2400,
          "durationMs" : 2900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6,
          "power" : 55
       },
@@ -3684,15 +3581,12 @@
    },
    "MAGNET_BOMB" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 8,
-            "power" : 70
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 2200,
          "durationMs" : 2800,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 70
       },
@@ -3715,15 +3609,12 @@
    },
    "MEGAHORN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 6,
-            "power" : 110
-         },
          "damageWindowEndMs" : 1900,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2200,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6,
          "power" : 110
       },
@@ -3746,15 +3637,12 @@
    },
    "MEGA_DRAIN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 11,
-            "power" : 25
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 950,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 25
       },
@@ -3779,14 +3667,18 @@
    "METAL_CLAW_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 6,
             "movesType" : 8,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 630,
          "damageWindowStartMs" : 430,
          "durationMs" : 700,
          "energyDelta" : 7,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 8,
          "power" : 8
       },
@@ -3808,15 +3700,12 @@
    },
    "METEOR_MASH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 8,
-            "power" : 100
-         },
          "damageWindowEndMs" : 2500,
          "damageWindowStartMs" : 2300,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 100
       },
@@ -3839,15 +3728,12 @@
    },
    "MIRROR_COAT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 13,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2500,
          "damageWindowStartMs" : 2300,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 60
       },
@@ -3870,15 +3756,12 @@
    },
    "MIRROR_SHOT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 8,
-            "power" : 35
-         },
          "damageWindowEndMs" : 2200,
          "damageWindowStartMs" : 1800,
          "durationMs" : 2400,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 8,
          "power" : 50
       },
@@ -3900,15 +3783,12 @@
    },
    "MOONBLAST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 17,
-            "power" : 110
-         },
          "damageWindowEndMs" : 3700,
          "damageWindowStartMs" : 2200,
          "durationMs" : 3900,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 17,
          "power" : 130
       },
@@ -3931,15 +3811,12 @@
    },
    "MUDDY_WATER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 10,
-            "power" : 35
-         },
          "damageWindowEndMs" : 1900,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 50
       },
@@ -3961,15 +3838,12 @@
    },
    "MUD_BOMB" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 4,
-            "power" : 55
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2300,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 55
       },
@@ -3993,14 +3867,18 @@
    "MUD_SHOT_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4.5,
             "energyDelta" : 9,
             "movesType" : 4,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 550,
          "damageWindowStartMs" : 350,
          "durationMs" : 600,
          "energyDelta" : 7,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 4,
          "power" : 5
       },
@@ -4023,14 +3901,18 @@
    "MUD_SLAP_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.66666666666667,
             "energyDelta" : 8,
             "movesType" : 4,
-            "power" : 11
+            "power" : 11,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1350,
          "damageWindowStartMs" : 1150,
          "durationMs" : 1400,
          "energyDelta" : 12,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 4,
          "power" : 18
       },
@@ -4052,15 +3934,12 @@
    },
    "NIGHT_SHADE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 7,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2500,
          "damageWindowStartMs" : 2100,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 7,
          "power" : 60
       },
@@ -4083,15 +3962,12 @@
    },
    "NIGHT_SLASH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 16,
-            "power" : 50
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1300,
          "durationMs" : 2200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 16,
          "power" : 50
       },
@@ -4114,15 +3990,12 @@
    },
    "OCTAZOOKA" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 10,
-            "power" : 50
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1300,
          "durationMs" : 2300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 50
       },
@@ -4144,15 +4017,12 @@
    },
    "OMINOUS_WIND" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 7,
-            "power" : 45
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1850,
          "durationMs" : 2300,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 7,
          "power" : 50
       },
@@ -4175,15 +4045,12 @@
    },
    "ORIGIN_PULSE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 10,
-            "power" : 130
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1400,
          "durationMs" : 1700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 130
       },
@@ -4205,15 +4072,12 @@
    },
    "OUTRAGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 15,
-            "power" : 110
-         },
          "damageWindowEndMs" : 3700,
          "damageWindowStartMs" : 2500,
          "durationMs" : 3900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 15,
          "power" : 110
       },
@@ -4236,15 +4100,12 @@
    },
    "OVERHEAT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 9,
-            "power" : 130
-         },
          "damageWindowEndMs" : 3800,
          "damageWindowStartMs" : 2600,
          "durationMs" : 4000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 160
       },
@@ -4267,15 +4128,12 @@
    },
    "PARABOLIC_CHARGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 12,
-            "power" : 25
-         },
          "damageWindowEndMs" : 2400,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 25
       },
@@ -4299,15 +4157,12 @@
    },
    "PAYBACK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 16,
-            "power" : 110
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1100,
          "durationMs" : 2200,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 16,
          "power" : 100
       },
@@ -4330,14 +4185,18 @@
    "PECK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.5,
             "energyDelta" : 5,
             "movesType" : 2,
-            "power" : 6
+            "power" : 6,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 900,
          "damageWindowStartMs" : 450,
          "durationMs" : 1000,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 2,
          "power" : 10
       },
@@ -4359,15 +4218,12 @@
    },
    "PETAL_BLIZZARD" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -65,
-            "movesType" : 11,
-            "power" : 110
-         },
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2600,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 110
       },
@@ -4390,15 +4246,12 @@
    },
    "PLAY_ROUGH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 17,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 1300,
          "durationMs" : 2900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 17,
          "power" : 90
       },
@@ -4421,15 +4274,12 @@
    },
    "POISON_FANG" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 3,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1400,
          "damageWindowStartMs" : 900,
          "durationMs" : 1700,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 3,
          "power" : 35
       },
@@ -4453,14 +4303,18 @@
    "POISON_JAB_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.5,
             "energyDelta" : 7,
             "movesType" : 3,
-            "power" : 7
+            "power" : 7,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 800,
          "damageWindowStartMs" : 200,
          "durationMs" : 800,
          "energyDelta" : 7,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 3,
          "power" : 10
       },
@@ -4483,14 +4337,18 @@
    "POISON_STING_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4.5,
             "energyDelta" : 9,
             "movesType" : 3,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 575,
          "damageWindowStartMs" : 375,
          "durationMs" : 600,
          "energyDelta" : 7,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 3,
          "power" : 5
       },
@@ -4513,14 +4371,18 @@
    "POUND_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 4,
             "movesType" : 0,
-            "power" : 4
+            "power" : 4,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 540,
          "damageWindowStartMs" : 340,
          "durationMs" : 600,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 7
       },
@@ -4543,14 +4405,18 @@
    "POWDER_SNOW_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 8,
             "movesType" : 14,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 1000,
          "damageWindowStartMs" : 850,
          "durationMs" : 1000,
          "energyDelta" : 15,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 14,
          "power" : 6
       },
@@ -4572,15 +4438,12 @@
    },
    "POWER_GEM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 5,
-            "power" : 80
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 1950,
          "durationMs" : 2900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 80
       },
@@ -4603,15 +4466,12 @@
    },
    "POWER_UP_PUNCH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 1,
-            "power" : 20
-         },
          "damageWindowEndMs" : 1900,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2000,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 50
       },
@@ -4633,15 +4493,12 @@
    },
    "POWER_WHIP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 11,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2350,
          "damageWindowStartMs" : 1250,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 90
       },
@@ -4663,15 +4520,12 @@
    },
    "PRECIPICE_BLADES" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 4,
-            "power" : 130
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1400,
          "durationMs" : 1700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 130
       },
@@ -4694,14 +4548,18 @@
    "PRESENT_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 12,
             "movesType" : 0,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1300,
          "damageWindowStartMs" : 1100,
          "durationMs" : 1300,
          "energyDelta" : 20,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 5
       },
@@ -4723,15 +4581,12 @@
    },
    "PSYBEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 13,
-            "power" : 70
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 1300,
          "durationMs" : 3200,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 70
       },
@@ -4754,15 +4609,12 @@
    },
    "PSYCHIC" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 13,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 1300,
          "durationMs" : 2800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 90
       },
@@ -4785,15 +4637,12 @@
    },
    "PSYCHIC_FANGS" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 13,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1100,
          "damageWindowStartMs" : 400,
          "durationMs" : 1200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 30
       },
@@ -4815,15 +4664,12 @@
    },
    "PSYCHO_BOOST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 13,
-            "power" : 70
-         },
          "damageWindowEndMs" : 4000,
          "damageWindowStartMs" : 3500,
          "durationMs" : 4000,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 70
       },
@@ -4846,14 +4692,18 @@
    "PSYCHO_CUT_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4.5,
             "energyDelta" : 9,
             "movesType" : 13,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 570,
          "damageWindowStartMs" : 370,
          "durationMs" : 600,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 13,
          "power" : 5
       },
@@ -4875,15 +4725,12 @@
    },
    "PSYSHOCK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 13,
-            "power" : 70
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 2000,
          "durationMs" : 2700,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 65
       },
@@ -4906,15 +4753,12 @@
    },
    "PSYSTRIKE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 13,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 90
       },
@@ -4938,14 +4782,18 @@
    "QUICK_ATTACK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.5,
             "energyDelta" : 7,
             "movesType" : 0,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 550,
          "damageWindowStartMs" : 250,
          "durationMs" : 800,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 8
       },
@@ -4968,14 +4816,18 @@
    "RAZOR_LEAF_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 4,
             "movesType" : 11,
-            "power" : 10
+            "power" : 10,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 850,
          "damageWindowStartMs" : 600,
          "durationMs" : 1000,
          "energyDelta" : 7,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 11,
          "power" : 13
       },
@@ -4997,15 +4849,12 @@
    },
    "RAZOR_SHELL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 10,
-            "power" : 35
-         },
          "damageWindowEndMs" : 1000,
          "damageWindowStartMs" : 650,
          "durationMs" : 1300,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 45
       },
@@ -5027,15 +4876,12 @@
    },
    "REST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 0,
-            "power" : 50
-         },
          "damageWindowEndMs" : 1700,
          "damageWindowStartMs" : 1500,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 50
       },
@@ -5057,15 +4903,12 @@
    },
    "RETURN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -70,
-            "movesType" : 0,
-            "power" : 130
-         },
          "damageWindowEndMs" : 350,
          "damageWindowStartMs" : 100,
          "durationMs" : 700,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 35
       },
@@ -5087,15 +4930,12 @@
    },
    "ROCK_BLAST" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 5,
-            "power" : 50
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1600,
          "durationMs" : 2100,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 50
       },
@@ -5118,15 +4958,12 @@
    },
    "ROCK_SLIDE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 5,
-            "power" : 75
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 80
       },
@@ -5150,14 +4987,18 @@
    "ROCK_SMASH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.33333333333333,
             "energyDelta" : 7,
             "movesType" : 1,
-            "power" : 9
+            "power" : 9,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 800,
          "damageWindowStartMs" : 550,
          "durationMs" : 1300,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 1,
          "power" : 15
       },
@@ -5180,14 +5021,18 @@
    "ROCK_THROW_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.5,
             "energyDelta" : 5,
             "movesType" : 5,
-            "power" : 8
+            "power" : 8,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 800,
          "damageWindowStartMs" : 500,
          "durationMs" : 900,
          "energyDelta" : 7,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 5,
          "power" : 12
       },
@@ -5209,15 +5054,12 @@
    },
    "ROCK_TOMB" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 5,
-            "power" : 70
-         },
          "damageWindowEndMs" : 3000,
          "damageWindowStartMs" : 2250,
          "durationMs" : 3200,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 70
       },
@@ -5240,15 +5082,12 @@
    },
    "ROCK_WRECKER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 5,
-            "power" : 110
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 2000,
          "durationMs" : 3600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 110
       },
@@ -5270,15 +5109,12 @@
    },
    "SACRED_SWORD" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 1,
-            "power" : 60
-         },
          "damageWindowEndMs" : 1000,
          "damageWindowStartMs" : 500,
          "durationMs" : 1200,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 55
       },
@@ -5300,15 +5136,12 @@
    },
    "SAND_TOMB" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 4,
-            "power" : 25
-         },
          "damageWindowEndMs" : 4000,
          "damageWindowStartMs" : 1700,
          "durationMs" : 4000,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 4,
          "power" : 60
       },
@@ -5331,15 +5164,12 @@
    },
    "SCALD" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 10,
-            "power" : 80
-         },
          "damageWindowEndMs" : 3400,
          "damageWindowStartMs" : 1300,
          "durationMs" : 3700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 80
       },
@@ -5362,15 +5192,12 @@
    },
    "SCALD_BLASTOISE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 10,
-            "power" : 50
-         },
          "damageWindowEndMs" : 4600,
          "damageWindowStartMs" : 2500,
          "durationMs" : 4700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 50
       },
@@ -5394,14 +5221,18 @@
    "SCRATCH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 2,
             "movesType" : 0,
-            "power" : 4
+            "power" : 4,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 300,
          "durationMs" : 500,
          "energyDelta" : 4,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 6
       },
@@ -5423,15 +5254,12 @@
    },
    "SEED_BOMB" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 11,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1900,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2100,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 55
       },
@@ -5454,15 +5282,12 @@
    },
    "SHADOW_BALL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 7,
-            "power" : 100
-         },
          "damageWindowEndMs" : 2800,
          "damageWindowStartMs" : 2400,
          "durationMs" : 3000,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 7,
          "power" : 100
       },
@@ -5485,15 +5310,12 @@
    },
    "SHADOW_BONE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 7,
-            "power" : 75
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 2250,
          "durationMs" : 2800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 7,
          "power" : 80
       },
@@ -5516,14 +5338,18 @@
    "SHADOW_CLAW_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 8,
             "movesType" : 7,
-            "power" : 6
+            "power" : 6,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 250,
          "durationMs" : 700,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 7,
          "power" : 9
       },
@@ -5545,15 +5371,12 @@
    },
    "SHADOW_PUNCH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 7,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1300,
          "durationMs" : 1700,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 7,
          "power" : 40
       },
@@ -5576,15 +5399,12 @@
    },
    "SHADOW_SNEAK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 7,
-            "power" : 50
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 2200,
          "durationMs" : 2900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 7,
          "power" : 50
       },
@@ -5607,15 +5427,12 @@
    },
    "SIGNAL_BEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 6,
-            "power" : 75
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 1800,
          "durationMs" : 2900,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6,
          "power" : 75
       },
@@ -5638,15 +5455,12 @@
    },
    "SILVER_WIND" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 6,
-            "power" : 45
-         },
          "damageWindowEndMs" : 3500,
          "damageWindowStartMs" : 1700,
          "durationMs" : 3700,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6,
          "power" : 70
       },
@@ -5669,15 +5483,12 @@
    },
    "SKULL_BASH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -75,
-            "movesType" : 0,
-            "power" : 130
-         },
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1800,
          "durationMs" : 3100,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 130
       },
@@ -5699,15 +5510,12 @@
    },
    "SKY_ATTACK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 2,
-            "power" : 75
-         },
          "damageWindowEndMs" : 1700,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2000,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 2,
          "power" : 80
       },
@@ -5730,15 +5538,12 @@
    },
    "SLUDGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 3,
-            "power" : 50
-         },
          "damageWindowEndMs" : 1550,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2100,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 3,
          "power" : 50
       },
@@ -5761,15 +5566,12 @@
    },
    "SLUDGE_BOMB" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 3,
-            "power" : 80
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1100,
          "durationMs" : 2300,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 3,
          "power" : 80
       },
@@ -5792,15 +5594,12 @@
    },
    "SLUDGE_WAVE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -65,
-            "movesType" : 3,
-            "power" : 110
-         },
          "damageWindowEndMs" : 3000,
          "damageWindowStartMs" : 2000,
          "durationMs" : 3200,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 3,
          "power" : 110
       },
@@ -5824,14 +5623,18 @@
    "SMACK_DOWN_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.66666666666667,
             "energyDelta" : 8,
             "movesType" : 5,
-            "power" : 12
+            "power" : 12,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1100,
          "damageWindowStartMs" : 800,
          "durationMs" : 1200,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 5,
          "power" : 16
       },
@@ -5854,14 +5657,18 @@
    "SNARL_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4.33333333333333,
             "energyDelta" : 13,
             "movesType" : 16,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 14,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 16,
          "power" : 12
       },
@@ -5883,15 +5690,12 @@
    },
    "SOLAR_BEAM" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 11,
-            "power" : 150
-         },
          "damageWindowEndMs" : 4700,
          "damageWindowStartMs" : 2700,
          "durationMs" : 4900,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 11,
          "power" : 180
       },
@@ -5915,14 +5719,18 @@
    "SPARK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 8,
             "movesType" : 12,
-            "power" : 4
+            "power" : 4,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 700,
          "damageWindowStartMs" : 300,
          "durationMs" : 700,
          "energyDelta" : 9,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 12,
          "power" : 6
       },
@@ -5945,13 +5753,17 @@
    "SPLASH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 12,
-            "movesType" : 10
+            "movesType" : 10,
+            "rigidTurn" : 4
          },
          "damageWindowEndMs" : 1230,
          "damageWindowStartMs" : 1030,
          "durationMs" : 1730,
          "energyDelta" : 20,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 10
       },
       "raw" : {
@@ -5972,14 +5784,18 @@
    "STEEL_WING_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.5,
             "energyDelta" : 5,
             "movesType" : 8,
-            "power" : 7
+            "power" : 7,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 800,
          "damageWindowStartMs" : 500,
          "durationMs" : 800,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 8,
          "power" : 11
       },
@@ -6001,15 +5817,12 @@
    },
    "STOMP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 0,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1100,
          "durationMs" : 1700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 55
       },
@@ -6032,15 +5845,12 @@
    },
    "STONE_EDGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 5,
-            "power" : 100
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 700,
          "durationMs" : 2300,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 100
       },
@@ -6063,14 +5873,11 @@
    },
    "STRUGGLE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -100,
-            "movesType" : 0,
-            "power" : 35
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2200,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 35
       },
@@ -6092,14 +5899,18 @@
    "STRUGGLE_BUG_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.66666666666667,
             "energyDelta" : 8,
             "movesType" : 6,
-            "power" : 9
+            "power" : 9,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1200,
          "durationMs" : 1500,
          "energyDelta" : 15,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 6,
          "power" : 15
       },
@@ -6121,15 +5932,12 @@
    },
    "SUBMISSION" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 1,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1800,
          "durationMs" : 2200,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 60
       },
@@ -6153,14 +5961,18 @@
    "SUCKER_PUNCH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.5,
             "energyDelta" : 7,
             "movesType" : 16,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 700,
          "damageWindowStartMs" : 300,
          "durationMs" : 700,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 16,
          "power" : 7
       },
@@ -6182,15 +5994,12 @@
    },
    "SUPER_POWER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 1,
-            "power" : 85
-         },
          "damageWindowEndMs" : 2800,
          "damageWindowStartMs" : 2100,
          "durationMs" : 3000,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 1,
          "power" : 85
       },
@@ -6212,15 +6021,12 @@
    },
    "SURF" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 10,
-            "power" : 65
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1400,
          "durationMs" : 1700,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 65
       },
@@ -6242,15 +6048,12 @@
    },
    "SWIFT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 0,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 2000,
          "durationMs" : 2800,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 60
       },
@@ -6273,15 +6076,12 @@
    },
    "SYNCHRONOISE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 13,
-            "power" : 80
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 850,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 13,
          "power" : 80
       },
@@ -6304,14 +6104,18 @@
    "TACKLE_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 2,
             "movesType" : 0,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 300,
          "durationMs" : 500,
          "energyDelta" : 5,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 5
       },
@@ -6334,14 +6138,18 @@
    "TAKE_DOWN_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.66666666666667,
             "energyDelta" : 8,
             "movesType" : 0,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1100,
          "damageWindowStartMs" : 950,
          "durationMs" : 1200,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0,
          "power" : 8
       },
@@ -6363,15 +6171,12 @@
    },
    "TECHNO_BLAST_BURN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 9,
-            "power" : 120
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1400,
          "durationMs" : 2000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 120
       },
@@ -6390,15 +6195,12 @@
    },
    "TECHNO_BLAST_CHILL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 14,
-            "power" : 120
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1400,
          "durationMs" : 2000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 120
       },
@@ -6417,15 +6219,12 @@
    },
    "TECHNO_BLAST_NORMAL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 0,
-            "power" : 120
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1600,
          "durationMs" : 2000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 120
       },
@@ -6444,15 +6243,12 @@
    },
    "TECHNO_BLAST_SHOCK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 12,
-            "power" : 120
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1600,
          "durationMs" : 2000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 120
       },
@@ -6471,15 +6267,12 @@
    },
    "TECHNO_BLAST_WATER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 10,
-            "power" : 120
-         },
          "damageWindowEndMs" : 2000,
          "damageWindowStartMs" : 1500,
          "durationMs" : 2000,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 120
       },
@@ -6498,15 +6291,12 @@
    },
    "THUNDER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 12,
-            "power" : 100
-         },
          "damageWindowEndMs" : 2200,
          "damageWindowStartMs" : 1200,
          "durationMs" : 2400,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 100
       },
@@ -6529,15 +6319,12 @@
    },
    "THUNDERBOLT" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -55,
-            "movesType" : 12,
-            "power" : 90
-         },
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1800,
          "durationMs" : 2500,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 80
       },
@@ -6561,14 +6348,18 @@
    "THUNDER_FANG_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 1.66666666666667,
             "energyDelta" : 5,
             "movesType" : 12,
-            "power" : 8
+            "power" : 8,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 900,
          "damageWindowStartMs" : 400,
          "durationMs" : 1200,
          "energyDelta" : 16,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 12,
          "power" : 12
       },
@@ -6590,15 +6381,12 @@
    },
    "THUNDER_PUNCH" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 12,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1550,
          "damageWindowStartMs" : 1700,
          "durationMs" : 1800,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 45
       },
@@ -6622,14 +6410,18 @@
    "THUNDER_SHOCK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4.5,
             "energyDelta" : 9,
             "movesType" : 12,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 600,
          "damageWindowStartMs" : 300,
          "durationMs" : 600,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 12,
          "power" : 5
       },
@@ -6652,11 +6444,15 @@
    "TRANSFORM_FAST" : {
       "built" : {
          "combatOverrides" : {
-            "movesType" : 0
+            "EPT" : null,
+            "movesType" : 0,
+            "rigidTurn" : 5
          },
          "damageWindowEndMs" : 700,
          "damageWindowStartMs" : 300,
          "durationMs" : 2230,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0
       },
       "raw" : {
@@ -6675,15 +6471,12 @@
    },
    "TRI_ATTACK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -50,
-            "movesType" : 0,
-            "power" : 65
-         },
          "damageWindowEndMs" : 2400,
          "damageWindowStartMs" : 1300,
          "durationMs" : 2500,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 75
       },
@@ -6705,15 +6498,12 @@
    },
    "TWISTER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 15,
-            "power" : 45
-         },
          "damageWindowEndMs" : 2600,
          "damageWindowStartMs" : 950,
          "durationMs" : 2800,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 15,
          "power" : 45
       },
@@ -6736,15 +6526,12 @@
    },
    "VICE_GRIP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 0,
-            "power" : 40
-         },
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1100,
          "durationMs" : 1900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 35
       },
@@ -6768,14 +6555,18 @@
    "VINE_WHIP_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 8,
             "movesType" : 11,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 600,
          "damageWindowStartMs" : 350,
          "durationMs" : 600,
          "energyDelta" : 6,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 11,
          "power" : 7
       },
@@ -6798,14 +6589,18 @@
    "VOLT_SWITCH_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 4,
             "energyDelta" : 16,
             "movesType" : 12,
-            "power" : 12
+            "power" : 12,
+            "rigidTurn" : 4
          },
          "damageWindowEndMs" : 900,
          "damageWindowStartMs" : 700,
          "durationMs" : 1600,
          "energyDelta" : 21,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 12,
          "power" : 14
       },
@@ -6827,15 +6622,12 @@
    },
    "V_CREATE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -40,
-            "movesType" : 9,
-            "power" : 95
-         },
          "damageWindowEndMs" : 2500,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2800,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 95
       },
@@ -6858,14 +6650,18 @@
    "WATERFALL_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2.66666666666667,
             "energyDelta" : 8,
             "movesType" : 10,
-            "power" : 12
+            "power" : 12,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1100,
          "damageWindowStartMs" : 950,
          "durationMs" : 1200,
          "energyDelta" : 8,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 10,
          "power" : 16
       },
@@ -6888,14 +6684,18 @@
    "WATER_GUN_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 3,
             "movesType" : 10,
-            "power" : 3
+            "power" : 3,
+            "rigidTurn" : 1
          },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 300,
          "durationMs" : 500,
          "energyDelta" : 5,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 10,
          "power" : 5
       },
@@ -6917,15 +6717,12 @@
    },
    "WATER_GUN_FAST_BLASTOISE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : 4,
-            "movesType" : 10,
-            "power" : 6
-         },
          "damageWindowEndMs" : 500,
          "damageWindowStartMs" : 300,
          "durationMs" : 1000,
          "energyDelta" : 6,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 10
       },
@@ -6947,15 +6744,12 @@
    },
    "WATER_PULSE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -60,
-            "movesType" : 10,
-            "power" : 70
-         },
          "damageWindowEndMs" : 2900,
          "damageWindowStartMs" : 2200,
          "durationMs" : 3200,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 70
       },
@@ -6978,15 +6772,12 @@
    },
    "WEATHER_BALL_FIRE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 9,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1350,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 9,
          "power" : 55
       },
@@ -7008,15 +6799,12 @@
    },
    "WEATHER_BALL_ICE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 14,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1350,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 14,
          "power" : 55
       },
@@ -7038,15 +6826,12 @@
    },
    "WEATHER_BALL_NORMAL" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 0,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1350,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 55
       },
@@ -7068,15 +6853,12 @@
    },
    "WEATHER_BALL_ROCK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 5,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1350,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 5,
          "power" : 55
       },
@@ -7098,15 +6880,12 @@
    },
    "WEATHER_BALL_WATER" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 10,
-            "power" : 55
-         },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1350,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 10,
          "power" : 55
       },
@@ -7128,15 +6907,12 @@
    },
    "WILD_CHARGE" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 12,
-            "power" : 100
-         },
          "damageWindowEndMs" : 2100,
          "damageWindowStartMs" : 1700,
          "durationMs" : 2600,
          "energyDelta" : -50,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 90
       },
@@ -7160,14 +6936,18 @@
    "WING_ATTACK_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3.5,
             "energyDelta" : 7,
             "movesType" : 2,
-            "power" : 5
+            "power" : 5,
+            "rigidTurn" : 2
          },
          "damageWindowEndMs" : 750,
          "damageWindowStartMs" : 550,
          "durationMs" : 800,
          "energyDelta" : 9,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 2,
          "power" : 8
       },
@@ -7189,15 +6969,12 @@
    },
    "WRAP" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 0,
-            "power" : 60
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 2050,
          "durationMs" : 2900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 60
       },
@@ -7220,15 +6997,12 @@
    },
    "WRAP_GREEN" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 0,
-            "power" : 25
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 2050,
          "durationMs" : 2900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 25
       },
@@ -7251,15 +7025,12 @@
    },
    "WRAP_PINK" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -45,
-            "movesType" : 0,
-            "power" : 25
-         },
          "damageWindowEndMs" : 2700,
          "damageWindowStartMs" : 2050,
          "durationMs" : 2900,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 0,
          "power" : 25
       },
@@ -7282,15 +7053,12 @@
    },
    "X_SCISSOR" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -35,
-            "movesType" : 6,
-            "power" : 45
-         },
          "damageWindowEndMs" : 1400,
          "damageWindowStartMs" : 1200,
          "durationMs" : 1600,
          "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 6,
          "power" : 45
       },
@@ -7314,13 +7082,17 @@
    "YAWN_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 3,
             "energyDelta" : 12,
-            "movesType" : 0
+            "movesType" : 0,
+            "rigidTurn" : 4
          },
          "damageWindowEndMs" : 1600,
          "damageWindowStartMs" : 1400,
          "durationMs" : 1700,
          "energyDelta" : 15,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 0
       },
       "raw" : {
@@ -7340,15 +7112,12 @@
    },
    "ZAP_CANNON" : {
       "built" : {
-         "combatOverrides" : {
-            "energyDelta" : -80,
-            "movesType" : 12,
-            "power" : 150
-         },
          "damageWindowEndMs" : 3500,
          "damageWindowStartMs" : 3000,
          "durationMs" : 3700,
          "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
          "movesType" : 12,
          "power" : 140
       },
@@ -7372,14 +7141,18 @@
    "ZEN_HEADBUTT_FAST" : {
       "built" : {
          "combatOverrides" : {
+            "EPT" : 2,
             "energyDelta" : 6,
             "movesType" : 13,
-            "power" : 8
+            "power" : 8,
+            "rigidTurn" : 3
          },
          "damageWindowEndMs" : 1050,
          "damageWindowStartMs" : 850,
          "durationMs" : 1100,
          "energyDelta" : 10,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
          "movesType" : 13,
          "power" : 12
       },
