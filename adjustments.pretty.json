@@ -387,8 +387,8 @@
          "boostWeathers" : [
             3
          ],
-         "keyColor" : "aeaeae",
-         "themeColor" : "aeaeae"
+         "keyColor" : "9199a0",
+         "themeColor" : "9199a0"
       },
       {
          "attackWeight" : [
@@ -415,8 +415,8 @@
          "boostWeathers" : [
             2
          ],
-         "keyColor" : "ef696a",
-         "themeColor" : "ef696a"
+         "keyColor" : "cd4069",
+         "themeColor" : "cd4069"
       },
       {
          "attackWeight" : [
@@ -443,8 +443,8 @@
          "boostWeathers" : [
             6
          ],
-         "keyColor" : "63a7f0",
-         "themeColor" : "63a7f0"
+         "keyColor" : "90a8de",
+         "themeColor" : "90a8de"
       },
       {
          "attackWeight" : [
@@ -471,8 +471,8 @@
          "boostWeathers" : [
             2
          ],
-         "keyColor" : "ab7acb",
-         "themeColor" : "ab7acb"
+         "keyColor" : "a666c7",
+         "themeColor" : "a666c7"
       },
       {
          "attackWeight" : [
@@ -499,8 +499,8 @@
          "boostWeathers" : [
             0
          ],
-         "keyColor" : "c8a841",
-         "themeColor" : "c8a841"
+         "keyColor" : "da7746",
+         "themeColor" : "da7746"
       },
       {
          "attackWeight" : [
@@ -527,8 +527,8 @@
          "boostWeathers" : [
             3
          ],
-         "keyColor" : "fbc726",
-         "themeColor" : "fbc726"
+         "keyColor" : "c8b78a",
+         "themeColor" : "c8b78a"
       },
       {
          "attackWeight" : [
@@ -555,8 +555,8 @@
          "boostWeathers" : [
             4
          ],
-         "keyColor" : "51cc5a",
-         "themeColor" : "51cc5a"
+         "keyColor" : "90c12d",
+         "themeColor" : "90c12d"
       },
       {
          "attackWeight" : [
@@ -583,8 +583,8 @@
          "boostWeathers" : [
             1
          ],
-         "keyColor" : "756eb3",
-         "themeColor" : "756eb3"
+         "keyColor" : "5468ad",
+         "themeColor" : "5468ad"
       },
       {
          "attackWeight" : [
@@ -611,8 +611,8 @@
          "boostWeathers" : [
             5
          ],
-         "keyColor" : "808aa5",
-         "themeColor" : "808aa5"
+         "keyColor" : "54879d",
+         "themeColor" : "54879d"
       },
       {
          "attackWeight" : [
@@ -639,8 +639,8 @@
          "boostWeathers" : [
             0
          ],
-         "keyColor" : "ffa767",
-         "themeColor" : "ffa767"
+         "keyColor" : "ff9b54",
+         "themeColor" : "ff9b54"
       },
       {
          "attackWeight" : [
@@ -667,8 +667,8 @@
          "boostWeathers" : [
             4
          ],
-         "keyColor" : "64c6f7",
-         "themeColor" : "64c6f7"
+         "keyColor" : "4e8fd5",
+         "themeColor" : "4e8fd5"
       },
       {
          "attackWeight" : [
@@ -695,8 +695,8 @@
          "boostWeathers" : [
             0
          ],
-         "keyColor" : "9ac30d",
-         "themeColor" : "9ac30d"
+         "keyColor" : "5fba53",
+         "themeColor" : "5fba53"
       },
       {
          "attackWeight" : [
@@ -723,8 +723,8 @@
          "boostWeathers" : [
             4
          ],
-         "keyColor" : "e8d401",
-         "themeColor" : "e8d401"
+         "keyColor" : "f4d23b",
+         "themeColor" : "f4d23b"
       },
       {
          "attackWeight" : [
@@ -751,8 +751,8 @@
          "boostWeathers" : [
             6
          ],
-         "keyColor" : "eb80f4",
-         "themeColor" : "eb80f4"
+         "keyColor" : "f86e72",
+         "themeColor" : "f86e72"
       },
       {
          "attackWeight" : [
@@ -779,8 +779,8 @@
          "boostWeathers" : [
             5
          ],
-         "keyColor" : "60e8f4",
-         "themeColor" : "60e8f4"
+         "keyColor" : "73cebe",
+         "themeColor" : "73cebe"
       },
       {
          "attackWeight" : [
@@ -807,8 +807,8 @@
          "boostWeathers" : [
             6
          ],
-         "keyColor" : "fe8858",
-         "themeColor" : "fe8858"
+         "keyColor" : "0968c0",
+         "themeColor" : "0968c0"
       },
       {
          "attackWeight" : [
@@ -835,8 +835,8 @@
          "boostWeathers" : [
             1
          ],
-         "keyColor" : "6881d5",
-         "themeColor" : "6881d5"
+         "keyColor" : "5a5365",
+         "themeColor" : "5a5365"
       },
       {
          "attackWeight" : [
@@ -863,8 +863,8 @@
          "boostWeathers" : [
             2
          ],
-         "keyColor" : "fd779a",
-         "themeColor" : "fd779a"
+         "keyColor" : "ef8ce2",
+         "themeColor" : "ef8ce2"
       }
    ],
    "weatherSettings" : [

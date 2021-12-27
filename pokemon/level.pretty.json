@@ -640,6 +640,7 @@
       20,
       20
    ],
+   "sameTypeBonus" : 1.2,
    "shadowAttackBonus" : 1.2,
    "shadowDefenceBonus" : 0.8333333,
    "version" : 1
