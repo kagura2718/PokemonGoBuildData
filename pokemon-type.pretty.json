@@ -388,7 +388,8 @@
             3
          ],
          "keyColor" : "9199a0",
-         "themeColor" : "9199a0"
+         "themeColor" : "9199a0",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -416,7 +417,8 @@
             2
          ],
          "keyColor" : "cd4069",
-         "themeColor" : "cd4069"
+         "themeColor" : "cd4069",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -444,7 +446,8 @@
             6
          ],
          "keyColor" : "90a8de",
-         "themeColor" : "90a8de"
+         "themeColor" : "90a8de",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -472,7 +475,8 @@
             2
          ],
          "keyColor" : "a666c7",
-         "themeColor" : "a666c7"
+         "themeColor" : "a666c7",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -500,7 +504,8 @@
             0
          ],
          "keyColor" : "da7746",
-         "themeColor" : "da7746"
+         "themeColor" : "da7746",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -528,7 +533,8 @@
             3
          ],
          "keyColor" : "c8b78a",
-         "themeColor" : "c8b78a"
+         "themeColor" : "c8b78a",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -556,7 +562,8 @@
             4
          ],
          "keyColor" : "90c12d",
-         "themeColor" : "90c12d"
+         "themeColor" : "90c12d",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -584,7 +591,8 @@
             1
          ],
          "keyColor" : "5468ad",
-         "themeColor" : "5468ad"
+         "themeColor" : "5468ad",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -612,7 +620,8 @@
             5
          ],
          "keyColor" : "54879d",
-         "themeColor" : "54879d"
+         "themeColor" : "54879d",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -640,7 +649,8 @@
             0
          ],
          "keyColor" : "ff9b54",
-         "themeColor" : "ff9b54"
+         "themeColor" : "ff9b54",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -668,7 +678,8 @@
             4
          ],
          "keyColor" : "4e8fd5",
-         "themeColor" : "4e8fd5"
+         "themeColor" : "4e8fd5",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -696,7 +707,8 @@
             0
          ],
          "keyColor" : "5fba53",
-         "themeColor" : "5fba53"
+         "themeColor" : "5fba53",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -724,7 +736,8 @@
             4
          ],
          "keyColor" : "f4d23b",
-         "themeColor" : "f4d23b"
+         "themeColor" : "f4d23b",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -752,7 +765,8 @@
             6
          ],
          "keyColor" : "f86e72",
-         "themeColor" : "f86e72"
+         "themeColor" : "f86e72",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -780,7 +794,8 @@
             5
          ],
          "keyColor" : "73cebe",
-         "themeColor" : "73cebe"
+         "themeColor" : "73cebe",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -808,7 +823,8 @@
             6
          ],
          "keyColor" : "0968c0",
-         "themeColor" : "0968c0"
+         "themeColor" : "0968c0",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -836,7 +852,8 @@
             1
          ],
          "keyColor" : "5a5365",
-         "themeColor" : "5a5365"
+         "themeColor" : "5a5365",
+         "themeForeColor" : "white"
       },
       {
          "attackWeight" : [
@@ -864,7 +881,8 @@
             2
          ],
          "keyColor" : "ef8ce2",
-         "themeColor" : "ef8ce2"
+         "themeColor" : "ef8ce2",
+         "themeForeColor" : "white"
       }
    ],
    "weatherSettings" : [

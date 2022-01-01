@@ -313,6 +313,13 @@
             "evolution" : "SLOWBRO",
             "form" : "SLOWBRO_2021",
             "purificationEvolutionCandyCost" : 45
+         },
+         {
+            "candyCost" : 50,
+            "evolution" : "SLOWKING",
+            "evolutionItemRequirement" : "ITEM_KINGS_ROCK",
+            "form" : "SLOWKING_2022",
+            "purificationEvolutionCandyCost" : 45
          }
       ],
       "evolutionIds" : [
@@ -399,6 +406,13 @@
                "candyCost" : 50,
                "evolution" : "SLOWBRO",
                "form" : "SLOWBRO_2021",
+               "purificationEvolutionCandyCost" : 45
+            },
+            {
+               "candyCost" : 50,
+               "evolution" : "SLOWKING",
+               "evolutionItemRequirement" : "ITEM_KINGS_ROCK",
+               "form" : "SLOWKING_2022",
                "purificationEvolutionCandyCost" : 45
             }
          ],

@@ -15,6 +15,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 9
       },
       "raw" : {
@@ -42,6 +43,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 20
       },
       "raw" : {
@@ -69,6 +71,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 55
       },
       "raw" : {
@@ -97,6 +100,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 180
       },
       "raw" : {
@@ -124,6 +128,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 60
       },
       "raw" : {
@@ -159,6 +164,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 14
       },
       "raw" : {
@@ -186,6 +192,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 70
       },
       "raw" : {
@@ -214,6 +221,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 45
       },
       "raw" : {
@@ -242,6 +250,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 50
       },
       "raw" : {
@@ -277,6 +286,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 8
       },
       "raw" : {
@@ -304,6 +314,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 90
       },
       "raw" : {
@@ -331,6 +342,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 80
       },
       "raw" : {
@@ -359,6 +371,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 90
       },
       "raw" : {
@@ -394,6 +407,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 6
       },
       "raw" : {
@@ -421,6 +435,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 110
       },
       "raw" : {
@@ -448,6 +463,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 45
       },
       "raw" : {
@@ -475,6 +491,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 130
       },
       "raw" : {
@@ -503,6 +520,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 50
       },
       "raw" : {
@@ -531,6 +549,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 40
       },
       "raw" : {
@@ -559,6 +578,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 130
       },
       "raw" : {
@@ -587,6 +607,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 40
       },
       "raw" : {
@@ -615,6 +636,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 60
       },
       "raw" : {
@@ -643,6 +665,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 45
       },
       "raw" : {
@@ -678,6 +701,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 12
       },
       "raw" : {
@@ -712,6 +736,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 5
       },
       "raw" : {
@@ -739,6 +764,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 100
       },
       "raw" : {
@@ -767,6 +793,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 80
       },
       "raw" : {
@@ -802,6 +829,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 9
       },
       "raw" : {
@@ -836,6 +864,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 8
       },
       "raw" : {
@@ -870,6 +899,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 8
       },
       "raw" : {
@@ -904,6 +934,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 17,
+         "movesTypeWrap" : 17,
          "power" : 20
       },
       "raw" : {
@@ -931,6 +962,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 100
       },
       "raw" : {
@@ -966,6 +998,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 20
       },
       "raw" : {
@@ -1000,6 +1033,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 12
       },
       "raw" : {
@@ -1027,6 +1061,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 85
       },
       "raw" : {
@@ -1054,6 +1089,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 50
       },
       "raw" : {
@@ -1082,6 +1118,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 40
       },
       "raw" : {
@@ -1110,6 +1147,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 70
       },
       "raw" : {
@@ -1136,7 +1174,8 @@
          "durationMs" : 1900,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
-         "movesType" : 0
+         "movesType" : 0,
+         "movesTypeWrap" : 0
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -1168,6 +1207,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 5
       },
       "raw" : {
@@ -1195,6 +1235,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 80
       },
       "raw" : {
@@ -1223,6 +1264,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 17,
+         "movesTypeWrap" : 17,
          "power" : 100
       },
       "raw" : {
@@ -1251,6 +1293,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 100
       },
       "raw" : {
@@ -1279,6 +1322,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 17,
+         "movesTypeWrap" : 17,
          "power" : 70
       },
       "raw" : {
@@ -1307,6 +1351,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 65
       },
       "raw" : {
@@ -1335,6 +1380,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 70
       },
       "raw" : {
@@ -1362,6 +1408,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 15,
+         "movesTypeWrap" : 15,
          "power" : 150
       },
       "raw" : {
@@ -1396,6 +1443,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 15,
+         "movesTypeWrap" : 15,
          "power" : 6
       },
       "raw" : {
@@ -1423,6 +1471,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 15,
+         "movesTypeWrap" : 15,
          "power" : 50
       },
       "raw" : {
@@ -1451,6 +1500,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 15,
+         "movesTypeWrap" : 15,
          "power" : 90
       },
       "raw" : {
@@ -1486,6 +1536,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 15,
+         "movesTypeWrap" : 15,
          "power" : 15
       },
       "raw" : {
@@ -1513,6 +1564,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 17,
+         "movesTypeWrap" : 17,
          "power" : 60
       },
       "raw" : {
@@ -1540,7 +1592,8 @@
          "durationMs" : 2400,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
-         "movesType" : 1
+         "movesType" : 1,
+         "movesTypeWrap" : 1
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -1565,6 +1618,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 65
       },
       "raw" : {
@@ -1593,6 +1647,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 80
       },
       "raw" : {
@@ -1621,6 +1676,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 90
       },
       "raw" : {
@@ -1649,6 +1705,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 140
       },
       "raw" : {
@@ -1677,6 +1734,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 100
       },
       "raw" : {
@@ -1711,6 +1769,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 10
       },
       "raw" : {
@@ -1738,6 +1797,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 90
       },
       "raw" : {
@@ -1773,6 +1833,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 12
       },
       "raw" : {
@@ -1800,6 +1861,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 35
       },
       "raw" : {
@@ -1834,6 +1896,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 10
       },
       "raw" : {
@@ -1861,6 +1924,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 50
       },
       "raw" : {
@@ -1888,6 +1952,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 140
       },
       "raw" : {
@@ -1923,6 +1988,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 12
       },
       "raw" : {
@@ -1950,6 +2016,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 55
       },
       "raw" : {
@@ -1985,6 +2052,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 14
       },
       "raw" : {
@@ -2010,7 +2078,8 @@
          "durationMs" : 2800,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
-         "movesType" : 4
+         "movesType" : 4,
+         "movesTypeWrap" : 4
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -2035,6 +2104,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 70
       },
       "raw" : {
@@ -2063,6 +2133,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 70
       },
       "raw" : {
@@ -2091,6 +2162,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 70
       },
       "raw" : {
@@ -2119,6 +2191,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 60
       },
       "raw" : {
@@ -2147,6 +2220,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 100
       },
       "raw" : {
@@ -2175,6 +2249,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 80
       },
       "raw" : {
@@ -2202,6 +2277,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 110
       },
       "raw" : {
@@ -2229,6 +2305,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 140
       },
       "raw" : {
@@ -2257,6 +2334,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 70
       },
       "raw" : {
@@ -2285,6 +2363,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 100
       },
       "raw" : {
@@ -2319,6 +2398,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 10
       },
       "raw" : {
@@ -2346,6 +2426,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 10
       },
       "raw" : {
@@ -2381,6 +2462,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 3
       },
       "raw" : {
@@ -2408,6 +2490,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 120
       },
       "raw" : {
@@ -2436,6 +2519,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 50
       },
       "raw" : {
@@ -2465,6 +2549,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 200
       },
       "raw" : {
@@ -2492,6 +2577,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 90
       },
       "raw" : {
@@ -2520,6 +2606,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 130
       },
       "raw" : {
@@ -2555,6 +2642,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 25
       },
       "raw" : {
@@ -2582,6 +2670,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 80
       },
       "raw" : {
@@ -2610,6 +2699,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 40
       },
       "raw" : {
@@ -2638,6 +2728,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 95
       },
       "raw" : {
@@ -2666,6 +2757,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 70
       },
       "raw" : {
@@ -2701,6 +2793,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 10
       },
       "raw" : {
@@ -2735,6 +2828,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 15
       },
       "raw" : {
@@ -2763,6 +2857,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 40
       },
       "raw" : {
@@ -2789,7 +2884,8 @@
          "durationMs" : 1900,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
-         "movesType" : 0
+         "movesType" : 0,
+         "movesTypeWrap" : 0
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -2814,6 +2910,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 110
       },
       "raw" : {
@@ -2842,6 +2939,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 90
       },
       "raw" : {
@@ -2870,6 +2968,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 130
       },
       "raw" : {
@@ -2898,6 +2997,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 90
       },
       "raw" : {
@@ -2926,6 +3026,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 150
       },
       "raw" : {
@@ -2954,6 +3055,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 80
       },
       "raw" : {
@@ -2982,6 +3084,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 90
       },
       "raw" : {
@@ -3017,6 +3120,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 12
       },
       "raw" : {
@@ -3044,6 +3148,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 50
       },
       "raw" : {
@@ -3079,6 +3184,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 12
       },
       "raw" : {
@@ -3106,6 +3212,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 60
       },
       "raw" : {
@@ -3141,6 +3248,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 29
       },
       "raw" : {
@@ -3175,6 +3283,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 10
       },
       "raw" : {
@@ -3202,6 +3311,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 60
       },
       "raw" : {
@@ -3237,6 +3347,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 15
       },
       "raw" : {
@@ -3271,6 +3382,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 8
       },
       "raw" : {
@@ -3298,6 +3410,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 90
       },
       "raw" : {
@@ -3326,6 +3439,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 70
       },
       "raw" : {
@@ -3354,6 +3468,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 130
       },
       "raw" : {
@@ -3381,6 +3496,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 45
       },
       "raw" : {
@@ -3406,7 +3522,8 @@
          "durationMs" : 2500,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
-         "movesType" : 6
+         "movesType" : 6,
+         "movesTypeWrap" : 6
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -3438,6 +3555,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 5
       },
       "raw" : {
@@ -3472,6 +3590,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 1
       },
       "raw" : {
@@ -3506,6 +3625,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 6
       },
       "raw" : {
@@ -3533,6 +3653,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 40
       },
       "raw" : {
@@ -3561,6 +3682,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 55
       },
       "raw" : {
@@ -3588,6 +3710,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 70
       },
       "raw" : {
@@ -3616,6 +3739,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 110
       },
       "raw" : {
@@ -3644,6 +3768,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 25
       },
       "raw" : {
@@ -3680,6 +3805,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 8
       },
       "raw" : {
@@ -3707,6 +3833,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 100
       },
       "raw" : {
@@ -3735,6 +3862,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 60
       },
       "raw" : {
@@ -3763,6 +3891,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 50
       },
       "raw" : {
@@ -3790,6 +3919,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 17,
+         "movesTypeWrap" : 17,
          "power" : 130
       },
       "raw" : {
@@ -3818,6 +3948,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 50
       },
       "raw" : {
@@ -3845,6 +3976,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 55
       },
       "raw" : {
@@ -3880,6 +4012,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 5
       },
       "raw" : {
@@ -3914,6 +4047,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 18
       },
       "raw" : {
@@ -3941,6 +4075,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 60
       },
       "raw" : {
@@ -3969,6 +4104,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 50
       },
       "raw" : {
@@ -3997,6 +4133,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 50
       },
       "raw" : {
@@ -4024,6 +4161,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 50
       },
       "raw" : {
@@ -4052,6 +4190,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 130
       },
       "raw" : {
@@ -4079,6 +4218,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 15,
+         "movesTypeWrap" : 15,
          "power" : 110
       },
       "raw" : {
@@ -4107,6 +4247,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 160
       },
       "raw" : {
@@ -4135,6 +4276,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 25
       },
       "raw" : {
@@ -4164,6 +4306,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 100
       },
       "raw" : {
@@ -4198,6 +4341,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 10
       },
       "raw" : {
@@ -4225,6 +4369,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 110
       },
       "raw" : {
@@ -4253,6 +4398,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 17,
+         "movesTypeWrap" : 17,
          "power" : 90
       },
       "raw" : {
@@ -4281,6 +4427,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 35
       },
       "raw" : {
@@ -4316,6 +4463,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 10
       },
       "raw" : {
@@ -4350,6 +4498,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 5
       },
       "raw" : {
@@ -4384,6 +4533,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 7
       },
       "raw" : {
@@ -4418,6 +4568,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 6
       },
       "raw" : {
@@ -4445,6 +4596,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 80
       },
       "raw" : {
@@ -4473,6 +4625,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 50
       },
       "raw" : {
@@ -4500,6 +4653,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 90
       },
       "raw" : {
@@ -4527,6 +4681,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 130
       },
       "raw" : {
@@ -4561,6 +4716,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 5
       },
       "raw" : {
@@ -4588,6 +4744,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 70
       },
       "raw" : {
@@ -4616,6 +4773,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 90
       },
       "raw" : {
@@ -4644,6 +4802,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 30
       },
       "raw" : {
@@ -4671,6 +4830,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 70
       },
       "raw" : {
@@ -4705,6 +4865,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 5
       },
       "raw" : {
@@ -4732,6 +4893,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 65
       },
       "raw" : {
@@ -4760,6 +4922,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 90
       },
       "raw" : {
@@ -4795,6 +4958,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 8
       },
       "raw" : {
@@ -4829,6 +4993,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 13
       },
       "raw" : {
@@ -4856,6 +5021,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 45
       },
       "raw" : {
@@ -4883,6 +5049,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 50
       },
       "raw" : {
@@ -4910,6 +5077,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 35
       },
       "raw" : {
@@ -4937,6 +5105,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 50
       },
       "raw" : {
@@ -4965,6 +5134,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 80
       },
       "raw" : {
@@ -5000,6 +5170,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 15
       },
       "raw" : {
@@ -5034,6 +5205,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 12
       },
       "raw" : {
@@ -5061,6 +5233,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 70
       },
       "raw" : {
@@ -5089,6 +5262,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 110
       },
       "raw" : {
@@ -5116,6 +5290,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 55
       },
       "raw" : {
@@ -5143,6 +5318,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
+         "movesTypeWrap" : 4,
          "power" : 60
       },
       "raw" : {
@@ -5171,6 +5347,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 80
       },
       "raw" : {
@@ -5199,6 +5376,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 50
       },
       "raw" : {
@@ -5234,6 +5412,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 6
       },
       "raw" : {
@@ -5261,6 +5440,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 55
       },
       "raw" : {
@@ -5289,6 +5469,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 100
       },
       "raw" : {
@@ -5317,6 +5498,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 80
       },
       "raw" : {
@@ -5351,6 +5533,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 9
       },
       "raw" : {
@@ -5378,6 +5561,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 40
       },
       "raw" : {
@@ -5406,6 +5590,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 7,
+         "movesTypeWrap" : 7,
          "power" : 50
       },
       "raw" : {
@@ -5434,6 +5619,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 75
       },
       "raw" : {
@@ -5462,6 +5648,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 70
       },
       "raw" : {
@@ -5490,6 +5677,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 130
       },
       "raw" : {
@@ -5517,6 +5705,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 80
       },
       "raw" : {
@@ -5545,6 +5734,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 50
       },
       "raw" : {
@@ -5573,6 +5763,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 80
       },
       "raw" : {
@@ -5601,6 +5792,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 3,
+         "movesTypeWrap" : 3,
          "power" : 110
       },
       "raw" : {
@@ -5636,6 +5828,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 16
       },
       "raw" : {
@@ -5670,6 +5863,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 12
       },
       "raw" : {
@@ -5697,6 +5891,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 180
       },
       "raw" : {
@@ -5732,6 +5927,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 6
       },
       "raw" : {
@@ -5764,7 +5960,8 @@
          "energyDelta" : 20,
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
-         "movesType" : 10
+         "movesType" : 10,
+         "movesTypeWrap" : 10
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -5797,6 +5994,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 8,
+         "movesTypeWrap" : 8,
          "power" : 11
       },
       "raw" : {
@@ -5824,6 +6022,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 55
       },
       "raw" : {
@@ -5852,6 +6051,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 100
       },
       "raw" : {
@@ -5879,6 +6079,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 35
       },
       "raw" : {
@@ -5912,6 +6113,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 15
       },
       "raw" : {
@@ -5939,6 +6141,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 60
       },
       "raw" : {
@@ -5974,6 +6177,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 16,
+         "movesTypeWrap" : 16,
          "power" : 7
       },
       "raw" : {
@@ -6001,6 +6205,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
+         "movesTypeWrap" : 1,
          "power" : 85
       },
       "raw" : {
@@ -6028,6 +6233,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 65
       },
       "raw" : {
@@ -6055,6 +6261,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 60
       },
       "raw" : {
@@ -6083,6 +6290,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 80
       },
       "raw" : {
@@ -6117,6 +6325,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 5
       },
       "raw" : {
@@ -6151,6 +6360,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 8
       },
       "raw" : {
@@ -6178,6 +6388,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 120
       },
       "raw" : {
@@ -6202,6 +6413,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 120
       },
       "raw" : {
@@ -6226,6 +6438,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 120
       },
       "raw" : {
@@ -6250,6 +6463,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 120
       },
       "raw" : {
@@ -6274,6 +6488,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 120
       },
       "raw" : {
@@ -6298,6 +6513,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 100
       },
       "raw" : {
@@ -6326,6 +6542,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 80
       },
       "raw" : {
@@ -6361,6 +6578,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 12
       },
       "raw" : {
@@ -6388,6 +6606,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 45
       },
       "raw" : {
@@ -6423,6 +6642,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 5
       },
       "raw" : {
@@ -6453,7 +6673,8 @@
          "durationMs" : 2230,
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
-         "movesType" : 0
+         "movesType" : 0,
+         "movesTypeWrap" : 0
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -6478,6 +6699,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 75
       },
       "raw" : {
@@ -6505,6 +6727,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 15,
+         "movesTypeWrap" : 15,
          "power" : 45
       },
       "raw" : {
@@ -6533,6 +6756,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 35
       },
       "raw" : {
@@ -6568,6 +6792,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 11,
+         "movesTypeWrap" : 11,
          "power" : 7
       },
       "raw" : {
@@ -6602,6 +6827,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 14
       },
       "raw" : {
@@ -6629,6 +6855,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 95
       },
       "raw" : {
@@ -6663,6 +6890,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 16
       },
       "raw" : {
@@ -6697,6 +6925,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 5
       },
       "raw" : {
@@ -6724,6 +6953,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 10
       },
       "raw" : {
@@ -6751,6 +6981,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 70
       },
       "raw" : {
@@ -6779,6 +7010,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 9,
+         "movesTypeWrap" : 9,
          "power" : 55
       },
       "raw" : {
@@ -6806,6 +7038,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 14,
+         "movesTypeWrap" : 14,
          "power" : 55
       },
       "raw" : {
@@ -6833,6 +7066,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 55
       },
       "raw" : {
@@ -6860,6 +7094,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 5,
+         "movesTypeWrap" : 5,
          "power" : 55
       },
       "raw" : {
@@ -6887,6 +7122,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 10,
+         "movesTypeWrap" : 10,
          "power" : 55
       },
       "raw" : {
@@ -6914,6 +7150,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 90
       },
       "raw" : {
@@ -6949,6 +7186,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 2,
+         "movesTypeWrap" : 2,
          "power" : 8
       },
       "raw" : {
@@ -6976,6 +7214,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 60
       },
       "raw" : {
@@ -7004,6 +7243,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 25
       },
       "raw" : {
@@ -7032,6 +7272,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
+         "movesTypeWrap" : 0,
          "power" : 25
       },
       "raw" : {
@@ -7060,6 +7301,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 6,
+         "movesTypeWrap" : 6,
          "power" : 45
       },
       "raw" : {
@@ -7093,7 +7335,8 @@
          "energyDelta" : 15,
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
-         "movesType" : 0
+         "movesType" : 0,
+         "movesTypeWrap" : 0
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -7119,6 +7362,7 @@
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 12,
+         "movesTypeWrap" : 12,
          "power" : 140
       },
       "raw" : {
@@ -7154,6 +7398,7 @@
          "isCinematicMoves" : false,
          "isQuickMoves" : true,
          "movesType" : 13,
+         "movesTypeWrap" : 13,
          "power" : 12
       },
       "raw" : {
