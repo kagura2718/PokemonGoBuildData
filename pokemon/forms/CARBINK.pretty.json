@@ -9,6 +9,22 @@
          0.08667,
          0
       ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         -320
+      ],
       "built" : {
          "pokedexNumber" : 703,
          "pokemonType" : 5,
@@ -24,8 +40,9 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 0.4,
-         "cylinderRadiusM" : 0.25
+         "cylinderGroundM" : 0.13,
+         "cylinderHeightM" : 0.36,
+         "cylinderRadiusM" : 0.19
       },
       "cinematicMoves" : [
          "ROCK_SLIDE",
@@ -38,9 +55,9 @@
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.1,
          "cameraDistance" : 4,
-         "collisionHeadRadiusM" : 0.126,
-         "collisionHeightM" : 0.1,
-         "collisionRadiusM" : 0.1,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.175,
+         "collisionRadiusM" : 0.175,
          "dodgeProbability" : 0.15,
          "jumpTimeS" : 0.9,
          "maxPokemonActionFrequencyS" : 1.6,
@@ -64,6 +81,7 @@
          "TACKLE_FAST",
          "ROCK_THROW_FAST"
       ],
+      "raidBossDistanceOffset" : 2,
       "raw" : {
          "animationTime" : [
             1.9,
@@ -74,9 +92,26 @@
             0.08667,
             0
          ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            -320
+         ],
          "camera" : {
-            "cylinderHeightM" : 0.4,
-            "cylinderRadiusM" : 0.25
+            "cylinderGroundM" : 0.13,
+            "cylinderHeightM" : 0.36,
+            "cylinderRadiusM" : 0.19
          },
          "cinematicMoves" : [
             "ROCK_SLIDE",
@@ -89,9 +124,9 @@
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.1,
             "cameraDistance" : 4,
-            "collisionHeadRadiusM" : 0.126,
-            "collisionHeightM" : 0.1,
-            "collisionRadiusM" : 0.1,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.175,
+            "collisionRadiusM" : 0.175,
             "dodgeProbability" : 0.15,
             "jumpTimeS" : 0.9,
             "maxPokemonActionFrequencyS" : 1.6,
@@ -115,6 +150,7 @@
             "TACKLE_FAST",
             "ROCK_THROW_FAST"
          ],
+         "raidBossDistanceOffset" : 2,
          "stats" : {
             "baseAttack" : 95,
             "baseDefense" : 285,

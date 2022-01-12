@@ -291,6 +291,19 @@
          0.08667,
          0
       ],
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -70
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -70
+      ],
+      "buddyScale" : 13,
+      "buddySize" : "BUDDY_FLYING",
       "built" : {
          "pokedexNumber" : 720,
          "pokemonType" : 13,
@@ -307,7 +320,7 @@
       },
       "camera" : {
          "cylinderGroundM" : 0.5,
-         "cylinderHeightM" : 6,
+         "cylinderHeightM" : 5,
          "cylinderRadiusM" : 3
       },
       "cinematicMoves" : [
@@ -358,9 +371,22 @@
             0.08667,
             0
          ],
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -70
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -70
+         ],
+         "buddyScale" : 13,
+         "buddySize" : "BUDDY_FLYING",
          "camera" : {
             "cylinderGroundM" : 0.5,
-            "cylinderHeightM" : 6,
+            "cylinderHeightM" : 5,
             "cylinderRadiusM" : 3
          },
          "cinematicMoves" : [

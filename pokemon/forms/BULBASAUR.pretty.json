@@ -292,6 +292,11 @@
          "shadowFormBaseCaptureRate" : 0.2,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "purificationEvolutionCandyCost" : 22
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_BULBASAUR",
       "form" : "BULBASAUR_FALL_2019",
@@ -367,6 +372,11 @@
             "shadowFormBaseCaptureRate" : 0.2,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "purificationEvolutionCandyCost" : 22
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_BULBASAUR",
          "form" : "BULBASAUR_FALL_2019",

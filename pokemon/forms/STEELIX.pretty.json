@@ -86,8 +86,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.1,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.1
       },
       "evolutionBranch" : [
          {
@@ -176,8 +175,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.1,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.1
          },
          "evolutionBranch" : [
             {
@@ -379,8 +377,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.1,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.1
       },
       "evolutionBranch" : [
          {
@@ -470,8 +467,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.1,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.1
          },
          "evolutionBranch" : [
             {

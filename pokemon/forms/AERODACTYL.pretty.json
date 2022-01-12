@@ -221,6 +221,16 @@
             {
                "averageHeightM" : 2.1,
                "averageWeightKg" : 79,
+               "buddyOffsetFemale" : [
+                  20,
+                  -30,
+                  -20
+               ],
+               "buddyOffsetMale" : [
+                  20,
+                  -30,
+                  -20
+               ],
                "stats" : {
                   "baseAttack" : 292,
                   "baseDefense" : 210,
@@ -254,6 +264,16 @@
          {
             "averageHeightM" : 2.1,
             "averageWeightKg" : 79,
+            "buddyOffsetFemale" : [
+               20,
+               -30,
+               -20
+            ],
+            "buddyOffsetMale" : [
+               20,
+               -30,
+               -20
+            ],
             "stats" : {
                "baseAttack" : 292,
                "baseDefense" : 210,
@@ -496,6 +516,16 @@
             {
                "averageHeightM" : 2.1,
                "averageWeightKg" : 79,
+               "buddyOffsetFemale" : [
+                  20,
+                  -30,
+                  -20
+               ],
+               "buddyOffsetMale" : [
+                  20,
+                  -30,
+                  -20
+               ],
                "stats" : {
                   "baseAttack" : 292,
                   "baseDefense" : 210,
@@ -529,6 +559,16 @@
          {
             "averageHeightM" : 2.1,
             "averageWeightKg" : 79,
+            "buddyOffsetFemale" : [
+               20,
+               -30,
+               -20
+            ],
+            "buddyOffsetMale" : [
+               20,
+               -30,
+               -20
+            ],
             "stats" : {
                "baseAttack" : 292,
                "baseDefense" : 210,

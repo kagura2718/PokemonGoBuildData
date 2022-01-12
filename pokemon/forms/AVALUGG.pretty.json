@@ -9,6 +9,23 @@
          0.08667,
          0
       ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         30,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         30,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         -100,
+         200,
+         -3000
+      ],
+      "buddySize" : "BUDDY_BIG",
       "built" : {
          "pokedexNumber" : 713,
          "pokemonType" : 14,
@@ -22,8 +39,8 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 0.4,
-         "cylinderRadiusM" : 0.25
+         "cylinderHeightM" : 2.05,
+         "cylinderRadiusM" : 2.05
       },
       "cinematicMoves" : [
          "CRUNCH",
@@ -41,9 +58,9 @@
          "bonusStardustCaptureReward" : 200,
          "bonusXlCandyCaptureReward" : 1,
          "cameraDistance" : 4,
-         "collisionHeadRadiusM" : 0.126,
-         "collisionHeightM" : 0.1,
-         "collisionRadiusM" : 0.1,
+         "collisionHeadRadiusM" : 0.55,
+         "collisionHeightM" : 3.9,
+         "collisionRadiusM" : 0.6,
          "jumpTimeS" : 0.9,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
@@ -66,6 +83,7 @@
          "BITE_FAST",
          "ICE_FANG_FAST"
       ],
+      "raidBossDistanceOffset" : 2,
       "raw" : {
          "animationTime" : [
             1.9,
@@ -76,9 +94,26 @@
             0.08667,
             0
          ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            30,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            30,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            -100,
+            200,
+            -3000
+         ],
+         "buddySize" : "BUDDY_BIG",
          "camera" : {
-            "cylinderHeightM" : 0.4,
-            "cylinderRadiusM" : 0.25
+            "cylinderHeightM" : 2.05,
+            "cylinderRadiusM" : 2.05
          },
          "cinematicMoves" : [
             "CRUNCH",
@@ -96,9 +131,9 @@
             "bonusStardustCaptureReward" : 200,
             "bonusXlCandyCaptureReward" : 1,
             "cameraDistance" : 4,
-            "collisionHeadRadiusM" : 0.126,
-            "collisionHeightM" : 0.1,
-            "collisionRadiusM" : 0.1,
+            "collisionHeadRadiusM" : 0.55,
+            "collisionHeightM" : 3.9,
+            "collisionRadiusM" : 0.6,
             "jumpTimeS" : 0.9,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
@@ -121,6 +156,7 @@
             "BITE_FAST",
             "ICE_FANG_FAST"
          ],
+         "raidBossDistanceOffset" : 2,
          "stats" : {
             "baseAttack" : 196,
             "baseDefense" : 240,

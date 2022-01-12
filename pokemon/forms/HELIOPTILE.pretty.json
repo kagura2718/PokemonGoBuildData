@@ -40,7 +40,7 @@
          "cameraDistance" : 2.5,
          "collisionHeadRadiusM" : 0.126,
          "collisionHeightM" : 0.1,
-         "collisionRadiusM" : 0.1,
+         "collisionRadiusM" : 0.14,
          "dodgeProbability" : 0.2,
          "jumpTimeS" : 0.9,
          "maxPokemonActionFrequencyS" : 1.6,
@@ -51,7 +51,8 @@
       "evolutionBranch" : [
          {
             "candyCost" : 50,
-            "evolution" : "HELIOLISK"
+            "evolution" : "HELIOLISK",
+            "evolutionItemRequirement" : "ITEM_SUN_STONE"
          }
       ],
       "familyId" : "FAMILY_HELIOPTILE",
@@ -97,7 +98,7 @@
             "cameraDistance" : 2.5,
             "collisionHeadRadiusM" : 0.126,
             "collisionHeightM" : 0.1,
-            "collisionRadiusM" : 0.1,
+            "collisionRadiusM" : 0.14,
             "dodgeProbability" : 0.2,
             "jumpTimeS" : 0.9,
             "maxPokemonActionFrequencyS" : 1.6,
@@ -108,7 +109,8 @@
          "evolutionBranch" : [
             {
                "candyCost" : 50,
-               "evolution" : "HELIOLISK"
+               "evolution" : "HELIOLISK",
+               "evolutionItemRequirement" : "ITEM_SUN_STONE"
             }
          ],
          "familyId" : "FAMILY_HELIOPTILE",

@@ -9,6 +9,16 @@
          0.08667,
          0
       ],
+      "buddyOffsetFemale" : [
+         11.3,
+         0,
+         -12.4
+      ],
+      "buddyOffsetMale" : [
+         11.3,
+         0,
+         -12.4
+      ],
       "built" : {
          "pokedexNumber" : 695,
          "pokemonType" : 12,
@@ -42,9 +52,9 @@
          "bonusStardustCaptureReward" : 200,
          "bonusXlCandyCaptureReward" : 1,
          "cameraDistance" : 3,
-         "collisionHeadRadiusM" : 0.126,
+         "collisionHeadRadiusM" : 0.2,
          "collisionHeightM" : 0.1,
-         "collisionRadiusM" : 0.1,
+         "collisionRadiusM" : 0.3,
          "dodgeProbability" : 0.25,
          "jumpTimeS" : 0.9,
          "maxPokemonActionFrequencyS" : 1.6,
@@ -80,6 +90,16 @@
             0.08667,
             0
          ],
+         "buddyOffsetFemale" : [
+            11.3,
+            0,
+            -12.4
+         ],
+         "buddyOffsetMale" : [
+            11.3,
+            0,
+            -12.4
+         ],
          "camera" : {
             "cylinderHeightM" : 1.1,
             "cylinderRadiusM" : 0.5
@@ -99,9 +119,9 @@
             "bonusStardustCaptureReward" : 200,
             "bonusXlCandyCaptureReward" : 1,
             "cameraDistance" : 3,
-            "collisionHeadRadiusM" : 0.126,
+            "collisionHeadRadiusM" : 0.2,
             "collisionHeightM" : 0.1,
-            "collisionRadiusM" : 0.1,
+            "collisionRadiusM" : 0.3,
             "dodgeProbability" : 0.25,
             "jumpTimeS" : 0.9,
             "maxPokemonActionFrequencyS" : 1.6,

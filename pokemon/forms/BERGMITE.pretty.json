@@ -9,6 +9,22 @@
          0.08667,
          0
       ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         -100,
+         -100,
+         750
+      ],
       "built" : {
          "pokedexNumber" : 712,
          "pokemonType" : 14,
@@ -22,8 +38,8 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 0.4,
-         "cylinderRadiusM" : 0.25
+         "cylinderHeightM" : 1.05,
+         "cylinderRadiusM" : 0.42
       },
       "cinematicMoves" : [
          "CRUNCH",
@@ -37,8 +53,8 @@
          "baseFleeRate" : 0.1,
          "cameraDistance" : 4,
          "collisionHeadRadiusM" : 0.126,
-         "collisionHeightM" : 0.1,
-         "collisionRadiusM" : 0.1,
+         "collisionHeightM" : 0.4,
+         "collisionRadiusM" : 0.4,
          "dodgeProbability" : 0.15,
          "jumpTimeS" : 0.9,
          "maxPokemonActionFrequencyS" : 1.6,
@@ -78,9 +94,25 @@
             0.08667,
             0
          ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            -100,
+            -100,
+            750
+         ],
          "camera" : {
-            "cylinderHeightM" : 0.4,
-            "cylinderRadiusM" : 0.25
+            "cylinderHeightM" : 1.05,
+            "cylinderRadiusM" : 0.42
          },
          "cinematicMoves" : [
             "CRUNCH",
@@ -94,8 +126,8 @@
             "baseFleeRate" : 0.1,
             "cameraDistance" : 4,
             "collisionHeadRadiusM" : 0.126,
-            "collisionHeightM" : 0.1,
-            "collisionRadiusM" : 0.1,
+            "collisionHeightM" : 0.4,
+            "collisionRadiusM" : 0.4,
             "dodgeProbability" : 0.15,
             "jumpTimeS" : 0.9,
             "maxPokemonActionFrequencyS" : 1.6,

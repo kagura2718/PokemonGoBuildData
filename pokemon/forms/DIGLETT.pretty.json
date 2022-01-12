@@ -61,8 +61,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 29,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.5,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.5
       },
       "evolutionBranch" : [
          {
@@ -142,8 +141,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 29,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.5,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.5
          },
          "evolutionBranch" : [
             {
@@ -274,8 +272,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 29,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.5,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.5
       },
       "evolutionBranch" : [
          {
@@ -356,8 +353,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 29,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.5,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.5
          },
          "evolutionBranch" : [
             {
@@ -488,8 +484,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 29,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.5,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.5
       },
       "evolutionBranch" : [
          {
@@ -570,8 +565,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 29,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.5,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.5
          },
          "evolutionBranch" : [
             {

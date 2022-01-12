@@ -9,6 +9,18 @@
          0.08667,
          0
       ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         29
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         29
+      ],
+      "buddySize" : "BUDDY_BIG",
       "built" : {
          "pokedexNumber" : 709,
          "pokemonType" : 7,
@@ -77,6 +89,18 @@
             0.08667,
             0
          ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            29
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            29
+         ],
+         "buddySize" : "BUDDY_BIG",
          "camera" : {
             "cylinderHeightM" : 0.4,
             "cylinderRadiusM" : 0.25

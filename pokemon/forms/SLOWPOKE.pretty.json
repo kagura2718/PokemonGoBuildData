@@ -532,7 +532,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP",
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormBaseCaptureRate" : 0.5,
          "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
@@ -621,7 +621,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP",
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormBaseCaptureRate" : 0.5,
             "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [

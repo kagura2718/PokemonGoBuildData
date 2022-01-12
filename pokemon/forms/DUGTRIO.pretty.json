@@ -69,8 +69,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 29,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.2,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_DIGLETT",
@@ -148,8 +147,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 29,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.2,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_DIGLETT",
@@ -278,8 +276,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 29,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.2,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_DIGLETT",
@@ -358,8 +355,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 29,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.2,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_DIGLETT",
@@ -488,8 +484,7 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 29,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.2,
-         "shadowFormDodgeProbability" : 0.2
+         "shadowFormBaseCaptureRate" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_DIGLETT",
@@ -568,8 +563,7 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 29,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.2,
-            "shadowFormDodgeProbability" : 0.2
+            "shadowFormBaseCaptureRate" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_DIGLETT",
