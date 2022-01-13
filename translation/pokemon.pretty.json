@@ -2,75 +2,75 @@
    "interpolation" : {
       "@MEGA_ABOMASNOW" : {
          "en" : "Mega Abomasnow",
-         "ja" : "ã¡ã¬ã¦ã­ããªã¼"
+         "ja" : "メガユキノオー"
       },
       "@MEGA_ABSOL" : {
          "en" : "Mega Absol",
-         "ja" : "ã¡ã¬ã¢ãã½ã«"
+         "ja" : "メガアブソル"
       },
       "@MEGA_AERODACTYL" : {
          "en" : "Mega Aerodactyl",
-         "ja" : "ã¡ã¬ããã©"
+         "ja" : "メガプテラ"
       },
       "@MEGA_ALTARIA" : {
          "en" : "Mega Altaria",
-         "ja" : "ã¡ã¬ãã«ã¿ãªã¹"
+         "ja" : "メガチルタリス"
       },
       "@MEGA_AMPHAROS" : {
          "en" : "Mega Ampharos",
-         "ja" : "ã¡ã¬ãã³ãªã¥ã¼"
+         "ja" : "メガデンリュー"
       },
       "@MEGA_BEEDRILL" : {
          "en" : "Mega Beedrill",
-         "ja" : "ã¡ã¬ã¹ãã¢ã¼"
+         "ja" : "メガスピアー"
       },
       "@MEGA_BLASTOISE" : {
          "en" : "Mega Blastoise",
-         "ja" : "ã¡ã¬ã«ã¡ãã¯ã¹"
+         "ja" : "メガカメックス"
       },
       "@MEGA_CHARIZARD_X" : {
          "en" : "Mega Charizard X",
-         "ja" : "ã¡ã¬ãªã¶ã¼ãã³X"
+         "ja" : "メガリザードンX"
       },
       "@MEGA_CHARIZARD_Y" : {
          "en" : "Mega Charizard Y",
-         "ja" : "ã¡ã¬ãªã¶ã¼ãã³Y"
+         "ja" : "メガリザードンY"
       },
       "@MEGA_GENGAR" : {
          "en" : "Mega Gengar",
-         "ja" : "ã¡ã¬ã²ã³ã¬ã¼"
+         "ja" : "メガゲンガー"
       },
       "@MEGA_GYARADOS" : {
          "en" : "Mega Gyarados",
-         "ja" : "ã¡ã¬ã®ã£ã©ãã¹"
+         "ja" : "メガギャラドス"
       },
       "@MEGA_HOUNDOOM" : {
          "en" : "Mega Houndoom",
-         "ja" : "ã¡ã¬ãã«ã¬ã¼"
+         "ja" : "メガヘルガー"
       },
       "@MEGA_LOPUNNY" : {
          "en" : "Mega Lopunny",
-         "ja" : "ã¡ã¬ããã­ãã"
+         "ja" : "メガミミロップ"
       },
       "@MEGA_MANECTRIC" : {
          "en" : "Mega Manectric",
-         "ja" : "ã¡ã¬ã©ã¤ãã«ã"
+         "ja" : "メガライボルト"
       },
       "@MEGA_PIDGEOT" : {
          "en" : "Mega Pidgeot",
-         "ja" : "ã¡ã¬ãã¸ã§ãã"
+         "ja" : "メガピジョット"
       },
       "@MEGA_SLOWBRO" : {
          "en" : "Mega Slowbro",
-         "ja" : "ã¡ã¬ã¤ãã©ã³"
+         "ja" : "メガヤドラン"
       },
       "@MEGA_STEELIX" : {
          "en" : "Mega Steelix",
-         "ja" : "ã¡ã¬ãã¬ãã¼ã«"
+         "ja" : "メガハガネール"
       },
       "@MEGA_VENUSAUR" : {
          "en" : "Mega Venusaur",
-         "ja" : "ã¡ã¬ãã·ã®ãã"
+         "ja" : "メガフシギバナ"
       }
    },
    "table" : {
@@ -308,7 +308,7 @@
       "FERROTHORN" : "Ferrothorn",
       "FINNEON" : "Finneon",
       "FLAAFFY" : "Flaaffy",
-      "FLABEBE" : "FlabÃ©bÃ©",
+      "FLABEBE" : "Flabébé",
       "FLAPPLE" : "Flapple",
       "FLAREON" : "Flareon",
       "FLETCHINDER" : "Fletchinder",
@@ -553,8 +553,8 @@
       "NICKIT" : "Nickit",
       "NIDOKING" : "Nidoking",
       "NIDOQUEEN" : "Nidoqueen",
-      "NIDORAN_FEMALE" : "Nidoranâ",
-      "NIDORAN_MALE" : "Nidoranâ",
+      "NIDORAN_FEMALE" : "Nidoran♀",
+      "NIDORAN_MALE" : "Nidoran♂",
       "NIDORINA" : "Nidorina",
       "NIDORINO" : "Nidorino",
       "NINCADA" : "Nincada",
