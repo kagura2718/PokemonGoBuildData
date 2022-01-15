@@ -3203,6 +3203,34 @@
          "vfxName" : "ice_shard_fast"
       }
    },
+   "ICICLE_SPEAR" : {
+      "built" : {
+         "damageWindowEndMs" : 1800,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
+         "movesType" : 14,
+         "movesTypeWrap" : 14,
+         "power" : 60
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1800,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2200,
+         "energyDelta" : -33,
+         "movementId" : "ICICLE_SPEAR",
+         "pokemonType" : "POKEMON_TYPE_ICE",
+         "power" : 60,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "icicle_spear"
+      }
+   },
    "ICY_WIND" : {
       "built" : {
          "damageWindowEndMs" : 2800,

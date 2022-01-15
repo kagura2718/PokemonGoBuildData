@@ -1514,6 +1514,20 @@
          "vfxName" : "ice_shard_fast"
       }
    },
+   "ICICLE_SPEAR" : {
+      "built" : {
+         "energyDelta" : -35,
+         "movesType" : 14,
+         "power" : 60
+      },
+      "raw" : {
+         "energyDelta" : -35,
+         "power" : 60,
+         "type" : "POKEMON_TYPE_ICE",
+         "uniqueId" : "ICICLE_SPEAR",
+         "vfxName" : "icicle_spear"
+      }
+   },
    "ICY_WIND" : {
       "built" : {
          "energyDelta" : -45,
