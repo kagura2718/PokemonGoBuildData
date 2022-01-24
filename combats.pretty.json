@@ -2061,11 +2061,11 @@
       "built" : {
          "energyDelta" : -55,
          "movesType" : 12,
-         "power" : 25
+         "power" : 65
       },
       "raw" : {
          "energyDelta" : -55,
-         "power" : 25,
+         "power" : 65,
          "type" : "POKEMON_TYPE_ELECTRIC",
          "uniqueId" : "PARABOLIC_CHARGE",
          "vfxName" : "parabolic_charge"

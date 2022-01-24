@@ -65,12 +65,16 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
          {
             "candyCost" : 50,
-            "evolution" : "EXPLOUD"
+            "evolution" : "EXPLOUD",
+            "purificationEvolutionCandyCost" : 90
          }
       ],
       "evolutionPips" : 1,
@@ -145,12 +149,16 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.25,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [
             {
                "candyCost" : 50,
-               "evolution" : "EXPLOUD"
+               "evolution" : "EXPLOUD",
+               "purificationEvolutionCandyCost" : 90
             }
          ],
          "evolutionPips" : 1,
@@ -171,6 +179,12 @@
             "BITE_FAST",
             "ROCK_SMASH_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 134,
             "baseDefense" : 81,
@@ -182,6 +196,230 @@
          },
          "type" : "POKEMON_TYPE_NORMAL",
          "weightStdDev" : 5.0625
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 134,
+         "baseDefense" : 81,
+         "baseStamina" : 197
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 5.0625
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         65
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         65
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokedexNumber" : 294,
+         "pokemonType" : 0,
+         "pokemonTypes" : {
+            "pokemonType" : 0
+         },
+         "stats" : {
+            "baseAttack" : 134,
+            "baseDefense" : 81,
+            "baseStamina" : 197
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1,
+         "cylinderRadiusM" : 0.8,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "STOMP",
+         "DISARMING_VOICE",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.3,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.25,
+         "baseFleeRate" : 0.09,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 0.6,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.25,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "EXPLOUD",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_WHISMUR",
+      "form" : "LOUDRED_NORMAL",
+      "heightStdDev" : 0.12375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 1,
+      "modelScale" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "WHISMUR",
+      "pokedexHeightM" : 0.99,
+      "pokedexWeightKg" : 40.5,
+      "pokemonId" : "LOUDRED",
+      "quickMoves" : [
+         "BITE_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            65
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            65
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.8,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "STOMP",
+            "DISARMING_VOICE",
+            "FLAMETHROWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.3,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.25,
+            "baseFleeRate" : 0.09,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 0.6,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.25,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "EXPLOUD",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_WHISMUR",
+         "form" : "LOUDRED_NORMAL",
+         "heightStdDev" : 0.12375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 1,
+         "modelScale" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "WHISMUR",
+         "pokedexHeightM" : 0.99,
+         "pokedexWeightKg" : 40.5,
+         "pokemonId" : "LOUDRED",
+         "quickMoves" : [
+            "BITE_FAST",
+            "ROCK_SMASH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 134,
+            "baseDefense" : 81,
+            "baseStamina" : 197
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 5.0625
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 134,

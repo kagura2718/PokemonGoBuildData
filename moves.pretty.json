@@ -4305,7 +4305,7 @@
          "isQuickMoves" : false,
          "movesType" : 12,
          "movesTypeWrap" : 12,
-         "power" : 25
+         "power" : 65
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -4318,7 +4318,7 @@
          "healScalar" : 0.5,
          "movementId" : "PARABOLIC_CHARGE",
          "pokemonType" : "POKEMON_TYPE_ELECTRIC",
-         "power" : 25,
+         "power" : 65,
          "staminaLossScalar" : 0.05,
          "trainerLevelMax" : 100,
          "trainerLevelMin" : 1,

@@ -65,12 +65,16 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
          {
             "candyCost" : 100,
-            "evolution" : "FERALIGATR"
+            "evolution" : "FERALIGATR",
+            "purificationEvolutionCandyCost" : 90
          }
       ],
       "evolutionIds" : [
@@ -148,12 +152,16 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [
             {
                "candyCost" : 100,
-               "evolution" : "FERALIGATR"
+               "evolution" : "FERALIGATR",
+               "purificationEvolutionCandyCost" : 90
             }
          ],
          "evolutionIds" : [
@@ -177,6 +185,12 @@
             "WATER_GUN_FAST",
             "SCRATCH_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 150,
             "baseDefense" : 142,
@@ -188,6 +202,236 @@
          },
          "type" : "POKEMON_TYPE_WATER",
          "weightStdDev" : 3.125
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 150,
+         "baseDefense" : 142,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "weightStdDev" : 3.125
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         5.59,
+         0,
+         3
+      ],
+      "buddyOffsetMale" : [
+         5.59,
+         0,
+         3
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 159,
+         "pokemonType" : 10,
+         "pokemonTypes" : {
+            "pokemonType" : 10
+         },
+         "stats" : {
+            "baseAttack" : 150,
+            "baseDefense" : 142,
+            "baseStamina" : 163
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1.0185,
+         "cylinderRadiusM" : 0.45,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 100,
+      "cinematicMoves" : [
+         "CRUNCH",
+         "ICE_PUNCH",
+         "WATER_PULSE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.125,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.819375,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.8,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "FERALIGATR",
+            "purificationEvolutionCandyCost" : 90
+         }
+      ],
+      "evolutionIds" : [
+         "FERALIGATR"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_TOTODILE",
+      "form" : "CROCONAW_NORMAL",
+      "heightStdDev" : 0.13625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.05,
+      "modelScale" : 0.98,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TOTODILE",
+      "pokedexHeightM" : 1.09,
+      "pokedexWeightKg" : 25,
+      "pokemonId" : "CROCONAW",
+      "quickMoves" : [
+         "WATER_GUN_FAST",
+         "SCRATCH_FAST"
+      ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            5.59,
+            0,
+            3
+         ],
+         "buddyOffsetMale" : [
+            5.59,
+            0,
+            3
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.0185,
+            "cylinderRadiusM" : 0.45,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 100,
+         "cinematicMoves" : [
+            "CRUNCH",
+            "ICE_PUNCH",
+            "WATER_PULSE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.125,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.819375,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.8,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "FERALIGATR",
+               "purificationEvolutionCandyCost" : 90
+            }
+         ],
+         "evolutionIds" : [
+            "FERALIGATR"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_TOTODILE",
+         "form" : "CROCONAW_NORMAL",
+         "heightStdDev" : 0.13625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.05,
+         "modelScale" : 0.98,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "TOTODILE",
+         "pokedexHeightM" : 1.09,
+         "pokedexWeightKg" : 25,
+         "pokemonId" : "CROCONAW",
+         "quickMoves" : [
+            "WATER_GUN_FAST",
+            "SCRATCH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 150,
+            "baseDefense" : 142,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "weightStdDev" : 3.125
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 150,

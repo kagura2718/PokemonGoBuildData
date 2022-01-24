@@ -69,7 +69,10 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 8,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_VOLTORB",
@@ -147,7 +150,10 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 8,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_VOLTORB",
@@ -167,6 +173,12 @@
             "SPARK_FAST",
             "VOLT_SWITCH_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 173,
             "baseDefense" : 173,
@@ -178,6 +190,224 @@
          },
          "type" : "POKEMON_TYPE_ELECTRIC",
          "weightStdDev" : 8.325
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 173,
+         "baseDefense" : 173,
+         "baseStamina" : 155
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "weightStdDev" : 8.325
+   },
+   {
+      "animationTime" : [
+         2.3333,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         2.3333,
+         3,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         20,
+         0,
+         39.2
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         39.2
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokedexNumber" : 101,
+         "pokemonType" : 12,
+         "pokemonTypes" : {
+            "pokemonType" : 12
+         },
+         "stats" : {
+            "baseAttack" : 173,
+            "baseDefense" : 173,
+            "baseStamina" : 155
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 0.75,
+         "diskRadiusM" : 0.828,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "DISCHARGE",
+         "THUNDERBOLT",
+         "HYPER_BEAM",
+         "FOUL_PLAY"
+      ],
+      "eliteQuickMove" : [
+         "TACKLE_FAST"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 23,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.276,
+         "collisionHeightM" : 1.104,
+         "collisionRadiusM" : 0.552,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 8,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_VOLTORB",
+      "form" : "ELECTRODE_NORMAL",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.2,
+      "modelScale" : 0.92,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "VOLTORB",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 66.6,
+      "pokemonId" : "ELECTRODE",
+      "quickMoves" : [
+         "SPARK_FAST",
+         "VOLT_SWITCH_FAST"
+      ],
+      "raw" : {
+         "animationTime" : [
+            2.3333,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            2.3333,
+            3,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            39.2
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            39.2
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.25,
+            "cylinderRadiusM" : 0.75,
+            "diskRadiusM" : 0.828,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "DISCHARGE",
+            "THUNDERBOLT",
+            "HYPER_BEAM",
+            "FOUL_PLAY"
+         ],
+         "eliteQuickMove" : [
+            "TACKLE_FAST"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 23,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.276,
+            "collisionHeightM" : 1.104,
+            "collisionRadiusM" : 0.552,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 8,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_VOLTORB",
+         "form" : "ELECTRODE_NORMAL",
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.2,
+         "modelScale" : 0.92,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "VOLTORB",
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 66.6,
+         "pokemonId" : "ELECTRODE",
+         "quickMoves" : [
+            "SPARK_FAST",
+            "VOLT_SWITCH_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 173,
+            "baseDefense" : 173,
+            "baseStamina" : 155
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "weightStdDev" : 8.325
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 173,

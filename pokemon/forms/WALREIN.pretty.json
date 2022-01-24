@@ -48,6 +48,12 @@
          "EARTHQUAKE",
          "WATER_PULSE"
       ],
+      "eliteCinematicMove" : [
+         "ICICLE_SPEAR"
+      ],
+      "eliteQuickMove" : [
+         "POWDER_SNOW_FAST"
+      ],
       "encounter" : {
          "attackProbability" : 0.3,
          "attackTimerS" : 20,
@@ -124,6 +130,12 @@
             "BLIZZARD",
             "EARTHQUAKE",
             "WATER_PULSE"
+         ],
+         "eliteCinematicMove" : [
+            "ICICLE_SPEAR"
+         ],
+         "eliteQuickMove" : [
+            "POWDER_SNOW_FAST"
          ],
          "encounter" : {
             "attackProbability" : 0.3,
@@ -254,6 +266,12 @@
          "EARTHQUAKE",
          "WATER_PULSE"
       ],
+      "eliteCinematicMove" : [
+         "ICICLE_SPEAR"
+      ],
+      "eliteQuickMove" : [
+         "POWDER_SNOW_FAST"
+      ],
       "encounter" : {
          "attackProbability" : 0.3,
          "attackTimerS" : 20,
@@ -331,6 +349,12 @@
             "BLIZZARD",
             "EARTHQUAKE",
             "WATER_PULSE"
+         ],
+         "eliteCinematicMove" : [
+            "ICICLE_SPEAR"
+         ],
+         "eliteQuickMove" : [
+            "POWDER_SNOW_FAST"
          ],
          "encounter" : {
             "attackProbability" : 0.3,
