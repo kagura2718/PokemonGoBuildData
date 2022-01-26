@@ -74,7 +74,7 @@
          {
             "candyCost" : 50,
             "evolution" : "EXPLOUD",
-            "purificationEvolutionCandyCost" : 90
+            "purificationEvolutionCandyCost" : 45
          }
       ],
       "evolutionPips" : 1,
@@ -158,7 +158,7 @@
             {
                "candyCost" : 50,
                "evolution" : "EXPLOUD",
-               "purificationEvolutionCandyCost" : 90
+               "purificationEvolutionCandyCost" : 45
             }
          ],
          "evolutionPips" : 1,
@@ -290,7 +290,7 @@
          {
             "candyCost" : 50,
             "evolution" : "EXPLOUD",
-            "purificationEvolutionCandyCost" : 90
+            "purificationEvolutionCandyCost" : 45
          }
       ],
       "evolutionPips" : 1,
@@ -375,7 +375,7 @@
             {
                "candyCost" : 50,
                "evolution" : "EXPLOUD",
-               "purificationEvolutionCandyCost" : 90
+               "purificationEvolutionCandyCost" : 45
             }
          ],
          "evolutionPips" : 1,
