@@ -232,6 +232,224 @@
       ],
       "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
+         10,
+         0,
+         -20
+      ],
+      "buddyOffsetMale" : [
+         10,
+         0,
+         -20
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         300
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 100,
+         "pokemonType" : 12,
+         "pokemonType2" : 11,
+         "pokemonTypes" : {
+            "pokemonType" : 12,
+            "pokemonType2" : 11
+         },
+         "stats" : {
+            "baseAttack" : 109,
+            "baseDefense" : 111,
+            "baseStamina" : 120
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.55,
+         "cylinderRadiusM" : 0.3,
+         "diskRadiusM" : 0.5063,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 50,
+      "cinematicMoves" : [
+         "SWIFT",
+         "THUNDERBOLT",
+         "ENERGY_BALL"
+      ],
+      "disableTransferToPokemonHome" : true,
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.16875,
+         "collisionHeightM" : 0.675,
+         "collisionRadiusM" : 0.3375,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.2,
+         "jumpTimeS" : 1.2,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionIds" : [
+         "ELECTRODE"
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_VOLTORB",
+      "form" : "VOLTORB_HISUIAN",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.35,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 13,
+      "pokemonId" : "VOLTORB",
+      "quickMoves" : [
+         "CHARGE_BEAM_FAST",
+         "TACKLE_FAST"
+      ],
+      "raw" : {
+         "animationTime" : [
+            2.6667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            2.3333,
+            2,
+            2
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            10,
+            0,
+            -20
+         ],
+         "buddyOffsetMale" : [
+            10,
+            0,
+            -20
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            300
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.3,
+            "diskRadiusM" : 0.5063,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 50,
+         "cinematicMoves" : [
+            "SWIFT",
+            "THUNDERBOLT",
+            "ENERGY_BALL"
+         ],
+         "disableTransferToPokemonHome" : true,
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.16875,
+            "collisionHeightM" : 0.675,
+            "collisionRadiusM" : 0.3375,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.2,
+            "jumpTimeS" : 1.2,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionIds" : [
+            "ELECTRODE"
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_VOLTORB",
+         "form" : "VOLTORB_HISUIAN",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.35,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 13,
+         "pokemonId" : "VOLTORB",
+         "quickMoves" : [
+            "CHARGE_BEAM_FAST",
+            "TACKLE_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 109,
+            "baseDefense" : 111,
+            "baseStamina" : 120
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_GRASS",
+         "weightStdDev" : 1.625
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 109,
+         "baseDefense" : 111,
+         "baseStamina" : 120
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_GRASS",
+      "weightStdDev" : 1.625
+   },
+   {
+      "animationTime" : [
+         2.6667,
+         0.6667,
+         1.6667,
+         1.8333,
+         0,
+         2.3333,
+         2,
+         2
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
          0,
          0,
          0
