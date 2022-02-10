@@ -64,6 +64,42 @@
          "vfxName" : "aeroblast"
       }
    },
+   "AEROBLAST_PLUS" : {
+      "built" : {
+         "energyDelta" : -75,
+         "movesType" : 2,
+         "power" : 170
+      },
+      "raw" : {
+         "buffs" : {
+            "attackerAttackStatStageChange" : 2,
+            "buffActivationChance" : 0.125
+         },
+         "energyDelta" : -75,
+         "power" : 170,
+         "type" : "POKEMON_TYPE_FLYING",
+         "uniqueId" : "AEROBLAST_PLUS",
+         "vfxName" : "aeroblast"
+      }
+   },
+   "AEROBLAST_PLUS_PLUS" : {
+      "built" : {
+         "energyDelta" : -75,
+         "movesType" : 2,
+         "power" : 170
+      },
+      "raw" : {
+         "buffs" : {
+            "attackerAttackStatStageChange" : 2,
+            "buffActivationChance" : 0.125
+         },
+         "energyDelta" : -75,
+         "power" : 170,
+         "type" : "POKEMON_TYPE_FLYING",
+         "uniqueId" : "AEROBLAST_PLUS_PLUS",
+         "vfxName" : "aeroblast"
+      }
+   },
    "AIR_CUTTER" : {
       "built" : {
          "energyDelta" : -55,
@@ -1759,6 +1795,21 @@
          "vfxName" : "lunge"
       }
    },
+   "MAGICAL_LEAF_FAST" : {
+      "built" : {
+         "energyDelta" : 10,
+         "movesType" : 11,
+         "power" : 10
+      },
+      "raw" : {
+         "durationTurns" : 2,
+         "energyDelta" : 10,
+         "power" : 10,
+         "type" : "POKEMON_TYPE_GRASS",
+         "uniqueId" : "MAGICAL_LEAF_FAST",
+         "vfxName" : "magical_leaf_fast"
+      }
+   },
    "MAGNET_BOMB" : {
       "built" : {
          "energyDelta" : -45,
@@ -2556,6 +2607,60 @@
          "type" : "POKEMON_TYPE_ROCK",
          "uniqueId" : "ROCK_WRECKER",
          "vfxName" : "rock_wrecker"
+      }
+   },
+   "SACRED_FIRE" : {
+      "built" : {
+         "energyDelta" : -65,
+         "movesType" : 9,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -65,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_FIRE",
+         "uniqueId" : "SACRED_FIRE",
+         "vfxName" : "sacred_fire"
+      }
+   },
+   "SACRED_FIRE_PLUS" : {
+      "built" : {
+         "energyDelta" : -65,
+         "movesType" : 9,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -65,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_FIRE",
+         "uniqueId" : "SACRED_FIRE_PLUS",
+         "vfxName" : "sacred_fire"
+      }
+   },
+   "SACRED_FIRE_PLUS_PLUS" : {
+      "built" : {
+         "energyDelta" : -65,
+         "movesType" : 9,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -65,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_FIRE",
+         "uniqueId" : "SACRED_FIRE_PLUS_PLUS",
+         "vfxName" : "sacred_fire"
       }
    },
    "SACRED_SWORD" : {
