@@ -32,6 +32,20 @@
          "vfxName" : "acid_spray"
       }
    },
+   "ACROBATICS" : {
+      "built" : {
+         "energyDelta" : -60,
+         "movesType" : 2,
+         "power" : 110
+      },
+      "raw" : {
+         "energyDelta" : -60,
+         "power" : 110,
+         "type" : "POKEMON_TYPE_FLYING",
+         "uniqueId" : "ACROBATICS",
+         "vfxName" : "acrobatics"
+      }
+   },
    "AERIAL_ACE" : {
       "built" : {
          "energyDelta" : -45,

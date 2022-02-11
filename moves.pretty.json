@@ -62,6 +62,34 @@
          "vfxName" : "acid_spray"
       }
    },
+   "ACROBATICS" : {
+      "built" : {
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
+         "movesType" : 2,
+         "movesTypeWrap" : 2,
+         "power" : 100
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 600,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "ACROBATICS",
+         "pokemonType" : "POKEMON_TYPE_FLYING",
+         "power" : 100,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "acrobatics"
+      }
+   },
    "AERIAL_ACE" : {
       "built" : {
          "damageWindowEndMs" : 2200,
