@@ -53,7 +53,8 @@
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -118,7 +119,8 @@
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -220,7 +222,8 @@
                "FURFROU_NATURAL",
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -286,7 +289,8 @@
                   "FURFROU_NATURAL",
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -389,7 +393,8 @@
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -456,7 +461,8 @@
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -558,7 +564,8 @@
                "FURFROU_NATURAL",
                "FURFROU_MATRON",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -624,7 +631,8 @@
                   "FURFROU_NATURAL",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -897,7 +905,8 @@
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -964,7 +973,8 @@
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1066,7 +1076,8 @@
                "FURFROU_NATURAL",
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY"
+               "FURFROU_DANDY",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1132,7 +1143,8 @@
                   "FURFROU_NATURAL",
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY"
+                  "FURFROU_DANDY",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1234,7 +1246,8 @@
                "FURFROU_NATURAL",
                "FURFROU_DIAMOND",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1300,7 +1313,8 @@
                   "FURFROU_NATURAL",
                   "FURFROU_DIAMOND",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1402,7 +1416,8 @@
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1468,7 +1483,8 @@
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1571,7 +1587,8 @@
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1638,7 +1655,8 @@
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1741,7 +1759,8 @@
                "FURFROU_DIAMOND",
                "FURFROU_MATRON",
                "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_LA_REINE",
+               "FURFROU_HEART"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1808,7 +1827,8 @@
                   "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_LA_REINE",
+                  "FURFROU_HEART"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
