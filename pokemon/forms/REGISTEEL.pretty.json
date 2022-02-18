@@ -51,6 +51,9 @@
          "HYPER_BEAM",
          "FOCUS_BLAST"
       ],
+      "eliteCinematicMove" : [
+         "ZAP_CANNON"
+      ],
       "encounter" : {
          "attackProbability" : 0.2,
          "attackTimerS" : 20,
@@ -127,6 +130,9 @@
             "FLASH_CANNON",
             "HYPER_BEAM",
             "FOCUS_BLAST"
+         ],
+         "eliteCinematicMove" : [
+            "ZAP_CANNON"
          ],
          "encounter" : {
             "attackProbability" : 0.2,

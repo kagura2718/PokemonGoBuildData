@@ -295,6 +295,14 @@
          "shadowFormBaseCaptureRate" : 0.4,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "ELECTRODE",
+            "form" : "ELECTRODE_HISUIAN",
+            "purificationEvolutionCandyCost" : 45
+         }
+      ],
       "evolutionIds" : [
          "ELECTRODE"
       ],
@@ -378,6 +386,14 @@
             "shadowFormBaseCaptureRate" : 0.4,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "ELECTRODE",
+               "form" : "ELECTRODE_HISUIAN",
+               "purificationEvolutionCandyCost" : 45
+            }
+         ],
          "evolutionIds" : [
             "ELECTRODE"
          ],

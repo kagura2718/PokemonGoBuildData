@@ -50,6 +50,9 @@
          "SOLAR_BEAM",
          "AERIAL_ACE"
       ],
+      "eliteCinematicMove" : [
+         "ACROBATICS"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 20,
@@ -128,6 +131,9 @@
             "DAZZLING_GLEAM",
             "SOLAR_BEAM",
             "AERIAL_ACE"
+         ],
+         "eliteCinematicMove" : [
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -260,6 +266,9 @@
          "SOLAR_BEAM",
          "AERIAL_ACE"
       ],
+      "eliteCinematicMove" : [
+         "ACROBATICS"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 20,
@@ -339,6 +348,9 @@
             "DAZZLING_GLEAM",
             "SOLAR_BEAM",
             "AERIAL_ACE"
+         ],
+         "eliteCinematicMove" : [
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,

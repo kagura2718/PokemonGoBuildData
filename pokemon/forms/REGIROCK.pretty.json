@@ -51,6 +51,9 @@
          "ZAP_CANNON",
          "FOCUS_BLAST"
       ],
+      "eliteCinematicMove" : [
+         "EARTHQUAKE"
+      ],
       "encounter" : {
          "attackProbability" : 0.2,
          "attackTimerS" : 20,
@@ -127,6 +130,9 @@
             "STONE_EDGE",
             "ZAP_CANNON",
             "FOCUS_BLAST"
+         ],
+         "eliteCinematicMove" : [
+            "EARTHQUAKE"
          ],
          "encounter" : {
             "attackProbability" : 0.2,
