@@ -1,0 +1,210 @@
+[
+   {
+      "buddyGroupNumber" : 1,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 725,
+         "pokemonType" : 9,
+         "pokemonTypes" : {
+            "pokemonType" : 9
+         },
+         "stats" : {
+            "baseAttack" : 128,
+            "baseDefense" : 79,
+            "baseStamina" : 128
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.5,
+         "cylinderRadiusM" : 0.35
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "combatDefaultCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatOpponentFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerPokemonPositionOffset" : [
+         0,
+         0,
+         0
+      ],
+      "combatShoulderCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.75,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.125,
+         "collisionRadiusM" : 0.075,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "TORRACAT"
+         }
+      ],
+      "familyId" : "FAMILY_LITTEN",
+      "heightStdDev" : 0.05,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.45,
+      "modelScaleV2" : 1.1,
+      "pokedexHeightM" : 0.4,
+      "pokedexWeightKg" : 4.3,
+      "pokemonId" : "LITTEN",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 1,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.5,
+            "cylinderRadiusM" : 0.35
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "combatDefaultCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatOpponentFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerPokemonPositionOffset" : [
+            0,
+            0,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.75,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.125,
+            "collisionRadiusM" : 0.075,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "TORRACAT"
+            }
+         ],
+         "familyId" : "FAMILY_LITTEN",
+         "heightStdDev" : 0.05,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.45,
+         "modelScaleV2" : 1.1,
+         "pokedexHeightM" : 0.4,
+         "pokedexWeightKg" : 4.3,
+         "pokemonId" : "LITTEN",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "stats" : {
+            "baseAttack" : 128,
+            "baseDefense" : 79,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "weightStdDev" : 0.5375
+      },
+      "stats" : {
+         "baseAttack" : 128,
+         "baseDefense" : 79,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "weightStdDev" : 0.5375
+   }
+]

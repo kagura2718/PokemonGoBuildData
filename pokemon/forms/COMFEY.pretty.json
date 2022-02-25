@@ -1,0 +1,146 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 764,
+         "pokemonType" : 17,
+         "pokemonTypes" : {
+            "pokemonType" : 17
+         },
+         "stats" : {
+            "baseAttack" : 165,
+            "baseDefense" : 215,
+            "baseStamina" : 139
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.28
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.4,
+         "collisionRadiusM" : 0.35,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "familyId" : "FAMILY_COMFEY",
+      "heightStdDev" : 0.0125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.5,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.1,
+      "pokedexWeightKg" : 0.3,
+      "pokemonId" : "COMFEY",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.6,
+            "cylinderRadiusM" : 0.28
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.4,
+            "collisionRadiusM" : 0.35,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "familyId" : "FAMILY_COMFEY",
+         "heightStdDev" : 0.0125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.1,
+         "pokedexWeightKg" : 0.3,
+         "pokemonId" : "COMFEY",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "stats" : {
+            "baseAttack" : 165,
+            "baseDefense" : 215,
+            "baseStamina" : 139
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 0.0375
+      },
+      "stats" : {
+         "baseAttack" : 165,
+         "baseDefense" : 215,
+         "baseStamina" : 139
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 0.0375
+   }
+]

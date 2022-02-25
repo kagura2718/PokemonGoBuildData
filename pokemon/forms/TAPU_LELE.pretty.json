@@ -1,0 +1,154 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         8,
+         0,
+         -25
+      ],
+      "buddyOffsetMale" : [
+         8,
+         0,
+         -25
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         1200
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 786,
+         "pokemonType" : 13,
+         "pokemonType2" : 17,
+         "pokemonTypes" : {
+            "pokemonType" : 13,
+            "pokemonType2" : 17
+         },
+         "stats" : {
+            "baseAttack" : 259,
+            "baseDefense" : 208,
+            "baseStamina" : 172
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1.4,
+         "cylinderRadiusM" : 0.35
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "familyId" : "FAMILY_TAPU_LELE",
+      "heightStdDev" : 0.15,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.16,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 18.6,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "TAPU_LELE",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raidBossDistanceOffset" : 4,
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            8,
+            0,
+            -25
+         ],
+         "buddyOffsetMale" : [
+            8,
+            0,
+            -25
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            1200
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.4,
+            "cylinderRadiusM" : 0.35
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.1,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "familyId" : "FAMILY_TAPU_LELE",
+         "heightStdDev" : 0.15,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 1.16,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 18.6,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "TAPU_LELE",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "raidBossDistanceOffset" : 4,
+         "stats" : {
+            "baseAttack" : 259,
+            "baseDefense" : 208,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "type2" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 2.325
+      },
+      "stats" : {
+         "baseAttack" : 259,
+         "baseDefense" : 208,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 2.325
+   }
+]

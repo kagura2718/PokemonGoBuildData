@@ -1,0 +1,154 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -34
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -34
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -330,
+         250
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 785,
+         "pokemonType" : 12,
+         "pokemonType2" : 17,
+         "pokemonTypes" : {
+            "pokemonType" : 12,
+            "pokemonType2" : 17
+         },
+         "stats" : {
+            "baseAttack" : 250,
+            "baseDefense" : 181,
+            "baseStamina" : 172
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1.76,
+         "cylinderRadiusM" : 0.6
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 0.75,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "familyId" : "FAMILY_TAPU_KOKO",
+      "heightStdDev" : 0.225,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.76,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 20.5,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "TAPU_KOKO",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raidBossDistanceOffset" : 4,
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -34
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -34
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -330,
+            250
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.76,
+            "cylinderRadiusM" : 0.6
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.1,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 0.75,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "familyId" : "FAMILY_TAPU_KOKO",
+         "heightStdDev" : 0.225,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 1.76,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 20.5,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "TAPU_KOKO",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "raidBossDistanceOffset" : 4,
+         "stats" : {
+            "baseAttack" : 250,
+            "baseDefense" : 181,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 2.5625
+      },
+      "stats" : {
+         "baseAttack" : 250,
+         "baseDefense" : 181,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 2.5625
+   }
+]

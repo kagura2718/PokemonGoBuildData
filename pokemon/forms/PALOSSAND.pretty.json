@@ -1,0 +1,146 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 770,
+         "pokemonType" : 7,
+         "pokemonType2" : 4,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 4
+         },
+         "stats" : {
+            "baseAttack" : 178,
+            "baseDefense" : 178,
+            "baseStamina" : 198
+         }
+      },
+      "camera" : {},
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_SANDYGAST",
+      "heightStdDev" : 0.1625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "SANDYGAST",
+      "pokedexHeightM" : 1.3,
+      "pokedexWeightKg" : 250,
+      "pokemonId" : "PALOSSAND",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {},
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_SANDYGAST",
+         "heightStdDev" : 0.1625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "SANDYGAST",
+         "pokedexHeightM" : 1.3,
+         "pokedexWeightKg" : 250,
+         "pokemonId" : "PALOSSAND",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "stats" : {
+            "baseAttack" : 178,
+            "baseDefense" : 178,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "type2" : "POKEMON_TYPE_GROUND",
+         "weightStdDev" : 31.25
+      },
+      "stats" : {
+         "baseAttack" : 178,
+         "baseDefense" : 178,
+         "baseStamina" : 198
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "type2" : "POKEMON_TYPE_GROUND",
+      "weightStdDev" : 31.25
+   }
+]

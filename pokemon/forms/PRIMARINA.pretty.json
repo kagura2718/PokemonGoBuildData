@@ -1,0 +1,164 @@
+[
+   {
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         38.5,
+         0,
+         3
+      ],
+      "buddyOffsetMale" : [
+         38.5,
+         0,
+         3
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -50,
+         -850
+      ],
+      "buddyScale" : 15,
+      "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokedexNumber" : 730,
+         "pokemonType" : 10,
+         "pokemonType2" : 17,
+         "pokemonTypes" : {
+            "pokemonType" : 10,
+            "pokemonType2" : 17
+         },
+         "stats" : {
+            "baseAttack" : 232,
+            "baseDefense" : 195,
+            "baseStamina" : 190
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1.4,
+         "cylinderRadiusM" : 0.8
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 0.3,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_POPPLIO",
+      "heightStdDev" : 0.225,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.8,
+      "modelScaleV2" : 1.4,
+      "parentPokemonId" : "BRIONNE",
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 44,
+      "pokemonId" : "PRIMARINA",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raidBossDistanceOffset" : 3,
+      "raw" : {
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            38.5,
+            0,
+            3
+         ],
+         "buddyOffsetMale" : [
+            38.5,
+            0,
+            3
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -50,
+            -850
+         ],
+         "buddyScale" : 15,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.4,
+            "cylinderRadiusM" : 0.8
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.1,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.3,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_POPPLIO",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.8,
+         "modelScaleV2" : 1.4,
+         "parentPokemonId" : "BRIONNE",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 44,
+         "pokemonId" : "PRIMARINA",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "raidBossDistanceOffset" : 3,
+         "stats" : {
+            "baseAttack" : 232,
+            "baseDefense" : 195,
+            "baseStamina" : 190
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 5.5
+      },
+      "stats" : {
+         "baseAttack" : 232,
+         "baseDefense" : 195,
+         "baseStamina" : 190
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 5.5
+   }
+]

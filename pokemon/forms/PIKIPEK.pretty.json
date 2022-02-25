@@ -1,0 +1,166 @@
+[
+   {
+      "buddyGroupNumber" : 4,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_SHOULDER",
+      "built" : {
+         "pokedexNumber" : 731,
+         "pokemonType" : 0,
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 0,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 136,
+            "baseDefense" : 59,
+            "baseStamina" : 111
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.3,
+         "cylinderRadiusM" : 0.19
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.5,
+         "baseFleeRate" : 0.2,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.165,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.06,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 25,
+            "evolution" : "TRUMBEAK"
+         }
+      ],
+      "familyId" : "FAMILY_PIKIPEK",
+      "heightStdDev" : 0.0375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.3,
+      "modelScaleV2" : 1.27,
+      "pokedexHeightM" : 0.3,
+      "pokedexWeightKg" : 1.2,
+      "pokemonId" : "PIKIPEK",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 4,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_SHOULDER",
+         "camera" : {
+            "cylinderHeightM" : 0.3,
+            "cylinderRadiusM" : 0.19
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.5,
+            "baseFleeRate" : 0.2,
+            "cameraDistance" : 2,
+            "collisionHeadRadiusM" : 0.165,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.06,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 25,
+               "evolution" : "TRUMBEAK"
+            }
+         ],
+         "familyId" : "FAMILY_PIKIPEK",
+         "heightStdDev" : 0.0375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.3,
+         "modelScaleV2" : 1.27,
+         "pokedexHeightM" : 0.3,
+         "pokedexWeightKg" : 1.2,
+         "pokemonId" : "PIKIPEK",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "stats" : {
+            "baseAttack" : 136,
+            "baseDefense" : 59,
+            "baseStamina" : 111
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.15
+      },
+      "stats" : {
+         "baseAttack" : 136,
+         "baseDefense" : 59,
+         "baseStamina" : 111
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.15
+   }
+]

@@ -1,0 +1,170 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -35
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -35
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 783,
+         "pokemonType" : 15,
+         "pokemonType2" : 1,
+         "pokemonTypes" : {
+            "pokemonType" : 15,
+            "pokemonType2" : 1
+         },
+         "stats" : {
+            "baseAttack" : 145,
+            "baseDefense" : 162,
+            "baseStamina" : 146
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 0.55
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.07,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.3,
+         "collisionRadiusM" : 0.3,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 100,
+            "evolution" : "KOMMO_O"
+         }
+      ],
+      "familyId" : "FAMILY_JANGMO_O",
+      "heightStdDev" : 0.15,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 1.2,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "JANGMO_O",
+      "pokedexHeightM" : 1.2,
+      "pokedexWeightKg" : 47,
+      "pokemonId" : "HAKAMO_O",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -35
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 1.25,
+            "cylinderRadiusM" : 0.55
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.07,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.3,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 100,
+               "evolution" : "KOMMO_O"
+            }
+         ],
+         "familyId" : "FAMILY_JANGMO_O",
+         "heightStdDev" : 0.15,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 1.2,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "JANGMO_O",
+         "pokedexHeightM" : 1.2,
+         "pokedexWeightKg" : 47,
+         "pokemonId" : "HAKAMO_O",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "stats" : {
+            "baseAttack" : 145,
+            "baseDefense" : 162,
+            "baseStamina" : 146
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_DRAGON",
+         "type2" : "POKEMON_TYPE_FIGHTING",
+         "weightStdDev" : 5.875
+      },
+      "stats" : {
+         "baseAttack" : 145,
+         "baseDefense" : 162,
+         "baseStamina" : 146
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DRAGON",
+      "type2" : "POKEMON_TYPE_FIGHTING",
+      "weightStdDev" : 5.875
+   }
+]

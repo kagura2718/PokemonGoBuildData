@@ -1,0 +1,178 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -50,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 744,
+         "pokemonType" : 5,
+         "pokemonTypes" : {
+            "pokemonType" : 5
+         },
+         "stats" : {
+            "baseAttack" : 117,
+            "baseDefense" : 78,
+            "baseStamina" : 128
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.55,
+         "cylinderRadiusM" : 0.35
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.18,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.2,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "LYCANROC",
+            "form" : "LYCANROC_MIDDAY",
+            "onlyDaytime" : true,
+            "priority" : 10
+         },
+         {
+            "candyCost" : 50,
+            "evolution" : "LYCANROC",
+            "form" : "LYCANROC_MIDNIGHT",
+            "onlyNighttime" : true,
+            "priority" : 10
+         }
+      ],
+      "familyId" : "FAMILY_ROCKRUFF",
+      "heightStdDev" : 0.0625,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 0.5,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.5,
+      "pokedexWeightKg" : 9.2,
+      "pokemonId" : "ROCKRUFF",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -50,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.35
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 3.5,
+            "collisionHeadRadiusM" : 0.18,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.2,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "LYCANROC",
+               "form" : "LYCANROC_MIDDAY",
+               "onlyDaytime" : true,
+               "priority" : 10
+            },
+            {
+               "candyCost" : 50,
+               "evolution" : "LYCANROC",
+               "form" : "LYCANROC_MIDNIGHT",
+               "onlyNighttime" : true,
+               "priority" : 10
+            }
+         ],
+         "familyId" : "FAMILY_ROCKRUFF",
+         "heightStdDev" : 0.0625,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 0.5,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.5,
+         "pokedexWeightKg" : 9.2,
+         "pokemonId" : "ROCKRUFF",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "stats" : {
+            "baseAttack" : 117,
+            "baseDefense" : 78,
+            "baseStamina" : 128
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_ROCK",
+         "weightStdDev" : 1.15
+      },
+      "stats" : {
+         "baseAttack" : 117,
+         "baseDefense" : 78,
+         "baseStamina" : 128
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_ROCK",
+      "weightStdDev" : 1.15
+   }
+]

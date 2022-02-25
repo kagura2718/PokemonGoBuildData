@@ -1,0 +1,210 @@
+[
+   {
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         30,
+         0,
+         55
+      ],
+      "buddyOffsetMale" : [
+         30,
+         0,
+         55
+      ],
+      "buddyPortraitOffset" : [
+         -8,
+         70,
+         -2217
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokedexNumber" : 727,
+         "pokemonType" : 9,
+         "pokemonType2" : 16,
+         "pokemonTypes" : {
+            "pokemonType" : 9,
+            "pokemonType2" : 16
+         },
+         "stats" : {
+            "baseAttack" : 214,
+            "baseDefense" : 175,
+            "baseStamina" : 216
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 1.8,
+         "cylinderRadiusM" : 1.5
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "combatDefaultCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatOpponentFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerPokemonPositionOffset" : [
+         0,
+         0,
+         0
+      ],
+      "combatShoulderCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.05,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 7,
+         "bonusStardustCaptureReward" : 400,
+         "bonusXlCandyCaptureReward" : 2,
+         "cameraDistance" : 4.9,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionRadiusM" : 0.4,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_LITTEN",
+      "heightStdDev" : 0.225,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 1.71,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "TORRACAT",
+      "pokedexHeightM" : 1.8,
+      "pokedexWeightKg" : 83,
+      "pokemonId" : "INCINEROAR",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            30,
+            0,
+            55
+         ],
+         "buddyOffsetMale" : [
+            30,
+            0,
+            55
+         ],
+         "buddyPortraitOffset" : [
+            -8,
+            70,
+            -2217
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.8,
+            "cylinderRadiusM" : 1.5
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "combatDefaultCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatOpponentFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerPokemonPositionOffset" : [
+            0,
+            0,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.05,
+            "baseFleeRate" : 0.1,
+            "bonusCandyCaptureReward" : 7,
+            "bonusStardustCaptureReward" : 400,
+            "bonusXlCandyCaptureReward" : 2,
+            "cameraDistance" : 4.9,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionRadiusM" : 0.4,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_LITTEN",
+         "heightStdDev" : 0.225,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 1.71,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "TORRACAT",
+         "pokedexHeightM" : 1.8,
+         "pokedexWeightKg" : 83,
+         "pokemonId" : "INCINEROAR",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "stats" : {
+            "baseAttack" : 214,
+            "baseDefense" : 175,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_DARK",
+         "weightStdDev" : 10.375
+      },
+      "stats" : {
+         "baseAttack" : 214,
+         "baseDefense" : 175,
+         "baseStamina" : 216
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "type2" : "POKEMON_TYPE_DARK",
+      "weightStdDev" : 10.375
+   }
+]

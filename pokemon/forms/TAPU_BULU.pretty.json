@@ -1,0 +1,154 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         -56
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         -56
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -200,
+         1800
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 787,
+         "pokemonType" : 11,
+         "pokemonType2" : 17,
+         "pokemonTypes" : {
+            "pokemonType" : 11,
+            "pokemonType2" : 17
+         },
+         "stats" : {
+            "baseAttack" : 249,
+            "baseDefense" : 215,
+            "baseStamina" : 172
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 2.1,
+         "cylinderRadiusM" : 0.85
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.02,
+         "baseFleeRate" : 0.1,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.3,
+         "collisionHeightM" : 1.5,
+         "collisionRadiusM" : 0.5,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "familyId" : "FAMILY_TAPU_BULU",
+      "heightStdDev" : 0.2375,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 1.81,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 1.9,
+      "pokedexWeightKg" : 45.5,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "TAPU_BULU",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raidBossDistanceOffset" : 4,
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            -56
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            -56
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -200,
+            1800
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 2.1,
+            "cylinderRadiusM" : 0.85
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.02,
+            "baseFleeRate" : 0.1,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.3,
+            "collisionHeightM" : 1.5,
+            "collisionRadiusM" : 0.5,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "familyId" : "FAMILY_TAPU_BULU",
+         "heightStdDev" : 0.2375,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 1.81,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 1.9,
+         "pokedexWeightKg" : 45.5,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "TAPU_BULU",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "raidBossDistanceOffset" : 4,
+         "stats" : {
+            "baseAttack" : 249,
+            "baseDefense" : 215,
+            "baseStamina" : 172
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_GRASS",
+         "type2" : "POKEMON_TYPE_FAIRY",
+         "weightStdDev" : 5.6875
+      },
+      "stats" : {
+         "baseAttack" : 249,
+         "baseDefense" : 215,
+         "baseStamina" : 172
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_GRASS",
+      "type2" : "POKEMON_TYPE_FAIRY",
+      "weightStdDev" : 5.6875
+   }
+]

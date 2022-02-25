@@ -1,0 +1,156 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         10,
+         0,
+         -120
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 735,
+         "pokemonType" : 0,
+         "pokemonTypes" : {
+            "pokemonType" : 0
+         },
+         "stats" : {
+            "baseAttack" : 194,
+            "baseDefense" : 113,
+            "baseStamina" : 204
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.7,
+         "cylinderRadiusM" : 0.4
+      },
+      "cinematicMoves" : [
+         "STRUGGLE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.1,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 3.5,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.3,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_YUNGOOS",
+      "heightStdDev" : 0.0875,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 1,
+      "modelHeight" : 0.7,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "YUNGOOS",
+      "pokedexHeightM" : 0.7,
+      "pokedexWeightKg" : 14.2,
+      "pokemonId" : "GUMSHOOS",
+      "quickMoves" : [
+         "STRUGGLE"
+      ],
+      "raidBossDistanceOffset" : 2,
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            10,
+            0,
+            -120
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.7,
+            "cylinderRadiusM" : 0.4
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.1,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 3.5,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.3,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_YUNGOOS",
+         "heightStdDev" : 0.0875,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 1,
+         "modelHeight" : 0.7,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "YUNGOOS",
+         "pokedexHeightM" : 0.7,
+         "pokedexWeightKg" : 14.2,
+         "pokemonId" : "GUMSHOOS",
+         "quickMoves" : [
+            "STRUGGLE"
+         ],
+         "raidBossDistanceOffset" : 2,
+         "stats" : {
+            "baseAttack" : 194,
+            "baseDefense" : 113,
+            "baseStamina" : 204
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 25,
+            "stardustToUnlock" : 10000
+         },
+         "type" : "POKEMON_TYPE_NORMAL",
+         "weightStdDev" : 1.775
+      },
+      "stats" : {
+         "baseAttack" : 194,
+         "baseDefense" : 113,
+         "baseStamina" : 204
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 25,
+         "stardustToUnlock" : 10000
+      },
+      "type" : "POKEMON_TYPE_NORMAL",
+      "weightStdDev" : 1.775
+   }
+]
