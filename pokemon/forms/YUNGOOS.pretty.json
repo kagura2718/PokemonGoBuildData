@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.4
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "HYPER_FANG",
+         "CRUNCH",
+         "ROCK_TOMB"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -54,7 +56,8 @@
       "evolutionBranch" : [
          {
             "candyCost" : 50,
-            "evolution" : "GUMSHOOS"
+            "evolution" : "GUMSHOOS",
+            "onlyDaytime" : true
          }
       ],
       "familyId" : "FAMILY_YUNGOOS",
@@ -69,7 +72,8 @@
       "pokedexWeightKg" : 6,
       "pokemonId" : "YUNGOOS",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "BITE_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -94,7 +98,9 @@
             "cylinderRadiusM" : 0.4
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "HYPER_FANG",
+            "CRUNCH",
+            "ROCK_TOMB"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -114,7 +120,8 @@
          "evolutionBranch" : [
             {
                "candyCost" : 50,
-               "evolution" : "GUMSHOOS"
+               "evolution" : "GUMSHOOS",
+               "onlyDaytime" : true
             }
          ],
          "familyId" : "FAMILY_YUNGOOS",
@@ -129,7 +136,8 @@
          "pokedexWeightKg" : 6,
          "pokemonId" : "YUNGOOS",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "BITE_FAST"
          ],
          "stats" : {
             "baseAttack" : 122,

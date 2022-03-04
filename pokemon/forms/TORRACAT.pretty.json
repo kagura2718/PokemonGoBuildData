@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.75
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "FLAMETHROWER",
+         "FLAME_CHARGE",
+         "CRUNCH"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -99,7 +101,8 @@
       "pokedexWeightKg" : 25,
       "pokemonId" : "TORRACAT",
       "quickMoves" : [
-         "STRUGGLE"
+         "BITE_FAST",
+         "EMBER_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -124,7 +127,9 @@
             "cylinderRadiusM" : 0.75
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "FLAMETHROWER",
+            "FLAME_CHARGE",
+            "CRUNCH"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -189,7 +194,8 @@
          "pokedexWeightKg" : 25,
          "pokemonId" : "TORRACAT",
          "quickMoves" : [
-            "STRUGGLE"
+            "BITE_FAST",
+            "EMBER_FAST"
          ],
          "stats" : {
             "baseAttack" : 174,

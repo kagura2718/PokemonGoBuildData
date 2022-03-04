@@ -37,7 +37,9 @@
          "cylinderRadiusM" : 1.5
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "FIRE_BLAST",
+         "FLAME_CHARGE",
+         "DARK_PULSE"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -95,7 +97,8 @@
       "pokedexWeightKg" : 83,
       "pokemonId" : "INCINEROAR",
       "quickMoves" : [
-         "STRUGGLE"
+         "SNARL_FAST",
+         "FIRE_FANG_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 3,
@@ -121,7 +124,9 @@
             "cylinderRadiusM" : 1.5
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "FIRE_BLAST",
+            "FLAME_CHARGE",
+            "DARK_PULSE"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -179,7 +184,8 @@
          "pokedexWeightKg" : 83,
          "pokemonId" : "INCINEROAR",
          "quickMoves" : [
-            "STRUGGLE"
+            "SNARL_FAST",
+            "FIRE_FANG_FAST"
          ],
          "stats" : {
             "baseAttack" : 214,

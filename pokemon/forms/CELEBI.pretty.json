@@ -50,6 +50,9 @@
          "SEED_BOMB",
          "LEAF_STORM"
       ],
+      "eliteQuickMove" : [
+         "MAGICAL_LEAF_FAST"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 20,
@@ -119,6 +122,9 @@
             "DAZZLING_GLEAM",
             "SEED_BOMB",
             "LEAF_STORM"
+         ],
+         "eliteQuickMove" : [
+            "MAGICAL_LEAF_FAST"
          ],
          "encounter" : {
             "attackProbability" : 0.1,

@@ -36,7 +36,9 @@
          "cylinderRadiusM" : 0.3125
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SEED_BOMB",
+         "ENERGY_BALL",
+         "BRAVE_BIRD"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -101,7 +103,8 @@
       "pokedexWeightKg" : 16,
       "pokemonId" : "DARTRIX",
       "quickMoves" : [
-         "STRUGGLE"
+         "PECK_FAST",
+         "RAZOR_LEAF_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 5,
@@ -126,7 +129,9 @@
             "cylinderRadiusM" : 0.3125
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SEED_BOMB",
+            "ENERGY_BALL",
+            "BRAVE_BIRD"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -191,7 +196,8 @@
          "pokedexWeightKg" : 16,
          "pokemonId" : "DARTRIX",
          "quickMoves" : [
-            "STRUGGLE"
+            "PECK_FAST",
+            "RAZOR_LEAF_FAST"
          ],
          "stats" : {
             "baseAttack" : 142,

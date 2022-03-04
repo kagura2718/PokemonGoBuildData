@@ -38,7 +38,9 @@
          "cylinderRadiusM" : 0.55
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DRILL_PECK",
+         "ROCK_BLAST",
+         "SKY_ATTACK"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -78,7 +80,8 @@
       "pokedexWeightKg" : 14.8,
       "pokemonId" : "TRUMBEAK",
       "quickMoves" : [
-         "STRUGGLE"
+         "PECK_FAST",
+         "ROCK_SMASH_FAST"
       ],
       "raidBossDistanceOffset" : 1,
       "raw" : {
@@ -106,7 +109,9 @@
             "cylinderRadiusM" : 0.55
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DRILL_PECK",
+            "ROCK_BLAST",
+            "SKY_ATTACK"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -146,7 +151,8 @@
          "pokedexWeightKg" : 14.8,
          "pokemonId" : "TRUMBEAK",
          "quickMoves" : [
-            "STRUGGLE"
+            "PECK_FAST",
+            "ROCK_SMASH_FAST"
          ],
          "raidBossDistanceOffset" : 1,
          "stats" : {

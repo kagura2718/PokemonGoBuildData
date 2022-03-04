@@ -37,7 +37,9 @@
          "cylinderRadiusM" : 0.19
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DRILL_PECK",
+         "AERIAL_ACE",
+         "SKY_ATTACK"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -73,7 +75,8 @@
       "pokedexWeightKg" : 1.2,
       "pokemonId" : "PIKIPEK",
       "quickMoves" : [
-         "STRUGGLE"
+         "PECK_FAST",
+         "ROCK_SMASH_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 4,
@@ -99,7 +102,9 @@
             "cylinderRadiusM" : 0.19
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DRILL_PECK",
+            "AERIAL_ACE",
+            "SKY_ATTACK"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -135,7 +140,8 @@
          "pokedexWeightKg" : 1.2,
          "pokemonId" : "PIKIPEK",
          "quickMoves" : [
-            "STRUGGLE"
+            "PECK_FAST",
+            "ROCK_SMASH_FAST"
          ],
          "stats" : {
             "baseAttack" : 136,

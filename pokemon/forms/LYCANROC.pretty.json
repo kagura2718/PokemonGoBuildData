@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.47
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "STONE_EDGE",
+         "DRILL_RUN",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -67,7 +69,8 @@
       "pokedexWeightKg" : 25,
       "pokemonId" : "LYCANROC",
       "quickMoves" : [
-         "STRUGGLE"
+         "SUCKER_PUNCH_FAST",
+         "ROCK_THROW_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -92,7 +95,9 @@
             "cylinderRadiusM" : 0.47
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "STONE_EDGE",
+            "DRILL_RUN",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -125,7 +130,8 @@
          "pokedexWeightKg" : 25,
          "pokemonId" : "LYCANROC",
          "quickMoves" : [
-            "STRUGGLE"
+            "SUCKER_PUNCH_FAST",
+            "ROCK_THROW_FAST"
          ],
          "stats" : {
             "baseAttack" : 231,
@@ -340,7 +346,9 @@
          "cylinderRadiusM" : 0.47
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "STONE_EDGE",
+         "DRILL_RUN",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -374,7 +382,8 @@
       "pokedexWeightKg" : 25,
       "pokemonId" : "LYCANROC",
       "quickMoves" : [
-         "STRUGGLE"
+         "SUCKER_PUNCH_FAST",
+         "ROCK_THROW_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -399,7 +408,9 @@
             "cylinderRadiusM" : 0.47
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "STONE_EDGE",
+            "DRILL_RUN",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -433,7 +444,8 @@
          "pokedexWeightKg" : 25,
          "pokemonId" : "LYCANROC",
          "quickMoves" : [
-            "STRUGGLE"
+            "SUCKER_PUNCH_FAST",
+            "ROCK_THROW_FAST"
          ],
          "stats" : {
             "baseAttack" : 231,
@@ -494,7 +506,9 @@
          "cylinderRadiusM" : 0.6
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "STONE_EDGE",
+         "PSYCHIC_FANGS",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -528,7 +542,8 @@
       "pokedexWeightKg" : 25,
       "pokemonId" : "LYCANROC",
       "quickMoves" : [
-         "STRUGGLE"
+         "COUNTER_FAST",
+         "ROCK_THROW_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -553,7 +568,9 @@
             "cylinderRadiusM" : 0.6
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "STONE_EDGE",
+            "PSYCHIC_FANGS",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -587,7 +604,8 @@
          "pokedexWeightKg" : 25,
          "pokemonId" : "LYCANROC",
          "quickMoves" : [
-            "STRUGGLE"
+            "COUNTER_FAST",
+            "ROCK_THROW_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,

@@ -48,7 +48,8 @@
       "evolutionBranch" : [
          {
             "candyCost" : 50,
-            "evolution" : "LURANTIS"
+            "evolution" : "LURANTIS",
+            "onlyDaytime" : true
          }
       ],
       "familyId" : "FAMILY_FOMANTIS",
@@ -102,7 +103,8 @@
          "evolutionBranch" : [
             {
                "candyCost" : 50,
-               "evolution" : "LURANTIS"
+               "evolution" : "LURANTIS",
+               "onlyDaytime" : true
             }
          ],
          "familyId" : "FAMILY_FOMANTIS",

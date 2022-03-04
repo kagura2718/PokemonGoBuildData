@@ -37,7 +37,9 @@
          "cylinderRadiusM" : 1.8
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DRILL_PECK",
+         "ROCK_BLAST",
+         "FLASH_CANNON"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -71,7 +73,9 @@
       "pokedexWeightKg" : 26,
       "pokemonId" : "TOUCANNON",
       "quickMoves" : [
-         "STRUGGLE"
+         "PECK_FAST",
+         "ROCK_SMASH_FAST",
+         "BULLET_SEED_FAST"
       ],
       "raidBossDistanceOffset" : 4.5,
       "raw" : {
@@ -98,7 +102,9 @@
             "cylinderRadiusM" : 1.8
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DRILL_PECK",
+            "ROCK_BLAST",
+            "FLASH_CANNON"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -132,7 +138,9 @@
          "pokedexWeightKg" : 26,
          "pokemonId" : "TOUCANNON",
          "quickMoves" : [
-            "STRUGGLE"
+            "PECK_FAST",
+            "ROCK_SMASH_FAST",
+            "BULLET_SEED_FAST"
          ],
          "raidBossDistanceOffset" : 4.5,
          "stats" : {

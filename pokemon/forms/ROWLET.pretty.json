@@ -36,7 +36,8 @@
          "cylinderRadiusM" : 0.25
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SEED_BOMB",
+         "ENERGY_BALL"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -97,7 +98,8 @@
       "pokedexWeightKg" : 1.5,
       "pokemonId" : "ROWLET",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "RAZOR_LEAF_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 4,
@@ -122,7 +124,8 @@
             "cylinderRadiusM" : 0.25
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SEED_BOMB",
+            "ENERGY_BALL"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -183,7 +186,8 @@
          "pokedexWeightKg" : 1.5,
          "pokemonId" : "ROWLET",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "RAZOR_LEAF_FAST"
          ],
          "stats" : {
             "baseAttack" : 102,

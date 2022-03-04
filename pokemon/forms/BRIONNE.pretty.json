@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.6
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "AQUA_JET",
+         "WATER_PULSE",
+         "DISARMING_VOICE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -74,7 +76,8 @@
       "pokedexWeightKg" : 17.5,
       "pokemonId" : "BRIONNE",
       "quickMoves" : [
-         "STRUGGLE"
+         "CHARM_FAST",
+         "WATER_GUN_FAST"
       ],
       "raidBossDistanceOffset" : 1,
       "raw" : {
@@ -100,7 +103,9 @@
             "cylinderRadiusM" : 0.6
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "AQUA_JET",
+            "WATER_PULSE",
+            "DISARMING_VOICE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -140,7 +145,8 @@
          "pokedexWeightKg" : 17.5,
          "pokemonId" : "BRIONNE",
          "quickMoves" : [
-            "STRUGGLE"
+            "CHARM_FAST",
+            "WATER_GUN_FAST"
          ],
          "raidBossDistanceOffset" : 1,
          "stats" : {

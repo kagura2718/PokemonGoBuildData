@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.28
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "PETAL_BLIZZARD",
+         "GRASS_KNOT",
+         "DRAINING_KISS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -63,7 +65,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "COMFEY",
       "quickMoves" : [
-         "STRUGGLE"
+         "VINE_WHIP_FAST",
+         "HIDDEN_POWER_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -88,7 +91,9 @@
             "cylinderRadiusM" : 0.28
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "PETAL_BLIZZARD",
+            "GRASS_KNOT",
+            "DRAINING_KISS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -117,7 +122,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "COMFEY",
          "quickMoves" : [
-            "STRUGGLE"
+            "VINE_WHIP_FAST",
+            "HIDDEN_POWER_FAST"
          ],
          "stats" : {
             "baseAttack" : 165,

@@ -36,7 +36,9 @@
          "cylinderRadiusM" : 0.55
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DRAGON_CLAW",
+         "BRICK_BREAK",
+         "DRAGON_PULSE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -75,7 +77,8 @@
       "pokedexWeightKg" : 47,
       "pokemonId" : "HAKAMO_O",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "DRAGON_TAIL_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -100,7 +103,9 @@
             "cylinderRadiusM" : 0.55
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DRAGON_CLAW",
+            "BRICK_BREAK",
+            "DRAGON_PULSE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -139,7 +144,8 @@
          "pokedexWeightKg" : 47,
          "pokemonId" : "HAKAMO_O",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "DRAGON_TAIL_FAST"
          ],
          "stats" : {
             "baseAttack" : 145,

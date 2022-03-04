@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.4
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "HYPER_FANG",
+         "CRUNCH",
+         "ROCK_TOMB"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -67,7 +69,8 @@
       "pokedexWeightKg" : 14.2,
       "pokemonId" : "GUMSHOOS",
       "quickMoves" : [
-         "STRUGGLE"
+         "TAKE_DOWN_FAST",
+         "BITE_FAST"
       ],
       "raidBossDistanceOffset" : 2,
       "raw" : {
@@ -93,7 +96,9 @@
             "cylinderRadiusM" : 0.4
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "HYPER_FANG",
+            "CRUNCH",
+            "ROCK_TOMB"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -126,7 +131,8 @@
          "pokedexWeightKg" : 14.2,
          "pokemonId" : "GUMSHOOS",
          "quickMoves" : [
-            "STRUGGLE"
+            "TAKE_DOWN_FAST",
+            "BITE_FAST"
          ],
          "raidBossDistanceOffset" : 2,
          "stats" : {

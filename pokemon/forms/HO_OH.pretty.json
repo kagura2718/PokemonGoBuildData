@@ -55,7 +55,8 @@
          "SOLAR_BEAM"
       ],
       "eliteCinematicMove" : [
-         "EARTHQUAKE"
+         "EARTHQUAKE",
+         "SACRED_FIRE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -140,7 +141,8 @@
             "SOLAR_BEAM"
          ],
          "eliteCinematicMove" : [
-            "EARTHQUAKE"
+            "EARTHQUAKE",
+            "SACRED_FIRE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -277,7 +279,8 @@
          "SOLAR_BEAM"
       ],
       "eliteCinematicMove" : [
-         "EARTHQUAKE"
+         "EARTHQUAKE",
+         "SACRED_FIRE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -363,7 +366,8 @@
             "SOLAR_BEAM"
          ],
          "eliteCinematicMove" : [
-            "EARTHQUAKE"
+            "EARTHQUAKE",
+            "SACRED_FIRE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,

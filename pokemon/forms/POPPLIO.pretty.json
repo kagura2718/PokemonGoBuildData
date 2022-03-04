@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.5
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "AQUA_JET",
+         "WATER_PULSE",
+         "AQUA_TAIL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -70,7 +72,8 @@
       "pokedexWeightKg" : 7.5,
       "pokemonId" : "POPPLIO",
       "quickMoves" : [
-         "STRUGGLE"
+         "POUND_FAST",
+         "WATER_GUN_FAST"
       ],
       "raidBossDistanceOffset" : 5,
       "raw" : {
@@ -96,7 +99,9 @@
             "cylinderRadiusM" : 0.5
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "AQUA_JET",
+            "WATER_PULSE",
+            "AQUA_TAIL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -132,7 +137,8 @@
          "pokedexWeightKg" : 7.5,
          "pokemonId" : "POPPLIO",
          "quickMoves" : [
-            "STRUGGLE"
+            "POUND_FAST",
+            "WATER_GUN_FAST"
          ],
          "raidBossDistanceOffset" : 5,
          "stats" : {

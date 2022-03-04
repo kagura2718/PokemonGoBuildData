@@ -528,6 +528,7 @@
          {
             "candyCost" : 50,
             "evolution" : "ELECTRODE",
+            "form" : "ELECTRODE_NORMAL",
             "purificationEvolutionCandyCost" : 45
          }
       ],
@@ -615,6 +616,7 @@
             {
                "candyCost" : 50,
                "evolution" : "ELECTRODE",
+               "form" : "ELECTRODE_NORMAL",
                "purificationEvolutionCandyCost" : 45
             }
          ],

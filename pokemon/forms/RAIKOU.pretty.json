@@ -448,8 +448,7 @@
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 20,
-         "baseCaptureRate" : 0.02,
-         "baseFleeRate" : 0.04,
+         "baseFleeRate" : 1,
          "bonusXlCandyCaptureReward" : 3,
          "cameraDistance" : 5.25,
          "collisionHeadRadiusM" : 0.4,
@@ -524,8 +523,7 @@
          "encounter" : {
             "attackProbability" : 0.1,
             "attackTimerS" : 20,
-            "baseCaptureRate" : 0.02,
-            "baseFleeRate" : 0.04,
+            "baseFleeRate" : 1,
             "bonusXlCandyCaptureReward" : 3,
             "cameraDistance" : 5.25,
             "collisionHeadRadiusM" : 0.4,

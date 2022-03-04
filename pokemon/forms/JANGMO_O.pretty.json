@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.22
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DRAGON_CLAW",
+         "BRICK_BREAK",
+         "DRAGON_PULSE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -69,7 +71,8 @@
       "pokedexWeightKg" : 29.7,
       "pokemonId" : "JANGMO_O",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "DRAGON_TAIL_FAST"
       ],
       "raidBossDistanceOffset" : 5,
       "raw" : {
@@ -95,7 +98,9 @@
             "cylinderRadiusM" : 0.22
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DRAGON_CLAW",
+            "BRICK_BREAK",
+            "DRAGON_PULSE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -130,7 +135,8 @@
          "pokedexWeightKg" : 29.7,
          "pokemonId" : "JANGMO_O",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "DRAGON_TAIL_FAST"
          ],
          "raidBossDistanceOffset" : 5,
          "stats" : {

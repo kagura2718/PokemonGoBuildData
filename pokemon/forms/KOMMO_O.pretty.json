@@ -37,7 +37,9 @@
          "cylinderRadiusM" : 0.8
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DRAGON_CLAW",
+         "CLOSE_COMBAT",
+         "FLAMETHROWER"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -70,7 +72,8 @@
       "pokedexWeightKg" : 78.2,
       "pokemonId" : "KOMMO_O",
       "quickMoves" : [
-         "STRUGGLE"
+         "POISON_JAB_FAST",
+         "DRAGON_TAIL_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 3,
@@ -96,7 +99,9 @@
             "cylinderRadiusM" : 0.8
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DRAGON_CLAW",
+            "CLOSE_COMBAT",
+            "FLAMETHROWER"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -129,7 +134,8 @@
          "pokedexWeightKg" : 78.2,
          "pokemonId" : "KOMMO_O",
          "quickMoves" : [
-            "STRUGGLE"
+            "POISON_JAB_FAST",
+            "DRAGON_TAIL_FAST"
          ],
          "stats" : {
             "baseAttack" : 222,
