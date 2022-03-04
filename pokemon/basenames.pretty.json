@@ -2,26 +2,42 @@
    "conversion" : {
       "Farfetch'd" : "FARFETCHD",
       "Flabébé" : "FLABEBE",
+      "Hakamo-o" : "HAKAMO_O",
       "Ho-Oh" : "HO_OH",
+      "Jangmo-o" : "JANGMO_O",
+      "Kommo-o" : "KOMMO_O",
       "Mime Jr." : "MIME_JR",
       "Mr. Mime" : "MR_MIME",
       "Mr. Rime" : "MR_RIME",
       "Nidoran♀" : "NIDORAN_FEMALE",
       "Nidoran♂" : "NIDORAN_MALE",
       "Porygon-Z" : "PORYGON_Z",
-      "Sirfetch'd" : "SIRFETCHD"
+      "Sirfetch'd" : "SIRFETCHD",
+      "Tapu Bulu" : "TAPU_BULU",
+      "Tapu Fini" : "TAPU_FINI",
+      "Tapu Koko" : "TAPU_KOKO",
+      "Tapu Lele" : "TAPU_LELE",
+      "Type:Null" : "TYPE_NULL"
    },
    "conversionInv" : {
       "FARFETCHD" : "Farfetch'd",
       "FLABEBE" : "Flabébé",
+      "HAKAMO_O" : "Hakamo-o",
       "HO_OH" : "Ho-Oh",
+      "JANGMO_O" : "Jangmo-o",
+      "KOMMO_O" : "Kommo-o",
       "MIME_JR" : "Mime Jr.",
       "MR_MIME" : "Mr. Mime",
       "MR_RIME" : "Mr. Rime",
       "NIDORAN_FEMALE" : "Nidoran♀",
       "NIDORAN_MALE" : "Nidoran♂",
       "PORYGON_Z" : "Porygon-Z",
-      "SIRFETCHD" : "Sirfetch'd"
+      "SIRFETCHD" : "Sirfetch'd",
+      "TAPU_BULU" : "Tapu Bulu",
+      "TAPU_FINI" : "Tapu Fini",
+      "TAPU_KOKO" : "Tapu Koko",
+      "TAPU_LELE" : "Tapu Lele",
+      "TYPE_NULL" : "Type:Null"
    },
    "evolutionMap" : {
       "ABOMASNOW" : [
