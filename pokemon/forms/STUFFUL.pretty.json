@@ -12,9 +12,9 @@
          0
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         -15,
+         30,
+         -100
       ],
       "buddyScale" : 19,
       "built" : {
@@ -31,18 +31,49 @@
             "baseStamina" : 172
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 0.55,
+         "cylinderRadiusM" : 0.62
+      },
       "cinematicMoves" : [
          "STRUGGLE"
+      ],
+      "combatDefaultCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatOpponentFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerPokemonPositionOffset" : [
+         0,
+         0,
+         0
+      ],
+      "combatShoulderCameraAngle" : [
+         0,
+         0,
+         0
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.5,
          "baseFleeRate" : 0.1,
          "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionRadiusM" : 0.15,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -59,8 +90,8 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 0.673,
+      "modelScaleV2" : 1.35,
       "pokedexHeightM" : 0.5,
       "pokedexWeightKg" : 6.8,
       "pokemonId" : "STUFFUL",
@@ -80,23 +111,54 @@
             0
          ],
          "buddyPortraitOffset" : [
+            -15,
+            30,
+            -100
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.55,
+            "cylinderRadiusM" : 0.62
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "combatDefaultCameraAngle" : [
             0,
             0,
             0
          ],
-         "buddyScale" : 19,
-         "camera" : {},
-         "cinematicMoves" : [
-            "STRUGGLE"
+         "combatOpponentFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerPokemonPositionOffset" : [
+            0,
+            0,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            0,
+            0,
+            0
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.5,
             "baseFleeRate" : 0.1,
             "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionRadiusM" : 0.15,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -113,8 +175,8 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 0.673,
+         "modelScaleV2" : 1.35,
          "pokedexHeightM" : 0.5,
          "pokedexWeightKg" : 6.8,
          "pokemonId" : "STUFFUL",

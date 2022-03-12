@@ -1,22 +1,23 @@
 [
    {
-      "buddyGroupNumber" : 2,
+      "buddyGroupNumber" : 3,
       "buddyOffsetFemale" : [
+         27.5,
          0,
-         0,
-         0
+         65
       ],
       "buddyOffsetMale" : [
+         27.5,
          0,
-         0,
-         0
+         65
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         150,
+         20,
+         -1450
       ],
       "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
       "built" : {
          "pokedexNumber" : 760,
          "pokemonType" : 0,
@@ -31,9 +32,37 @@
             "baseStamina" : 260
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 2.15,
+         "cylinderRadiusM" : 1.25
+      },
       "cinematicMoves" : [
          "STRUGGLE"
+      ],
+      "combatDefaultCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatOpponentFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerFocusCameraAngle" : [
+         0,
+         0,
+         0
+      ],
+      "combatPlayerPokemonPositionOffset" : [
+         0,
+         0,
+         0
+      ],
+      "combatShoulderCameraAngle" : [
+         0,
+         0,
+         0
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -42,10 +71,13 @@
          "bonusCandyCaptureReward" : 2,
          "bonusStardustCaptureReward" : 200,
          "bonusXlCandyCaptureReward" : 1,
-         "cameraDistance" : 4,
+         "cameraDistance" : 4.5,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionRadiusM" : 0.7,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -56,8 +88,8 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 1.56,
+      "modelScaleV2" : 0.71,
       "parentPokemonId" : "STUFFUL",
       "pokedexHeightM" : 2.1,
       "pokedexWeightKg" : 135,
@@ -66,26 +98,55 @@
          "STRUGGLE"
       ],
       "raw" : {
-         "buddyGroupNumber" : 2,
+         "buddyGroupNumber" : 3,
          "buddyOffsetFemale" : [
+            27.5,
             0,
-            0,
-            0
+            65
          ],
          "buddyOffsetMale" : [
+            27.5,
             0,
-            0,
-            0
+            65
          ],
          "buddyPortraitOffset" : [
+            150,
+            20,
+            -1450
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 2.15,
+            "cylinderRadiusM" : 1.25
+         },
+         "cinematicMoves" : [
+            "STRUGGLE"
+         ],
+         "combatDefaultCameraAngle" : [
             0,
             0,
             0
          ],
-         "buddyScale" : 19,
-         "camera" : {},
-         "cinematicMoves" : [
-            "STRUGGLE"
+         "combatOpponentFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerFocusCameraAngle" : [
+            0,
+            0,
+            0
+         ],
+         "combatPlayerPokemonPositionOffset" : [
+            0,
+            0,
+            0
+         ],
+         "combatShoulderCameraAngle" : [
+            0,
+            0,
+            0
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -94,10 +155,13 @@
             "bonusCandyCaptureReward" : 2,
             "bonusStardustCaptureReward" : 200,
             "bonusXlCandyCaptureReward" : 1,
-            "cameraDistance" : 4,
+            "cameraDistance" : 4.5,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionRadiusM" : 0.7,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -108,8 +172,8 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 1.56,
+         "modelScaleV2" : 0.71,
          "parentPokemonId" : "STUFFUL",
          "pokedexHeightM" : 2.1,
          "pokedexWeightKg" : 135,

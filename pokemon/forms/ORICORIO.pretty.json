@@ -1,0 +1,780 @@
+[
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyOffsetMale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 741,
+         "pokemonType" : 9,
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 9,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.45
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "AIR_CUTTER",
+         "HURRICANE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_ORICORIO",
+      "heightStdDev" : 0.075,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.73,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.6,
+      "pokedexWeightKg" : 3.4,
+      "pokemonId" : "ORICORIO",
+      "quickMoves" : [
+         "POUND_FAST",
+         "AIR_SLASH_FAST"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyOffsetMale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.75,
+            "cylinderRadiusM" : 0.45
+         },
+         "cinematicMoves" : [
+            "AERIAL_ACE",
+            "AIR_CUTTER",
+            "HURRICANE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_ORICORIO",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.73,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 3.4,
+         "pokemonId" : "ORICORIO",
+         "quickMoves" : [
+            "POUND_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.425
+      },
+      "stats" : {
+         "baseAttack" : 196,
+         "baseDefense" : 145,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.425
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyOffsetMale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 741,
+         "pokemonType" : 9,
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 9,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.9,
+         "cylinderRadiusM" : 0.45
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "AIR_CUTTER",
+         "HURRICANE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_ORICORIO",
+      "form" : "ORICORIO_BAILE",
+      "heightStdDev" : 0.075,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.73,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.6,
+      "pokedexWeightKg" : 3.4,
+      "pokemonId" : "ORICORIO",
+      "quickMoves" : [
+         "POUND_FAST",
+         "AIR_SLASH_FAST"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyOffsetMale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.9,
+            "cylinderRadiusM" : 0.45
+         },
+         "cinematicMoves" : [
+            "AERIAL_ACE",
+            "AIR_CUTTER",
+            "HURRICANE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_ORICORIO",
+         "form" : "ORICORIO_BAILE",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.73,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 3.4,
+         "pokemonId" : "ORICORIO",
+         "quickMoves" : [
+            "POUND_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.425
+      },
+      "stats" : {
+         "baseAttack" : 196,
+         "baseDefense" : 145,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.425
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyOffsetMale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 741,
+         "pokemonType" : 13,
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 13,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.45
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "AIR_CUTTER",
+         "HURRICANE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_ORICORIO",
+      "form" : "ORICORIO_PAU",
+      "heightStdDev" : 0.075,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.73,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.6,
+      "pokedexWeightKg" : 3.4,
+      "pokemonId" : "ORICORIO",
+      "quickMoves" : [
+         "POUND_FAST",
+         "AIR_SLASH_FAST"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyOffsetMale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.75,
+            "cylinderRadiusM" : 0.45
+         },
+         "cinematicMoves" : [
+            "AERIAL_ACE",
+            "AIR_CUTTER",
+            "HURRICANE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_ORICORIO",
+         "form" : "ORICORIO_PAU",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.73,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 3.4,
+         "pokemonId" : "ORICORIO",
+         "quickMoves" : [
+            "POUND_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.425
+      },
+      "stats" : {
+         "baseAttack" : 196,
+         "baseDefense" : 145,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.425
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyOffsetMale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 741,
+         "pokemonType" : 12,
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 12,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.45
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "AIR_CUTTER",
+         "HURRICANE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_ORICORIO",
+      "form" : "ORICORIO_POMPOM",
+      "heightStdDev" : 0.075,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.73,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.6,
+      "pokedexWeightKg" : 3.4,
+      "pokemonId" : "ORICORIO",
+      "quickMoves" : [
+         "POUND_FAST",
+         "AIR_SLASH_FAST"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyOffsetMale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.75,
+            "cylinderRadiusM" : 0.45
+         },
+         "cinematicMoves" : [
+            "AERIAL_ACE",
+            "AIR_CUTTER",
+            "HURRICANE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_ORICORIO",
+         "form" : "ORICORIO_POMPOM",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.73,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 3.4,
+         "pokemonId" : "ORICORIO",
+         "quickMoves" : [
+            "POUND_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_ELECTRIC",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.425
+      },
+      "stats" : {
+         "baseAttack" : 196,
+         "baseDefense" : 145,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_ELECTRIC",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.425
+   },
+   {
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyOffsetMale" : [
+         4,
+         0,
+         -35
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 741,
+         "pokemonType" : 7,
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 7,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 0.75,
+         "cylinderRadiusM" : 0.45
+      },
+      "cinematicMoves" : [
+         "AERIAL_ACE",
+         "AIR_CUTTER",
+         "HURRICANE"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "baseCaptureRate" : 0.2,
+         "baseFleeRate" : 0.07,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.15,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.25,
+         "dodgeDistance" : 0.5,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementType" : "MOVEMENT_JUMP"
+      },
+      "familyId" : "FAMILY_ORICORIO",
+      "form" : "ORICORIO_SENSU",
+      "heightStdDev" : 0.075,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.6,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.6,
+      "pokedexWeightKg" : 3.4,
+      "pokemonId" : "ORICORIO",
+      "quickMoves" : [
+         "POUND_FAST",
+         "AIR_SLASH_FAST"
+      ],
+      "raw" : {
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyOffsetMale" : [
+            4,
+            0,
+            -35
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderHeightM" : 0.75,
+            "cylinderRadiusM" : 0.45
+         },
+         "cinematicMoves" : [
+            "AERIAL_ACE",
+            "AIR_CUTTER",
+            "HURRICANE"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "baseCaptureRate" : 0.2,
+            "baseFleeRate" : 0.07,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.15,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.25,
+            "dodgeDistance" : 0.5,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementType" : "MOVEMENT_JUMP"
+         },
+         "familyId" : "FAMILY_ORICORIO",
+         "form" : "ORICORIO_SENSU",
+         "heightStdDev" : 0.075,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.6,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.6,
+         "pokedexWeightKg" : 3.4,
+         "pokemonId" : "ORICORIO",
+         "quickMoves" : [
+            "POUND_FAST",
+            "AIR_SLASH_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 196,
+            "baseDefense" : 145,
+            "baseStamina" : 181
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_GHOST",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 0.425
+      },
+      "stats" : {
+         "baseAttack" : 196,
+         "baseDefense" : 145,
+         "baseStamina" : 181
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_GHOST",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 0.425
+   }
+]

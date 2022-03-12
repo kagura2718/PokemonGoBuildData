@@ -1,6 +1,6 @@
 [
    {
-      "buddyGroupNumber" : 2,
+      "buddyGroupNumber" : 1,
       "buddyOffsetFemale" : [
          0,
          0,
@@ -12,9 +12,9 @@
          0
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         -9,
+         -81,
+         -285
       ],
       "buddyScale" : 19,
       "built" : {
@@ -31,7 +31,10 @@
             "baseStamina" : 116
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 0.43,
+         "cylinderRadiusM" : 0.19
+      },
       "cinematicMoves" : [
          "STRUGGLE"
       ],
@@ -39,10 +42,14 @@
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.1,
-         "cameraDistance" : 4,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.26,
+         "collisionHeightM" : 0.19,
+         "collisionRadiusM" : 0.19,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -59,16 +66,17 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 0.3,
+      "modelScaleV2" : 0.714,
       "pokedexHeightM" : 0.3,
       "pokedexWeightKg" : 4,
       "pokemonId" : "DEWPIDER",
       "quickMoves" : [
          "STRUGGLE"
       ],
+      "raidBossDistanceOffset" : 3,
       "raw" : {
-         "buddyGroupNumber" : 2,
+         "buddyGroupNumber" : 1,
          "buddyOffsetFemale" : [
             0,
             0,
@@ -80,12 +88,15 @@
             0
          ],
          "buddyPortraitOffset" : [
-            0,
-            0,
-            0
+            -9,
+            -81,
+            -285
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 0.43,
+            "cylinderRadiusM" : 0.19
+         },
          "cinematicMoves" : [
             "STRUGGLE"
          ],
@@ -93,10 +104,14 @@
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.1,
-            "cameraDistance" : 4,
+            "cameraDistance" : 2,
+            "collisionHeadRadiusM" : 0.26,
+            "collisionHeightM" : 0.19,
+            "collisionRadiusM" : 0.19,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -113,14 +128,15 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 0.3,
+         "modelScaleV2" : 0.714,
          "pokedexHeightM" : 0.3,
          "pokedexWeightKg" : 4,
          "pokemonId" : "DEWPIDER",
          "quickMoves" : [
             "STRUGGLE"
          ],
+         "raidBossDistanceOffset" : 3,
          "stats" : {
             "baseAttack" : 72,
             "baseDefense" : 117,

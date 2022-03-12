@@ -2,19 +2,19 @@
    {
       "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
+         10,
          0,
-         0,
-         0
+         10
       ],
       "buddyOffsetMale" : [
+         10,
          0,
-         0,
-         0
+         10
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         -2,
+         18,
+         -200
       ],
       "buddyScale" : 19,
       "built" : {
@@ -31,7 +31,10 @@
             "baseStamina" : 134
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 0.22,
+         "cylinderRadiusM" : 0.19
+      },
       "cinematicMoves" : [
          "STRUGGLE"
       ],
@@ -39,10 +42,14 @@
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.1,
-         "cameraDistance" : 4,
+         "cameraDistance" : 2.5,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.25,
+         "collisionRadiusM" : 0.1,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -60,8 +67,8 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 0.6,
+      "modelScaleV2" : 2,
       "pokedexHeightM" : 0.6,
       "pokedexWeightKg" : 4.8,
       "pokemonId" : "SALANDIT",
@@ -71,22 +78,25 @@
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
+            10,
             0,
-            0,
-            0
+            10
          ],
          "buddyOffsetMale" : [
+            10,
             0,
-            0,
-            0
+            10
          ],
          "buddyPortraitOffset" : [
-            0,
-            0,
-            0
+            -2,
+            18,
+            -200
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 0.22,
+            "cylinderRadiusM" : 0.19
+         },
          "cinematicMoves" : [
             "STRUGGLE"
          ],
@@ -94,10 +104,14 @@
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.1,
-            "cameraDistance" : 4,
+            "cameraDistance" : 2.5,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.25,
+            "collisionRadiusM" : 0.1,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -115,8 +129,8 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 0.6,
+         "modelScaleV2" : 2,
          "pokedexHeightM" : 0.6,
          "pokedexWeightKg" : 4.8,
          "pokemonId" : "SALANDIT",

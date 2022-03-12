@@ -36,7 +36,10 @@
          "cylinderRadiusM" : 0.35
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "PSYSHOCK",
+         "MOONBLAST",
+         "FOCUS_BLAST",
+         "FUTURESIGHT"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -66,7 +69,8 @@
       "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
       "pokemonId" : "TAPU_LELE",
       "quickMoves" : [
-         "STRUGGLE"
+         "CONFUSION_FAST",
+         "ASTONISH_FAST"
       ],
       "raidBossDistanceOffset" : 4,
       "raw" : {
@@ -92,7 +96,10 @@
             "cylinderRadiusM" : 0.35
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "PSYSHOCK",
+            "MOONBLAST",
+            "FOCUS_BLAST",
+            "FUTURESIGHT"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -122,7 +129,8 @@
          "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
          "pokemonId" : "TAPU_LELE",
          "quickMoves" : [
-            "STRUGGLE"
+            "CONFUSION_FAST",
+            "ASTONISH_FAST"
          ],
          "raidBossDistanceOffset" : 4,
          "stats" : {

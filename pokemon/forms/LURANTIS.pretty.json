@@ -2,19 +2,19 @@
    {
       "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
+         0.6,
          0,
-         0,
-         0
+         24
       ],
       "buddyOffsetMale" : [
+         0.6,
          0,
-         0,
-         0
+         24
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         21,
+         -71,
+         -575
       ],
       "buddyScale" : 19,
       "built" : {
@@ -29,7 +29,10 @@
             "baseStamina" : 172
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 1.15,
+         "cylinderRadiusM" : 0.55
+      },
       "cinematicMoves" : [
          "STRUGGLE"
       ],
@@ -40,10 +43,14 @@
          "bonusCandyCaptureReward" : 2,
          "bonusStardustCaptureReward" : 200,
          "bonusXlCandyCaptureReward" : 1,
-         "cameraDistance" : 4,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.37,
+         "collisionHeightM" : 0.5,
+         "collisionRadiusM" : 0.5,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -54,8 +61,8 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 0.9,
+      "modelScaleV2" : 0.82,
       "parentPokemonId" : "FOMANTIS",
       "pokedexHeightM" : 0.9,
       "pokedexWeightKg" : 18.5,
@@ -63,25 +70,29 @@
       "quickMoves" : [
          "STRUGGLE"
       ],
+      "raidBossDistanceOffset" : 2,
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
+            0.6,
             0,
-            0,
-            0
+            24
          ],
          "buddyOffsetMale" : [
+            0.6,
             0,
-            0,
-            0
+            24
          ],
          "buddyPortraitOffset" : [
-            0,
-            0,
-            0
+            21,
+            -71,
+            -575
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 1.15,
+            "cylinderRadiusM" : 0.55
+         },
          "cinematicMoves" : [
             "STRUGGLE"
          ],
@@ -92,10 +103,14 @@
             "bonusCandyCaptureReward" : 2,
             "bonusStardustCaptureReward" : 200,
             "bonusXlCandyCaptureReward" : 1,
-            "cameraDistance" : 4,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.37,
+            "collisionHeightM" : 0.5,
+            "collisionRadiusM" : 0.5,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -106,8 +121,8 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 0.9,
+         "modelScaleV2" : 0.82,
          "parentPokemonId" : "FOMANTIS",
          "pokedexHeightM" : 0.9,
          "pokedexWeightKg" : 18.5,
@@ -115,6 +130,7 @@
          "quickMoves" : [
             "STRUGGLE"
          ],
+         "raidBossDistanceOffset" : 2,
          "stats" : {
             "baseAttack" : 192,
             "baseDefense" : 169,
