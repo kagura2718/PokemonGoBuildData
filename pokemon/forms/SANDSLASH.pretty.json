@@ -45,6 +45,9 @@
          "ROCK_TOMB",
          "BULLDOZE"
       ],
+      "eliteCinematicMove" : [
+         "NIGHT_SLASH"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 4,
@@ -120,6 +123,9 @@
             "EARTHQUAKE",
             "ROCK_TOMB",
             "BULLDOZE"
+         ],
+         "eliteCinematicMove" : [
+            "NIGHT_SLASH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -249,6 +255,9 @@
          "BULLDOZE",
          "ICE_PUNCH"
       ],
+      "eliteQuickMove" : [
+         "SHADOW_CLAW_FAST"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 4,
@@ -326,6 +335,9 @@
             "GYRO_BALL",
             "BULLDOZE",
             "ICE_PUNCH"
+         ],
+         "eliteQuickMove" : [
+            "SHADOW_CLAW_FAST"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -454,6 +466,9 @@
          "ROCK_TOMB",
          "BULLDOZE"
       ],
+      "eliteCinematicMove" : [
+         "NIGHT_SLASH"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 4,
@@ -530,6 +545,9 @@
             "EARTHQUAKE",
             "ROCK_TOMB",
             "BULLDOZE"
+         ],
+         "eliteCinematicMove" : [
+            "NIGHT_SLASH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
