@@ -34,7 +34,10 @@
          "cylinderRadiusM" : 0.55
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "LEAF_BLADE",
+         "LEAF_STORM",
+         "SUPER_POWER",
+         "X_SCISSOR"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -68,7 +71,8 @@
       "pokedexWeightKg" : 18.5,
       "pokemonId" : "LURANTIS",
       "quickMoves" : [
-         "STRUGGLE"
+         "RAZOR_LEAF_FAST",
+         "FURY_CUTTER_FAST"
       ],
       "raidBossDistanceOffset" : 2,
       "raw" : {
@@ -94,7 +98,10 @@
             "cylinderRadiusM" : 0.55
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "LEAF_BLADE",
+            "LEAF_STORM",
+            "SUPER_POWER",
+            "X_SCISSOR"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -128,7 +135,8 @@
          "pokedexWeightKg" : 18.5,
          "pokemonId" : "LURANTIS",
          "quickMoves" : [
-            "STRUGGLE"
+            "RAZOR_LEAF_FAST",
+            "FURY_CUTTER_FAST"
          ],
          "raidBossDistanceOffset" : 2,
          "stats" : {

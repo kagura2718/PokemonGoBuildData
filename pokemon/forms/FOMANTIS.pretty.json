@@ -14,7 +14,7 @@
       "buddyPortraitOffset" : [
          4,
          -82,
-         -383
+         -230
       ],
       "buddyScale" : 19,
       "built" : {
@@ -34,7 +34,9 @@
          "cylinderRadiusM" : 0.13
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "LEAF_BLADE",
+         "ENERGY_BALL",
+         "GRASS_KNOT"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -90,13 +92,14 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 0.3,
-      "modelScaleV2" : 1.03,
+      "modelHeight" : 0.4,
+      "modelScaleV2" : 1.27,
       "pokedexHeightM" : 0.3,
       "pokedexWeightKg" : 1.5,
       "pokemonId" : "FOMANTIS",
       "quickMoves" : [
-         "STRUGGLE"
+         "RAZOR_LEAF_FAST",
+         "FURY_CUTTER_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 1,
@@ -113,7 +116,7 @@
          "buddyPortraitOffset" : [
             4,
             -82,
-            -383
+            -230
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -121,7 +124,9 @@
             "cylinderRadiusM" : 0.13
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "LEAF_BLADE",
+            "ENERGY_BALL",
+            "GRASS_KNOT"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -177,13 +182,14 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 0.3,
-         "modelScaleV2" : 1.03,
+         "modelHeight" : 0.4,
+         "modelScaleV2" : 1.27,
          "pokedexHeightM" : 0.3,
          "pokedexWeightKg" : 1.5,
          "pokemonId" : "FOMANTIS",
          "quickMoves" : [
-            "STRUGGLE"
+            "RAZOR_LEAF_FAST",
+            "FURY_CUTTER_FAST"
          ],
          "stats" : {
             "baseAttack" : 100,
