@@ -2,19 +2,19 @@
    {
       "buddyGroupNumber" : 3,
       "buddyOffsetFemale" : [
-         27.5,
+         10,
          0,
-         65
+         45
       ],
       "buddyOffsetMale" : [
-         27.5,
+         10,
          0,
-         65
+         45
       ],
       "buddyPortraitOffset" : [
          150,
          20,
-         -1450
+         -975
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
@@ -37,7 +37,9 @@
          "cylinderRadiusM" : 1.25
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SUPER_POWER",
+         "PAYBACK",
+         "STOMP"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -88,31 +90,33 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
-      "modelHeight" : 1.56,
-      "modelScaleV2" : 0.71,
+      "modelHeight" : 2.2,
+      "modelScaleV2" : 0.94,
       "parentPokemonId" : "STUFFUL",
       "pokedexHeightM" : 2.1,
       "pokedexWeightKg" : 135,
       "pokemonId" : "BEWEAR",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "LOW_KICK_FAST",
+         "SHADOW_CLAW_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 3,
          "buddyOffsetFemale" : [
-            27.5,
+            10,
             0,
-            65
+            45
          ],
          "buddyOffsetMale" : [
-            27.5,
+            10,
             0,
-            65
+            45
          ],
          "buddyPortraitOffset" : [
             150,
             20,
-            -1450
+            -975
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
@@ -121,7 +125,9 @@
             "cylinderRadiusM" : 1.25
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SUPER_POWER",
+            "PAYBACK",
+            "STOMP"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -172,14 +178,16 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
-         "modelHeight" : 1.56,
-         "modelScaleV2" : 0.71,
+         "modelHeight" : 2.2,
+         "modelScaleV2" : 0.94,
          "parentPokemonId" : "STUFFUL",
          "pokedexHeightM" : 2.1,
          "pokedexWeightKg" : 135,
          "pokemonId" : "BEWEAR",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "LOW_KICK_FAST",
+            "SHADOW_CLAW_FAST"
          ],
          "stats" : {
             "baseAttack" : 226,

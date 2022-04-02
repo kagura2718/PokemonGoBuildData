@@ -36,7 +36,9 @@
          "cylinderRadiusM" : 0.62
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SUPER_POWER",
+         "BRICK_BREAK",
+         "STOMP"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -96,7 +98,8 @@
       "pokedexWeightKg" : 6.8,
       "pokemonId" : "STUFFUL",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -121,7 +124,9 @@
             "cylinderRadiusM" : 0.62
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SUPER_POWER",
+            "BRICK_BREAK",
+            "STOMP"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -181,7 +186,8 @@
          "pokedexWeightKg" : 6.8,
          "pokemonId" : "STUFFUL",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 136,

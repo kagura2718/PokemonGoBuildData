@@ -14,7 +14,7 @@
       "buddyPortraitOffset" : [
          -9,
          -81,
-         -285
+         -100
       ],
       "buddyScale" : 19,
       "built" : {
@@ -36,7 +36,9 @@
          "cylinderRadiusM" : 0.19
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "WATER_PULSE",
+         "BUBBLE_BEAM",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -66,13 +68,14 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 0.3,
-      "modelScaleV2" : 0.714,
+      "modelHeight" : 0.52,
+      "modelScaleV2" : 1.2,
       "pokedexHeightM" : 0.3,
       "pokedexWeightKg" : 4,
       "pokemonId" : "DEWPIDER",
       "quickMoves" : [
-         "STRUGGLE"
+         "WATER_GUN_FAST",
+         "BUBBLE_FAST"
       ],
       "raidBossDistanceOffset" : 3,
       "raw" : {
@@ -90,7 +93,7 @@
          "buddyPortraitOffset" : [
             -9,
             -81,
-            -285
+            -100
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -98,7 +101,9 @@
             "cylinderRadiusM" : 0.19
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "WATER_PULSE",
+            "BUBBLE_BEAM",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -128,13 +133,14 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 0.3,
-         "modelScaleV2" : 0.714,
+         "modelHeight" : 0.52,
+         "modelScaleV2" : 1.2,
          "pokedexHeightM" : 0.3,
          "pokedexWeightKg" : 4,
          "pokemonId" : "DEWPIDER",
          "quickMoves" : [
-            "STRUGGLE"
+            "WATER_GUN_FAST",
+            "BUBBLE_FAST"
          ],
          "raidBossDistanceOffset" : 3,
          "stats" : {

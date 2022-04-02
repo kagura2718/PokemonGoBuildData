@@ -63,12 +63,16 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
          {
             "candyCost" : 50,
-            "evolution" : "CAMERUPT"
+            "evolution" : "CAMERUPT",
+            "purificationEvolutionCandyCost" : 45
          }
       ],
       "evolutionPips" : 1,
@@ -138,12 +142,16 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [
             {
                "candyCost" : 50,
-               "evolution" : "CAMERUPT"
+               "evolution" : "CAMERUPT",
+               "purificationEvolutionCandyCost" : 45
             }
          ],
          "evolutionPips" : 1,
@@ -163,6 +171,12 @@
             "EMBER_FAST",
             "TACKLE_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 119,
             "baseDefense" : 79,
@@ -175,6 +189,12 @@
          "type" : "POKEMON_TYPE_FIRE",
          "type2" : "POKEMON_TYPE_GROUND",
          "weightStdDev" : 3
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 119,

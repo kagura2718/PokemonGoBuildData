@@ -67,12 +67,16 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 10,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.5,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
          {
             "candyCost" : 25,
-            "evolution" : "LUXIO"
+            "evolution" : "LUXIO",
+            "purificationEvolutionCandyCost" : 22
          }
       ],
       "evolutionPips" : 1,
@@ -149,12 +153,16 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 10,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.5,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [
             {
                "candyCost" : 25,
-               "evolution" : "LUXIO"
+               "evolution" : "LUXIO",
+               "purificationEvolutionCandyCost" : 22
             }
          ],
          "evolutionPips" : 1,
@@ -175,6 +183,12 @@
             "SPARK_FAST"
          ],
          "raidBossDistanceOffset" : 3,
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 117,
             "baseDefense" : 64,
@@ -186,6 +200,12 @@
          },
          "type" : "POKEMON_TYPE_ELECTRIC",
          "weightStdDev" : 1.1875
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 117,

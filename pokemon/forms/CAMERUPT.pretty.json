@@ -67,7 +67,10 @@
          "jumpTimeS" : 1.1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
-         "movementTimerS" : 11
+         "movementTimerS" : 11,
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_NUMEL",
@@ -142,7 +145,10 @@
             "jumpTimeS" : 1.1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
-            "movementTimerS" : 11
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_NUMEL",
@@ -163,6 +169,12 @@
             "ROCK_SMASH_FAST"
          ],
          "raidBossDistanceOffset" : 3,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 194,
             "baseDefense" : 136,
@@ -175,6 +187,12 @@
          "type" : "POKEMON_TYPE_FIRE",
          "type2" : "POKEMON_TYPE_GROUND",
          "weightStdDev" : 27.5
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 194,

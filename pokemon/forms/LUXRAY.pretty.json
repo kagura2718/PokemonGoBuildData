@@ -69,7 +69,10 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 10,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.125,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_SHINX",
@@ -148,7 +151,10 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 10,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.125,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_SHINX",
@@ -169,6 +175,12 @@
             "SNARL_FAST",
             "HIDDEN_POWER_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 232,
             "baseDefense" : 156,
@@ -180,6 +192,12 @@
          },
          "type" : "POKEMON_TYPE_ELECTRIC",
          "weightStdDev" : 5.25
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 232,
