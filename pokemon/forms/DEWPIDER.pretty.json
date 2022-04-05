@@ -38,7 +38,7 @@
       "cinematicMoves" : [
          "WATER_PULSE",
          "BUBBLE_BEAM",
-         "CRUNCH"
+         "MIRROR_COAT"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -74,8 +74,8 @@
       "pokedexWeightKg" : 4,
       "pokemonId" : "DEWPIDER",
       "quickMoves" : [
-         "WATER_GUN_FAST",
-         "BUBBLE_FAST"
+         "INFESTATION_FAST",
+         "BUG_BITE_FAST"
       ],
       "raidBossDistanceOffset" : 3,
       "raw" : {
@@ -103,7 +103,7 @@
          "cinematicMoves" : [
             "WATER_PULSE",
             "BUBBLE_BEAM",
-            "CRUNCH"
+            "MIRROR_COAT"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -139,8 +139,8 @@
          "pokedexWeightKg" : 4,
          "pokemonId" : "DEWPIDER",
          "quickMoves" : [
-            "WATER_GUN_FAST",
-            "BUBBLE_FAST"
+            "INFESTATION_FAST",
+            "BUG_BITE_FAST"
          ],
          "raidBossDistanceOffset" : 3,
          "stats" : {

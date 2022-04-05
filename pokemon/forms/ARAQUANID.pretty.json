@@ -37,9 +37,8 @@
          "cylinderRadiusM" : 3.1
       },
       "cinematicMoves" : [
-         "LUNGE",
+         "BUG_BUZZ",
          "BUBBLE_BEAM",
-         "CRUNCH",
          "MIRROR_COAT"
       ],
       "encounter" : {
@@ -75,7 +74,7 @@
       "pokemonId" : "ARAQUANID",
       "quickMoves" : [
          "INFESTATION_FAST",
-         "BUBBLE_FAST"
+         "BUG_BITE_FAST"
       ],
       "raidBossDistanceOffset" : 8,
       "raw" : {
@@ -102,9 +101,8 @@
             "cylinderRadiusM" : 3.1
          },
          "cinematicMoves" : [
-            "LUNGE",
+            "BUG_BUZZ",
             "BUBBLE_BEAM",
-            "CRUNCH",
             "MIRROR_COAT"
          ],
          "encounter" : {
@@ -140,7 +138,7 @@
          "pokemonId" : "ARAQUANID",
          "quickMoves" : [
             "INFESTATION_FAST",
-            "BUBBLE_FAST"
+            "BUG_BITE_FAST"
          ],
          "raidBossDistanceOffset" : 8,
          "stats" : {

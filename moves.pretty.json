@@ -1674,10 +1674,12 @@
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2400,
+         "energyDelta" : -33,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 1,
-         "movesTypeWrap" : 1
+         "movesTypeWrap" : 1,
+         "power" : 50
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -1685,8 +1687,10 @@
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2400,
+         "energyDelta" : -33,
          "movementId" : "DRAIN_PUNCH",
          "pokemonType" : "POKEMON_TYPE_FIGHTING",
+         "power" : 50,
          "staminaLossScalar" : 0.01,
          "trainerLevelMax" : 100,
          "trainerLevelMin" : 1,
@@ -2520,7 +2524,6 @@
          "damageWindowStartMs" : 1000,
          "durationMs" : 2000,
          "energyDelta" : -33,
-         "isLocked" : true,
          "movementId" : "FRUSTRATION",
          "pokemonType" : "POKEMON_TYPE_NORMAL",
          "power" : 10,

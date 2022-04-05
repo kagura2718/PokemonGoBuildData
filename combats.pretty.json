@@ -819,6 +819,24 @@
          "vfxName" : "draining_kiss"
       }
    },
+   "DRAIN_PUNCH" : {
+      "built" : {
+         "energyDelta" : -40,
+         "movesType" : 1,
+         "power" : 20
+      },
+      "raw" : {
+         "buffs" : {
+            "attackerDefenseStatStageChange" : 1,
+            "buffActivationChance" : 1
+         },
+         "energyDelta" : -40,
+         "power" : 20,
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "uniqueId" : "DRAIN_PUNCH",
+         "vfxName" : "drain_punch"
+      }
+   },
    "DRILL_PECK" : {
       "built" : {
          "energyDelta" : -40,
