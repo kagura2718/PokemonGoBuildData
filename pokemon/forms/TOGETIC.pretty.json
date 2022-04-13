@@ -93,6 +93,9 @@
       "parentPokemonId" : "TOGEPI",
       "pokedexHeightM" : 0.61,
       "pokedexWeightKg" : 3.2,
+      "pokemonCostume" : [
+         "APRIL_2020_NOEVOLVE"
+      ],
       "pokemonId" : "TOGETIC",
       "quickMoves" : [
          "EXTRASENSORY_FAST",
@@ -178,6 +181,9 @@
          "parentPokemonId" : "TOGEPI",
          "pokedexHeightM" : 0.61,
          "pokedexWeightKg" : 3.2,
+         "pokemonCostume" : [
+            "APRIL_2020_NOEVOLVE"
+         ],
          "pokemonId" : "TOGETIC",
          "quickMoves" : [
             "EXTRASENSORY_FAST",

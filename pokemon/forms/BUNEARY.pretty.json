@@ -87,6 +87,9 @@
       "modelScaleV2" : 1.1,
       "pokedexHeightM" : 0.4,
       "pokedexWeightKg" : 5.5,
+      "pokemonCostume" : [
+         "APRIL_2020_NOEVOLVE"
+      ],
       "pokemonId" : "BUNEARY",
       "quickMoves" : [
          "POUND_FAST",
@@ -168,6 +171,9 @@
          "modelScaleV2" : 1.1,
          "pokedexHeightM" : 0.4,
          "pokedexWeightKg" : 5.5,
+         "pokemonCostume" : [
+            "APRIL_2020_NOEVOLVE"
+         ],
          "pokemonId" : "BUNEARY",
          "quickMoves" : [
             "POUND_FAST",
