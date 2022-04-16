@@ -51,6 +51,9 @@
          "FIRE_PUNCH",
          "SWIFT"
       ],
+      "costumeEvolution" : [
+         "APRIL_2020_NOEVOLVE"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -87,9 +90,6 @@
       "modelScaleV2" : 1.1,
       "pokedexHeightM" : 0.4,
       "pokedexWeightKg" : 5.5,
-      "pokemonCostume" : [
-         "APRIL_2020_NOEVOLVE"
-      ],
       "pokemonId" : "BUNEARY",
       "quickMoves" : [
          "POUND_FAST",
@@ -135,6 +135,9 @@
             "FIRE_PUNCH",
             "SWIFT"
          ],
+         "costumeEvolution" : [
+            "APRIL_2020_NOEVOLVE"
+         ],
          "encounter" : {
             "attackProbability" : 0.1,
             "attackTimerS" : 29,
@@ -171,9 +174,6 @@
          "modelScaleV2" : 1.1,
          "pokedexHeightM" : 0.4,
          "pokedexWeightKg" : 5.5,
-         "pokemonCostume" : [
-            "APRIL_2020_NOEVOLVE"
-         ],
          "pokemonId" : "BUNEARY",
          "quickMoves" : [
             "POUND_FAST",

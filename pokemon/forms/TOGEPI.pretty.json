@@ -52,6 +52,9 @@
          "PSYSHOCK",
          "DAZZLING_GLEAM"
       ],
+      "costumeEvolution" : [
+         "APRIL_2020_NOEVOLVE"
+      ],
       "eliteQuickMove" : [
          "ZEN_HEADBUTT_FAST"
       ],
@@ -93,9 +96,6 @@
       "modelScaleV2" : 1.27,
       "pokedexHeightM" : 0.3,
       "pokedexWeightKg" : 1.5,
-      "pokemonCostume" : [
-         "APRIL_2020_NOEVOLVE"
-      ],
       "pokemonId" : "TOGEPI",
       "quickMoves" : [
          "HIDDEN_POWER_FAST",
@@ -142,6 +142,9 @@
             "PSYSHOCK",
             "DAZZLING_GLEAM"
          ],
+         "costumeEvolution" : [
+            "APRIL_2020_NOEVOLVE"
+         ],
          "eliteQuickMove" : [
             "ZEN_HEADBUTT_FAST"
          ],
@@ -183,9 +186,6 @@
          "modelScaleV2" : 1.27,
          "pokedexHeightM" : 0.3,
          "pokedexWeightKg" : 1.5,
-         "pokemonCostume" : [
-            "APRIL_2020_NOEVOLVE"
-         ],
          "pokemonId" : "TOGEPI",
          "quickMoves" : [
             "HIDDEN_POWER_FAST",
