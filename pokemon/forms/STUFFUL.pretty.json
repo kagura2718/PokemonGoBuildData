@@ -13,8 +13,8 @@
       ],
       "buddyPortraitOffset" : [
          -15,
-         30,
-         -100
+         0,
+         -500
       ],
       "buddyScale" : 19,
       "built" : {
@@ -93,7 +93,7 @@
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
       "modelHeight" : 0.673,
-      "modelScaleV2" : 1.35,
+      "modelScaleV2" : 1,
       "pokedexHeightM" : 0.5,
       "pokedexWeightKg" : 6.8,
       "pokemonId" : "STUFFUL",
@@ -115,8 +115,8 @@
          ],
          "buddyPortraitOffset" : [
             -15,
-            30,
-            -100
+            0,
+            -500
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -181,7 +181,7 @@
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
          "modelHeight" : 0.673,
-         "modelScaleV2" : 1.35,
+         "modelScaleV2" : 1,
          "pokedexHeightM" : 0.5,
          "pokedexWeightKg" : 6.8,
          "pokemonId" : "STUFFUL",
