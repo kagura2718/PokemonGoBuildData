@@ -66,6 +66,9 @@
          0,
          0
       ],
+      "eliteCinematicMove" : [
+         "DRAIN_PUNCH"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
@@ -153,6 +156,9 @@
             0,
             0,
             0
+         ],
+         "eliteCinematicMove" : [
+            "DRAIN_PUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
