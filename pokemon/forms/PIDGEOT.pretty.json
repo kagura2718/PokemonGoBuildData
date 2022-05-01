@@ -232,6 +232,7 @@
                   "cylinderHeightM" : 1.65,
                   "cylinderRadiusM" : 2.5
                },
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.18,
                "modelScaleV2" : 0.97,
                "stats" : {
@@ -276,6 +277,7 @@
                "cylinderHeightM" : 1.65,
                "cylinderRadiusM" : 2.5
             },
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.18,
             "modelScaleV2" : 0.97,
             "stats" : {

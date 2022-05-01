@@ -176,6 +176,33 @@
             "pokemonId" : "HOUNDOOM"
          }
       ],
+      "KANGASKHAN" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_KANGASKHAN",
+            "pokemonId" : "KANGASKHAN"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_KANGASKHAN",
+            "pokemonForm" : "KANGASKHAN_NORMAL",
+            "pokemonId" : "KANGASKHAN"
+         }
+      ],
+      "LATIAS" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_LATIAS",
+            "pokemonId" : "LATIAS"
+         }
+      ],
+      "LATIOS" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_LATIOS",
+            "pokemonId" : "LATIOS"
+         }
+      ],
       "LOPUNNY" : [
          {
             "megaBranch" : "TEMP_EVOLUTION_MEGA",

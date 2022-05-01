@@ -87,8 +87,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
          }
       ],
       "evolutionPips" : 1,
@@ -175,8 +175,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 100,
+               "temporaryEvolutionEnergyCostSubsequent" : 20
             }
          ],
          "evolutionPips" : 1,
@@ -214,6 +214,8 @@
             {
                "averageHeightM" : 1.8,
                "averageWeightKg" : 44,
+               "cpMultiplierOverride" : 0.8503,
+               "raidBossDistanceOffset" : 9,
                "stats" : {
                   "baseAttack" : 286,
                   "baseDefense" : 179,
@@ -245,6 +247,8 @@
          {
             "averageHeightM" : 1.8,
             "averageWeightKg" : 44,
+            "cpMultiplierOverride" : 0.8503,
+            "raidBossDistanceOffset" : 9,
             "stats" : {
                "baseAttack" : 286,
                "baseDefense" : 179,
@@ -349,8 +353,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
          }
       ],
       "evolutionPips" : 1,
@@ -438,8 +442,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 100,
+               "temporaryEvolutionEnergyCostSubsequent" : 20
             }
          ],
          "evolutionPips" : 1,
@@ -478,6 +482,8 @@
             {
                "averageHeightM" : 1.8,
                "averageWeightKg" : 44,
+               "cpMultiplierOverride" : 0.8503,
+               "raidBossDistanceOffset" : 9,
                "stats" : {
                   "baseAttack" : 286,
                   "baseDefense" : 179,
@@ -509,6 +515,8 @@
          {
             "averageHeightM" : 1.8,
             "averageWeightKg" : 44,
+            "cpMultiplierOverride" : 0.8503,
+            "raidBossDistanceOffset" : 9,
             "stats" : {
                "baseAttack" : 286,
                "baseDefense" : 179,

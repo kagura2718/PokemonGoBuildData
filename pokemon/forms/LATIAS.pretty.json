@@ -23,6 +23,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "buddyWalkedMegaEnergyAward" : 100,
       "built" : {
          "pokedexNumber" : 380,
          "pokemonType" : 15,
@@ -35,6 +36,19 @@
             "baseAttack" : 228,
             "baseDefense" : 246,
             "baseStamina" : 190
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 15,
+                  "pokemonType2" : 13
+               },
+               "stats" : {
+                  "baseAttack" : 289,
+                  "baseDefense" : 297,
+                  "baseStamina" : 190
+               }
+            }
          }
       },
       "camera" : {
@@ -71,6 +85,13 @@
          "shadowFormBaseCaptureRate" : 0.02,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 300,
+            "temporaryEvolutionEnergyCostSubsequent" : 60
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_LATIAS",
       "heightStdDev" : 0.175,
@@ -113,6 +134,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_FLYING",
+         "buddyWalkedMegaEnergyAward" : 100,
          "camera" : {
             "cylinderGroundM" : 0.4,
             "cylinderHeightM" : 1.1,
@@ -147,6 +169,13 @@
             "shadowFormBaseCaptureRate" : 0.02,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 300,
+               "temporaryEvolutionEnergyCostSubsequent" : 60
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_LATIAS",
          "heightStdDev" : 0.175,
@@ -176,6 +205,38 @@
             "baseDefense" : 246,
             "baseStamina" : 190
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 1.8,
+               "averageWeightKg" : 52,
+               "buddyOffsetFemale" : [
+                  20,
+                  0,
+                  -20
+               ],
+               "buddyOffsetMale" : [
+                  20,
+                  0,
+                  -20
+               ],
+               "camera" : {
+                  "cylinderGroundM" : 0.4,
+                  "cylinderHeightM" : 1.1,
+                  "cylinderRadiusM" : 1
+               },
+               "modelHeight" : 1.8,
+               "modelScaleV2" : 1,
+               "raidBossDistanceOffset" : 6,
+               "stats" : {
+                  "baseAttack" : 289,
+                  "baseDefense" : 297,
+                  "baseStamina" : 190
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_DRAGON",
+               "typeOverride2" : "POKEMON_TYPE_PSYCHIC"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 100,
             "stardustToUnlock" : 100000
@@ -195,6 +256,38 @@
          "baseDefense" : 246,
          "baseStamina" : 190
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 1.8,
+            "averageWeightKg" : 52,
+            "buddyOffsetFemale" : [
+               20,
+               0,
+               -20
+            ],
+            "buddyOffsetMale" : [
+               20,
+               0,
+               -20
+            ],
+            "camera" : {
+               "cylinderGroundM" : 0.4,
+               "cylinderHeightM" : 1.1,
+               "cylinderRadiusM" : 1
+            },
+            "modelHeight" : 1.8,
+            "modelScaleV2" : 1,
+            "raidBossDistanceOffset" : 6,
+            "stats" : {
+               "baseAttack" : 289,
+               "baseDefense" : 297,
+               "baseStamina" : 190
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_DRAGON",
+            "typeOverride2" : "POKEMON_TYPE_PSYCHIC"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 100,
          "stardustToUnlock" : 100000

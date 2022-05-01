@@ -89,8 +89,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
          }
       ],
       "evolutionPips" : 1,
@@ -174,8 +174,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 100,
+               "temporaryEvolutionEnergyCostSubsequent" : 20
             }
          ],
          "evolutionPips" : 1,
@@ -225,6 +225,7 @@
                   "cylinderHeightM" : 2,
                   "cylinderRadiusM" : 0.9
                },
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2,
                "modelScaleV2" : 1,
                "stats" : {
@@ -274,6 +275,7 @@
                "cylinderHeightM" : 2,
                "cylinderRadiusM" : 0.9
             },
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2,
             "modelScaleV2" : 1,
             "stats" : {
@@ -384,8 +386,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
          }
       ],
       "evolutionPips" : 1,
@@ -470,8 +472,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 100,
+               "temporaryEvolutionEnergyCostSubsequent" : 20
             }
          ],
          "evolutionPips" : 1,
@@ -522,6 +524,7 @@
                   "cylinderHeightM" : 2,
                   "cylinderRadiusM" : 0.9
                },
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2,
                "modelScaleV2" : 1,
                "stats" : {
@@ -571,6 +574,7 @@
                "cylinderHeightM" : 2,
                "cylinderRadiusM" : 0.9
             },
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2,
             "modelScaleV2" : 1,
             "stats" : {

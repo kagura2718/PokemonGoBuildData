@@ -28,6 +28,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "pokedexNumber" : 115,
          "pokemonType" : 0,
@@ -38,6 +39,18 @@
             "baseAttack" : 181,
             "baseDefense" : 165,
             "baseStamina" : 233
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 0
+               },
+               "stats" : {
+                  "baseAttack" : 246,
+                  "baseDefense" : 210,
+                  "baseStamina" : 233
+               }
+            }
          }
       },
       "camera" : {
@@ -74,9 +87,16 @@
          "movementTimerS" : 11,
          "movementType" : "MOVEMENT_JUMP",
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormBaseCaptureRate" : 0.05,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_KANGASKHAN",
       "heightStdDev" : 0.275,
@@ -123,6 +143,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
          "camera" : {
             "cylinderHeightM" : 2.25,
             "cylinderRadiusM" : 1.25,
@@ -157,9 +178,16 @@
             "movementTimerS" : 11,
             "movementType" : "MOVEMENT_JUMP",
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormBaseCaptureRate" : 0.05,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_KANGASKHAN",
          "heightStdDev" : 0.275,
@@ -188,6 +216,42 @@
             "baseDefense" : 165,
             "baseStamina" : 233
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2.2,
+               "averageWeightKg" : 100,
+               "buddyOffsetFemale" : [
+                  15,
+                  0,
+                  35
+               ],
+               "buddyOffsetMale" : [
+                  15,
+                  0,
+                  35
+               ],
+               "buddyPortraitOffset" : [
+                  -200,
+                  400,
+                  1800
+               ],
+               "camera" : {
+                  "cylinderHeightM" : 2.25,
+                  "cylinderRadiusM" : 1.25
+               },
+               "cpMultiplierOverride" : 0.8503,
+               "modelHeight" : 2.18,
+               "modelScaleV2" : 0.97,
+               "raidBossDistanceOffset" : 4,
+               "stats" : {
+                  "baseAttack" : 246,
+                  "baseDefense" : 210,
+                  "baseStamina" : 233
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_NORMAL"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 50,
             "stardustToUnlock" : 50000
@@ -206,6 +270,42 @@
          "baseDefense" : 165,
          "baseStamina" : 233
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.2,
+            "averageWeightKg" : 100,
+            "buddyOffsetFemale" : [
+               15,
+               0,
+               35
+            ],
+            "buddyOffsetMale" : [
+               15,
+               0,
+               35
+            ],
+            "buddyPortraitOffset" : [
+               -200,
+               400,
+               1800
+            ],
+            "camera" : {
+               "cylinderHeightM" : 2.25,
+               "cylinderRadiusM" : 1.25
+            },
+            "cpMultiplierOverride" : 0.8503,
+            "modelHeight" : 2.18,
+            "modelScaleV2" : 0.97,
+            "raidBossDistanceOffset" : 4,
+            "stats" : {
+               "baseAttack" : 246,
+               "baseDefense" : 210,
+               "baseStamina" : 233
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_NORMAL"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 50,
          "stardustToUnlock" : 50000
@@ -242,6 +342,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
          "pokedexNumber" : 115,
          "pokemonType" : 0,
@@ -252,6 +353,18 @@
             "baseAttack" : 181,
             "baseDefense" : 165,
             "baseStamina" : 233
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 0
+               },
+               "stats" : {
+                  "baseAttack" : 246,
+                  "baseDefense" : 210,
+                  "baseStamina" : 233
+               }
+            }
          }
       },
       "camera" : {
@@ -288,9 +401,16 @@
          "movementTimerS" : 11,
          "movementType" : "MOVEMENT_JUMP",
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormBaseCaptureRate" : 0.05,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_KANGASKHAN",
       "form" : "KANGASKHAN_NORMAL",
@@ -338,6 +458,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 15,
          "camera" : {
             "cylinderHeightM" : 2.25,
             "cylinderRadiusM" : 1.25,
@@ -372,9 +493,16 @@
             "movementTimerS" : 11,
             "movementType" : "MOVEMENT_JUMP",
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormBaseCaptureRate" : 0.05,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_KANGASKHAN",
          "form" : "KANGASKHAN_NORMAL",
@@ -404,6 +532,42 @@
             "baseDefense" : 165,
             "baseStamina" : 233
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2.2,
+               "averageWeightKg" : 100,
+               "buddyOffsetFemale" : [
+                  15,
+                  0,
+                  35
+               ],
+               "buddyOffsetMale" : [
+                  15,
+                  0,
+                  35
+               ],
+               "buddyPortraitOffset" : [
+                  -200,
+                  400,
+                  1800
+               ],
+               "camera" : {
+                  "cylinderHeightM" : 2.25,
+                  "cylinderRadiusM" : 1.25
+               },
+               "cpMultiplierOverride" : 0.8503,
+               "modelHeight" : 2.18,
+               "modelScaleV2" : 0.97,
+               "raidBossDistanceOffset" : 4,
+               "stats" : {
+                  "baseAttack" : 246,
+                  "baseDefense" : 210,
+                  "baseStamina" : 233
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_NORMAL"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 50,
             "stardustToUnlock" : 50000
@@ -422,6 +586,42 @@
          "baseDefense" : 165,
          "baseStamina" : 233
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.2,
+            "averageWeightKg" : 100,
+            "buddyOffsetFemale" : [
+               15,
+               0,
+               35
+            ],
+            "buddyOffsetMale" : [
+               15,
+               0,
+               35
+            ],
+            "buddyPortraitOffset" : [
+               -200,
+               400,
+               1800
+            ],
+            "camera" : {
+               "cylinderHeightM" : 2.25,
+               "cylinderRadiusM" : 1.25
+            },
+            "cpMultiplierOverride" : 0.8503,
+            "modelHeight" : 2.18,
+            "modelScaleV2" : 0.97,
+            "raidBossDistanceOffset" : 4,
+            "stats" : {
+               "baseAttack" : 246,
+               "baseDefense" : 210,
+               "baseStamina" : 233
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_NORMAL"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 50,
          "stardustToUnlock" : 50000

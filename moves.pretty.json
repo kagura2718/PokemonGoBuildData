@@ -3817,6 +3817,34 @@
          "vfxName" : "lunge"
       }
    },
+   "LUSTER_PURGE" : {
+      "built" : {
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1500,
+         "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
+         "movesType" : 13,
+         "movesTypeWrap" : 13,
+         "power" : 100
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1500,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1500,
+         "energyDelta" : -100,
+         "movementId" : "LUSTER_PURGE",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 100,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "luster_purge"
+      }
+   },
    "MAGICAL_LEAF_FAST" : {
       "built" : {
          "combatOverrides" : {
@@ -4059,6 +4087,34 @@
          "trainerLevelMax" : 100,
          "trainerLevelMin" : 1,
          "vfxName" : "mirror_shot"
+      }
+   },
+   "MIST_BALL" : {
+      "built" : {
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
+         "movesType" : 13,
+         "movesTypeWrap" : 13,
+         "power" : 105
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1700,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 2000,
+         "energyDelta" : -100,
+         "movementId" : "MIST_BALL",
+         "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+         "power" : 105,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "mist_ball"
       }
    },
    "MOONBLAST" : {

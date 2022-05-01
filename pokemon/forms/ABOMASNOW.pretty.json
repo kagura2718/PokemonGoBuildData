@@ -227,8 +227,10 @@
                   "cylinderHeightM" : 3,
                   "cylinderRadiusM" : 1.7
                },
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.17,
                "modelScaleV2" : 0.8,
+               "raidBossDistanceOffset" : 4,
                "stats" : {
                   "baseAttack" : 240,
                   "baseDefense" : 191,
@@ -276,8 +278,10 @@
                "cylinderHeightM" : 3,
                "cylinderRadiusM" : 1.7
             },
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.17,
             "modelScaleV2" : 0.8,
+            "raidBossDistanceOffset" : 4,
             "stats" : {
                "baseAttack" : 240,
                "baseDefense" : 191,
@@ -526,8 +530,10 @@
                   "cylinderHeightM" : 3,
                   "cylinderRadiusM" : 1.7
                },
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.17,
                "modelScaleV2" : 0.8,
+               "raidBossDistanceOffset" : 4,
                "stats" : {
                   "baseAttack" : 240,
                   "baseDefense" : 191,
@@ -575,8 +581,10 @@
                "cylinderHeightM" : 3,
                "cylinderRadiusM" : 1.7
             },
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.17,
             "modelScaleV2" : 0.8,
+            "raidBossDistanceOffset" : 4,
             "stats" : {
                "baseAttack" : 240,
                "baseDefense" : 191,

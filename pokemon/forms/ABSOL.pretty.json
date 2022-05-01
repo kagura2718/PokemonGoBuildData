@@ -212,6 +212,8 @@
                   0,
                   -52
                ],
+               "cpMultiplierOverride" : 0.8503,
+               "raidBossDistanceOffset" : 3,
                "stats" : {
                   "baseAttack" : 314,
                   "baseDefense" : 130,
@@ -253,6 +255,8 @@
                0,
                -52
             ],
+            "cpMultiplierOverride" : 0.8503,
+            "raidBossDistanceOffset" : 3,
             "stats" : {
                "baseAttack" : 314,
                "baseDefense" : 130,
@@ -484,6 +488,8 @@
                   0,
                   -52
                ],
+               "cpMultiplierOverride" : 0.8503,
+               "raidBossDistanceOffset" : 3,
                "stats" : {
                   "baseAttack" : 314,
                   "baseDefense" : 130,
@@ -525,6 +531,8 @@
                0,
                -52
             ],
+            "cpMultiplierOverride" : 0.8503,
+            "raidBossDistanceOffset" : 3,
             "stats" : {
                "baseAttack" : 314,
                "baseDefense" : 130,

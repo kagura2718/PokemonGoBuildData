@@ -23,6 +23,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
+      "buddyWalkedMegaEnergyAward" : 100,
       "built" : {
          "pokedexNumber" : 381,
          "pokemonType" : 15,
@@ -35,6 +36,19 @@
             "baseAttack" : 268,
             "baseDefense" : 212,
             "baseStamina" : 190
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 15,
+                  "pokemonType2" : 13
+               },
+               "stats" : {
+                  "baseAttack" : 335,
+                  "baseDefense" : 241,
+                  "baseStamina" : 190
+               }
+            }
          }
       },
       "camera" : {
@@ -66,8 +80,18 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
-         "movementType" : "MOVEMENT_FLYING"
+         "movementType" : "MOVEMENT_FLYING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.02,
+         "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 300,
+            "temporaryEvolutionEnergyCostSubsequent" : 60
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_LATIOS",
       "heightStdDev" : 0.25125,
@@ -109,6 +133,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_FLYING",
+         "buddyWalkedMegaEnergyAward" : 100,
          "camera" : {
             "cylinderGroundM" : 0.6,
             "cylinderHeightM" : 1.3,
@@ -138,8 +163,18 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
-            "movementType" : "MOVEMENT_FLYING"
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.02,
+            "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 300,
+               "temporaryEvolutionEnergyCostSubsequent" : 60
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_LATIOS",
          "heightStdDev" : 0.25125,
@@ -157,11 +192,48 @@
             "DRAGON_BREATH_FAST",
             "ZEN_HEADBUTT_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 20,
+            "purificationStardustNeeded" : 20000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 268,
             "baseDefense" : 212,
             "baseStamina" : 190
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2.3,
+               "averageWeightKg" : 70,
+               "buddyOffsetFemale" : [
+                  0,
+                  0,
+                  0
+               ],
+               "buddyOffsetMale" : [
+                  0,
+                  0,
+                  0
+               ],
+               "camera" : {
+                  "cylinderGroundM" : 0.9,
+                  "cylinderHeightM" : 1.3,
+                  "cylinderRadiusM" : 1.3
+               },
+               "modelHeight" : 2.3,
+               "modelScaleV2" : 0.96,
+               "stats" : {
+                  "baseAttack" : 335,
+                  "baseDefense" : 241,
+                  "baseStamina" : 190
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_DRAGON",
+               "typeOverride2" : "POKEMON_TYPE_PSYCHIC"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 100,
             "stardustToUnlock" : 100000
@@ -170,11 +242,48 @@
          "type2" : "POKEMON_TYPE_PSYCHIC",
          "weightStdDev" : 7.5
       },
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
       "stats" : {
          "baseAttack" : 268,
          "baseDefense" : 212,
          "baseStamina" : 190
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2.3,
+            "averageWeightKg" : 70,
+            "buddyOffsetFemale" : [
+               0,
+               0,
+               0
+            ],
+            "buddyOffsetMale" : [
+               0,
+               0,
+               0
+            ],
+            "camera" : {
+               "cylinderGroundM" : 0.9,
+               "cylinderHeightM" : 1.3,
+               "cylinderRadiusM" : 1.3
+            },
+            "modelHeight" : 2.3,
+            "modelScaleV2" : 0.96,
+            "stats" : {
+               "baseAttack" : 335,
+               "baseDefense" : 241,
+               "baseStamina" : 190
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_DRAGON",
+            "typeOverride2" : "POKEMON_TYPE_PSYCHIC"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 100,
          "stardustToUnlock" : 100000

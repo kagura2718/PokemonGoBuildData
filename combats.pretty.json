@@ -1827,6 +1827,24 @@
          "vfxName" : "lunge"
       }
    },
+   "LUSTER_PURGE" : {
+      "built" : {
+         "energyDelta" : -60,
+         "movesType" : 13,
+         "power" : 120
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetDefenseStatStageChange" : -1
+         },
+         "energyDelta" : -60,
+         "power" : 120,
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "uniqueId" : "LUSTER_PURGE",
+         "vfxName" : "luster_purge"
+      }
+   },
    "MAGICAL_LEAF_FAST" : {
       "built" : {
          "energyDelta" : 10,
@@ -1943,6 +1961,24 @@
          "type" : "POKEMON_TYPE_STEEL",
          "uniqueId" : "MIRROR_SHOT",
          "vfxName" : "mirror_shot"
+      }
+   },
+   "MIST_BALL" : {
+      "built" : {
+         "energyDelta" : -60,
+         "movesType" : 13,
+         "power" : 120
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -60,
+         "power" : 120,
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "uniqueId" : "MIST_BALL",
+         "vfxName" : "mist_ball"
       }
    },
    "MOONBLAST" : {

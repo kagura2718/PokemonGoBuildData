@@ -89,8 +89,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
          }
       ],
       "evolutionPips" : 1,
@@ -174,8 +174,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 100,
+               "temporaryEvolutionEnergyCostSubsequent" : 20
             }
          ],
          "evolutionPips" : 1,
@@ -214,6 +214,7 @@
                "camera" : {
                   "cylinderHeightM" : 2
                },
+               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 224,
                   "baseDefense" : 259,
@@ -250,6 +251,7 @@
             "camera" : {
                "cylinderHeightM" : 2
             },
+            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 224,
                "baseDefense" : 259,
@@ -359,8 +361,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
          }
       ],
       "evolutionPips" : 1,
@@ -446,8 +448,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 100,
+               "temporaryEvolutionEnergyCostSubsequent" : 20
             }
          ],
          "evolutionPips" : 1,
@@ -487,6 +489,7 @@
                "camera" : {
                   "cylinderHeightM" : 2
                },
+               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 224,
                   "baseDefense" : 259,
@@ -523,6 +526,7 @@
             "camera" : {
                "cylinderHeightM" : 2
             },
+            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 224,
                "baseDefense" : 259,
@@ -820,8 +824,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 100,
+            "temporaryEvolutionEnergyCostSubsequent" : 20
          }
       ],
       "evolutionPips" : 1,
@@ -906,8 +910,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 100,
+               "temporaryEvolutionEnergyCostSubsequent" : 20
             }
          ],
          "evolutionPips" : 1,
@@ -947,6 +951,7 @@
                "camera" : {
                   "cylinderHeightM" : 2
                },
+               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 224,
                   "baseDefense" : 259,
@@ -983,6 +988,7 @@
             "camera" : {
                "cylinderHeightM" : 2
             },
+            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 224,
                "baseDefense" : 259,

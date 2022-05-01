@@ -219,6 +219,7 @@
                   0,
                   78
                ],
+               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 282,
                   "baseDefense" : 214,
@@ -255,6 +256,7 @@
                0,
                78
             ],
+            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 282,
                "baseDefense" : 214,

@@ -90,8 +90,8 @@
       "evolutionBranch" : [
          {
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-            "temporaryEvolutionEnergyCost" : 200,
-            "temporaryEvolutionEnergyCostSubsequent" : 40
+            "temporaryEvolutionEnergyCost" : 300,
+            "temporaryEvolutionEnergyCostSubsequent" : 60
          }
       ],
       "evolutionPips" : 1,
@@ -103,7 +103,7 @@
       "kmBuddyDistance" : 1,
       "modelHeight" : 2.17,
       "modelScale" : 0.72,
-      "modelScaleV2" : 0.97,
+      "modelScaleV2" : 0.6,
       "parentPokemonId" : "SWABLU",
       "pokedexHeightM" : 1.09,
       "pokedexWeightKg" : 20.6,
@@ -176,8 +176,8 @@
          "evolutionBranch" : [
             {
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
-               "temporaryEvolutionEnergyCost" : 200,
-               "temporaryEvolutionEnergyCostSubsequent" : 40
+               "temporaryEvolutionEnergyCost" : 300,
+               "temporaryEvolutionEnergyCostSubsequent" : 60
             }
          ],
          "evolutionPips" : 1,
@@ -189,7 +189,7 @@
          "kmBuddyDistance" : 1,
          "modelHeight" : 2.17,
          "modelScale" : 0.72,
-         "modelScaleV2" : 0.97,
+         "modelScaleV2" : 0.6,
          "parentPokemonId" : "SWABLU",
          "pokedexHeightM" : 1.09,
          "pokedexWeightKg" : 20.6,
@@ -210,18 +210,19 @@
                "buddyOffsetFemale" : [
                   20,
                   -40,
-                  -150
+                  10
                ],
                "buddyOffsetMale" : [
                   20,
                   -40,
-                  -150
+                  10
                ],
                "camera" : {
                   "cylinderGroundM" : 0.6,
                   "cylinderHeightM" : 3.25,
                   "cylinderRadiusM" : 1.5
                },
+               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 222,
                   "baseDefense" : 218,
@@ -252,18 +253,19 @@
             "buddyOffsetFemale" : [
                20,
                -40,
-               -150
+               10
             ],
             "buddyOffsetMale" : [
                20,
                -40,
-               -150
+               10
             ],
             "camera" : {
                "cylinderGroundM" : 0.6,
                "cylinderHeightM" : 3.25,
                "cylinderRadiusM" : 1.5
             },
+            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 222,
                "baseDefense" : 218,

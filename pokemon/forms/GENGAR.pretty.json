@@ -244,8 +244,10 @@
                   0,
                   0
                ],
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.8,
                "modelScaleV2" : 1,
+               "raidBossDistanceOffset" : 3,
                "stats" : {
                   "baseAttack" : 349,
                   "baseDefense" : 199,
@@ -278,8 +280,10 @@
                0,
                0
             ],
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.8,
             "modelScaleV2" : 1,
+            "raidBossDistanceOffset" : 3,
             "stats" : {
                "baseAttack" : 349,
                "baseDefense" : 199,
@@ -547,8 +551,10 @@
                   0,
                   0
                ],
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.8,
                "modelScaleV2" : 1,
+               "raidBossDistanceOffset" : 3,
                "stats" : {
                   "baseAttack" : 349,
                   "baseDefense" : 199,
@@ -581,8 +587,10 @@
                0,
                0
             ],
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.8,
             "modelScaleV2" : 1,
+            "raidBossDistanceOffset" : 3,
             "stats" : {
                "baseAttack" : 349,
                "baseDefense" : 199,
@@ -848,8 +856,10 @@
                   0,
                   0
                ],
+               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.8,
                "modelScaleV2" : 1,
+               "raidBossDistanceOffset" : 3,
                "stats" : {
                   "baseAttack" : 349,
                   "baseDefense" : 199,
@@ -882,8 +892,10 @@
                0,
                0
             ],
+            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.8,
             "modelScaleV2" : 1,
+            "raidBossDistanceOffset" : 3,
             "stats" : {
                "baseAttack" : 349,
                "baseDefense" : 199,
