@@ -48,6 +48,18 @@
          "en" : "Mega Houndoom",
          "ja" : "メガヘルガー"
       },
+      "@MEGA_KANGASKHAN" : {
+         "en" : "Mega Kangaskhan",
+         "ja" : "メガガルーラ"
+      },
+      "@MEGA_LATIAS" : {
+         "en" : "Mega Latias",
+         "ja" : "メガラティアス"
+      },
+      "@MEGA_LATIOS" : {
+         "en" : "Mega Latios",
+         "ja" : "メガラティオス"
+      },
       "@MEGA_LOPUNNY" : {
          "en" : "Mega Lopunny",
          "ja" : "メガミミロップ"
