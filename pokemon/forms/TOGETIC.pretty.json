@@ -48,6 +48,9 @@
          "DAZZLING_GLEAM",
          "AERIAL_ACE"
       ],
+      "costumeEvolution" : [
+         "APRIL_2020_NOEVOLVE"
+      ],
       "eliteQuickMove" : [
          "STEEL_WING_FAST",
          "ZEN_HEADBUTT_FAST"
@@ -132,6 +135,9 @@
             "ANCIENT_POWER",
             "DAZZLING_GLEAM",
             "AERIAL_ACE"
+         ],
+         "costumeEvolution" : [
+            "APRIL_2020_NOEVOLVE"
          ],
          "eliteQuickMove" : [
             "STEEL_WING_FAST",

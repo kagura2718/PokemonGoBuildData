@@ -14,7 +14,7 @@
       "buddyPortraitOffset" : [
          -2,
          18,
-         -200
+         -270
       ],
       "buddyScale" : 19,
       "built" : {
@@ -36,7 +36,9 @@
          "cylinderRadiusM" : 0.19
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POISON_FANG",
+         "FLAMETHROWER",
+         "DRAGON_PULSE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -67,13 +69,14 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 0.6,
-      "modelScaleV2" : 2,
+      "modelHeight" : 0.24,
+      "modelScaleV2" : 1.7,
       "pokedexHeightM" : 0.6,
       "pokedexWeightKg" : 4.8,
       "pokemonId" : "SALANDIT",
       "quickMoves" : [
-         "STRUGGLE"
+         "EMBER_FAST",
+         "POISON_JAB_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -90,7 +93,7 @@
          "buddyPortraitOffset" : [
             -2,
             18,
-            -200
+            -270
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -98,7 +101,9 @@
             "cylinderRadiusM" : 0.19
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POISON_FANG",
+            "FLAMETHROWER",
+            "DRAGON_PULSE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -129,13 +134,14 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 0.6,
-         "modelScaleV2" : 2,
+         "modelHeight" : 0.24,
+         "modelScaleV2" : 1.7,
          "pokedexHeightM" : 0.6,
          "pokedexWeightKg" : 4.8,
          "pokemonId" : "SALANDIT",
          "quickMoves" : [
-            "STRUGGLE"
+            "EMBER_FAST",
+            "POISON_JAB_FAST"
          ],
          "stats" : {
             "baseAttack" : 136,

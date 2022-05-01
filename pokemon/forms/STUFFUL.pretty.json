@@ -13,8 +13,8 @@
       ],
       "buddyPortraitOffset" : [
          -15,
-         30,
-         -100
+         0,
+         -500
       ],
       "buddyScale" : 19,
       "built" : {
@@ -36,7 +36,9 @@
          "cylinderRadiusM" : 0.62
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SUPER_POWER",
+         "BRICK_BREAK",
+         "STOMP"
       ],
       "combatDefaultCameraAngle" : [
          0,
@@ -91,12 +93,13 @@
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
       "modelHeight" : 0.673,
-      "modelScaleV2" : 1.35,
+      "modelScaleV2" : 1,
       "pokedexHeightM" : 0.5,
       "pokedexWeightKg" : 6.8,
       "pokemonId" : "STUFFUL",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -112,8 +115,8 @@
          ],
          "buddyPortraitOffset" : [
             -15,
-            30,
-            -100
+            0,
+            -500
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -121,7 +124,9 @@
             "cylinderRadiusM" : 0.62
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SUPER_POWER",
+            "BRICK_BREAK",
+            "STOMP"
          ],
          "combatDefaultCameraAngle" : [
             0,
@@ -176,12 +181,13 @@
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
          "modelHeight" : 0.673,
-         "modelScaleV2" : 1.35,
+         "modelScaleV2" : 1,
          "pokedexHeightM" : 0.5,
          "pokedexWeightKg" : 6.8,
          "pokemonId" : "STUFFUL",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 136,

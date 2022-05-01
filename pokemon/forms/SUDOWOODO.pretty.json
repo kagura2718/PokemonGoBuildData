@@ -65,7 +65,9 @@
          "jumpTimeS" : 1.2,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
-         "movementTimerS" : 11
+         "movementTimerS" : 11,
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.125
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_SUDOWOODO",
@@ -139,7 +141,9 @@
             "jumpTimeS" : 1.2,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
-            "movementTimerS" : 11
+            "movementTimerS" : 11,
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.125
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_SUDOWOODO",
@@ -159,6 +163,12 @@
             "ROCK_THROW_FAST",
             "COUNTER_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 5,
+            "purificationStardustNeeded" : 5000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 167,
             "baseDefense" : 176,
@@ -170,6 +180,12 @@
          },
          "type" : "POKEMON_TYPE_ROCK",
          "weightStdDev" : 4.75
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 5,
+         "purificationStardustNeeded" : 5000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 167,
