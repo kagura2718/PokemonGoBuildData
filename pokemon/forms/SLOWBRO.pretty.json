@@ -214,7 +214,6 @@
                "camera" : {
                   "cylinderHeightM" : 2
                },
-               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 224,
                   "baseDefense" : 259,
@@ -251,7 +250,6 @@
             "camera" : {
                "cylinderHeightM" : 2
             },
-            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 224,
                "baseDefense" : 259,
@@ -489,7 +487,6 @@
                "camera" : {
                   "cylinderHeightM" : 2
                },
-               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 224,
                   "baseDefense" : 259,
@@ -526,7 +523,6 @@
             "camera" : {
                "cylinderHeightM" : 2
             },
-            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 224,
                "baseDefense" : 259,
@@ -951,7 +947,6 @@
                "camera" : {
                   "cylinderHeightM" : 2
                },
-               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 224,
                   "baseDefense" : 259,
@@ -988,7 +983,6 @@
             "camera" : {
                "cylinderHeightM" : 2
             },
-            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 224,
                "baseDefense" : 259,

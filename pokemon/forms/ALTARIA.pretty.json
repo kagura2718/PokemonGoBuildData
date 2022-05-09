@@ -103,7 +103,7 @@
       "kmBuddyDistance" : 1,
       "modelHeight" : 2.17,
       "modelScale" : 0.72,
-      "modelScaleV2" : 0.6,
+      "modelScaleV2" : 0.97,
       "parentPokemonId" : "SWABLU",
       "pokedexHeightM" : 1.09,
       "pokedexWeightKg" : 20.6,
@@ -189,7 +189,7 @@
          "kmBuddyDistance" : 1,
          "modelHeight" : 2.17,
          "modelScale" : 0.72,
-         "modelScaleV2" : 0.6,
+         "modelScaleV2" : 0.97,
          "parentPokemonId" : "SWABLU",
          "pokedexHeightM" : 1.09,
          "pokedexWeightKg" : 20.6,
@@ -210,19 +210,18 @@
                "buddyOffsetFemale" : [
                   20,
                   -40,
-                  10
+                  -150
                ],
                "buddyOffsetMale" : [
                   20,
                   -40,
-                  10
+                  -150
                ],
                "camera" : {
                   "cylinderGroundM" : 0.6,
                   "cylinderHeightM" : 3.25,
                   "cylinderRadiusM" : 1.5
                },
-               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 222,
                   "baseDefense" : 218,
@@ -253,19 +252,18 @@
             "buddyOffsetFemale" : [
                20,
                -40,
-               10
+               -150
             ],
             "buddyOffsetMale" : [
                20,
                -40,
-               10
+               -150
             ],
             "camera" : {
                "cylinderGroundM" : 0.6,
                "cylinderHeightM" : 3.25,
                "cylinderRadiusM" : 1.5
             },
-            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 222,
                "baseDefense" : 218,

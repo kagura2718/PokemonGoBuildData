@@ -225,7 +225,6 @@
                   "cylinderHeightM" : 2,
                   "cylinderRadiusM" : 0.9
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2,
                "modelScaleV2" : 1,
                "stats" : {
@@ -275,7 +274,6 @@
                "cylinderHeightM" : 2,
                "cylinderRadiusM" : 0.9
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2,
             "modelScaleV2" : 1,
             "stats" : {
@@ -524,7 +522,6 @@
                   "cylinderHeightM" : 2,
                   "cylinderRadiusM" : 0.9
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2,
                "modelScaleV2" : 1,
                "stats" : {
@@ -574,7 +571,6 @@
                "cylinderHeightM" : 2,
                "cylinderRadiusM" : 0.9
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2,
             "modelScaleV2" : 1,
             "stats" : {

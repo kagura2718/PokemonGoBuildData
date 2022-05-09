@@ -82,6 +82,7 @@
       },
       "evolutionBranch" : [
          {
+            "purificationEvolutionCandyCost" : 5,
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
             "temporaryEvolutionEnergyCost" : 200,
             "temporaryEvolutionEnergyCostSubsequent" : 40
@@ -164,6 +165,7 @@
          },
          "evolutionBranch" : [
             {
+               "purificationEvolutionCandyCost" : 5,
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
                "temporaryEvolutionEnergyCost" : 200,
                "temporaryEvolutionEnergyCostSubsequent" : 40
@@ -212,7 +214,6 @@
                   0,
                   -52
                ],
-               "cpMultiplierOverride" : 0.8503,
                "raidBossDistanceOffset" : 3,
                "stats" : {
                   "baseAttack" : 314,
@@ -255,7 +256,6 @@
                0,
                -52
             ],
-            "cpMultiplierOverride" : 0.8503,
             "raidBossDistanceOffset" : 3,
             "stats" : {
                "baseAttack" : 314,
@@ -356,6 +356,7 @@
       },
       "evolutionBranch" : [
          {
+            "purificationEvolutionCandyCost" : 5,
             "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
             "temporaryEvolutionEnergyCost" : 200,
             "temporaryEvolutionEnergyCostSubsequent" : 40
@@ -439,6 +440,7 @@
          },
          "evolutionBranch" : [
             {
+               "purificationEvolutionCandyCost" : 5,
                "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
                "temporaryEvolutionEnergyCost" : 200,
                "temporaryEvolutionEnergyCostSubsequent" : 40
@@ -488,7 +490,6 @@
                   0,
                   -52
                ],
-               "cpMultiplierOverride" : 0.8503,
                "raidBossDistanceOffset" : 3,
                "stats" : {
                   "baseAttack" : 314,
@@ -531,7 +532,6 @@
                0,
                -52
             ],
-            "cpMultiplierOverride" : 0.8503,
             "raidBossDistanceOffset" : 3,
             "stats" : {
                "baseAttack" : 314,

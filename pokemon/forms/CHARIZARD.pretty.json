@@ -257,7 +257,6 @@
                   "cylinderHeightM" : 1.75,
                   "cylinderRadiusM" : 1.25
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 1.91,
                "modelScaleV2" : 1.1,
                "stats" : {
@@ -287,7 +286,6 @@
                   "cylinderHeightM" : 2.7,
                   "cylinderRadiusM" : 2
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 3.18,
                "modelScaleV2" : 1.1,
                "stats" : {
@@ -328,7 +326,6 @@
                "cylinderHeightM" : 1.75,
                "cylinderRadiusM" : 1.25
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 1.91,
             "modelScaleV2" : 1.1,
             "stats" : {
@@ -358,7 +355,6 @@
                "cylinderHeightM" : 2.7,
                "cylinderRadiusM" : 2
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 3.18,
             "modelScaleV2" : 1.1,
             "stats" : {
@@ -871,7 +867,6 @@
                   "cylinderHeightM" : 1.75,
                   "cylinderRadiusM" : 1.25
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 1.91,
                "modelScaleV2" : 1.1,
                "stats" : {
@@ -901,7 +896,6 @@
                   "cylinderHeightM" : 2.7,
                   "cylinderRadiusM" : 2
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 3.18,
                "modelScaleV2" : 1.1,
                "stats" : {
@@ -942,7 +936,6 @@
                "cylinderHeightM" : 1.75,
                "cylinderRadiusM" : 1.25
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 1.91,
             "modelScaleV2" : 1.1,
             "stats" : {
@@ -972,7 +965,6 @@
                "cylinderHeightM" : 2.7,
                "cylinderRadiusM" : 2
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 3.18,
             "modelScaleV2" : 1.1,
             "stats" : {

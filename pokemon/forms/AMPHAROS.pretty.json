@@ -229,7 +229,6 @@
             {
                "averageHeightM" : 1.4,
                "averageWeightKg" : 61.5,
-               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 294,
                   "baseDefense" : 203,
@@ -262,7 +261,6 @@
          {
             "averageHeightM" : 1.4,
             "averageWeightKg" : 61.5,
-            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 294,
                "baseDefense" : 203,
@@ -512,7 +510,6 @@
             {
                "averageHeightM" : 1.4,
                "averageWeightKg" : 61.5,
-               "cpMultiplierOverride" : 0.8503,
                "stats" : {
                   "baseAttack" : 294,
                   "baseDefense" : 203,
@@ -545,7 +542,6 @@
          {
             "averageHeightM" : 1.4,
             "averageWeightKg" : 61.5,
-            "cpMultiplierOverride" : 0.8503,
             "stats" : {
                "baseAttack" : 294,
                "baseDefense" : 203,

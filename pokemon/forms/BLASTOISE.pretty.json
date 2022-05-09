@@ -216,11 +216,20 @@
             {
                "averageHeightM" : 1.6,
                "averageWeightKg" : 101.1,
+               "buddyOffsetFemale" : [
+                  22,
+                  0,
+                  -2
+               ],
+               "buddyOffsetMale" : [
+                  22,
+                  0,
+                  -2
+               ],
                "camera" : {
                   "cylinderHeightM" : 3,
                   "cylinderRadiusM" : 1.1
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 1.39,
                "modelScaleV2" : 1.05,
                "stats" : {
@@ -254,11 +263,20 @@
          {
             "averageHeightM" : 1.6,
             "averageWeightKg" : 101.1,
+            "buddyOffsetFemale" : [
+               22,
+               0,
+               -2
+            ],
+            "buddyOffsetMale" : [
+               22,
+               0,
+               -2
+            ],
             "camera" : {
                "cylinderHeightM" : 3,
                "cylinderRadiusM" : 1.1
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 1.39,
             "modelScaleV2" : 1.05,
             "stats" : {
@@ -712,11 +730,20 @@
             {
                "averageHeightM" : 1.6,
                "averageWeightKg" : 101.1,
+               "buddyOffsetFemale" : [
+                  22,
+                  0,
+                  -2
+               ],
+               "buddyOffsetMale" : [
+                  22,
+                  0,
+                  -2
+               ],
                "camera" : {
                   "cylinderHeightM" : 3,
                   "cylinderRadiusM" : 1.1
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 1.39,
                "modelScaleV2" : 1.05,
                "stats" : {
@@ -750,11 +777,20 @@
          {
             "averageHeightM" : 1.6,
             "averageWeightKg" : 101.1,
+            "buddyOffsetFemale" : [
+               22,
+               0,
+               -2
+            ],
+            "buddyOffsetMale" : [
+               22,
+               0,
+               -2
+            ],
             "camera" : {
                "cylinderHeightM" : 3,
                "cylinderRadiusM" : 1.1
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 1.39,
             "modelScaleV2" : 1.05,
             "stats" : {

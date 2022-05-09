@@ -239,7 +239,6 @@
                   "cylinderHeightM" : 2.25,
                   "cylinderRadiusM" : 1.25
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.18,
                "modelScaleV2" : 0.97,
                "raidBossDistanceOffset" : 4,
@@ -293,7 +292,6 @@
                "cylinderHeightM" : 2.25,
                "cylinderRadiusM" : 1.25
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.18,
             "modelScaleV2" : 0.97,
             "raidBossDistanceOffset" : 4,
@@ -555,7 +553,6 @@
                   "cylinderHeightM" : 2.25,
                   "cylinderRadiusM" : 1.25
                },
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.18,
                "modelScaleV2" : 0.97,
                "raidBossDistanceOffset" : 4,
@@ -609,7 +606,6 @@
                "cylinderHeightM" : 2.25,
                "cylinderRadiusM" : 1.25
             },
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.18,
             "modelScaleV2" : 0.97,
             "raidBossDistanceOffset" : 4,

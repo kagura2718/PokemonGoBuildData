@@ -86,7 +86,8 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.1
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
          {
@@ -175,7 +176,8 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.1
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [
             {
@@ -229,7 +231,6 @@
                   0,
                   -89
                ],
-               "cpMultiplierOverride" : 0.8503,
                "raidBossDistanceOffset" : 7,
                "stats" : {
                   "baseAttack" : 212,
@@ -274,7 +275,6 @@
                0,
                -89
             ],
-            "cpMultiplierOverride" : 0.8503,
             "raidBossDistanceOffset" : 7,
             "stats" : {
                "baseAttack" : 212,
@@ -381,7 +381,8 @@
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 11,
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.1
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
          {
@@ -471,7 +472,8 @@
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 11,
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.1
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [
             {
@@ -526,7 +528,6 @@
                   0,
                   -89
                ],
-               "cpMultiplierOverride" : 0.8503,
                "raidBossDistanceOffset" : 7,
                "stats" : {
                   "baseAttack" : 212,
@@ -571,7 +572,6 @@
                0,
                -89
             ],
-            "cpMultiplierOverride" : 0.8503,
             "raidBossDistanceOffset" : 7,
             "stats" : {
                "baseAttack" : 212,

@@ -273,6 +273,9 @@
          0,
          0
       ],
+      "eliteCinematicMove" : [
+         "DRACO_METEOR"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 3,
@@ -360,6 +363,9 @@
             1,
             0,
             0
+         ],
+         "eliteCinematicMove" : [
+            "DRACO_METEOR"
          ],
          "encounter" : {
             "attackProbability" : 0.1,

@@ -244,7 +244,6 @@
                   0,
                   0
                ],
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.8,
                "modelScaleV2" : 1,
                "raidBossDistanceOffset" : 3,
@@ -280,7 +279,6 @@
                0,
                0
             ],
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.8,
             "modelScaleV2" : 1,
             "raidBossDistanceOffset" : 3,
@@ -551,7 +549,6 @@
                   0,
                   0
                ],
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.8,
                "modelScaleV2" : 1,
                "raidBossDistanceOffset" : 3,
@@ -587,7 +584,6 @@
                0,
                0
             ],
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.8,
             "modelScaleV2" : 1,
             "raidBossDistanceOffset" : 3,
@@ -856,7 +852,6 @@
                   0,
                   0
                ],
-               "cpMultiplierOverride" : 0.8503,
                "modelHeight" : 2.8,
                "modelScaleV2" : 1,
                "raidBossDistanceOffset" : 3,
@@ -892,7 +887,6 @@
                0,
                0
             ],
-            "cpMultiplierOverride" : 0.8503,
             "modelHeight" : 2.8,
             "modelScaleV2" : 1,
             "raidBossDistanceOffset" : 3,

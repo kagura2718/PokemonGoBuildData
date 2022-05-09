@@ -214,7 +214,6 @@
             {
                "averageHeightM" : 1.8,
                "averageWeightKg" : 44,
-               "cpMultiplierOverride" : 0.8503,
                "raidBossDistanceOffset" : 9,
                "stats" : {
                   "baseAttack" : 286,
@@ -247,7 +246,6 @@
          {
             "averageHeightM" : 1.8,
             "averageWeightKg" : 44,
-            "cpMultiplierOverride" : 0.8503,
             "raidBossDistanceOffset" : 9,
             "stats" : {
                "baseAttack" : 286,
@@ -482,7 +480,6 @@
             {
                "averageHeightM" : 1.8,
                "averageWeightKg" : 44,
-               "cpMultiplierOverride" : 0.8503,
                "raidBossDistanceOffset" : 9,
                "stats" : {
                   "baseAttack" : 286,
@@ -515,7 +512,6 @@
          {
             "averageHeightM" : 1.8,
             "averageWeightKg" : 44,
-            "cpMultiplierOverride" : 0.8503,
             "raidBossDistanceOffset" : 9,
             "stats" : {
                "baseAttack" : 286,
