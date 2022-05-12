@@ -44,7 +44,7 @@
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 0.9,
-         "cylinderRadiusM" : 1.1,
+         "cylinderRadiusM" : 0.5,
          "diskRadiusM" : 0.378,
          "shoulderModeScale" : 0.5
       },
@@ -58,7 +58,7 @@
       "encounter" : {
          "attackProbability" : 0.2,
          "attackTimerS" : 29,
-         "baseCaptureRate" : 0.2,
+         "baseCaptureRate" : 0.01,
          "baseFleeRate" : 0.05,
          "bonusCandyCaptureReward" : 7,
          "bonusStardustCaptureReward" : 400,
@@ -126,7 +126,7 @@
          "camera" : {
             "cylinderGroundM" : 0.5,
             "cylinderHeightM" : 0.9,
-            "cylinderRadiusM" : 1.1,
+            "cylinderRadiusM" : 0.5,
             "diskRadiusM" : 0.378,
             "shoulderModeScale" : 0.5
          },
@@ -140,7 +140,7 @@
          "encounter" : {
             "attackProbability" : 0.2,
             "attackTimerS" : 29,
-            "baseCaptureRate" : 0.2,
+            "baseCaptureRate" : 0.01,
             "baseFleeRate" : 0.05,
             "bonusCandyCaptureReward" : 7,
             "bonusStardustCaptureReward" : 400,
