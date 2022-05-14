@@ -63,6 +63,9 @@
          "DRAGON_CLAW",
          "SOLAR_BEAM"
       ],
+      "eliteCinematicMove" : [
+         "LUSTER_PURGE"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 20,
@@ -145,6 +148,9 @@
             "PSYCHIC",
             "DRAGON_CLAW",
             "SOLAR_BEAM"
+         ],
+         "eliteCinematicMove" : [
+            "LUSTER_PURGE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,

@@ -63,6 +63,9 @@
          "OUTRAGE",
          "THUNDER"
       ],
+      "eliteCinematicMove" : [
+         "MIST_BALL"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 20,
@@ -146,6 +149,9 @@
             "PSYCHIC",
             "OUTRAGE",
             "THUNDER"
+         ],
+         "eliteCinematicMove" : [
+            "MIST_BALL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
