@@ -5488,6 +5488,41 @@
          "vfxName" : "rock_wrecker"
       }
    },
+   "ROLLOUT_FAST" : {
+      "built" : {
+         "combatOverrides" : {
+            "EPT" : 4.66666666666667,
+            "energyDelta" : 14,
+            "movesType" : 5,
+            "power" : 4,
+            "rigidTurn" : 3
+         },
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 960,
+         "durationMs" : 1400,
+         "energyDelta" : 18,
+         "isCinematicMoves" : false,
+         "isQuickMoves" : true,
+         "movesType" : 5,
+         "movesTypeWrap" : 5,
+         "power" : 14
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 4,
+         "damageWindowEndMs" : 1200,
+         "damageWindowStartMs" : 960,
+         "durationMs" : 1400,
+         "energyDelta" : 18,
+         "movementId" : "ROLLOUT_FAST",
+         "pokemonType" : "POKEMON_TYPE_ROCK",
+         "power" : 14,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "rollout_fast"
+      }
+   },
    "SACRED_FIRE" : {
       "built" : {
          "damageWindowEndMs" : 2400,

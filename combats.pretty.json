@@ -2677,6 +2677,21 @@
          "vfxName" : "rock_wrecker"
       }
    },
+   "ROLLOUT_FAST" : {
+      "built" : {
+         "energyDelta" : 14,
+         "movesType" : 5,
+         "power" : 4
+      },
+      "raw" : {
+         "durationTurns" : 2,
+         "energyDelta" : 14,
+         "power" : 4,
+         "type" : "POKEMON_TYPE_ROCK",
+         "uniqueId" : "ROLLOUT_FAST",
+         "vfxName" : "rollout_fast"
+      }
+   },
    "SACRED_FIRE" : {
       "built" : {
          "energyDelta" : -65,
