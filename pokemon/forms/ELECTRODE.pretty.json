@@ -263,7 +263,6 @@
          "WILD_CHARGE",
          "ENERGY_BALL"
       ],
-      "disableTransferToPokemonHome" : true,
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 23,
@@ -347,7 +346,6 @@
             "WILD_CHARGE",
             "ENERGY_BALL"
          ],
-         "disableTransferToPokemonHome" : true,
          "encounter" : {
             "attackProbability" : 0.1,
             "attackTimerS" : 23,

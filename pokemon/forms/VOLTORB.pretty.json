@@ -273,7 +273,6 @@
          "THUNDERBOLT",
          "ENERGY_BALL"
       ],
-      "disableTransferToPokemonHome" : true,
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -364,7 +363,6 @@
             "THUNDERBOLT",
             "ENERGY_BALL"
          ],
-         "disableTransferToPokemonHome" : true,
          "encounter" : {
             "attackProbability" : 0.1,
             "attackTimerS" : 29,
