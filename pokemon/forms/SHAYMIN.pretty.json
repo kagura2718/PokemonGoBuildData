@@ -49,12 +49,13 @@
       "cinematicMoves" : [
          "ENERGY_BALL",
          "GRASS_KNOT",
-         "SOLAR_BEAM"
+         "SOLAR_BEAM",
+         "SEED_FLARE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
-         "baseCaptureRate" : 0.02,
+         "baseCaptureRate" : 100,
          "bonusXlCandyCaptureReward" : 3,
          "cameraDistance" : 2.25,
          "collisionHeadRadiusM" : 0.07,
@@ -122,12 +123,13 @@
          "cinematicMoves" : [
             "ENERGY_BALL",
             "GRASS_KNOT",
-            "SOLAR_BEAM"
+            "SOLAR_BEAM",
+            "SEED_FLARE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "attackTimerS" : 29,
-            "baseCaptureRate" : 0.02,
+            "baseCaptureRate" : 100,
             "bonusXlCandyCaptureReward" : 3,
             "cameraDistance" : 2.25,
             "collisionHeadRadiusM" : 0.07,
@@ -226,12 +228,13 @@
       "cinematicMoves" : [
          "ENERGY_BALL",
          "GRASS_KNOT",
-         "SOLAR_BEAM"
+         "SOLAR_BEAM",
+         "SEED_FLARE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
-         "baseCaptureRate" : 0.02,
+         "baseCaptureRate" : 100,
          "bonusXlCandyCaptureReward" : 3,
          "cameraDistance" : 2.25,
          "collisionHeadRadiusM" : 0.1,
@@ -295,12 +298,13 @@
          "cinematicMoves" : [
             "ENERGY_BALL",
             "GRASS_KNOT",
-            "SOLAR_BEAM"
+            "SOLAR_BEAM",
+            "SEED_FLARE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "attackTimerS" : 29,
-            "baseCaptureRate" : 0.02,
+            "baseCaptureRate" : 100,
             "bonusXlCandyCaptureReward" : 3,
             "cameraDistance" : 2.25,
             "collisionHeadRadiusM" : 0.1,
@@ -402,12 +406,13 @@
       "cinematicMoves" : [
          "ENERGY_BALL",
          "GRASS_KNOT",
-         "SOLAR_BEAM"
+         "SOLAR_BEAM",
+         "SEED_FLARE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
-         "baseCaptureRate" : 0.02,
+         "baseCaptureRate" : 100,
          "bonusXlCandyCaptureReward" : 3,
          "cameraDistance" : 2.25,
          "collisionHeadRadiusM" : 0.126,
@@ -471,12 +476,13 @@
          "cinematicMoves" : [
             "ENERGY_BALL",
             "GRASS_KNOT",
-            "SOLAR_BEAM"
+            "SOLAR_BEAM",
+            "SEED_FLARE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "attackTimerS" : 29,
-            "baseCaptureRate" : 0.02,
+            "baseCaptureRate" : 100,
             "bonusXlCandyCaptureReward" : 3,
             "cameraDistance" : 2.25,
             "collisionHeadRadiusM" : 0.126,
