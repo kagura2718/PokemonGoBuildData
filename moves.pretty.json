@@ -5786,6 +5786,34 @@
          "vfxName" : "seed_bomb"
       }
    },
+   "SEED_FLARE" : {
+      "built" : {
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2500,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
+         "movesType" : 11,
+         "movesTypeWrap" : 11,
+         "power" : 120
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 2600,
+         "damageWindowStartMs" : 2500,
+         "durationMs" : 2700,
+         "energyDelta" : -100,
+         "movementId" : "SEED_FLARE",
+         "pokemonType" : "POKEMON_TYPE_GRASS",
+         "power" : 120,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "seed_flare"
+      }
+   },
    "SHADOW_BALL" : {
       "built" : {
          "damageWindowEndMs" : 2800,

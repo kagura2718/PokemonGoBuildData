@@ -50,10 +50,8 @@
       "formChange" : [
          {
             "availableForm" : [
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -75,7 +73,6 @@
          "BITE_FAST",
          "SUCKER_PUNCH_FAST"
       ],
-      "raidBossDistanceOffset" : 3,
       "raw" : {
          "animationTime" : [
             1.9,
@@ -115,10 +112,8 @@
          "formChange" : [
             {
                "availableForm" : [
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -140,7 +135,6 @@
             "BITE_FAST",
             "SUCKER_PUNCH_FAST"
          ],
-         "raidBossDistanceOffset" : 3,
          "stats" : {
             "baseAttack" : 164,
             "baseDefense" : 167,
@@ -218,9 +212,7 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
-               "FURFROU_MATRON",
-               "FURFROU_LA_REINE"
+               "FURFROU_MATRON"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -284,9 +276,7 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
-                  "FURFROU_MATRON",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_MATRON"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -386,10 +376,8 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -453,10 +441,8 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -557,8 +543,7 @@
             "availableForm" : [
                "FURFROU_NATURAL",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -623,8 +608,7 @@
                "availableForm" : [
                   "FURFROU_NATURAL",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -724,10 +708,8 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -791,10 +773,8 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -894,10 +874,8 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -961,10 +939,8 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1064,7 +1040,6 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
                "FURFROU_DANDY"
             ],
@@ -1130,7 +1105,6 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
                   "FURFROU_DANDY"
                ],
@@ -1232,9 +1206,7 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1298,9 +1270,7 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1399,10 +1369,8 @@
       "formChange" : [
          {
             "availableForm" : [
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1465,10 +1433,8 @@
          "formChange" : [
             {
                "availableForm" : [
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1568,10 +1534,8 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1635,10 +1599,8 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000
@@ -1738,10 +1700,8 @@
          {
             "availableForm" : [
                "FURFROU_NATURAL",
-               "FURFROU_DIAMOND",
                "FURFROU_MATRON",
-               "FURFROU_DANDY",
-               "FURFROU_LA_REINE"
+               "FURFROU_DANDY"
             ],
             "candyCost" : 25,
             "stardustCost" : 10000
@@ -1805,10 +1765,8 @@
             {
                "availableForm" : [
                   "FURFROU_NATURAL",
-                  "FURFROU_DIAMOND",
                   "FURFROU_MATRON",
-                  "FURFROU_DANDY",
-                  "FURFROU_LA_REINE"
+                  "FURFROU_DANDY"
                ],
                "candyCost" : 25,
                "stardustCost" : 10000

@@ -2838,6 +2838,24 @@
          "vfxName" : "seed_bomb"
       }
    },
+   "SEED_FLARE" : {
+      "built" : {
+         "energyDelta" : -75,
+         "movesType" : 11,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.4,
+            "targetDefenseStatStageChange" : -2
+         },
+         "energyDelta" : -75,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_GRASS",
+         "uniqueId" : "SEED_FLARE",
+         "vfxName" : "seed_flare"
+      }
+   },
    "SHADOW_BALL" : {
       "built" : {
          "energyDelta" : -55,
