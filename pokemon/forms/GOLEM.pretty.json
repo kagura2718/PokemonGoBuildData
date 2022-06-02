@@ -257,6 +257,9 @@
          "ROCK_BLAST",
          "WILD_CHARGE"
       ],
+      "eliteQuickMove" : [
+         "ROLLOUT_FAST"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 3,
@@ -334,6 +337,9 @@
             "STONE_EDGE",
             "ROCK_BLAST",
             "WILD_CHARGE"
+         ],
+         "eliteQuickMove" : [
+            "ROLLOUT_FAST"
          ],
          "encounter" : {
             "attackProbability" : 0.1,

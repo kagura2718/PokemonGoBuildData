@@ -71,7 +71,7 @@
          {
             "candyCost" : 50,
             "evolution" : "MAROWAK",
-            "form" : "MAROWAK_ALOLA",
+            "form" : "MAROWAK_NORMAL",
             "purificationEvolutionCandyCost" : 45
          }
       ],
@@ -155,7 +155,7 @@
             {
                "candyCost" : 50,
                "evolution" : "MAROWAK",
-               "form" : "MAROWAK_ALOLA",
+               "form" : "MAROWAK_NORMAL",
                "purificationEvolutionCandyCost" : 45
             }
          ],
@@ -287,7 +287,7 @@
          {
             "candyCost" : 50,
             "evolution" : "MAROWAK",
-            "form" : "MAROWAK_ALOLA",
+            "form" : "MAROWAK_NORMAL",
             "purificationEvolutionCandyCost" : 45
          }
       ],
@@ -372,7 +372,7 @@
             {
                "candyCost" : 50,
                "evolution" : "MAROWAK",
-               "form" : "MAROWAK_ALOLA",
+               "form" : "MAROWAK_NORMAL",
                "purificationEvolutionCandyCost" : 45
             }
          ],
