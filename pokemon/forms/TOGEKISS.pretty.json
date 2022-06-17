@@ -44,7 +44,7 @@
       "camera" : {
          "cylinderGroundM" : 0.5,
          "cylinderHeightM" : 0.9,
-         "cylinderRadiusM" : 0.5,
+         "cylinderRadiusM" : 1.1,
          "diskRadiusM" : 0.378,
          "shoulderModeScale" : 0.5
       },
@@ -126,7 +126,7 @@
          "camera" : {
             "cylinderGroundM" : 0.5,
             "cylinderHeightM" : 0.9,
-            "cylinderRadiusM" : 0.5,
+            "cylinderRadiusM" : 1.1,
             "diskRadiusM" : 0.378,
             "shoulderModeScale" : 0.5
          },

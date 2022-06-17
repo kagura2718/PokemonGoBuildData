@@ -33,7 +33,10 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_UP_PUNCH",
+         "CRABHAMMER",
+         "PAYBACK",
+         "ICE_PUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -63,7 +66,8 @@
       "pokedexWeightKg" : 180,
       "pokemonId" : "CRABOMINABLE",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROCK_SMASH_FAST",
+         "BUBBLE_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -85,7 +89,10 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_UP_PUNCH",
+            "CRABHAMMER",
+            "PAYBACK",
+            "ICE_PUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -115,7 +122,8 @@
          "pokedexWeightKg" : 180,
          "pokemonId" : "CRABOMINABLE",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROCK_SMASH_FAST",
+            "BUBBLE_FAST"
          ],
          "stats" : {
             "baseAttack" : 231,

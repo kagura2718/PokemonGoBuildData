@@ -330,7 +330,8 @@
             "baseAttack" : 171,
             "baseDefense" : 207,
             "baseStamina" : 188
-         }
+         },
+         "tempEvoOverrides" : {}
       },
       "camera" : {
          "cylinderHeightM" : 1.2925,
@@ -486,6 +487,16 @@
             "baseDefense" : 207,
             "baseStamina" : 188
          },
+         "tempEvoOverrides" : [
+            {
+               "camera" : {
+                  "cylinderHeightM" : 3,
+                  "cylinderRadiusM" : 1.1
+               },
+               "modelHeight" : 1.39,
+               "modelScaleV2" : 1.05
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 25,
             "stardustToUnlock" : 10000
@@ -504,6 +515,16 @@
          "baseDefense" : 207,
          "baseStamina" : 188
       },
+      "tempEvoOverrides" : [
+         {
+            "camera" : {
+               "cylinderHeightM" : 3,
+               "cylinderRadiusM" : 1.1
+            },
+            "modelHeight" : 1.39,
+            "modelScaleV2" : 1.05
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 25,
          "stardustToUnlock" : 10000

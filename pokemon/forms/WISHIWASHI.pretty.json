@@ -31,7 +31,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "BRINE",
+         "SURF",
+         "AQUA_TAIL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -57,7 +59,9 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "WISHIWASHI",
       "quickMoves" : [
-         "STRUGGLE"
+         "WATER_GUN_FAST",
+         "WATERFALL_FAST",
+         "IRON_TAIL_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -79,7 +83,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "BRINE",
+            "SURF",
+            "AQUA_TAIL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -105,7 +111,9 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "WISHIWASHI",
          "quickMoves" : [
-            "STRUGGLE"
+            "WATER_GUN_FAST",
+            "WATERFALL_FAST",
+            "IRON_TAIL_FAST"
          ],
          "stats" : {
             "baseAttack" : 46,
@@ -163,7 +171,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "BRINE",
+         "SURF",
+         "AQUA_TAIL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -190,7 +200,9 @@
       "pokedexWeightKg" : 78.6,
       "pokemonId" : "WISHIWASHI",
       "quickMoves" : [
-         "STRUGGLE"
+         "WATER_GUN_FAST",
+         "WATERFALL_FAST",
+         "IRON_TAIL_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -212,7 +224,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "BRINE",
+            "SURF",
+            "AQUA_TAIL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -239,7 +253,9 @@
          "pokedexWeightKg" : 78.6,
          "pokemonId" : "WISHIWASHI",
          "quickMoves" : [
-            "STRUGGLE"
+            "WATER_GUN_FAST",
+            "WATERFALL_FAST",
+            "IRON_TAIL_FAST"
          ],
          "stats" : {
             "baseAttack" : 255,
@@ -297,7 +313,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "BRINE",
+         "SURF",
+         "AQUA_TAIL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -324,7 +342,9 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "WISHIWASHI",
       "quickMoves" : [
-         "STRUGGLE"
+         "WATER_GUN_FAST",
+         "WATERFALL_FAST",
+         "IRON_TAIL_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -346,7 +366,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "BRINE",
+            "SURF",
+            "AQUA_TAIL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -373,7 +395,9 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "WISHIWASHI",
          "quickMoves" : [
-            "STRUGGLE"
+            "WATER_GUN_FAST",
+            "WATERFALL_FAST",
+            "IRON_TAIL_FAST"
          ],
          "stats" : {
             "baseAttack" : 46,

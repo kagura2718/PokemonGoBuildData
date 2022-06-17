@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SAND_TOMB",
+         "SHADOW_BALL",
+         "EARTH_POWER"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -63,7 +65,8 @@
       "pokedexWeightKg" : 250,
       "pokemonId" : "PALOSSAND",
       "quickMoves" : [
-         "STRUGGLE"
+         "ASTONISH_FAST",
+         "MUD_SHOT_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -85,7 +88,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SAND_TOMB",
+            "SHADOW_BALL",
+            "EARTH_POWER"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -115,7 +120,8 @@
          "pokedexWeightKg" : 250,
          "pokemonId" : "PALOSSAND",
          "quickMoves" : [
-            "STRUGGLE"
+            "ASTONISH_FAST",
+            "MUD_SHOT_FAST"
          ],
          "stats" : {
             "baseAttack" : 178,

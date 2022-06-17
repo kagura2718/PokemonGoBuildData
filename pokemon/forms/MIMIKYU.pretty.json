@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SHADOW_SNEAK",
+         "PLAY_ROUGH",
+         "SHADOW_BALL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -59,7 +61,8 @@
       "pokedexWeightKg" : 0.7,
       "pokemonId" : "MIMIKYU",
       "quickMoves" : [
-         "STRUGGLE"
+         "SHADOW_CLAW_FAST",
+         "CHARM_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -81,7 +84,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SHADOW_SNEAK",
+            "PLAY_ROUGH",
+            "SHADOW_BALL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -107,7 +112,8 @@
          "pokedexWeightKg" : 0.7,
          "pokemonId" : "MIMIKYU",
          "quickMoves" : [
-            "STRUGGLE"
+            "SHADOW_CLAW_FAST",
+            "CHARM_FAST"
          ],
          "stats" : {
             "baseAttack" : 177,
@@ -169,7 +175,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SHADOW_SNEAK",
+         "PLAY_ROUGH",
+         "SHADOW_BALL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -196,7 +204,8 @@
       "pokedexWeightKg" : 0.7,
       "pokemonId" : "MIMIKYU",
       "quickMoves" : [
-         "STRUGGLE"
+         "SHADOW_CLAW_FAST",
+         "CHARM_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -218,7 +227,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SHADOW_SNEAK",
+            "PLAY_ROUGH",
+            "SHADOW_BALL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -245,7 +256,8 @@
          "pokedexWeightKg" : 0.7,
          "pokemonId" : "MIMIKYU",
          "quickMoves" : [
-            "STRUGGLE"
+            "SHADOW_CLAW_FAST",
+            "CHARM_FAST"
          ],
          "stats" : {
             "baseAttack" : 177,
@@ -307,7 +319,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "SHADOW_SNEAK",
+         "PLAY_ROUGH",
+         "SHADOW_BALL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -334,7 +348,8 @@
       "pokedexWeightKg" : 0.7,
       "pokemonId" : "MIMIKYU",
       "quickMoves" : [
-         "STRUGGLE"
+         "SHADOW_CLAW_FAST",
+         "CHARM_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -356,7 +371,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "SHADOW_SNEAK",
+            "PLAY_ROUGH",
+            "SHADOW_BALL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -383,7 +400,8 @@
          "pokedexWeightKg" : 0.7,
          "pokemonId" : "MIMIKYU",
          "quickMoves" : [
-            "STRUGGLE"
+            "SHADOW_CLAW_FAST",
+            "CHARM_FAST"
          ],
          "stats" : {
             "baseAttack" : 177,

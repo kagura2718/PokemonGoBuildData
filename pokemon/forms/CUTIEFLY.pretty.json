@@ -1,22 +1,23 @@
 [
    {
-      "buddyGroupNumber" : 2,
+      "buddyGroupNumber" : 4,
       "buddyOffsetFemale" : [
          0,
          0,
-         0
+         96
       ],
       "buddyOffsetMale" : [
          0,
          0,
-         0
+         96
       ],
       "buddyPortraitOffset" : [
+         10,
          0,
-         0,
-         0
+         -500
       ],
       "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
       "built" : {
          "pokedexNumber" : 742,
          "pokemonType" : 6,
@@ -31,21 +32,30 @@
             "baseStamina" : 120
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderGroundM" : 0.193,
+         "cylinderHeightM" : 0.17,
+         "cylinderRadiusM" : 0.09
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DAZZLING_GLEAM",
+         "BUG_BUZZ"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.5,
          "baseFleeRate" : 0.2,
-         "cameraDistance" : 4,
+         "cameraDistance" : 2,
+         "collisionHeadRadiusM" : 0.03,
+         "collisionHeightM" : 0.05,
+         "collisionRadiusM" : 0.05,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_FLYING"
       },
       "evolutionBranch" : [
          {
@@ -59,47 +69,58 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
-      "modelHeight" : 1,
+      "modelHeight" : 0.225,
       "modelScaleV2" : 1,
       "pokedexHeightM" : 0.1,
       "pokedexWeightKg" : 0.2,
       "pokemonId" : "CUTIEFLY",
       "quickMoves" : [
-         "STRUGGLE"
+         "FAIRY_WIND_FAST",
+         "STRUGGLE_BUG_FAST"
       ],
       "raw" : {
-         "buddyGroupNumber" : 2,
+         "buddyGroupNumber" : 4,
          "buddyOffsetFemale" : [
             0,
             0,
-            0
+            96
          ],
          "buddyOffsetMale" : [
             0,
             0,
-            0
+            96
          ],
          "buddyPortraitOffset" : [
+            10,
             0,
-            0,
-            0
+            -500
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.193,
+            "cylinderHeightM" : 0.17,
+            "cylinderRadiusM" : 0.09
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DAZZLING_GLEAM",
+            "BUG_BUZZ"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.5,
             "baseFleeRate" : 0.2,
-            "cameraDistance" : 4,
+            "cameraDistance" : 2,
+            "collisionHeadRadiusM" : 0.03,
+            "collisionHeightM" : 0.05,
+            "collisionRadiusM" : 0.05,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_FLYING"
          },
          "evolutionBranch" : [
             {
@@ -113,13 +134,14 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
-         "modelHeight" : 1,
+         "modelHeight" : 0.225,
          "modelScaleV2" : 1,
          "pokedexHeightM" : 0.1,
          "pokedexWeightKg" : 0.2,
          "pokemonId" : "CUTIEFLY",
          "quickMoves" : [
-            "STRUGGLE"
+            "FAIRY_WIND_FAST",
+            "STRUGGLE_BUG_FAST"
          ],
          "stats" : {
             "baseAttack" : 110,

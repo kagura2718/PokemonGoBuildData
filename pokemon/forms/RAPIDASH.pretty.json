@@ -98,6 +98,7 @@
          "FIRE_SPIN_FAST",
          "INCINERATE_FAST"
       ],
+      "raidBossDistanceOffset" : 4,
       "raw" : {
          "animationTime" : [
             2.0667,
@@ -185,6 +186,7 @@
             "FIRE_SPIN_FAST",
             "INCINERATE_FAST"
          ],
+         "raidBossDistanceOffset" : 4,
          "shadow" : {
             "purificationCandyNeeded" : 3,
             "purificationStardustNeeded" : 3000,
@@ -544,6 +546,7 @@
          "FIRE_SPIN_FAST",
          "INCINERATE_FAST"
       ],
+      "raidBossDistanceOffset" : 4,
       "raw" : {
          "animationTime" : [
             2.0667,
@@ -632,6 +635,7 @@
             "FIRE_SPIN_FAST",
             "INCINERATE_FAST"
          ],
+         "raidBossDistanceOffset" : 4,
          "shadow" : {
             "purificationCandyNeeded" : 3,
             "purificationStardustNeeded" : 3000,

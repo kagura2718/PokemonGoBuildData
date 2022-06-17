@@ -24,7 +24,7 @@
       "buddyPortraitOffset" : [
          0,
          -420,
-         1150
+         1500
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
@@ -119,7 +119,7 @@
          "buddyPortraitOffset" : [
             0,
             -420,
-            1150
+            1500
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_FLYING",

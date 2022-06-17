@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "OUTRAGE",
+         "DRAGON_PULSE",
+         "FLY"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -59,7 +61,8 @@
       "pokedexWeightKg" : 185,
       "pokemonId" : "DRAMPA",
       "quickMoves" : [
-         "STRUGGLE"
+         "DRAGON_BREATH_FAST",
+         "EXTRASENSORY_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -81,7 +84,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "OUTRAGE",
+            "DRAGON_PULSE",
+            "FLY"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -107,7 +112,8 @@
          "pokedexWeightKg" : 185,
          "pokemonId" : "DRAMPA",
          "quickMoves" : [
-            "STRUGGLE"
+            "DRAGON_BREATH_FAST",
+            "EXTRASENSORY_FAST"
          ],
          "stats" : {
             "baseAttack" : 231,

@@ -1,22 +1,23 @@
 [
    {
-      "buddyGroupNumber" : 2,
+      "buddyGroupNumber" : 6,
       "buddyOffsetFemale" : [
-         0,
+         25,
          0,
          0
       ],
       "buddyOffsetMale" : [
-         0,
+         25,
          0,
          0
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         -50,
+         80,
+         -1200
       ],
       "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
       "built" : {
          "pokedexNumber" : 738,
          "pokemonType" : 6,
@@ -31,9 +32,15 @@
             "baseStamina" : 184
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderGroundM" : 0.49,
+         "cylinderHeightM" : 1.01,
+         "cylinderRadiusM" : 1.05
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "X_SCISSOR",
+         "DISCHARGE",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -43,12 +50,16 @@
          "bonusStardustCaptureReward" : 400,
          "bonusXlCandyCaptureReward" : 2,
          "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.4,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.7,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_FLYING"
       },
       "familyId" : "FAMILY_GRUBBIN",
       "heightStdDev" : 0.1875,
@@ -56,36 +67,46 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 1.5,
+      "modelScaleV2" : 0.98,
       "parentPokemonId" : "CHARJABUG",
       "pokedexHeightM" : 1.5,
       "pokedexWeightKg" : 45,
       "pokemonId" : "VIKAVOLT",
       "quickMoves" : [
-         "STRUGGLE"
+         "BUG_BITE_FAST",
+         "SPARK_FAST",
+         "MUD_SLAP_FAST"
       ],
+      "raidBossDistanceOffset" : 1.3,
       "raw" : {
-         "buddyGroupNumber" : 2,
+         "buddyGroupNumber" : 6,
          "buddyOffsetFemale" : [
-            0,
+            25,
             0,
             0
          ],
          "buddyOffsetMale" : [
-            0,
+            25,
             0,
             0
          ],
          "buddyPortraitOffset" : [
-            0,
-            0,
-            0
+            -50,
+            80,
+            -1200
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 0.49,
+            "cylinderHeightM" : 1.01,
+            "cylinderRadiusM" : 1.05
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "X_SCISSOR",
+            "DISCHARGE",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -95,12 +116,16 @@
             "bonusStardustCaptureReward" : 400,
             "bonusXlCandyCaptureReward" : 2,
             "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.4,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.7,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_FLYING"
          },
          "familyId" : "FAMILY_GRUBBIN",
          "heightStdDev" : 0.1875,
@@ -108,15 +133,18 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 1.5,
+         "modelScaleV2" : 0.98,
          "parentPokemonId" : "CHARJABUG",
          "pokedexHeightM" : 1.5,
          "pokedexWeightKg" : 45,
          "pokemonId" : "VIKAVOLT",
          "quickMoves" : [
-            "STRUGGLE"
+            "BUG_BITE_FAST",
+            "SPARK_FAST",
+            "MUD_SLAP_FAST"
          ],
+         "raidBossDistanceOffset" : 1.3,
          "stats" : {
             "baseAttack" : 254,
             "baseDefense" : 158,

@@ -2,19 +2,19 @@
    {
       "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
-         0,
+         10,
          0,
          0
       ],
       "buddyOffsetMale" : [
-         0,
+         10,
          0,
          0
       ],
       "buddyPortraitOffset" : [
+         -50,
          0,
-         0,
-         0
+         150
       ],
       "buddyScale" : 19,
       "built" : {
@@ -31,9 +31,14 @@
             "baseStamina" : 149
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 0.32,
+         "cylinderRadiusM" : 0.31
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "X_SCISSOR",
+         "DISCHARGE",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -42,10 +47,14 @@
          "bonusCandyCaptureReward" : 2,
          "bonusStardustCaptureReward" : 200,
          "bonusXlCandyCaptureReward" : 1,
-         "cameraDistance" : 4,
+         "cameraDistance" : 3,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.28,
+         "collisionRadiusM" : 0.28,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -63,36 +72,43 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 1,
-      "modelHeight" : 1,
+      "modelHeight" : 0.5,
       "modelScaleV2" : 1,
       "parentPokemonId" : "GRUBBIN",
       "pokedexHeightM" : 0.5,
       "pokedexWeightKg" : 10.5,
       "pokemonId" : "CHARJABUG",
       "quickMoves" : [
-         "STRUGGLE"
+         "BUG_BITE_FAST",
+         "SPARK_FAST"
       ],
+      "raidBossDistanceOffset" : 1,
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
-            0,
+            10,
             0,
             0
          ],
          "buddyOffsetMale" : [
-            0,
+            10,
             0,
             0
          ],
          "buddyPortraitOffset" : [
+            -50,
             0,
-            0,
-            0
+            150
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 0.32,
+            "cylinderRadiusM" : 0.31
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "X_SCISSOR",
+            "DISCHARGE",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -101,10 +117,14 @@
             "bonusCandyCaptureReward" : 2,
             "bonusStardustCaptureReward" : 200,
             "bonusXlCandyCaptureReward" : 1,
-            "cameraDistance" : 4,
+            "cameraDistance" : 3,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.28,
+            "collisionRadiusM" : 0.28,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -122,15 +142,17 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 1,
-         "modelHeight" : 1,
+         "modelHeight" : 0.5,
          "modelScaleV2" : 1,
          "parentPokemonId" : "GRUBBIN",
          "pokedexHeightM" : 0.5,
          "pokedexWeightKg" : 10.5,
          "pokemonId" : "CHARJABUG",
          "quickMoves" : [
-            "STRUGGLE"
+            "BUG_BITE_FAST",
+            "SPARK_FAST"
          ],
+         "raidBossDistanceOffset" : 1,
          "stats" : {
             "baseAttack" : 145,
             "baseDefense" : 161,

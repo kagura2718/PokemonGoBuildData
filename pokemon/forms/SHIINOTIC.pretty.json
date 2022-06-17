@@ -33,7 +33,10 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "GIGA_DRAIN",
+         "MOONBLAST",
+         "SEED_BOMB",
+         "SLUDGE_BOMB"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -63,7 +66,7 @@
       "pokedexWeightKg" : 11.5,
       "pokemonId" : "SHIINOTIC",
       "quickMoves" : [
-         "STRUGGLE"
+         "ASTONISH_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -85,7 +88,10 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "GIGA_DRAIN",
+            "MOONBLAST",
+            "SEED_BOMB",
+            "SLUDGE_BOMB"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -115,7 +121,7 @@
          "pokedexWeightKg" : 11.5,
          "pokemonId" : "SHIINOTIC",
          "quickMoves" : [
-            "STRUGGLE"
+            "ASTONISH_FAST"
          ],
          "stats" : {
             "baseAttack" : 154,

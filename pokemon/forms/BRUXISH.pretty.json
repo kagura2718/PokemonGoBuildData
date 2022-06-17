@@ -12,9 +12,9 @@
          0
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         -50,
+         -10,
+         250
       ],
       "buddyScale" : 19,
       "built" : {
@@ -31,18 +31,27 @@
             "baseStamina" : 169
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 1,
+         "cylinderRadiusM" : 0.5
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "PSYCHIC_FANGS",
+         "AQUA_TAIL",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.1,
          "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.35,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.45,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.7,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -59,7 +68,9 @@
       "pokedexWeightKg" : 19,
       "pokemonId" : "BRUXISH",
       "quickMoves" : [
-         "STRUGGLE"
+         "WATER_GUN_FAST",
+         "CONFUSION_FAST",
+         "BITE_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -74,23 +85,32 @@
             0
          ],
          "buddyPortraitOffset" : [
-            0,
-            0,
-            0
+            -50,
+            -10,
+            250
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 1,
+            "cylinderRadiusM" : 0.5
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "PSYCHIC_FANGS",
+            "AQUA_TAIL",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.1,
             "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.35,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.45,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.7,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -107,7 +127,9 @@
          "pokedexWeightKg" : 19,
          "pokemonId" : "BRUXISH",
          "quickMoves" : [
-            "STRUGGLE"
+            "WATER_GUN_FAST",
+            "CONFUSION_FAST",
+            "BITE_FAST"
          ],
          "stats" : {
             "baseAttack" : 208,

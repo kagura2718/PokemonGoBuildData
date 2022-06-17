@@ -52,6 +52,7 @@
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -113,6 +114,7 @@
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -192,7 +194,9 @@
          "cylinderRadiusM" : 0.47
       },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "STONE_EDGE",
+         "IRON_HEAD",
+         "CRUNCH"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -208,6 +212,7 @@
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -226,7 +231,9 @@
       "pokedexWeightKg" : 25,
       "pokemonId" : "LYCANROC",
       "quickMoves" : [
-         "STRUGGLE"
+         "SUCKER_PUNCH_FAST",
+         "COUNTER_FAST",
+         "ROCK_THROW_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -251,7 +258,9 @@
             "cylinderRadiusM" : 0.47
          },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "STONE_EDGE",
+            "IRON_HEAD",
+            "CRUNCH"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -267,6 +276,7 @@
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -285,7 +295,9 @@
          "pokedexWeightKg" : 25,
          "pokemonId" : "LYCANROC",
          "quickMoves" : [
-            "STRUGGLE"
+            "SUCKER_PUNCH_FAST",
+            "COUNTER_FAST",
+            "ROCK_THROW_FAST"
          ],
          "stats" : {
             "baseAttack" : 234,
@@ -364,6 +376,7 @@
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -426,6 +439,7 @@
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -524,6 +538,7 @@
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -586,6 +601,7 @@
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"

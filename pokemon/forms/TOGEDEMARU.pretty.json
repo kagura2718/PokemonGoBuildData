@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "FELL_STINGER",
+         "WILD_CHARGE",
+         "GYRO_BALL"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -59,7 +61,8 @@
       "pokedexWeightKg" : 3.3,
       "pokemonId" : "TOGEDEMARU",
       "quickMoves" : [
-         "STRUGGLE"
+         "THUNDER_SHOCK_FAST",
+         "SPARK_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -81,7 +84,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "FELL_STINGER",
+            "WILD_CHARGE",
+            "GYRO_BALL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -107,7 +112,8 @@
          "pokedexWeightKg" : 3.3,
          "pokemonId" : "TOGEDEMARU",
          "quickMoves" : [
-            "STRUGGLE"
+            "THUNDER_SHOCK_FAST",
+            "SPARK_FAST"
          ],
          "stats" : {
             "baseAttack" : 190,

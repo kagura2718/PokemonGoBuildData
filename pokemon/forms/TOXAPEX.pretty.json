@@ -2,14 +2,14 @@
    {
       "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
+         4,
          0,
-         0,
-         0
+         -56
       ],
       "buddyOffsetMale" : [
+         4,
          0,
-         0,
-         0
+         -56
       ],
       "buddyPortraitOffset" : [
          0,
@@ -31,9 +31,14 @@
             "baseStamina" : 137
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 0.8,
+         "cylinderRadiusM" : 1
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "MUDDY_WATER",
+         "GUNK_SHOT",
+         "SLUDGE_WAVE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -43,9 +48,13 @@
          "bonusStardustCaptureReward" : 200,
          "bonusXlCandyCaptureReward" : 1,
          "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.25,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 0.6,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -63,19 +72,20 @@
       "pokedexWeightKg" : 14.5,
       "pokemonId" : "TOXAPEX",
       "quickMoves" : [
-         "STRUGGLE"
+         "POISON_JAB_FAST",
+         "BITE_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
+            4,
             0,
-            0,
-            0
+            -56
          ],
          "buddyOffsetMale" : [
+            4,
             0,
-            0,
-            0
+            -56
          ],
          "buddyPortraitOffset" : [
             0,
@@ -83,9 +93,14 @@
             0
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 0.8,
+            "cylinderRadiusM" : 1
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "MUDDY_WATER",
+            "GUNK_SHOT",
+            "SLUDGE_WAVE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -95,9 +110,13 @@
             "bonusStardustCaptureReward" : 200,
             "bonusXlCandyCaptureReward" : 1,
             "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.25,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 0.6,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -115,7 +134,8 @@
          "pokedexWeightKg" : 14.5,
          "pokemonId" : "TOXAPEX",
          "quickMoves" : [
-            "STRUGGLE"
+            "POISON_JAB_FAST",
+            "BITE_FAST"
          ],
          "stats" : {
             "baseAttack" : 114,

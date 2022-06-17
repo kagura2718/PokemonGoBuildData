@@ -43,7 +43,7 @@
       },
       "camera" : {
          "cylinderHeightM" : 3.4,
-         "cylinderRadiusM" : 0.7
+         "cylinderRadiusM" : 1.7
       },
       "cinematicMoves" : [
          "WEATHER_BALL_ICE",
@@ -120,7 +120,7 @@
          "buddySize" : "BUDDY_BIG",
          "camera" : {
             "cylinderHeightM" : 3.4,
-            "cylinderRadiusM" : 0.7
+            "cylinderRadiusM" : 1.7
          },
          "cinematicMoves" : [
             "WEATHER_BALL_ICE",

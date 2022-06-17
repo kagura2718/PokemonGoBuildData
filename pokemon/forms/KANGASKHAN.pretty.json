@@ -87,7 +87,7 @@
          "movementTimerS" : 11,
          "movementType" : "MOVEMENT_JUMP",
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormBaseCaptureRate" : 0.2,
          "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
@@ -178,7 +178,7 @@
             "movementTimerS" : 11,
             "movementType" : "MOVEMENT_JUMP",
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormBaseCaptureRate" : 0.2,
             "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [
@@ -399,7 +399,7 @@
          "movementTimerS" : 11,
          "movementType" : "MOVEMENT_JUMP",
          "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.05,
+         "shadowFormBaseCaptureRate" : 0.2,
          "shadowFormDodgeProbability" : 0.2
       },
       "evolutionBranch" : [
@@ -491,7 +491,7 @@
             "movementTimerS" : 11,
             "movementType" : "MOVEMENT_JUMP",
             "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.05,
+            "shadowFormBaseCaptureRate" : 0.2,
             "shadowFormDodgeProbability" : 0.2
          },
          "evolutionBranch" : [

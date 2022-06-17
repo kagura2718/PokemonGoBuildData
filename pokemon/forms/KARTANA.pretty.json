@@ -57,7 +57,7 @@
       "modelScaleV2" : 1,
       "pokedexHeightM" : 0.3,
       "pokedexWeightKg" : 0.1,
-      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
       "pokemonId" : "KARTANA",
       "quickMoves" : [
          "STRUGGLE"
@@ -106,7 +106,7 @@
          "modelScaleV2" : 1,
          "pokedexHeightM" : 0.3,
          "pokedexWeightKg" : 0.1,
-         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
          "pokemonId" : "KARTANA",
          "quickMoves" : [
             "STRUGGLE"

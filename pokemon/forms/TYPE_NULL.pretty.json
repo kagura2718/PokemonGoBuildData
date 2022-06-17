@@ -31,7 +31,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "TRI_ATTACK",
+         "IRON_HEAD",
+         "AERIAL_ACE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -63,7 +65,8 @@
       "pokedexWeightKg" : 120.5,
       "pokemonId" : "TYPE_NULL",
       "quickMoves" : [
-         "STRUGGLE"
+         "TACKLE_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -85,7 +88,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "TRI_ATTACK",
+            "IRON_HEAD",
+            "AERIAL_ACE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -117,7 +122,8 @@
          "pokedexWeightKg" : 120.5,
          "pokemonId" : "TYPE_NULL",
          "quickMoves" : [
-            "STRUGGLE"
+            "TACKLE_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 184,

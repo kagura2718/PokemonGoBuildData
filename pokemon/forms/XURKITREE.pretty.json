@@ -1,6 +1,6 @@
 [
    {
-      "buddyGroupNumber" : 2,
+      "buddyGroupNumber" : 3,
       "buddyOffsetFemale" : [
          0,
          0,
@@ -17,6 +17,7 @@
          0
       ],
       "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
       "built" : {
          "pokedexNumber" : 796,
          "pokemonType" : 12,
@@ -29,19 +30,29 @@
             "baseStamina" : 195
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 3.8,
+         "cylinderRadiusM" : 2.3
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "DISCHARGE",
+         "THUNDER",
+         "POWER_WHIP",
+         "DAZZLING_GLEAM"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.02,
          "baseFleeRate" : 0.1,
          "bonusXlCandyCaptureReward" : 3,
-         "cameraDistance" : 4,
+         "cameraDistance" : 7,
+         "collisionHeadRadiusM" : 0.9,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 1,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -51,17 +62,19 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 20,
-      "modelHeight" : 1,
+      "modelHeight" : 3.8,
       "modelScaleV2" : 1,
       "pokedexHeightM" : 3.8,
       "pokedexWeightKg" : 100,
-      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
       "pokemonId" : "XURKITREE",
       "quickMoves" : [
-         "STRUGGLE"
+         "THUNDER_SHOCK_FAST",
+         "SPARK_FAST"
       ],
+      "raidBossDistanceOffset" : 3,
       "raw" : {
-         "buddyGroupNumber" : 2,
+         "buddyGroupNumber" : 3,
          "buddyOffsetFemale" : [
             0,
             0,
@@ -78,19 +91,30 @@
             0
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 3.8,
+            "cylinderRadiusM" : 2.3
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "DISCHARGE",
+            "THUNDER",
+            "POWER_WHIP",
+            "DAZZLING_GLEAM"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.02,
             "baseFleeRate" : 0.1,
             "bonusXlCandyCaptureReward" : 3,
-            "cameraDistance" : 4,
+            "cameraDistance" : 7,
+            "collisionHeadRadiusM" : 0.9,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 1,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -100,15 +124,17 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 20,
-         "modelHeight" : 1,
+         "modelHeight" : 3.8,
          "modelScaleV2" : 1,
          "pokedexHeightM" : 3.8,
          "pokedexWeightKg" : 100,
-         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
          "pokemonId" : "XURKITREE",
          "quickMoves" : [
-            "STRUGGLE"
+            "THUNDER_SHOCK_FAST",
+            "SPARK_FAST"
          ],
+         "raidBossDistanceOffset" : 3,
          "stats" : {
             "baseAttack" : 330,
             "baseDefense" : 144,

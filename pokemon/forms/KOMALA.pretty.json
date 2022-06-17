@@ -31,7 +31,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "PLAY_ROUGH",
+         "BULLDOZE",
+         "PAYBACK"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -57,7 +59,8 @@
       "pokedexWeightKg" : 19.9,
       "pokemonId" : "KOMALA",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "YAWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -79,7 +82,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "PLAY_ROUGH",
+            "BULLDOZE",
+            "PAYBACK"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -105,7 +110,8 @@
          "pokedexWeightKg" : 19.9,
          "pokemonId" : "KOMALA",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "YAWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 216,

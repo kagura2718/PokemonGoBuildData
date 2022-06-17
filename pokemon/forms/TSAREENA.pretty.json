@@ -4,16 +4,16 @@
       "buddyOffsetFemale" : [
          0,
          0,
-         0
+         -50
       ],
       "buddyOffsetMale" : [
          0,
          0,
-         0
+         -50
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
+         15,
+         -15,
          0
       ],
       "buddyScale" : 19,
@@ -31,7 +31,10 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "ENERGY_BALL",
+         "DRAINING_KISS",
+         "GRASS_KNOT",
+         "STOMP"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -44,6 +47,7 @@
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -54,36 +58,41 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 0.7,
+      "modelScaleV2" : 0.9,
       "parentPokemonId" : "STEENEE",
       "pokedexHeightM" : 1.2,
       "pokedexWeightKg" : 21.4,
       "pokemonId" : "TSAREENA",
       "quickMoves" : [
-         "STRUGGLE"
+         "RAZOR_LEAF_FAST",
+         "CHARM_FAST",
+         "MAGICAL_LEAF_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
             0,
             0,
-            0
+            -50
          ],
          "buddyOffsetMale" : [
             0,
             0,
-            0
+            -50
          ],
          "buddyPortraitOffset" : [
-            0,
-            0,
+            15,
+            -15,
             0
          ],
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "ENERGY_BALL",
+            "DRAINING_KISS",
+            "GRASS_KNOT",
+            "STOMP"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -96,6 +105,7 @@
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -106,14 +116,16 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 0.7,
+         "modelScaleV2" : 0.9,
          "parentPokemonId" : "STEENEE",
          "pokedexHeightM" : 1.2,
          "pokedexWeightKg" : 21.4,
          "pokemonId" : "TSAREENA",
          "quickMoves" : [
-            "STRUGGLE"
+            "RAZOR_LEAF_FAST",
+            "CHARM_FAST",
+            "MAGICAL_LEAF_FAST"
          ],
          "stats" : {
             "baseAttack" : 222,

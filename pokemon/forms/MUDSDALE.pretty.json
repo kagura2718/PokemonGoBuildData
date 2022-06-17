@@ -31,7 +31,10 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "BULLDOZE",
+         "BODY_SLAM",
+         "EARTHQUAKE",
+         "HEAVY_SLAM"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -61,7 +64,8 @@
       "pokedexWeightKg" : 920,
       "pokemonId" : "MUDSDALE",
       "quickMoves" : [
-         "STRUGGLE"
+         "MUD_SLAP_FAST",
+         "ROCK_SMASH_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -83,7 +87,10 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "BULLDOZE",
+            "BODY_SLAM",
+            "EARTHQUAKE",
+            "HEAVY_SLAM"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -113,7 +120,8 @@
          "pokedexWeightKg" : 920,
          "pokemonId" : "MUDSDALE",
          "quickMoves" : [
-            "STRUGGLE"
+            "MUD_SLAP_FAST",
+            "ROCK_SMASH_FAST"
          ],
          "stats" : {
             "baseAttack" : 214,

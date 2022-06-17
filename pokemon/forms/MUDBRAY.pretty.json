@@ -31,7 +31,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "BULLDOZE",
+         "BODY_SLAM",
+         "EARTHQUAKE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -63,7 +65,8 @@
       "pokedexWeightKg" : 110,
       "pokemonId" : "MUDBRAY",
       "quickMoves" : [
-         "STRUGGLE"
+         "MUD_SLAP_FAST",
+         "ROCK_SMASH_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -85,7 +88,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "BULLDOZE",
+            "BODY_SLAM",
+            "EARTHQUAKE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -117,7 +122,8 @@
          "pokedexWeightKg" : 110,
          "pokemonId" : "MUDBRAY",
          "quickMoves" : [
-            "STRUGGLE"
+            "MUD_SLAP_FAST",
+            "ROCK_SMASH_FAST"
          ],
          "stats" : {
             "baseAttack" : 175,

@@ -14,12 +14,12 @@
       "buddyOffsetFemale" : [
          4.64,
          0,
-         0
+         -40
       ],
       "buddyOffsetMale" : [
          4.64,
          0,
-         0
+         -40
       ],
       "buddyPortraitOffset" : [
          0,
@@ -42,8 +42,8 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 0.6,
-         "cylinderRadiusM" : 0.22,
+         "cylinderHeightM" : 1.67,
+         "cylinderRadiusM" : 0.3,
          "diskRadiusM" : 0.378,
          "shoulderModeScale" : 0.5
       },
@@ -59,9 +59,9 @@
          "attackTimerS" : 29,
          "baseCaptureRate" : 100,
          "bonusXlCandyCaptureReward" : 3,
-         "cameraDistance" : 2.25,
-         "collisionHeadRadiusM" : 0.126,
-         "collisionHeightM" : 0.1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.2,
          "collisionRadiusM" : 0.1,
          "dodgeDistance" : 1,
          "dodgeDurationS" : 1,
@@ -76,9 +76,9 @@
       "familyId" : "FAMILY_MELOETTA",
       "heightStdDev" : 0.075,
       "kmBuddyDistance" : 20,
-      "modelHeight" : 0.4,
+      "modelHeight" : 0.5,
       "modelScale" : 1.26,
-      "modelScaleV2" : 1,
+      "modelScaleV2" : 1.5,
       "pokedexHeightM" : 0.6,
       "pokedexWeightKg" : 6.5,
       "pokemonClass" : "POKEMON_CLASS_MYTHIC",
@@ -102,12 +102,12 @@
          "buddyOffsetFemale" : [
             4.64,
             0,
-            0
+            -40
          ],
          "buddyOffsetMale" : [
             4.64,
             0,
-            0
+            -40
          ],
          "buddyPortraitOffset" : [
             0,
@@ -116,8 +116,8 @@
          ],
          "buddyScale" : 19,
          "camera" : {
-            "cylinderHeightM" : 0.6,
-            "cylinderRadiusM" : 0.22,
+            "cylinderHeightM" : 1.67,
+            "cylinderRadiusM" : 0.3,
             "diskRadiusM" : 0.378,
             "shoulderModeScale" : 0.5
          },
@@ -133,9 +133,9 @@
             "attackTimerS" : 29,
             "baseCaptureRate" : 100,
             "bonusXlCandyCaptureReward" : 3,
-            "cameraDistance" : 2.25,
-            "collisionHeadRadiusM" : 0.126,
-            "collisionHeightM" : 0.1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.2,
             "collisionRadiusM" : 0.1,
             "dodgeDistance" : 1,
             "dodgeDurationS" : 1,
@@ -150,9 +150,9 @@
          "familyId" : "FAMILY_MELOETTA",
          "heightStdDev" : 0.075,
          "kmBuddyDistance" : 20,
-         "modelHeight" : 0.4,
+         "modelHeight" : 0.5,
          "modelScale" : 1.26,
-         "modelScaleV2" : 1,
+         "modelScaleV2" : 1.5,
          "pokedexHeightM" : 0.6,
          "pokedexWeightKg" : 6.5,
          "pokemonClass" : "POKEMON_CLASS_MYTHIC",
@@ -202,12 +202,12 @@
       "buddyOffsetFemale" : [
          4.64,
          0,
-         0
+         -40
       ],
       "buddyOffsetMale" : [
          4.64,
          0,
-         0
+         -40
       ],
       "buddyPortraitOffset" : [
          0,
@@ -230,8 +230,8 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 0.6,
-         "cylinderRadiusM" : 0.22,
+         "cylinderHeightM" : 1.67,
+         "cylinderRadiusM" : 0.3,
          "diskRadiusM" : 0.378,
          "shoulderModeScale" : 0.5
       },
@@ -247,9 +247,9 @@
          "attackTimerS" : 29,
          "baseCaptureRate" : 100,
          "bonusXlCandyCaptureReward" : 3,
-         "cameraDistance" : 2.25,
-         "collisionHeadRadiusM" : 0.126,
-         "collisionHeightM" : 0.1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.2,
          "collisionRadiusM" : 0.1,
          "dodgeDistance" : 1,
          "dodgeDurationS" : 1,
@@ -265,9 +265,9 @@
       "form" : "MELOETTA_ARIA",
       "heightStdDev" : 0.075,
       "kmBuddyDistance" : 20,
-      "modelHeight" : 0.4,
+      "modelHeight" : 0.5,
       "modelScale" : 1.26,
-      "modelScaleV2" : 1,
+      "modelScaleV2" : 1.5,
       "pokedexHeightM" : 0.6,
       "pokedexWeightKg" : 6.5,
       "pokemonClass" : "POKEMON_CLASS_MYTHIC",
@@ -291,12 +291,12 @@
          "buddyOffsetFemale" : [
             4.64,
             0,
-            0
+            -40
          ],
          "buddyOffsetMale" : [
             4.64,
             0,
-            0
+            -40
          ],
          "buddyPortraitOffset" : [
             0,
@@ -305,8 +305,8 @@
          ],
          "buddyScale" : 19,
          "camera" : {
-            "cylinderHeightM" : 0.6,
-            "cylinderRadiusM" : 0.22,
+            "cylinderHeightM" : 1.67,
+            "cylinderRadiusM" : 0.3,
             "diskRadiusM" : 0.378,
             "shoulderModeScale" : 0.5
          },
@@ -322,9 +322,9 @@
             "attackTimerS" : 29,
             "baseCaptureRate" : 100,
             "bonusXlCandyCaptureReward" : 3,
-            "cameraDistance" : 2.25,
-            "collisionHeadRadiusM" : 0.126,
-            "collisionHeightM" : 0.1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.2,
             "collisionRadiusM" : 0.1,
             "dodgeDistance" : 1,
             "dodgeDurationS" : 1,
@@ -340,9 +340,9 @@
          "form" : "MELOETTA_ARIA",
          "heightStdDev" : 0.075,
          "kmBuddyDistance" : 20,
-         "modelHeight" : 0.4,
+         "modelHeight" : 0.5,
          "modelScale" : 1.26,
-         "modelScaleV2" : 1,
+         "modelScaleV2" : 1.5,
          "pokedexHeightM" : 0.6,
          "pokedexWeightKg" : 6.5,
          "pokemonClass" : "POKEMON_CLASS_MYTHIC",
@@ -392,12 +392,12 @@
       "buddyOffsetFemale" : [
          5.91,
          0,
-         0
+         -40
       ],
       "buddyOffsetMale" : [
          5.91,
          0,
-         0
+         -40
       ],
       "buddyPortraitOffset" : [
          0,
@@ -420,8 +420,8 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 0.75,
-         "cylinderRadiusM" : 0.22,
+         "cylinderHeightM" : 1.67,
+         "cylinderRadiusM" : 0.3,
          "diskRadiusM" : 0.378,
          "shoulderModeScale" : 0.5
       },
@@ -437,9 +437,9 @@
          "attackTimerS" : 29,
          "baseCaptureRate" : 100,
          "bonusXlCandyCaptureReward" : 3,
-         "cameraDistance" : 2.25,
-         "collisionHeadRadiusM" : 0.1,
-         "collisionHeightM" : 0.1,
+         "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.2,
          "collisionRadiusM" : 0.05,
          "dodgeDistance" : 1,
          "dodgeDurationS" : 1,
@@ -455,9 +455,9 @@
       "form" : "MELOETTA_PIROUETTE",
       "heightStdDev" : 0.075,
       "kmBuddyDistance" : 20,
-      "modelHeight" : 0.4,
+      "modelHeight" : 0.5,
       "modelScale" : 1.26,
-      "modelScaleV2" : 1,
+      "modelScaleV2" : 1.5,
       "pokedexHeightM" : 0.6,
       "pokedexWeightKg" : 6.5,
       "pokemonClass" : "POKEMON_CLASS_MYTHIC",
@@ -481,12 +481,12 @@
          "buddyOffsetFemale" : [
             5.91,
             0,
-            0
+            -40
          ],
          "buddyOffsetMale" : [
             5.91,
             0,
-            0
+            -40
          ],
          "buddyPortraitOffset" : [
             0,
@@ -495,8 +495,8 @@
          ],
          "buddyScale" : 19,
          "camera" : {
-            "cylinderHeightM" : 0.75,
-            "cylinderRadiusM" : 0.22,
+            "cylinderHeightM" : 1.67,
+            "cylinderRadiusM" : 0.3,
             "diskRadiusM" : 0.378,
             "shoulderModeScale" : 0.5
          },
@@ -512,9 +512,9 @@
             "attackTimerS" : 29,
             "baseCaptureRate" : 100,
             "bonusXlCandyCaptureReward" : 3,
-            "cameraDistance" : 2.25,
-            "collisionHeadRadiusM" : 0.1,
-            "collisionHeightM" : 0.1,
+            "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.2,
             "collisionRadiusM" : 0.05,
             "dodgeDistance" : 1,
             "dodgeDurationS" : 1,
@@ -530,9 +530,9 @@
          "form" : "MELOETTA_PIROUETTE",
          "heightStdDev" : 0.075,
          "kmBuddyDistance" : 20,
-         "modelHeight" : 0.4,
+         "modelHeight" : 0.5,
          "modelScale" : 1.26,
-         "modelScaleV2" : 1,
+         "modelScaleV2" : 1.5,
          "pokedexHeightM" : 0.6,
          "pokedexWeightKg" : 6.5,
          "pokemonClass" : "POKEMON_CLASS_MYTHIC",

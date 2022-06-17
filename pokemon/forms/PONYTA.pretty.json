@@ -103,6 +103,7 @@
          "TACKLE_FAST",
          "EMBER_FAST"
       ],
+      "raidBossDistanceOffset" : 3,
       "raw" : {
          "animationTime" : [
             2.3333,
@@ -195,6 +196,7 @@
             "TACKLE_FAST",
             "EMBER_FAST"
          ],
+         "raidBossDistanceOffset" : 3,
          "shadow" : {
             "purificationCandyNeeded" : 3,
             "purificationStardustNeeded" : 3000,
@@ -567,6 +569,7 @@
          "TACKLE_FAST",
          "EMBER_FAST"
       ],
+      "raidBossDistanceOffset" : 3,
       "raw" : {
          "animationTime" : [
             2.3333,
@@ -660,6 +663,7 @@
             "TACKLE_FAST",
             "EMBER_FAST"
          ],
+         "raidBossDistanceOffset" : 3,
          "shadow" : {
             "purificationCandyNeeded" : 3,
             "purificationStardustNeeded" : 3000,

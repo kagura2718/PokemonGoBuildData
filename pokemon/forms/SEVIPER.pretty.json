@@ -22,9 +22,9 @@
          0
       ],
       "buddyPortraitOffset" : [
-         0.65,
-         0.12,
-         1.43
+         0,
+         100,
+         -1000
       ],
       "buddyScale" : 19,
       "built" : {
@@ -108,9 +108,9 @@
             0
          ],
          "buddyPortraitOffset" : [
-            0.65,
-            0.12,
-            1.43
+            0,
+            100,
+            -1000
          ],
          "buddyScale" : 19,
          "camera" : {

@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -59,7 +61,8 @@
       "pokedexWeightKg" : 40,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -81,7 +84,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -107,7 +112,8 @@
          "pokedexWeightKg" : 40,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 116,
@@ -169,7 +175,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -196,7 +204,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -218,7 +227,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -245,7 +256,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,
@@ -307,7 +319,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -334,7 +348,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -356,7 +371,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -383,7 +400,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,
@@ -445,7 +463,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -472,7 +492,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -494,7 +515,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -521,7 +544,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,
@@ -583,7 +607,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -610,7 +636,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -632,7 +659,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -659,7 +688,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,
@@ -721,7 +751,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -748,7 +780,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -770,7 +803,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -797,7 +832,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,
@@ -859,7 +895,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -886,7 +924,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -908,7 +947,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -935,7 +976,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,
@@ -997,7 +1039,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_GEM",
+         "ANCIENT_POWER",
+         "ACROBATICS"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -1024,7 +1068,8 @@
       "pokedexWeightKg" : 0.3,
       "pokemonId" : "MINIOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROLLOUT_FAST",
+         "TAKE_DOWN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -1046,7 +1091,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_GEM",
+            "ANCIENT_POWER",
+            "ACROBATICS"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -1073,7 +1120,8 @@
          "pokedexWeightKg" : 0.3,
          "pokemonId" : "MINIOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROLLOUT_FAST",
+            "TAKE_DOWN_FAST"
          ],
          "stats" : {
             "baseAttack" : 218,

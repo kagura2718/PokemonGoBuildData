@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_WHIP",
+         "SHADOW_BALL",
+         "HEAVY_SLAM"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -59,7 +61,8 @@
       "pokedexWeightKg" : 210,
       "pokemonId" : "DHELMISE",
       "quickMoves" : [
-         "STRUGGLE"
+         "ASTONISH_FAST",
+         "SHADOW_CLAW_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -81,7 +84,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_WHIP",
+            "SHADOW_BALL",
+            "HEAVY_SLAM"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -107,7 +112,8 @@
          "pokedexWeightKg" : 210,
          "pokemonId" : "DHELMISE",
          "quickMoves" : [
-            "STRUGGLE"
+            "ASTONISH_FAST",
+            "SHADOW_CLAW_FAST"
          ],
          "stats" : {
             "baseAttack" : 233,

@@ -1,15 +1,15 @@
 [
    {
-      "buddyGroupNumber" : 2,
+      "buddyGroupNumber" : 3,
       "buddyOffsetFemale" : [
          0,
          0,
-         0
+         75
       ],
       "buddyOffsetMale" : [
          0,
          0,
-         0
+         75
       ],
       "buddyPortraitOffset" : [
          0,
@@ -17,6 +17,7 @@
          0
       ],
       "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
       "built" : {
          "pokedexNumber" : 795,
          "pokemonType" : 6,
@@ -31,9 +32,15 @@
             "baseStamina" : 174
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 1.75,
+         "cylinderRadiusM" : 0.75
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "FOCUS_BLAST",
+         "BUG_BUZZ",
+         "LUNGE",
+         "CLOSE_COMBAT"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -41,9 +48,13 @@
          "baseFleeRate" : 0.1,
          "bonusXlCandyCaptureReward" : 3,
          "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.5,
+         "collisionHeightM" : 0.15,
+         "collisionRadiusM" : 0.2,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.85,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -53,26 +64,27 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 20,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 1.65,
+      "modelScaleV2" : 0.92,
       "pokedexHeightM" : 1.8,
       "pokedexWeightKg" : 25,
-      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
       "pokemonId" : "PHEROMOSA",
       "quickMoves" : [
-         "STRUGGLE"
+         "BUG_BITE_FAST",
+         "LOW_KICK_FAST"
       ],
       "raw" : {
-         "buddyGroupNumber" : 2,
+         "buddyGroupNumber" : 3,
          "buddyOffsetFemale" : [
             0,
             0,
-            0
+            75
          ],
          "buddyOffsetMale" : [
             0,
             0,
-            0
+            75
          ],
          "buddyPortraitOffset" : [
             0,
@@ -80,9 +92,16 @@
             0
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 1.75,
+            "cylinderRadiusM" : 0.75
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "FOCUS_BLAST",
+            "BUG_BUZZ",
+            "LUNGE",
+            "CLOSE_COMBAT"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -90,9 +109,13 @@
             "baseFleeRate" : 0.1,
             "bonusXlCandyCaptureReward" : 3,
             "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.5,
+            "collisionHeightM" : 0.15,
+            "collisionRadiusM" : 0.2,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.85,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -102,14 +125,15 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 20,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 1.65,
+         "modelScaleV2" : 0.92,
          "pokedexHeightM" : 1.8,
          "pokedexWeightKg" : 25,
-         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
          "pokemonId" : "PHEROMOSA",
          "quickMoves" : [
-            "STRUGGLE"
+            "BUG_BITE_FAST",
+            "LOW_KICK_FAST"
          ],
          "stats" : {
             "baseAttack" : 316,

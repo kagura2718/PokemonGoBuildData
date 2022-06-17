@@ -4,16 +4,16 @@
       "buddyOffsetFemale" : [
          0,
          0,
-         0
+         -40
       ],
       "buddyOffsetMale" : [
          0,
          0,
-         0
+         -40
       ],
       "buddyPortraitOffset" : [
          0,
-         0,
+         -20,
          0
       ],
       "buddyScale" : 19,
@@ -29,9 +29,14 @@
             "baseStamina" : 141
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 0.65,
+         "cylinderRadiusM" : 0.4
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "ENERGY_BALL",
+         "DRAINING_KISS",
+         "GRASS_KNOT"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -41,9 +46,13 @@
          "bonusStardustCaptureReward" : 200,
          "bonusXlCandyCaptureReward" : 1,
          "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.2,
+         "collisionHeightM" : 0.1,
+         "collisionRadiusM" : 0.2,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -60,36 +69,42 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 0.4,
+      "modelScaleV2" : 0.8,
       "parentPokemonId" : "BOUNSWEET",
       "pokedexHeightM" : 0.7,
       "pokedexWeightKg" : 8.2,
       "pokemonId" : "STEENEE",
       "quickMoves" : [
-         "STRUGGLE"
+         "RAZOR_LEAF_FAST",
+         "CHARM_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
             0,
             0,
-            0
+            -40
          ],
          "buddyOffsetMale" : [
             0,
             0,
-            0
+            -40
          ],
          "buddyPortraitOffset" : [
             0,
-            0,
+            -20,
             0
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 0.65,
+            "cylinderRadiusM" : 0.4
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "ENERGY_BALL",
+            "DRAINING_KISS",
+            "GRASS_KNOT"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -99,9 +114,13 @@
             "bonusStardustCaptureReward" : 200,
             "bonusXlCandyCaptureReward" : 1,
             "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.2,
+            "collisionHeightM" : 0.1,
+            "collisionRadiusM" : 0.2,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -118,14 +137,15 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 0.4,
+         "modelScaleV2" : 0.8,
          "parentPokemonId" : "BOUNSWEET",
          "pokedexHeightM" : 0.7,
          "pokedexWeightKg" : 8.2,
          "pokemonId" : "STEENEE",
          "quickMoves" : [
-            "STRUGGLE"
+            "RAZOR_LEAF_FAST",
+            "CHARM_FAST"
          ],
          "stats" : {
             "baseAttack" : 78,

@@ -31,7 +31,7 @@
       },
       "camera" : {
          "cylinderHeightM" : 1,
-         "cylinderRadiusM" : 1.5
+         "cylinderRadiusM" : 2.5
       },
       "cinematicMoves" : [
          "SUPER_POWER",
@@ -90,7 +90,7 @@
          "buddyScale" : 19,
          "camera" : {
             "cylinderHeightM" : 1,
-            "cylinderRadiusM" : 1.5
+            "cylinderRadiusM" : 2.5
          },
          "cinematicMoves" : [
             "SUPER_POWER",

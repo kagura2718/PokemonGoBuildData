@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "GIGA_DRAIN",
+         "DAZZLING_GLEAM",
+         "SEED_BOMB"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -65,7 +67,7 @@
       "pokedexWeightKg" : 1.5,
       "pokemonId" : "MORELULL",
       "quickMoves" : [
-         "STRUGGLE"
+         "ASTONISH_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -87,7 +89,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "GIGA_DRAIN",
+            "DAZZLING_GLEAM",
+            "SEED_BOMB"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -119,7 +123,7 @@
          "pokedexWeightKg" : 1.5,
          "pokemonId" : "MORELULL",
          "quickMoves" : [
-            "STRUGGLE"
+            "ASTONISH_FAST"
          ],
          "stats" : {
             "baseAttack" : 108,

@@ -60,7 +60,7 @@
       "modelScaleV2" : 1,
       "pokedexHeightM" : 0.6,
       "pokedexWeightKg" : 1.8,
-      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
       "pokemonId" : "POIPOLE",
       "quickMoves" : [
          "STRUGGLE"
@@ -114,7 +114,7 @@
          "modelScaleV2" : 1,
          "pokedexHeightM" : 0.6,
          "pokedexWeightKg" : 1.8,
-         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
          "pokemonId" : "POIPOLE",
          "quickMoves" : [
             "STRUGGLE"

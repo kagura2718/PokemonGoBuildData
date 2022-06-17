@@ -59,7 +59,7 @@
       "parentPokemonId" : "POIPOLE",
       "pokedexHeightM" : 3.6,
       "pokedexWeightKg" : 150,
-      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
       "pokemonId" : "NAGANADEL",
       "quickMoves" : [
          "STRUGGLE"
@@ -110,7 +110,7 @@
          "parentPokemonId" : "POIPOLE",
          "pokedexHeightM" : 3.6,
          "pokedexWeightKg" : 150,
-         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
          "pokemonId" : "NAGANADEL",
          "quickMoves" : [
             "STRUGGLE"

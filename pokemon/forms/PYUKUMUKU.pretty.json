@@ -12,9 +12,9 @@
          0
       ],
       "buddyPortraitOffset" : [
-         0,
-         0,
-         0
+         5,
+         -40,
+         -175
       ],
       "buddyScale" : 19,
       "built" : {
@@ -29,18 +29,25 @@
             "baseStamina" : 146
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 0.13,
+         "cylinderRadiusM" : 0.1
+      },
       "cinematicMoves" : [
-         "STRUGGLE"
+         "MIRROR_COAT"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.07,
          "cameraDistance" : 4,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.2,
+         "collisionRadiusM" : 0.1,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.75,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -51,13 +58,13 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 3,
-      "modelHeight" : 1,
+      "modelHeight" : 0.2,
       "modelScaleV2" : 1,
       "pokedexHeightM" : 0.3,
       "pokedexWeightKg" : 1.2,
       "pokemonId" : "PYUKUMUKU",
       "quickMoves" : [
-         "STRUGGLE"
+         "COUNTER_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -72,23 +79,30 @@
             0
          ],
          "buddyPortraitOffset" : [
-            0,
-            0,
-            0
+            5,
+            -40,
+            -175
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 0.13,
+            "cylinderRadiusM" : 0.1
+         },
          "cinematicMoves" : [
-            "STRUGGLE"
+            "MIRROR_COAT"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.07,
             "cameraDistance" : 4,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.2,
+            "collisionRadiusM" : 0.1,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.75,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -99,13 +113,13 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 3,
-         "modelHeight" : 1,
+         "modelHeight" : 0.2,
          "modelScaleV2" : 1,
          "pokedexHeightM" : 0.3,
          "pokedexWeightKg" : 1.2,
          "pokemonId" : "PYUKUMUKU",
          "quickMoves" : [
-            "STRUGGLE"
+            "COUNTER_FAST"
          ],
          "stats" : {
             "baseAttack" : 97,

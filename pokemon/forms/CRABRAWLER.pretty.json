@@ -31,7 +31,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "POWER_UP_PUNCH",
+         "CRABHAMMER",
+         "PAYBACK"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -64,7 +66,8 @@
       "pokedexWeightKg" : 7,
       "pokemonId" : "CRABRAWLER",
       "quickMoves" : [
-         "STRUGGLE"
+         "ROCK_SMASH_FAST",
+         "BUBBLE_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -86,7 +89,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "POWER_UP_PUNCH",
+            "CRABHAMMER",
+            "PAYBACK"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -119,7 +124,8 @@
          "pokedexWeightKg" : 7,
          "pokemonId" : "CRABRAWLER",
          "quickMoves" : [
-            "STRUGGLE"
+            "ROCK_SMASH_FAST",
+            "BUBBLE_FAST"
          ],
          "stats" : {
             "baseAttack" : 150,

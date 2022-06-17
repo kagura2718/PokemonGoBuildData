@@ -478,14 +478,14 @@
    {
       "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
-         9.27,
+         13.6,
          0,
-         -35
+         -35.6
       ],
       "buddyOffsetMale" : [
-         9.27,
+         13.6,
          0,
-         -35
+         -35.6
       ],
       "buddyPortraitOffset" : [
          0,
@@ -580,14 +580,14 @@
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
-            9.27,
+            13.6,
             0,
-            -35
+            -35.6
          ],
          "buddyOffsetMale" : [
-            9.27,
+            13.6,
             0,
-            -35
+            -35.6
          ],
          "buddyPortraitOffset" : [
             0,

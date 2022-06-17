@@ -33,7 +33,9 @@
       },
       "camera" : {},
       "cinematicMoves" : [
-         "STRUGGLE"
+         "OVERHEAT",
+         "FLAMETHROWER",
+         "DRAGON_PULSE"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -59,7 +61,8 @@
       "pokedexWeightKg" : 212,
       "pokemonId" : "TURTONATOR",
       "quickMoves" : [
-         "STRUGGLE"
+         "EMBER_FAST",
+         "FIRE_SPIN_FAST"
       ],
       "raw" : {
          "buddyGroupNumber" : 2,
@@ -81,7 +84,9 @@
          "buddyScale" : 19,
          "camera" : {},
          "cinematicMoves" : [
-            "STRUGGLE"
+            "OVERHEAT",
+            "FLAMETHROWER",
+            "DRAGON_PULSE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -107,7 +112,8 @@
          "pokedexWeightKg" : 212,
          "pokemonId" : "TURTONATOR",
          "quickMoves" : [
-            "STRUGGLE"
+            "EMBER_FAST",
+            "FIRE_SPIN_FAST"
          ],
          "stats" : {
             "baseAttack" : 165,

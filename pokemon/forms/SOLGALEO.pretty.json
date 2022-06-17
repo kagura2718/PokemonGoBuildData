@@ -2,19 +2,19 @@
    {
       "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
+         -5,
          0,
-         0,
-         0
+         -90
       ],
       "buddyOffsetMale" : [
+         -5,
          0,
-         0,
-         0
+         -90
       ],
       "buddyPortraitOffset" : [
+         100,
          0,
-         0,
-         0
+         -6000
       ],
       "buddyScale" : 19,
       "built" : {
@@ -31,7 +31,10 @@
             "baseStamina" : 264
          }
       },
-      "camera" : {},
+      "camera" : {
+         "cylinderHeightM" : 4,
+         "cylinderRadiusM" : 3
+      },
       "cinematicMoves" : [
          "STRUGGLE"
       ],
@@ -40,10 +43,14 @@
          "baseCaptureRate" : 0.02,
          "baseFleeRate" : 0.1,
          "bonusXlCandyCaptureReward" : 3,
-         "cameraDistance" : 4,
+         "cameraDistance" : 12,
+         "collisionHeadRadiusM" : 1,
+         "collisionHeightM" : 2,
+         "collisionRadiusM" : 1,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -53,8 +60,8 @@
       "isTradable" : true,
       "isTransferable" : true,
       "kmBuddyDistance" : 20,
-      "modelHeight" : 1,
-      "modelScaleV2" : 1,
+      "modelHeight" : 1.5,
+      "modelScaleV2" : 0.48,
       "parentPokemonId" : "COSMOEM",
       "pokedexHeightM" : 3.4,
       "pokedexWeightKg" : 230,
@@ -63,25 +70,29 @@
       "quickMoves" : [
          "STRUGGLE"
       ],
+      "raidBossDistanceOffset" : 4,
       "raw" : {
          "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
+            -5,
             0,
-            0,
-            0
+            -90
          ],
          "buddyOffsetMale" : [
+            -5,
             0,
-            0,
-            0
+            -90
          ],
          "buddyPortraitOffset" : [
+            100,
             0,
-            0,
-            0
+            -6000
          ],
          "buddyScale" : 19,
-         "camera" : {},
+         "camera" : {
+            "cylinderHeightM" : 4,
+            "cylinderRadiusM" : 3
+         },
          "cinematicMoves" : [
             "STRUGGLE"
          ],
@@ -90,10 +101,14 @@
             "baseCaptureRate" : 0.02,
             "baseFleeRate" : 0.1,
             "bonusXlCandyCaptureReward" : 3,
-            "cameraDistance" : 4,
+            "cameraDistance" : 12,
+            "collisionHeadRadiusM" : 1,
+            "collisionHeightM" : 2,
+            "collisionRadiusM" : 1,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -103,8 +118,8 @@
          "isTradable" : true,
          "isTransferable" : true,
          "kmBuddyDistance" : 20,
-         "modelHeight" : 1,
-         "modelScaleV2" : 1,
+         "modelHeight" : 1.5,
+         "modelScaleV2" : 0.48,
          "parentPokemonId" : "COSMOEM",
          "pokedexHeightM" : 3.4,
          "pokedexWeightKg" : 230,
@@ -113,6 +128,7 @@
          "quickMoves" : [
             "STRUGGLE"
          ],
+         "raidBossDistanceOffset" : 4,
          "stats" : {
             "baseAttack" : 255,
             "baseDefense" : 191,
