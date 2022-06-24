@@ -740,6 +740,34 @@
          "vfxName" : "brine"
       }
    },
+   "BRUTAL_SWING" : {
+      "built" : {
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
+         "movesType" : 16,
+         "movesTypeWrap" : 16,
+         "power" : 65
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 1200,
+         "durationMs" : 1900,
+         "energyDelta" : -33,
+         "movementId" : "BRUTAL_SWING",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 65,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "brutal_swing"
+      }
+   },
    "BUBBLE_BEAM" : {
       "built" : {
          "damageWindowEndMs" : 1700,

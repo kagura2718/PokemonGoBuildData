@@ -377,6 +377,20 @@
          "vfxName" : "brine"
       }
    },
+   "BRUTAL_SWING" : {
+      "built" : {
+         "energyDelta" : -40,
+         "movesType" : 16,
+         "power" : 65
+      },
+      "raw" : {
+         "energyDelta" : -40,
+         "power" : 65,
+         "type" : "POKEMON_TYPE_DARK",
+         "uniqueId" : "BRUTAL_SWING",
+         "vfxName" : "brutal_swing"
+      }
+   },
    "BUBBLE_BEAM" : {
       "built" : {
          "energyDelta" : -40,
