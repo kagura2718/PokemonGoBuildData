@@ -55,6 +55,9 @@
          "DARK_PULSE",
          "FLASH_CANNON"
       ],
+      "eliteCinematicMove" : [
+         "BRUTAL_SWING"
+      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -135,6 +138,9 @@
             "DRAGON_PULSE",
             "DARK_PULSE",
             "FLASH_CANNON"
+         ],
+         "eliteCinematicMove" : [
+            "BRUTAL_SWING"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
