@@ -21,11 +21,6 @@
          0,
          32.61
       ],
-      "buddyPortraitOffset" : [
-         -0.05,
-         -0.3,
-         -0.32
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
@@ -116,11 +111,6 @@
             25,
             0,
             32.61
-         ],
-         "buddyPortraitOffset" : [
-            -0.05,
-            -0.3,
-            -0.32
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
@@ -237,11 +227,6 @@
          0,
          32.61
       ],
-      "buddyPortraitOffset" : [
-         -0.05,
-         -0.3,
-         -0.32
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
@@ -334,11 +319,6 @@
             25,
             0,
             32.61
-         ],
-         "buddyPortraitOffset" : [
-            -0.05,
-            -0.3,
-            -0.32
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
@@ -447,11 +427,6 @@
          0,
          32.61
       ],
-      "buddyPortraitOffset" : [
-         -0.05,
-         -0.3,
-         -0.32
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
@@ -529,11 +504,6 @@
             25,
             0,
             32.61
-         ],
-         "buddyPortraitOffset" : [
-            -0.05,
-            -0.3,
-            -0.32
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
@@ -646,11 +616,6 @@
          0,
          32.61
       ],
-      "buddyPortraitOffset" : [
-         -0.05,
-         -0.3,
-         -0.32
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
@@ -742,11 +707,6 @@
             25,
             0,
             32.61
-         ],
-         "buddyPortraitOffset" : [
-            -0.05,
-            -0.3,
-            -0.32
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",

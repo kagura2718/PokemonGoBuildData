@@ -23,7 +23,7 @@
       ],
       "buddyPortraitOffset" : [
          0,
-         0.49,
+         -300,
          0
       ],
       "buddyScale" : 19,
@@ -118,7 +118,7 @@
          ],
          "buddyPortraitOffset" : [
             0,
-            0.49,
+            -300,
             0
          ],
          "buddyScale" : 19,
@@ -237,7 +237,7 @@
       ],
       "buddyPortraitOffset" : [
          0,
-         0.49,
+         -300,
          0
       ],
       "buddyScale" : 19,
@@ -333,7 +333,7 @@
          ],
          "buddyPortraitOffset" : [
             0,
-            0.49,
+            -300,
             0
          ],
          "buddyScale" : 19,

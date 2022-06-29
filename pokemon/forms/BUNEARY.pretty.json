@@ -21,11 +21,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0.05,
-         -0.12,
-         0.11
-      ],
       "buddyScale" : 19,
       "buddyWalkedMegaEnergyAward" : 15,
       "built" : {
@@ -116,11 +111,6 @@
             0,
             0,
             0
-         ],
-         "buddyPortraitOffset" : [
-            0.05,
-            -0.12,
-            0.11
          ],
          "buddyScale" : 19,
          "buddyWalkedMegaEnergyAward" : 15,

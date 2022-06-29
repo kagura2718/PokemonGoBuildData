@@ -476,8 +476,8 @@
       ],
       "buddyPortraitOffset" : [
          0,
-         0.22,
-         -0.13
+         200,
+         0
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
@@ -579,8 +579,8 @@
          ],
          "buddyPortraitOffset" : [
             0,
-            0.22,
-            -0.13
+            200,
+            0
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",

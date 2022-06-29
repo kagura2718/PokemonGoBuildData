@@ -13,8 +13,8 @@
       ],
       "buddyPortraitOffset" : [
          0,
-         0,
-         0
+         -200,
+         -1200
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
@@ -31,8 +31,8 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 3.8,
-         "cylinderRadiusM" : 2.3
+         "cylinderHeightM" : 3.5,
+         "cylinderRadiusM" : 2
       },
       "cinematicMoves" : [
          "DISCHARGE",
@@ -45,7 +45,7 @@
          "baseCaptureRate" : 0.02,
          "baseFleeRate" : 0.1,
          "bonusXlCandyCaptureReward" : 3,
-         "cameraDistance" : 7,
+         "cameraDistance" : 5,
          "collisionHeadRadiusM" : 0.9,
          "collisionHeightM" : 1,
          "collisionRadiusM" : 1,
@@ -63,7 +63,7 @@
       "isTransferable" : true,
       "kmBuddyDistance" : 20,
       "modelHeight" : 3.8,
-      "modelScaleV2" : 1,
+      "modelScaleV2" : 0.67,
       "pokedexHeightM" : 3.8,
       "pokedexWeightKg" : 100,
       "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",
@@ -87,14 +87,14 @@
          ],
          "buddyPortraitOffset" : [
             0,
-            0,
-            0
+            -200,
+            -1200
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
          "camera" : {
-            "cylinderHeightM" : 3.8,
-            "cylinderRadiusM" : 2.3
+            "cylinderHeightM" : 3.5,
+            "cylinderRadiusM" : 2
          },
          "cinematicMoves" : [
             "DISCHARGE",
@@ -107,7 +107,7 @@
             "baseCaptureRate" : 0.02,
             "baseFleeRate" : 0.1,
             "bonusXlCandyCaptureReward" : 3,
-            "cameraDistance" : 7,
+            "cameraDistance" : 5,
             "collisionHeadRadiusM" : 0.9,
             "collisionHeightM" : 1,
             "collisionRadiusM" : 1,
@@ -125,7 +125,7 @@
          "isTransferable" : true,
          "kmBuddyDistance" : 20,
          "modelHeight" : 3.8,
-         "modelScaleV2" : 1,
+         "modelScaleV2" : 0.67,
          "pokedexHeightM" : 3.8,
          "pokedexWeightKg" : 100,
          "pokemonClass" : "POKEMON_CLASS_ULTRA_BEAST",

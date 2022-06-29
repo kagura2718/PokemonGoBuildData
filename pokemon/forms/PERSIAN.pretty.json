@@ -229,6 +229,11 @@
          0,
          -29.9
       ],
+      "buddyPortraitOffset" : [
+         0,
+         0,
+         -400
+      ],
       "buddyScale" : 19,
       "built" : {
          "isAlola" : true,
@@ -319,6 +324,11 @@
             3.5,
             0,
             -29.9
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            0,
+            -400
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -435,9 +445,9 @@
          -29.9
       ],
       "buddyPortraitOffset" : [
-         0.5,
-         -0.03,
-         1.36
+         50,
+         0,
+         -1300
       ],
       "buddyScale" : 19,
       "built" : {
@@ -533,9 +543,9 @@
             -29.9
          ],
          "buddyPortraitOffset" : [
-            0.5,
-            -0.03,
-            1.36
+            50,
+            0,
+            -1300
          ],
          "buddyScale" : 19,
          "camera" : {

@@ -21,11 +21,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0.2,
-         0,
-         0.5
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 302,
@@ -112,11 +107,6 @@
             0,
             0,
             0
-         ],
-         "buddyPortraitOffset" : [
-            0.2,
-            0,
-            0.5
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -229,11 +219,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0.2,
-         0,
-         0.5
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 302,
@@ -321,11 +306,6 @@
             0,
             0,
             0
-         ],
-         "buddyPortraitOffset" : [
-            0.2,
-            0,
-            0.5
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -439,11 +419,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0.2,
-         0,
-         0.5
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 302,
@@ -531,11 +506,6 @@
             0,
             0,
             0
-         ],
-         "buddyPortraitOffset" : [
-            0.2,
-            0,
-            0.5
          ],
          "buddyScale" : 19,
          "camera" : {

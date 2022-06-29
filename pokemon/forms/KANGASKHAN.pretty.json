@@ -21,11 +21,6 @@
          0,
          35
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
@@ -135,11 +130,6 @@
             15,
             0,
             35
-         ],
-         "buddyPortraitOffset" : [
-            0,
-            0,
-            0
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
@@ -333,11 +323,6 @@
          0,
          35
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "buddyWalkedMegaEnergyAward" : 15,
@@ -448,11 +433,6 @@
             15,
             0,
             35
-         ],
-         "buddyPortraitOffset" : [
-            0,
-            0,
-            0
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",

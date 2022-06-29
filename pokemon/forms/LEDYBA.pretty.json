@@ -21,11 +21,6 @@
          12.8,
          19.07
       ],
-      "buddyPortraitOffset" : [
-         -0.03,
-         0,
-         -0.24
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_FLYING",
       "built" : {
@@ -120,11 +115,6 @@
             40,
             12.8,
             19.07
-         ],
-         "buddyPortraitOffset" : [
-            -0.03,
-            0,
-            -0.24
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_FLYING",

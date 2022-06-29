@@ -21,11 +21,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0.02,
-         -0.09,
-         0
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 216,
@@ -120,11 +115,6 @@
          "buddyOffsetMale" : [
             0,
             0,
-            0
-         ],
-         "buddyPortraitOffset" : [
-            0.02,
-            -0.09,
             0
          ],
          "buddyScale" : 19,
@@ -247,11 +237,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0.02,
-         -0.09,
-         0
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 216,
@@ -347,11 +332,6 @@
          "buddyOffsetMale" : [
             0,
             0,
-            0
-         ],
-         "buddyPortraitOffset" : [
-            0.02,
-            -0.09,
             0
          ],
          "buddyScale" : 19,

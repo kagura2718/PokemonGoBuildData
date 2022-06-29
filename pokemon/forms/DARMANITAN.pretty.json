@@ -21,11 +21,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
@@ -111,11 +106,6 @@
             0
          ],
          "buddyOffsetMale" : [
-            0,
-            0,
-            0
-         ],
-         "buddyPortraitOffset" : [
             0,
             0,
             0
@@ -221,11 +211,6 @@
          0,
          -72
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 555,
@@ -311,11 +296,6 @@
             16,
             0,
             -72
-         ],
-         "buddyPortraitOffset" : [
-            0,
-            0,
-            0
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -415,11 +395,6 @@
          0,
          -128
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 555,
@@ -507,11 +482,6 @@
             16,
             0,
             -128
-         ],
-         "buddyPortraitOffset" : [
-            0,
-            0,
-            0
          ],
          "buddyScale" : 19,
          "camera" : {
@@ -613,11 +583,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
@@ -704,11 +669,6 @@
             0
          ],
          "buddyOffsetMale" : [
-            0,
-            0,
-            0
-         ],
-         "buddyPortraitOffset" : [
             0,
             0,
             0
@@ -815,11 +775,6 @@
          0,
          -60
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 555,
@@ -910,11 +865,6 @@
             5,
             0,
             -60
-         ],
-         "buddyPortraitOffset" : [
-            0,
-            0,
-            0
          ],
          "buddyScale" : 19,
          "camera" : {

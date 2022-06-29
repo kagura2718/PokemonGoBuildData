@@ -21,11 +21,6 @@
          0,
          -106.2
       ],
-      "buddyPortraitOffset" : [
-         0.04,
-         0,
-         0
-      ],
       "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 569,
@@ -112,11 +107,6 @@
             6.5,
             0,
             -106.2
-         ],
-         "buddyPortraitOffset" : [
-            0.04,
-            0,
-            0
          ],
          "buddyScale" : 19,
          "camera" : {

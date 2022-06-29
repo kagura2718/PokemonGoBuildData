@@ -21,11 +21,6 @@
          1.5,
          1
       ],
-      "buddyPortraitOffset" : [
-         0,
-         -0.08,
-         0
-      ],
       "buddyScale" : 10,
       "buddySize" : "BUDDY_BABY",
       "built" : {
@@ -122,11 +117,6 @@
             0,
             1.5,
             1
-         ],
-         "buddyPortraitOffset" : [
-            0,
-            -0.08,
-            0
          ],
          "buddyScale" : 10,
          "buddySize" : "BUDDY_BABY",

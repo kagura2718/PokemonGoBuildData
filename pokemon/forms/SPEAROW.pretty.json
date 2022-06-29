@@ -21,11 +21,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0.19,
-         0,
-         0.45
-      ],
       "buddyScale" : 14,
       "buddySize" : "BUDDY_SHOULDER",
       "built" : {
@@ -122,11 +117,6 @@
             0,
             0,
             0
-         ],
-         "buddyPortraitOffset" : [
-            0.19,
-            0,
-            0.45
          ],
          "buddyScale" : 14,
          "buddySize" : "BUDDY_SHOULDER",

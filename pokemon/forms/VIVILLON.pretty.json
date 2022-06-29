@@ -9,6 +9,24 @@
          0.08667,
          0
       ],
+      "buddyGroupNumber" : 5,
+      "buddyOffsetFemale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         0,
+         0,
+         0
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         -150,
+         -1000
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
       "built" : {
          "pokedexNumber" : 666,
          "pokemonType" : 6,
@@ -24,8 +42,9 @@
          }
       },
       "camera" : {
-         "cylinderHeightM" : 0.4,
-         "cylinderRadiusM" : 0.25
+         "cylinderGroundM" : 0.5,
+         "cylinderHeightM" : 1.2,
+         "cylinderRadiusM" : 0.7
       },
       "cinematicMoves" : [
          "BUG_BUZZ",
@@ -70,6 +89,7 @@
          "GUST_FAST",
          "STRUGGLE_BUG_FAST"
       ],
+      "raidBossDistanceOffset" : 1,
       "raw" : {
          "animationTime" : [
             1.9,
@@ -80,9 +100,28 @@
             0.08667,
             0
          ],
+         "buddyGroupNumber" : 5,
+         "buddyOffsetFemale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            0,
+            0,
+            0
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            -150,
+            -1000
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
          "camera" : {
-            "cylinderHeightM" : 0.4,
-            "cylinderRadiusM" : 0.25
+            "cylinderGroundM" : 0.5,
+            "cylinderHeightM" : 1.2,
+            "cylinderRadiusM" : 0.7
          },
          "cinematicMoves" : [
             "BUG_BUZZ",
@@ -127,6 +166,7 @@
             "GUST_FAST",
             "STRUGGLE_BUG_FAST"
          ],
+         "raidBossDistanceOffset" : 1,
          "stats" : {
             "baseAttack" : 176,
             "baseDefense" : 103,

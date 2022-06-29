@@ -21,11 +21,6 @@
          0,
          0
       ],
-      "buddyPortraitOffset" : [
-         0,
-         0,
-         0
-      ],
       "buddyScale" : 18,
       "buddySize" : "BUDDY_FLYING",
       "built" : {
@@ -54,6 +49,9 @@
          "DRAGON_PULSE",
          "DARK_PULSE",
          "FLASH_CANNON"
+      ],
+      "eliteCinematicMove" : [
+         "BRUTAL_SWING"
       ],
       "encounter" : {
          "attackProbability" : 0.1,
@@ -116,11 +114,6 @@
             0,
             0
          ],
-         "buddyPortraitOffset" : [
-            0,
-            0,
-            0
-         ],
          "buddyScale" : 18,
          "buddySize" : "BUDDY_FLYING",
          "camera" : {
@@ -135,6 +128,9 @@
             "DRAGON_PULSE",
             "DARK_PULSE",
             "FLASH_CANNON"
+         ],
+         "eliteCinematicMove" : [
+            "BRUTAL_SWING"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
