@@ -223,11 +223,30 @@
             "pokemonId" : "MANECTRIC"
          }
       ],
+      "MEWTWO" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_MEWTWO_X",
+            "pokemonId" : "MEWTWO"
+         },
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_MEWTWO_Y",
+            "pokemonId" : "MEWTWO"
+         }
+      ],
       "PIDGEOT" : [
          {
             "megaBranch" : "TEMP_EVOLUTION_MEGA",
             "ownId" : "@MEGA_PIDGEOT",
             "pokemonId" : "PIDGEOT"
+         }
+      ],
+      "SCIZOR" : [
+         {
+            "megaBranch" : "TEMP_EVOLUTION_MEGA",
+            "ownId" : "@MEGA_SCIZOR",
+            "pokemonId" : "SCIZOR"
          }
       ],
       "SLOWBRO" : [

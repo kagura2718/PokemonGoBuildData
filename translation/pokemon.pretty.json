@@ -12,6 +12,14 @@
          "en" : "Mega Aerodactyl",
          "ja" : "メガプテラ"
       },
+      "@MEGA_AGGRON" : {
+         "en" : "Mega Aggron",
+         "ja" : "メガボスゴドラ "
+      },
+      "@MEGA_ALAKAZAM" : {
+         "en" : "Mega Alakazam",
+         "ja" : "メガフーディン "
+      },
       "@MEGA_ALTARIA" : {
          "en" : "Mega Altaria",
          "ja" : "メガチルタリス"
@@ -19,6 +27,14 @@
       "@MEGA_AMPHAROS" : {
          "en" : "Mega Ampharos",
          "ja" : "メガデンリュー"
+      },
+      "@MEGA_AUDINO" : {
+         "en" : "Mega Audino",
+         "ja" : "メガタブンネ "
+      },
+      "@MEGA_BANETTE" : {
+         "en" : "Mega Banette",
+         "ja" : "メガジュペッタ "
       },
       "@MEGA_BEEDRILL" : {
          "en" : "Mega Beedrill",
@@ -28,6 +44,14 @@
          "en" : "Mega Blastoise",
          "ja" : "メガカメックス"
       },
+      "@MEGA_BLAZIKEN" : {
+         "en" : "Mega Blaziken",
+         "ja" : "メガバシャーモ "
+      },
+      "@MEGA_CAMERUPT" : {
+         "en" : "Mega Camerupt",
+         "ja" : "メガバクーダ "
+      },
       "@MEGA_CHARIZARD_X" : {
          "en" : "Mega Charizard X",
          "ja" : "メガリザードンX"
@@ -36,13 +60,37 @@
          "en" : "Mega Charizard Y",
          "ja" : "メガリザードンY"
       },
+      "@MEGA_DIANCIE" : {
+         "en" : "Mega Diancie",
+         "ja" : "メガディアンシー "
+      },
+      "@MEGA_GALLADE" : {
+         "en" : "Mega Gallade",
+         "ja" : "メガエルレイド "
+      },
+      "@MEGA_GARCHOMP" : {
+         "en" : "Mega Garchomp",
+         "ja" : "メガガブリアス "
+      },
+      "@MEGA_GARDEVOIR" : {
+         "en" : "Mega Gardevoir",
+         "ja" : "メガサーナイト "
+      },
       "@MEGA_GENGAR" : {
          "en" : "Mega Gengar",
          "ja" : "メガゲンガー"
       },
+      "@MEGA_GLALIE" : {
+         "en" : "Mega Glalie",
+         "ja" : "メガオニゴーリ "
+      },
       "@MEGA_GYARADOS" : {
          "en" : "Mega Gyarados",
          "ja" : "メガギャラドス"
+      },
+      "@MEGA_HERACROSS" : {
+         "en" : "Mega Heracross",
+         "ja" : "メガヘラクロス "
       },
       "@MEGA_HOUNDOOM" : {
          "en" : "Mega Houndoom",
@@ -64,13 +112,65 @@
          "en" : "Mega Lopunny",
          "ja" : "メガミミロップ"
       },
+      "@MEGA_LUCARIO" : {
+         "en" : "Mega Lucario",
+         "ja" : "メガルカリオ "
+      },
       "@MEGA_MANECTRIC" : {
          "en" : "Mega Manectric",
          "ja" : "メガライボルト"
       },
+      "@MEGA_MAWILE" : {
+         "en" : "Mega Mawile",
+         "ja" : "メガクチート "
+      },
+      "@MEGA_MEDICHAM" : {
+         "en" : "Mega Medicham",
+         "ja" : "メガチャーレム "
+      },
+      "@MEGA_METAGROSS" : {
+         "en" : "Mega Metagross",
+         "ja" : "メガメタグロス "
+      },
+      "@MEGA_MEWTWO_X" : {
+         "en" : "Mega Mewtwo X",
+         "ja" : "メガミュウツーX"
+      },
+      "@MEGA_MEWTWO_Y" : {
+         "en" : "Mega Mewtwo Y",
+         "ja" : "メガミュウツーY"
+      },
       "@MEGA_PIDGEOT" : {
          "en" : "Mega Pidgeot",
          "ja" : "メガピジョット"
+      },
+      "@MEGA_PINSIR" : {
+         "en" : "Mega Pinsir",
+         "ja" : "メガカイロス "
+      },
+      "@MEGA_RAYQUAZA" : {
+         "en" : "Mega Rayquaza",
+         "ja" : "メガレックウザ "
+      },
+      "@MEGA_SABLEYE" : {
+         "en" : "Mega Sableye",
+         "ja" : "メガヤミラミ "
+      },
+      "@MEGA_SALAMENCE" : {
+         "en" : "Mega Salamence",
+         "ja" : "メガボーマンダ "
+      },
+      "@MEGA_SCEPTILE" : {
+         "en" : "Mega Sceptile",
+         "ja" : "メガジュカイン "
+      },
+      "@MEGA_SCIZOR" : {
+         "en" : "Mega Scizor",
+         "ja" : "メガハッサム "
+      },
+      "@MEGA_SHARPEDO" : {
+         "en" : "Mega Sharpedo",
+         "ja" : "メガサメハダー "
       },
       "@MEGA_SLOWBRO" : {
          "en" : "Mega Slowbro",
@@ -79,6 +179,14 @@
       "@MEGA_STEELIX" : {
          "en" : "Mega Steelix",
          "ja" : "メガハガネール"
+      },
+      "@MEGA_SWAMPERT" : {
+         "en" : "Mega Swampert",
+         "ja" : "メガラグラージ "
+      },
+      "@MEGA_TYRANITAR" : {
+         "en" : "Mega Tyranitar",
+         "ja" : "メガバンギラス "
       },
       "@MEGA_VENUSAUR" : {
          "en" : "Mega Venusaur",
