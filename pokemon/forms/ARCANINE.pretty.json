@@ -230,6 +230,220 @@
       ],
       "buddyGroupNumber" : 3,
       "buddyOffsetFemale" : [
+         20,
+         0,
+         15
+      ],
+      "buddyOffsetMale" : [
+         20,
+         0,
+         15
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokedexNumber" : 59,
+         "pokemonType" : 9,
+         "pokemonType2" : 5,
+         "pokemonTypes" : {
+            "pokemonType" : 9,
+            "pokemonType2" : 5
+         },
+         "stats" : {
+            "baseAttack" : 232,
+            "baseDefense" : 165,
+            "baseStamina" : 216
+         }
+      },
+      "camera" : {
+         "cylinderHeightM" : 2.45,
+         "cylinderRadiusM" : 1.4,
+         "diskRadiusM" : 0.999,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "ROCK_SLIDE",
+         "WILD_CHARGE",
+         "CRUNCH",
+         "FLAMETHROWER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 11,
+         "baseCaptureRate" : 0.1,
+         "baseFleeRate" : 0.06,
+         "bonusCandyCaptureReward" : 2,
+         "bonusStardustCaptureReward" : 200,
+         "bonusXlCandyCaptureReward" : 1,
+         "cameraDistance" : 5.55,
+         "collisionHeadRadiusM" : 0.5,
+         "collisionHeightM" : 0.78,
+         "collisionRadiusM" : 0.78,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1.25,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 4,
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.1,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_GROWLITHE",
+      "form" : "ARCANINE_HISUIAN",
+      "heightStdDev" : 0.25,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 2,
+      "modelScale" : 0.74,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "GROWLITHE",
+      "pokedexHeightM" : 2,
+      "pokedexWeightKg" : 168,
+      "pokemonId" : "ARCANINE",
+      "quickMoves" : [
+         "FIRE_FANG_FAST",
+         "SNARL_FAST",
+         "ROCK_SMASH_FAST"
+      ],
+      "raidBossDistanceOffset" : 6,
+      "raw" : {
+         "animationTime" : [
+            2.1333,
+            0.6667,
+            1.7333,
+            1.8333,
+            0,
+            1.8667,
+            1.7333,
+            2
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            20,
+            0,
+            15
+         ],
+         "buddyOffsetMale" : [
+            20,
+            0,
+            15
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderHeightM" : 2.45,
+            "cylinderRadiusM" : 1.4,
+            "diskRadiusM" : 0.999,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "ROCK_SLIDE",
+            "WILD_CHARGE",
+            "CRUNCH",
+            "FLAMETHROWER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 11,
+            "baseCaptureRate" : 0.1,
+            "baseFleeRate" : 0.06,
+            "bonusCandyCaptureReward" : 2,
+            "bonusStardustCaptureReward" : 200,
+            "bonusXlCandyCaptureReward" : 1,
+            "cameraDistance" : 5.55,
+            "collisionHeadRadiusM" : 0.5,
+            "collisionHeightM" : 0.78,
+            "collisionRadiusM" : 0.78,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1.25,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 4,
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.1,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_GROWLITHE",
+         "form" : "ARCANINE_HISUIAN",
+         "heightStdDev" : 0.25,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 2,
+         "modelScale" : 0.74,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "GROWLITHE",
+         "pokedexHeightM" : 2,
+         "pokedexWeightKg" : 168,
+         "pokemonId" : "ARCANINE",
+         "quickMoves" : [
+            "FIRE_FANG_FAST",
+            "SNARL_FAST",
+            "ROCK_SMASH_FAST"
+         ],
+         "raidBossDistanceOffset" : 6,
+         "shadow" : {
+            "purificationCandyNeeded" : 3,
+            "purificationStardustNeeded" : 3000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 232,
+            "baseDefense" : 165,
+            "baseStamina" : 216
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_FIRE",
+         "type2" : "POKEMON_TYPE_ROCK",
+         "weightStdDev" : 21
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 3,
+         "purificationStardustNeeded" : 3000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 232,
+         "baseDefense" : 165,
+         "baseStamina" : 216
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_FIRE",
+      "type2" : "POKEMON_TYPE_ROCK",
+      "weightStdDev" : 21
+   },
+   {
+      "animationTime" : [
+         2.1333,
+         0.6667,
+         1.7333,
+         1.8333,
+         0,
+         1.8667,
+         1.7333,
+         2
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
          11.8,
          0,
          40.4

@@ -1,0 +1,204 @@
+[
+   {
+      "animationTime" : [
+         1.9,
+         0.6667,
+         1.8,
+         1.7667,
+         0,
+         2.4,
+         0.8667,
+         0
+      ],
+      "buddyGroupNumber" : 3,
+      "buddyOffsetFemale" : [
+         11.6,
+         0,
+         -7.61
+      ],
+      "buddyOffsetMale" : [
+         11.6,
+         0,
+         -7.61
+      ],
+      "buddyPortraitOffset" : [
+         0,
+         200,
+         0
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_BIG",
+      "built" : {
+         "pokedexNumber" : 904,
+         "pokemonType" : 16,
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 16,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 222,
+            "baseDefense" : 171,
+            "baseStamina" : 198
+         }
+      },
+      "camera" : {
+         "cylinderGroundM" : 0.15,
+         "cylinderHeightM" : 3,
+         "cylinderRadiusM" : 1.15,
+         "diskRadiusM" : 0.378,
+         "shoulderModeScale" : 0.5
+      },
+      "candyToEvolve" : 25,
+      "cinematicMoves" : [
+         "AQUA_TAIL",
+         "ICE_BEAM",
+         "SLUDGE_BOMB",
+         "DARK_PULSE",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 29,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.1,
+         "cameraDistance" : 5,
+         "collisionHeadRadiusM" : 1,
+         "collisionHeightM" : 1,
+         "collisionRadiusM" : 1,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 0.9,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 10,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_QWILFISH",
+      "heightStdDev" : 0.3125,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 5,
+      "modelHeight" : 2.5,
+      "modelScale" : 1.26,
+      "modelScaleV2" : 1,
+      "parentPokemonId" : "QWILFISH",
+      "pokedexHeightM" : 2.5,
+      "pokedexWeightKg" : 60.5,
+      "pokemonId" : "OVERQWIL",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "raidBossDistanceOffset" : 1,
+      "raw" : {
+         "animationTime" : [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+         ],
+         "buddyGroupNumber" : 3,
+         "buddyOffsetFemale" : [
+            11.6,
+            0,
+            -7.61
+         ],
+         "buddyOffsetMale" : [
+            11.6,
+            0,
+            -7.61
+         ],
+         "buddyPortraitOffset" : [
+            0,
+            200,
+            0
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_BIG",
+         "camera" : {
+            "cylinderGroundM" : 0.15,
+            "cylinderHeightM" : 3,
+            "cylinderRadiusM" : 1.15,
+            "diskRadiusM" : 0.378,
+            "shoulderModeScale" : 0.5
+         },
+         "candyToEvolve" : 25,
+         "cinematicMoves" : [
+            "AQUA_TAIL",
+            "ICE_BEAM",
+            "SLUDGE_BOMB",
+            "DARK_PULSE",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 29,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.1,
+            "cameraDistance" : 5,
+            "collisionHeadRadiusM" : 1,
+            "collisionHeightM" : 1,
+            "collisionRadiusM" : 1,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 0.9,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 10,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_QWILFISH",
+         "heightStdDev" : 0.3125,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 5,
+         "modelHeight" : 2.5,
+         "modelScale" : 1.26,
+         "modelScaleV2" : 1,
+         "parentPokemonId" : "QWILFISH",
+         "pokedexHeightM" : 2.5,
+         "pokedexWeightKg" : 60.5,
+         "pokemonId" : "OVERQWIL",
+         "quickMoves" : [
+            "POISON_STING_FAST",
+            "POISON_JAB_FAST"
+         ],
+         "raidBossDistanceOffset" : 1,
+         "stats" : {
+            "baseAttack" : 222,
+            "baseDefense" : 171,
+            "baseStamina" : 198
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 75,
+            "stardustToUnlock" : 75000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 7.5625
+      },
+      "stats" : {
+         "baseAttack" : 222,
+         "baseDefense" : 171,
+         "baseStamina" : 198
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 75,
+         "stardustToUnlock" : 75000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 7.5625
+   }
+]

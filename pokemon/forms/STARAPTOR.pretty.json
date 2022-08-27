@@ -50,6 +50,9 @@
          "HEAT_WAVE",
          "CLOSE_COMBAT"
       ],
+      "eliteQuickMove" : [
+         "GUST_FAST"
+      ],
       "encounter" : {
          "attackProbability" : 0.2,
          "attackTimerS" : 29,
@@ -128,6 +131,9 @@
             "BRAVE_BIRD",
             "HEAT_WAVE",
             "CLOSE_COMBAT"
+         ],
+         "eliteQuickMove" : [
+            "GUST_FAST"
          ],
          "encounter" : {
             "attackProbability" : 0.2,
@@ -260,6 +266,9 @@
          "HEAT_WAVE",
          "CLOSE_COMBAT"
       ],
+      "eliteQuickMove" : [
+         "GUST_FAST"
+      ],
       "encounter" : {
          "attackProbability" : 0.2,
          "attackTimerS" : 29,
@@ -339,6 +348,9 @@
             "BRAVE_BIRD",
             "HEAT_WAVE",
             "CLOSE_COMBAT"
+         ],
+         "eliteQuickMove" : [
+            "GUST_FAST"
          ],
          "encounter" : {
             "attackProbability" : 0.2,

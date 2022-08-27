@@ -23,6 +23,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
          "pokedexNumber" : 212,
          "pokemonType" : 6,
@@ -35,6 +36,19 @@
             "baseAttack" : 236,
             "baseDefense" : 181,
             "baseStamina" : 172
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 6,
+                  "pokemonType2" : 8
+               },
+               "stats" : {
+                  "baseAttack" : 279,
+                  "baseDefense" : 250,
+                  "baseStamina" : 172
+               }
+            }
          }
       },
       "camera" : {
@@ -72,6 +86,13 @@
          "shadowFormBaseCaptureRate" : 0.05,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_SCYTHER",
       "heightStdDev" : 0.25125,
@@ -114,6 +135,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 25,
          "camera" : {
             "cylinderHeightM" : 1.9,
             "cylinderRadiusM" : 0.8,
@@ -149,6 +171,13 @@
             "shadowFormBaseCaptureRate" : 0.05,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_SCYTHER",
          "heightStdDev" : 0.25125,
@@ -178,6 +207,36 @@
             "baseDefense" : 181,
             "baseStamina" : 172
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2,
+               "averageWeightKg" : 125,
+               "buddyOffsetFemale" : [
+                  15,
+                  0,
+                  30
+               ],
+               "buddyOffsetMale" : [
+                  15,
+                  0,
+                  30
+               ],
+               "camera" : {
+                  "cylinderHeightM" : 2,
+                  "cylinderRadiusM" : 0.9
+               },
+               "modelHeight" : 2,
+               "modelScaleV2" : 1,
+               "stats" : {
+                  "baseAttack" : 279,
+                  "baseDefense" : 250,
+                  "baseStamina" : 172
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_BUG",
+               "typeOverride2" : "POKEMON_TYPE_STEEL"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 75,
             "stardustToUnlock" : 75000
@@ -197,6 +256,36 @@
          "baseDefense" : 181,
          "baseStamina" : 172
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2,
+            "averageWeightKg" : 125,
+            "buddyOffsetFemale" : [
+               15,
+               0,
+               30
+            ],
+            "buddyOffsetMale" : [
+               15,
+               0,
+               30
+            ],
+            "camera" : {
+               "cylinderHeightM" : 2,
+               "cylinderRadiusM" : 0.9
+            },
+            "modelHeight" : 2,
+            "modelScaleV2" : 1,
+            "stats" : {
+               "baseAttack" : 279,
+               "baseDefense" : 250,
+               "baseStamina" : 172
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_BUG",
+            "typeOverride2" : "POKEMON_TYPE_STEEL"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 75,
          "stardustToUnlock" : 75000
@@ -229,6 +318,7 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
+      "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
          "pokedexNumber" : 212,
          "pokemonType" : 6,
@@ -241,6 +331,19 @@
             "baseAttack" : 236,
             "baseDefense" : 181,
             "baseStamina" : 172
+         },
+         "tempEvoOverrides" : {
+            "TEMP_EVOLUTION_MEGA" : {
+               "pokemonTypes" : {
+                  "pokemonType" : 6,
+                  "pokemonType2" : 8
+               },
+               "stats" : {
+                  "baseAttack" : 279,
+                  "baseDefense" : 250,
+                  "baseStamina" : 172
+               }
+            }
          }
       },
       "camera" : {
@@ -278,6 +381,13 @@
          "shadowFormBaseCaptureRate" : 0.05,
          "shadowFormDodgeProbability" : 0.2
       },
+      "evolutionBranch" : [
+         {
+            "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+            "temporaryEvolutionEnergyCost" : 200,
+            "temporaryEvolutionEnergyCostSubsequent" : 40
+         }
+      ],
       "evolutionPips" : 1,
       "familyId" : "FAMILY_SCYTHER",
       "form" : "SCIZOR_NORMAL",
@@ -321,6 +431,7 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
+         "buddyWalkedMegaEnergyAward" : 25,
          "camera" : {
             "cylinderHeightM" : 1.9,
             "cylinderRadiusM" : 0.8,
@@ -356,6 +467,13 @@
             "shadowFormBaseCaptureRate" : 0.05,
             "shadowFormDodgeProbability" : 0.2
          },
+         "evolutionBranch" : [
+            {
+               "temporaryEvolution" : "TEMP_EVOLUTION_MEGA",
+               "temporaryEvolutionEnergyCost" : 200,
+               "temporaryEvolutionEnergyCostSubsequent" : 40
+            }
+         ],
          "evolutionPips" : 1,
          "familyId" : "FAMILY_SCYTHER",
          "form" : "SCIZOR_NORMAL",
@@ -386,6 +504,36 @@
             "baseDefense" : 181,
             "baseStamina" : 172
          },
+         "tempEvoOverrides" : [
+            {
+               "averageHeightM" : 2,
+               "averageWeightKg" : 125,
+               "buddyOffsetFemale" : [
+                  15,
+                  0,
+                  30
+               ],
+               "buddyOffsetMale" : [
+                  15,
+                  0,
+                  30
+               ],
+               "camera" : {
+                  "cylinderHeightM" : 2,
+                  "cylinderRadiusM" : 0.9
+               },
+               "modelHeight" : 2,
+               "modelScaleV2" : 1,
+               "stats" : {
+                  "baseAttack" : 279,
+                  "baseDefense" : 250,
+                  "baseStamina" : 172
+               },
+               "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+               "typeOverride" : "POKEMON_TYPE_BUG",
+               "typeOverride2" : "POKEMON_TYPE_STEEL"
+            }
+         ],
          "thirdMove" : {
             "candyToUnlock" : 75,
             "stardustToUnlock" : 75000
@@ -405,6 +553,36 @@
          "baseDefense" : 181,
          "baseStamina" : 172
       },
+      "tempEvoOverrides" : [
+         {
+            "averageHeightM" : 2,
+            "averageWeightKg" : 125,
+            "buddyOffsetFemale" : [
+               15,
+               0,
+               30
+            ],
+            "buddyOffsetMale" : [
+               15,
+               0,
+               30
+            ],
+            "camera" : {
+               "cylinderHeightM" : 2,
+               "cylinderRadiusM" : 0.9
+            },
+            "modelHeight" : 2,
+            "modelScaleV2" : 1,
+            "stats" : {
+               "baseAttack" : 279,
+               "baseDefense" : 250,
+               "baseStamina" : 172
+            },
+            "tempEvoId" : "TEMP_EVOLUTION_MEGA",
+            "typeOverride" : "POKEMON_TYPE_BUG",
+            "typeOverride2" : "POKEMON_TYPE_STEEL"
+         }
+      ],
       "thirdMove" : {
          "candyToUnlock" : 75,
          "stardustToUnlock" : 75000

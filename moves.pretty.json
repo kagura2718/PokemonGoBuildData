@@ -2193,11 +2193,12 @@
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2800,
-         "energyDelta" : 0,
+         "energyDelta" : -25,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 4,
-         "movesTypeWrap" : 4
+         "movesTypeWrap" : 4,
+         "power" : 9001
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -2205,8 +2206,10 @@
          "damageWindowEndMs" : 2300,
          "damageWindowStartMs" : 1000,
          "durationMs" : 2800,
+         "energyDelta" : -25,
          "movementId" : "FISSURE",
          "pokemonType" : "POKEMON_TYPE_GROUND",
+         "power" : 9001,
          "staminaLossScalar" : 0.01,
          "trainerLevelMax" : 100,
          "trainerLevelMin" : 1,
@@ -3000,11 +3003,12 @@
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 500,
          "durationMs" : 1900,
-         "energyDelta" : 0,
+         "energyDelta" : -25,
          "isCinematicMoves" : true,
          "isQuickMoves" : false,
          "movesType" : 0,
-         "movesTypeWrap" : 0
+         "movesTypeWrap" : 0,
+         "power" : 9000
       },
       "raw" : {
          "accuracyChance" : 1,
@@ -3012,8 +3016,10 @@
          "damageWindowEndMs" : 1500,
          "damageWindowStartMs" : 500,
          "durationMs" : 1900,
+         "energyDelta" : -25,
          "movementId" : "HORN_DRILL",
          "pokemonType" : "POKEMON_TYPE_NORMAL",
+         "power" : 9000,
          "staminaLossScalar" : 0.01,
          "trainerLevelMax" : 100,
          "trainerLevelMin" : 1,
@@ -4361,6 +4367,34 @@
          "trainerLevelMax" : 100,
          "trainerLevelMin" : 1,
          "vfxName" : "night_slash"
+      }
+   },
+   "OBSTRUCT" : {
+      "built" : {
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "isCinematicMoves" : true,
+         "isQuickMoves" : false,
+         "movesType" : 16,
+         "movesTypeWrap" : 16,
+         "power" : 20
+      },
+      "raw" : {
+         "accuracyChance" : 1,
+         "animationId" : 5,
+         "damageWindowEndMs" : 1600,
+         "damageWindowStartMs" : 500,
+         "durationMs" : 1700,
+         "energyDelta" : -33,
+         "movementId" : "OBSTRUCT",
+         "pokemonType" : "POKEMON_TYPE_DARK",
+         "power" : 20,
+         "staminaLossScalar" : 0.01,
+         "trainerLevelMax" : 100,
+         "trainerLevelMin" : 1,
+         "vfxName" : "obstruct"
       }
    },
    "OCTAZOOKA" : {

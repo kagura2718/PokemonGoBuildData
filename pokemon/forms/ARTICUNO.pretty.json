@@ -222,6 +222,211 @@
       ],
       "buddyGroupNumber" : 7,
       "buddyOffsetFemale" : [
+         7,
+         -15.5,
+         -5
+      ],
+      "buddyOffsetMale" : [
+         7,
+         -15.5,
+         -5
+      ],
+      "buddyScale" : 19,
+      "buddySize" : "BUDDY_FLYING",
+      "built" : {
+         "isGalarian" : true,
+         "pokedexNumber" : 144,
+         "pokemonType" : 13,
+         "pokemonType2" : 2,
+         "pokemonTypes" : {
+            "pokemonType" : 13,
+            "pokemonType2" : 2
+         },
+         "stats" : {
+            "baseAttack" : 250,
+            "baseDefense" : 197,
+            "baseStamina" : 207
+         }
+      },
+      "camera" : {
+         "cylinderGroundM" : 1,
+         "cylinderHeightM" : 1.25,
+         "cylinderRadiusM" : 1.25,
+         "diskRadiusM" : 0.594,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "FUTURESIGHT",
+         "ANCIENT_POWER",
+         "BRAVE_BIRD"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 8,
+         "baseCaptureRate" : 0.003,
+         "baseFleeRate" : 0.9,
+         "bonusXlCandyCaptureReward" : 3,
+         "cameraDistance" : 3.7125,
+         "collisionHeadRadiusM" : 0.231,
+         "collisionHeightM" : 0.66,
+         "collisionRadiusM" : 0.43,
+         "dodgeDistance" : 1,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 3,
+         "movementType" : "MOVEMENT_FLYING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.03,
+         "shadowFormDodgeProbability" : 0.2
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_ARTICUNO",
+      "form" : "ARTICUNO_GALARIAN",
+      "heightStdDev" : 0.2125,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 20,
+      "modelHeight" : 2.6,
+      "modelScale" : 0.66,
+      "modelScaleV2" : 0.91,
+      "pokedexHeightM" : 1.7,
+      "pokedexWeightKg" : 50.9,
+      "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+      "pokemonId" : "ARTICUNO",
+      "quickMoves" : [
+         "CONFUSION_FAST",
+         "PSYCHO_CUT_FAST"
+      ],
+      "raw" : {
+         "animationTime" : [
+            2.0667,
+            1,
+            1.6667,
+            0.6667,
+            0,
+            2.4,
+            1.3333,
+            1.333333
+         ],
+         "buddyGroupNumber" : 7,
+         "buddyOffsetFemale" : [
+            7,
+            -15.5,
+            -5
+         ],
+         "buddyOffsetMale" : [
+            7,
+            -15.5,
+            -5
+         ],
+         "buddyScale" : 19,
+         "buddySize" : "BUDDY_FLYING",
+         "camera" : {
+            "cylinderGroundM" : 1,
+            "cylinderHeightM" : 1.25,
+            "cylinderRadiusM" : 1.25,
+            "diskRadiusM" : 0.594,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "FUTURESIGHT",
+            "ANCIENT_POWER",
+            "BRAVE_BIRD"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 8,
+            "baseCaptureRate" : 0.003,
+            "baseFleeRate" : 0.9,
+            "bonusXlCandyCaptureReward" : 3,
+            "cameraDistance" : 3.7125,
+            "collisionHeadRadiusM" : 0.231,
+            "collisionHeightM" : 0.66,
+            "collisionRadiusM" : 0.43,
+            "dodgeDistance" : 1,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 3,
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.03,
+            "shadowFormDodgeProbability" : 0.2
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_ARTICUNO",
+         "form" : "ARTICUNO_GALARIAN",
+         "heightStdDev" : 0.2125,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 20,
+         "modelHeight" : 2.6,
+         "modelScale" : 0.66,
+         "modelScaleV2" : 0.91,
+         "pokedexHeightM" : 1.7,
+         "pokedexWeightKg" : 50.9,
+         "pokemonClass" : "POKEMON_CLASS_LEGENDARY",
+         "pokemonId" : "ARTICUNO",
+         "quickMoves" : [
+            "CONFUSION_FAST",
+            "PSYCHO_CUT_FAST"
+         ],
+         "shadow" : {
+            "purificationCandyNeeded" : 20,
+            "purificationStardustNeeded" : 20000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
+         "stats" : {
+            "baseAttack" : 250,
+            "baseDefense" : 197,
+            "baseStamina" : 207
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 100,
+            "stardustToUnlock" : 100000
+         },
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "type2" : "POKEMON_TYPE_FLYING",
+         "weightStdDev" : 6.3625
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 20,
+         "purificationStardustNeeded" : 20000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
+      },
+      "stats" : {
+         "baseAttack" : 250,
+         "baseDefense" : 197,
+         "baseStamina" : 207
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 100,
+         "stardustToUnlock" : 100000
+      },
+      "type" : "POKEMON_TYPE_PSYCHIC",
+      "type2" : "POKEMON_TYPE_FLYING",
+      "weightStdDev" : 6.3625
+   },
+   {
+      "animationTime" : [
+         2.0667,
+         1,
+         1.6667,
+         0.6667,
+         0,
+         2.4,
+         1.3333,
+         1.333333
+      ],
+      "buddyGroupNumber" : 7,
+      "buddyOffsetFemale" : [
          10,
          -16.9,
          28.01
