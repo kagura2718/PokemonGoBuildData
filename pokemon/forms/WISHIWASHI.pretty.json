@@ -1,6 +1,6 @@
 [
    {
-      "buddyGroupNumber" : 1,
+      "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
          0,
          0,
@@ -24,11 +24,7 @@
             "baseStamina" : 128
          }
       },
-      "camera" : {
-         "cylinderGroundM" : 0.15,
-         "cylinderHeightM" : 0.2,
-         "cylinderRadiusM" : 0.2
-      },
+      "camera" : {},
       "cinematicMoves" : [
          "BRINE",
          "SURF",
@@ -38,14 +34,10 @@
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.07,
-         "cameraDistance" : 2,
-         "collisionHeadRadiusM" : 0.07,
-         "collisionHeightM" : 0.1,
-         "collisionRadiusM" : 0.1,
+         "cameraDistance" : 4,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
-         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -67,7 +59,7 @@
          "IRON_TAIL_FAST"
       ],
       "raw" : {
-         "buddyGroupNumber" : 1,
+         "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
             0,
             0,
@@ -79,11 +71,7 @@
             0
          ],
          "buddyScale" : 19,
-         "camera" : {
-            "cylinderGroundM" : 0.15,
-            "cylinderHeightM" : 0.2,
-            "cylinderRadiusM" : 0.2
-         },
+         "camera" : {},
          "cinematicMoves" : [
             "BRINE",
             "SURF",
@@ -93,14 +81,10 @@
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.07,
-            "cameraDistance" : 2,
-            "collisionHeadRadiusM" : 0.07,
-            "collisionHeightM" : 0.1,
-            "collisionRadiusM" : 0.1,
+            "cameraDistance" : 4,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
-            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -146,19 +130,18 @@
       "weightStdDev" : 0.0375
    },
    {
-      "buddyGroupNumber" : 3,
+      "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
-         25,
-         -50,
-         -40
+         0,
+         0,
+         0
       ],
       "buddyOffsetMale" : [
-         25,
-         -50,
-         -40
+         0,
+         0,
+         0
       ],
-      "buddyScale" : 10,
-      "buddySize" : "BUDDY_BIG",
+      "buddyScale" : 19,
       "built" : {
          "pokedexNumber" : 746,
          "pokemonType" : 10,
@@ -171,11 +154,7 @@
             "baseStamina" : 128
          }
       },
-      "camera" : {
-         "cylinderGroundM" : 0.7,
-         "cylinderHeightM" : 5,
-         "cylinderRadiusM" : 5
-      },
+      "camera" : {},
       "cinematicMoves" : [
          "BRINE",
          "SURF",
@@ -185,14 +164,10 @@
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.07,
-         "cameraDistance" : 10,
-         "collisionHeadRadiusM" : 1.5,
-         "collisionHeightM" : 5,
-         "collisionRadiusM" : 1.5,
+         "cameraDistance" : 4,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
-         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -215,24 +190,19 @@
          "IRON_TAIL_FAST"
       ],
       "raw" : {
-         "buddyGroupNumber" : 3,
+         "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
-            25,
-            -50,
-            -40
+            0,
+            0,
+            0
          ],
          "buddyOffsetMale" : [
-            25,
-            -50,
-            -40
+            0,
+            0,
+            0
          ],
-         "buddyScale" : 10,
-         "buddySize" : "BUDDY_BIG",
-         "camera" : {
-            "cylinderGroundM" : 0.7,
-            "cylinderHeightM" : 5,
-            "cylinderRadiusM" : 5
-         },
+         "buddyScale" : 19,
+         "camera" : {},
          "cinematicMoves" : [
             "BRINE",
             "SURF",
@@ -242,14 +212,10 @@
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.07,
-            "cameraDistance" : 10,
-            "collisionHeadRadiusM" : 1.5,
-            "collisionHeightM" : 5,
-            "collisionRadiusM" : 1.5,
+            "cameraDistance" : 4,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
-            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"
@@ -296,7 +262,7 @@
       "weightStdDev" : 9.825
    },
    {
-      "buddyGroupNumber" : 1,
+      "buddyGroupNumber" : 2,
       "buddyOffsetFemale" : [
          0,
          0,
@@ -320,11 +286,7 @@
             "baseStamina" : 128
          }
       },
-      "camera" : {
-         "cylinderGroundM" : 0.15,
-         "cylinderHeightM" : 0.2,
-         "cylinderRadiusM" : 0.2
-      },
+      "camera" : {},
       "cinematicMoves" : [
          "BRINE",
          "SURF",
@@ -334,14 +296,10 @@
          "attackProbability" : 0.1,
          "baseCaptureRate" : 0.2,
          "baseFleeRate" : 0.07,
-         "cameraDistance" : 2,
-         "collisionHeadRadiusM" : 0.07,
-         "collisionHeightM" : 0.1,
-         "collisionRadiusM" : 0.1,
+         "cameraDistance" : 4,
          "dodgeDistance" : 0.5,
          "dodgeDurationS" : 1,
          "dodgeProbability" : 0.15,
-         "jumpTimeS" : 1,
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementType" : "MOVEMENT_JUMP"
@@ -364,7 +322,7 @@
          "IRON_TAIL_FAST"
       ],
       "raw" : {
-         "buddyGroupNumber" : 1,
+         "buddyGroupNumber" : 2,
          "buddyOffsetFemale" : [
             0,
             0,
@@ -376,11 +334,7 @@
             0
          ],
          "buddyScale" : 19,
-         "camera" : {
-            "cylinderGroundM" : 0.15,
-            "cylinderHeightM" : 0.2,
-            "cylinderRadiusM" : 0.2
-         },
+         "camera" : {},
          "cinematicMoves" : [
             "BRINE",
             "SURF",
@@ -390,14 +344,10 @@
             "attackProbability" : 0.1,
             "baseCaptureRate" : 0.2,
             "baseFleeRate" : 0.07,
-            "cameraDistance" : 2,
-            "collisionHeadRadiusM" : 0.07,
-            "collisionHeightM" : 0.1,
-            "collisionRadiusM" : 0.1,
+            "cameraDistance" : 4,
             "dodgeDistance" : 0.5,
             "dodgeDurationS" : 1,
             "dodgeProbability" : 0.15,
-            "jumpTimeS" : 1,
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementType" : "MOVEMENT_JUMP"

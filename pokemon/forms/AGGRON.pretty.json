@@ -35,8 +35,7 @@
             "baseAttack" : 198,
             "baseDefense" : 257,
             "baseStamina" : 172
-         },
-         "tempEvoOverrides" : {}
+         }
       },
       "camera" : {
          "cylinderHeightM" : 2.4,
@@ -183,19 +182,6 @@
             "baseDefense" : 257,
             "baseStamina" : 172
          },
-         "tempEvoOverrides" : [
-            {
-               "camera" : {
-                  "cylinderRadiusM" : 3.75
-               },
-               "raidBossDistanceOffset" : 4
-            },
-            {
-               "camera" : {
-                  "cylinderRadiusM" : 3.75
-               }
-            }
-         ],
          "thirdMove" : {
             "candyToUnlock" : 25,
             "stardustToUnlock" : 10000
@@ -215,19 +201,6 @@
          "baseDefense" : 257,
          "baseStamina" : 172
       },
-      "tempEvoOverrides" : [
-         {
-            "camera" : {
-               "cylinderRadiusM" : 3.75
-            },
-            "raidBossDistanceOffset" : 4
-         },
-         {
-            "camera" : {
-               "cylinderRadiusM" : 3.75
-            }
-         }
-      ],
       "thirdMove" : {
          "candyToUnlock" : 25,
          "stardustToUnlock" : 10000
@@ -272,8 +245,7 @@
             "baseAttack" : 198,
             "baseDefense" : 257,
             "baseStamina" : 172
-         },
-         "tempEvoOverrides" : {}
+         }
       },
       "camera" : {
          "cylinderHeightM" : 2.4,
@@ -422,19 +394,6 @@
             "baseDefense" : 257,
             "baseStamina" : 172
          },
-         "tempEvoOverrides" : [
-            {
-               "camera" : {
-                  "cylinderRadiusM" : 3.75
-               },
-               "raidBossDistanceOffset" : 4
-            },
-            {
-               "camera" : {
-                  "cylinderRadiusM" : 3.75
-               }
-            }
-         ],
          "thirdMove" : {
             "candyToUnlock" : 25,
             "stardustToUnlock" : 10000
@@ -454,19 +413,6 @@
          "baseDefense" : 257,
          "baseStamina" : 172
       },
-      "tempEvoOverrides" : [
-         {
-            "camera" : {
-               "cylinderRadiusM" : 3.75
-            },
-            "raidBossDistanceOffset" : 4
-         },
-         {
-            "camera" : {
-               "cylinderRadiusM" : 3.75
-            }
-         }
-      ],
       "thirdMove" : {
          "candyToUnlock" : 25,
          "stardustToUnlock" : 10000

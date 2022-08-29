@@ -228,9 +228,6 @@
          "MAGNET_BOMB",
          "FLAMETHROWER"
       ],
-      "eliteCinematicMove" : [
-         "TECHNO_BLAST_BURN"
-      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -301,9 +298,6 @@
             "X_SCISSOR",
             "MAGNET_BOMB",
             "FLAMETHROWER"
-         ],
-         "eliteCinematicMove" : [
-            "TECHNO_BLAST_BURN"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -416,9 +410,6 @@
          "MAGNET_BOMB",
          "ICE_BEAM"
       ],
-      "eliteCinematicMove" : [
-         "TECHNO_BLAST_CHILL"
-      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -489,9 +480,6 @@
             "X_SCISSOR",
             "MAGNET_BOMB",
             "ICE_BEAM"
-         ],
-         "eliteCinematicMove" : [
-            "TECHNO_BLAST_CHILL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -604,9 +592,6 @@
          "MAGNET_BOMB",
          "GUNK_SHOT"
       ],
-      "eliteCinematicMove" : [
-         "TECHNO_BLAST_WATER"
-      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -677,9 +662,6 @@
             "X_SCISSOR",
             "MAGNET_BOMB",
             "GUNK_SHOT"
-         ],
-         "eliteCinematicMove" : [
-            "TECHNO_BLAST_WATER"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -792,9 +774,6 @@
          "MAGNET_BOMB",
          "HYPER_BEAM"
       ],
-      "eliteCinematicMove" : [
-         "TECHNO_BLAST_NORMAL"
-      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -865,9 +844,6 @@
             "X_SCISSOR",
             "MAGNET_BOMB",
             "HYPER_BEAM"
-         ],
-         "eliteCinematicMove" : [
-            "TECHNO_BLAST_NORMAL"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -980,9 +956,6 @@
          "MAGNET_BOMB",
          "ZAP_CANNON"
       ],
-      "eliteCinematicMove" : [
-         "TECHNO_BLAST_SHOCK"
-      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 29,
@@ -1053,9 +1026,6 @@
             "X_SCISSOR",
             "MAGNET_BOMB",
             "ZAP_CANNON"
-         ],
-         "eliteCinematicMove" : [
-            "TECHNO_BLAST_SHOCK"
          ],
          "encounter" : {
             "attackProbability" : 0.1,

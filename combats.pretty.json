@@ -16,7 +16,7 @@
    },
    "ACID_SPRAY" : {
       "built" : {
-         "energyDelta" : -50,
+         "energyDelta" : -45,
          "movesType" : 3,
          "power" : 20
       },
@@ -25,11 +25,25 @@
             "buffActivationChance" : 1,
             "targetDefenseStatStageChange" : -2
          },
-         "energyDelta" : -50,
+         "energyDelta" : -45,
          "power" : 20,
          "type" : "POKEMON_TYPE_POISON",
          "uniqueId" : "ACID_SPRAY",
          "vfxName" : "acid_spray"
+      }
+   },
+   "ACROBATICS" : {
+      "built" : {
+         "energyDelta" : -60,
+         "movesType" : 2,
+         "power" : 110
+      },
+      "raw" : {
+         "energyDelta" : -60,
+         "power" : 110,
+         "type" : "POKEMON_TYPE_FLYING",
+         "uniqueId" : "ACROBATICS",
+         "vfxName" : "acrobatics"
       }
    },
    "AERIAL_ACE" : {
@@ -61,6 +75,42 @@
          "power" : 170,
          "type" : "POKEMON_TYPE_FLYING",
          "uniqueId" : "AEROBLAST",
+         "vfxName" : "aeroblast"
+      }
+   },
+   "AEROBLAST_PLUS" : {
+      "built" : {
+         "energyDelta" : -75,
+         "movesType" : 2,
+         "power" : 170
+      },
+      "raw" : {
+         "buffs" : {
+            "attackerAttackStatStageChange" : 2,
+            "buffActivationChance" : 0.125
+         },
+         "energyDelta" : -75,
+         "power" : 170,
+         "type" : "POKEMON_TYPE_FLYING",
+         "uniqueId" : "AEROBLAST_PLUS",
+         "vfxName" : "aeroblast"
+      }
+   },
+   "AEROBLAST_PLUS_PLUS" : {
+      "built" : {
+         "energyDelta" : -75,
+         "movesType" : 2,
+         "power" : 170
+      },
+      "raw" : {
+         "buffs" : {
+            "attackerAttackStatStageChange" : 2,
+            "buffActivationChance" : 0.125
+         },
+         "energyDelta" : -75,
+         "power" : 170,
+         "type" : "POKEMON_TYPE_FLYING",
+         "uniqueId" : "AEROBLAST_PLUS_PLUS",
          "vfxName" : "aeroblast"
       }
    },
@@ -327,6 +377,20 @@
          "vfxName" : "brine"
       }
    },
+   "BRUTAL_SWING" : {
+      "built" : {
+         "energyDelta" : -40,
+         "movesType" : 16,
+         "power" : 65
+      },
+      "raw" : {
+         "energyDelta" : -40,
+         "power" : 65,
+         "type" : "POKEMON_TYPE_DARK",
+         "uniqueId" : "BRUTAL_SWING",
+         "vfxName" : "brutal_swing"
+      }
+   },
    "BUBBLE_BEAM" : {
       "built" : {
          "energyDelta" : -40,
@@ -378,7 +442,7 @@
       "built" : {
          "energyDelta" : -60,
          "movesType" : 6,
-         "power" : 90
+         "power" : 100
       },
       "raw" : {
          "buffs" : {
@@ -386,7 +450,7 @@
             "targetDefenseStatStageChange" : -1
          },
          "energyDelta" : -60,
-         "power" : 90,
+         "power" : 100,
          "type" : "POKEMON_TYPE_BUG",
          "uniqueId" : "BUG_BUZZ",
          "vfxName" : "bug_buzz"
@@ -550,11 +614,15 @@
       "built" : {
          "energyDelta" : -35,
          "movesType" : 3,
-         "power" : 40
+         "power" : 50
       },
       "raw" : {
+         "buffs" : {
+            "attackerAttackStatStageChange" : 2,
+            "buffActivationChance" : 0.125
+         },
          "energyDelta" : -35,
-         "power" : 40,
+         "power" : 50,
          "type" : "POKEMON_TYPE_POISON",
          "uniqueId" : "CROSS_POISON",
          "vfxName" : "cross_poison"
@@ -567,6 +635,10 @@
          "power" : 70
       },
       "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.3,
+            "targetDefenseStatStageChange" : -1
+         },
          "energyDelta" : -45,
          "power" : 70,
          "type" : "POKEMON_TYPE_DARK",
@@ -734,14 +806,14 @@
    },
    "DRAGON_TAIL_FAST" : {
       "built" : {
-         "energyDelta" : 10,
+         "energyDelta" : 9,
          "movesType" : 15,
-         "power" : 9
+         "power" : 13
       },
       "raw" : {
          "durationTurns" : 2,
-         "energyDelta" : 10,
-         "power" : 9,
+         "energyDelta" : 9,
+         "power" : 13,
          "type" : "POKEMON_TYPE_DRAGON",
          "uniqueId" : "DRAGON_TAIL_FAST",
          "vfxName" : "dragon_tail_fast"
@@ -759,6 +831,24 @@
          "type" : "POKEMON_TYPE_FAIRY",
          "uniqueId" : "DRAINING_KISS",
          "vfxName" : "draining_kiss"
+      }
+   },
+   "DRAIN_PUNCH" : {
+      "built" : {
+         "energyDelta" : -40,
+         "movesType" : 1,
+         "power" : 20
+      },
+      "raw" : {
+         "buffs" : {
+            "attackerDefenseStatStageChange" : 1,
+            "buffActivationChance" : 1
+         },
+         "energyDelta" : -40,
+         "power" : 20,
+         "type" : "POKEMON_TYPE_FIGHTING",
+         "uniqueId" : "DRAIN_PUNCH",
+         "vfxName" : "drain_punch"
       }
    },
    "DRILL_PECK" : {
@@ -881,6 +971,24 @@
          "type" : "POKEMON_TYPE_PSYCHIC",
          "uniqueId" : "EXTRASENSORY_FAST",
          "vfxName" : "extrasensory_fast"
+      }
+   },
+   "FEATHER_DANCE" : {
+      "built" : {
+         "energyDelta" : -50,
+         "movesType" : 2,
+         "power" : 35
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 1,
+            "targetAttackStatStageChange" : -2
+         },
+         "energyDelta" : -50,
+         "power" : 35,
+         "type" : "POKEMON_TYPE_FLYING",
+         "uniqueId" : "FEATHER_DANCE",
+         "vfxName" : "feather_dance"
       }
    },
    "FEINT_ATTACK_FAST" : {
@@ -1080,11 +1188,11 @@
       "built" : {
          "energyDelta" : -75,
          "movesType" : 1,
-         "power" : 140
+         "power" : 150
       },
       "raw" : {
          "energyDelta" : -75,
-         "power" : 140,
+         "power" : 150,
          "type" : "POKEMON_TYPE_FIGHTING",
          "uniqueId" : "FOCUS_BLAST",
          "vfxName" : "focus_blast"
@@ -1488,6 +1596,20 @@
          "vfxName" : "ice_shard_fast"
       }
    },
+   "ICICLE_SPEAR" : {
+      "built" : {
+         "energyDelta" : -35,
+         "movesType" : 14,
+         "power" : 60
+      },
+      "raw" : {
+         "energyDelta" : -35,
+         "power" : 60,
+         "type" : "POKEMON_TYPE_ICE",
+         "uniqueId" : "ICICLE_SPEAR",
+         "vfxName" : "icicle_spear"
+      }
+   },
    "ICY_WIND" : {
       "built" : {
          "energyDelta" : -45,
@@ -1608,6 +1730,24 @@
          "vfxName" : "leaf_blade"
       }
    },
+   "LEAF_STORM" : {
+      "built" : {
+         "energyDelta" : -55,
+         "movesType" : 11,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "attackerAttackStatStageChange" : -2,
+            "buffActivationChance" : 1
+         },
+         "energyDelta" : -55,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_GRASS",
+         "uniqueId" : "LEAF_STORM",
+         "vfxName" : "leaf_storm"
+      }
+   },
    "LEAF_TORNADO" : {
       "built" : {
          "energyDelta" : -40,
@@ -1701,6 +1841,39 @@
          "vfxName" : "lunge"
       }
    },
+   "LUSTER_PURGE" : {
+      "built" : {
+         "energyDelta" : -60,
+         "movesType" : 13,
+         "power" : 120
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetDefenseStatStageChange" : -1
+         },
+         "energyDelta" : -60,
+         "power" : 120,
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "uniqueId" : "LUSTER_PURGE",
+         "vfxName" : "luster_purge"
+      }
+   },
+   "MAGICAL_LEAF_FAST" : {
+      "built" : {
+         "energyDelta" : 10,
+         "movesType" : 11,
+         "power" : 10
+      },
+      "raw" : {
+         "durationTurns" : 2,
+         "energyDelta" : 10,
+         "power" : 10,
+         "type" : "POKEMON_TYPE_GRASS",
+         "uniqueId" : "MAGICAL_LEAF_FAST",
+         "vfxName" : "magical_leaf_fast"
+      }
+   },
    "MAGNET_BOMB" : {
       "built" : {
          "energyDelta" : -45,
@@ -1719,11 +1892,11 @@
       "built" : {
          "energyDelta" : -55,
          "movesType" : 6,
-         "power" : 100
+         "power" : 110
       },
       "raw" : {
          "energyDelta" : -55,
-         "power" : 100,
+         "power" : 110,
          "type" : "POKEMON_TYPE_BUG",
          "uniqueId" : "MEGAHORN",
          "vfxName" : "megahorn"
@@ -1802,6 +1975,24 @@
          "type" : "POKEMON_TYPE_STEEL",
          "uniqueId" : "MIRROR_SHOT",
          "vfxName" : "mirror_shot"
+      }
+   },
+   "MIST_BALL" : {
+      "built" : {
+         "energyDelta" : -60,
+         "movesType" : 13,
+         "power" : 120
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -60,
+         "power" : 120,
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "uniqueId" : "MIST_BALL",
+         "vfxName" : "mist_ball"
       }
    },
    "MOONBLAST" : {
@@ -2003,11 +2194,11 @@
       "built" : {
          "energyDelta" : -55,
          "movesType" : 12,
-         "power" : 25
+         "power" : 65
       },
       "raw" : {
          "energyDelta" : -55,
-         "power" : 25,
+         "power" : 65,
          "type" : "POKEMON_TYPE_ELECTRIC",
          "uniqueId" : "PARABOLIC_CHARGE",
          "vfxName" : "parabolic_charge"
@@ -2077,6 +2268,10 @@
          "power" : 40
       },
       "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 1,
+            "targetDefenseStatStageChange" : -1
+         },
          "energyDelta" : -35,
          "power" : 40,
          "type" : "POKEMON_TYPE_POISON",
@@ -2088,12 +2283,12 @@
       "built" : {
          "energyDelta" : 7,
          "movesType" : 3,
-         "power" : 6
+         "power" : 7
       },
       "raw" : {
          "durationTurns" : 1,
          "energyDelta" : 7,
-         "power" : 6,
+         "power" : 7,
          "type" : "POKEMON_TYPE_POISON",
          "uniqueId" : "POISON_JAB_FAST",
          "vfxName" : "poison_jab_fast"
@@ -2101,13 +2296,13 @@
    },
    "POISON_STING_FAST" : {
       "built" : {
-         "energyDelta" : 8,
+         "energyDelta" : 9,
          "movesType" : 3,
          "power" : 3
       },
       "raw" : {
          "durationTurns" : 1,
-         "energyDelta" : 8,
+         "energyDelta" : 9,
          "power" : 3,
          "type" : "POKEMON_TYPE_POISON",
          "uniqueId" : "POISON_STING_FAST",
@@ -2118,12 +2313,12 @@
       "built" : {
          "energyDelta" : 4,
          "movesType" : 0,
-         "power" : 5
+         "power" : 4
       },
       "raw" : {
          "durationTurns" : 1,
          "energyDelta" : 4,
-         "power" : 5,
+         "power" : 4,
          "type" : "POKEMON_TYPE_NORMAL",
          "uniqueId" : "POUND_FAST",
          "vfxName" : "pound_fast"
@@ -2251,6 +2446,24 @@
          "vfxName" : "psychic"
       }
    },
+   "PSYCHIC_FANGS" : {
+      "built" : {
+         "energyDelta" : -35,
+         "movesType" : 13,
+         "power" : 40
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 1,
+            "targetDefenseStatStageChange" : -1
+         },
+         "energyDelta" : -35,
+         "power" : 40,
+         "type" : "POKEMON_TYPE_PSYCHIC",
+         "uniqueId" : "PSYCHIC_FANGS",
+         "vfxName" : "psychic_fangs"
+      }
+   },
    "PSYCHO_BOOST" : {
       "built" : {
          "energyDelta" : -35,
@@ -2340,6 +2553,24 @@
          "type" : "POKEMON_TYPE_GRASS",
          "uniqueId" : "RAZOR_LEAF_FAST",
          "vfxName" : "razor_leaf_fast"
+      }
+   },
+   "RAZOR_SHELL" : {
+      "built" : {
+         "energyDelta" : -35,
+         "movesType" : 10,
+         "power" : 35
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetDefenseStatStageChange" : -1
+         },
+         "energyDelta" : -35,
+         "power" : 35,
+         "type" : "POKEMON_TYPE_WATER",
+         "uniqueId" : "RAZOR_SHELL",
+         "vfxName" : "razor_shell"
       }
    },
    "REST" : {
@@ -2435,6 +2666,10 @@
          "power" : 70
       },
       "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 1,
+            "targetAttackStatStageChange" : -1
+         },
          "energyDelta" : -60,
          "power" : 70,
          "type" : "POKEMON_TYPE_ROCK",
@@ -2454,6 +2689,75 @@
          "type" : "POKEMON_TYPE_ROCK",
          "uniqueId" : "ROCK_WRECKER",
          "vfxName" : "rock_wrecker"
+      }
+   },
+   "ROLLOUT_FAST" : {
+      "built" : {
+         "energyDelta" : 14,
+         "movesType" : 5,
+         "power" : 4
+      },
+      "raw" : {
+         "durationTurns" : 2,
+         "energyDelta" : 14,
+         "power" : 4,
+         "type" : "POKEMON_TYPE_ROCK",
+         "uniqueId" : "ROLLOUT_FAST",
+         "vfxName" : "rollout_fast"
+      }
+   },
+   "SACRED_FIRE" : {
+      "built" : {
+         "energyDelta" : -65,
+         "movesType" : 9,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -65,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_FIRE",
+         "uniqueId" : "SACRED_FIRE",
+         "vfxName" : "sacred_fire"
+      }
+   },
+   "SACRED_FIRE_PLUS" : {
+      "built" : {
+         "energyDelta" : -65,
+         "movesType" : 9,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -65,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_FIRE",
+         "uniqueId" : "SACRED_FIRE_PLUS",
+         "vfxName" : "sacred_fire"
+      }
+   },
+   "SACRED_FIRE_PLUS_PLUS" : {
+      "built" : {
+         "energyDelta" : -65,
+         "movesType" : 9,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.5,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -65,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_FIRE",
+         "uniqueId" : "SACRED_FIRE_PLUS_PLUS",
+         "vfxName" : "sacred_fire"
       }
    },
    "SACRED_SWORD" : {
@@ -2490,12 +2794,16 @@
    },
    "SCALD" : {
       "built" : {
-         "energyDelta" : -60,
+         "energyDelta" : -50,
          "movesType" : 10,
          "power" : 80
       },
       "raw" : {
-         "energyDelta" : -60,
+         "buffs" : {
+            "buffActivationChance" : 0.3,
+            "targetAttackStatStageChange" : -1
+         },
+         "energyDelta" : -50,
          "power" : 80,
          "type" : "POKEMON_TYPE_WATER",
          "uniqueId" : "SCALD",
@@ -2542,6 +2850,24 @@
          "type" : "POKEMON_TYPE_GRASS",
          "uniqueId" : "SEED_BOMB",
          "vfxName" : "seed_bomb"
+      }
+   },
+   "SEED_FLARE" : {
+      "built" : {
+         "energyDelta" : -75,
+         "movesType" : 11,
+         "power" : 130
+      },
+      "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 0.4,
+            "targetDefenseStatStageChange" : -2
+         },
+         "energyDelta" : -75,
+         "power" : 130,
+         "type" : "POKEMON_TYPE_GRASS",
+         "uniqueId" : "SEED_FLARE",
+         "vfxName" : "seed_flare"
       }
    },
    "SHADOW_BALL" : {
@@ -3304,11 +3630,11 @@
       "built" : {
          "energyDelta" : -35,
          "movesType" : 9,
-         "power" : 60
+         "power" : 55
       },
       "raw" : {
          "energyDelta" : -35,
-         "power" : 60,
+         "power" : 55,
          "type" : "POKEMON_TYPE_FIRE",
          "uniqueId" : "WEATHER_BALL_FIRE",
          "vfxName" : "weather_ball_fire"
@@ -3318,39 +3644,53 @@
       "built" : {
          "energyDelta" : -35,
          "movesType" : 14,
-         "power" : 60
+         "power" : 55
       },
       "raw" : {
          "energyDelta" : -35,
-         "power" : 60,
+         "power" : 55,
          "type" : "POKEMON_TYPE_ICE",
          "uniqueId" : "WEATHER_BALL_ICE",
          "vfxName" : "weather_ball_ice"
       }
    },
-   "WEATHER_BALL_ROCK" : {
+   "WEATHER_BALL_NORMAL" : {
       "built" : {
          "energyDelta" : -35,
          "movesType" : 0,
-         "power" : 60
+         "power" : 55
       },
       "raw" : {
          "energyDelta" : -35,
-         "power" : 60,
+         "power" : 55,
          "type" : "POKEMON_TYPE_NORMAL",
+         "uniqueId" : "WEATHER_BALL_NORMAL",
+         "vfxName" : "weather_ball_normal"
+      }
+   },
+   "WEATHER_BALL_ROCK" : {
+      "built" : {
+         "energyDelta" : -35,
+         "movesType" : 5,
+         "power" : 55
+      },
+      "raw" : {
+         "energyDelta" : -35,
+         "power" : 55,
+         "type" : "POKEMON_TYPE_ROCK",
          "uniqueId" : "WEATHER_BALL_ROCK",
-         "vfxName" : "hidden_power_fast"
+         "vfxName" : "weather_ball_rock"
       }
    },
    "WEATHER_BALL_WATER" : {
       "built" : {
          "energyDelta" : -35,
          "movesType" : 10,
-         "power" : 60
+         "power" : 55
       },
       "raw" : {
          "energyDelta" : -35,
-         "power" : 60,
+         "power" : 55,
          "type" : "POKEMON_TYPE_WATER",
          "uniqueId" : "WEATHER_BALL_WATER",
          "vfxName" : "weather_ball_water"
@@ -3465,6 +3805,10 @@
          "power" : 150
       },
       "raw" : {
+         "buffs" : {
+            "buffActivationChance" : 1,
+            "targetAttackStatStageChange" : -1
+         },
          "energyDelta" : -80,
          "power" : 150,
          "type" : "POKEMON_TYPE_ELECTRIC",

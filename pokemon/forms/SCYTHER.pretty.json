@@ -23,7 +23,6 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
-      "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
          "pokedexNumber" : 123,
          "pokemonType" : 6,
@@ -127,7 +126,6 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
-         "buddyWalkedMegaEnergyAward" : 25,
          "camera" : {
             "cylinderGroundM" : 0.5,
             "cylinderHeightM" : 1.5,
@@ -255,7 +253,6 @@
       ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
-      "buddyWalkedMegaEnergyAward" : 25,
       "built" : {
          "pokedexNumber" : 123,
          "pokemonType" : 6,
@@ -360,7 +357,6 @@
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
-         "buddyWalkedMegaEnergyAward" : 25,
          "camera" : {
             "cylinderGroundM" : 0.5,
             "cylinderHeightM" : 1.5,
