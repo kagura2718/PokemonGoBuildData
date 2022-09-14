@@ -69,7 +69,10 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 10,
-         "movementType" : "MOVEMENT_FLYING"
+         "movementType" : "MOVEMENT_FLYING",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.4,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_DUCKLETT",
@@ -145,7 +148,10 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 10,
-            "movementType" : "MOVEMENT_FLYING"
+            "movementType" : "MOVEMENT_FLYING",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.4,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_DUCKLETT",
@@ -165,6 +171,12 @@
             "WATER_GUN_FAST",
             "AIR_SLASH_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 182,
             "baseDefense" : 132,
@@ -177,6 +189,12 @@
          "type" : "POKEMON_TYPE_WATER",
          "type2" : "POKEMON_TYPE_FLYING",
          "weightStdDev" : 3.025
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 182,

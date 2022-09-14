@@ -47,6 +47,9 @@
          "HYPER_BEAM",
          "GUNK_SHOT"
       ],
+      "eliteCinematicMove" : [
+         "OBSTRUCT"
+      ],
       "encounter" : {
          "attackProbability" : 0.3,
          "attackTimerS" : 29,
@@ -121,6 +124,9 @@
             "NIGHT_SLASH",
             "HYPER_BEAM",
             "GUNK_SHOT"
+         ],
+         "eliteCinematicMove" : [
+            "OBSTRUCT"
          ],
          "encounter" : {
             "attackProbability" : 0.3,
@@ -249,6 +255,9 @@
          "HYPER_BEAM",
          "GUNK_SHOT"
       ],
+      "eliteCinematicMove" : [
+         "OBSTRUCT"
+      ],
       "encounter" : {
          "attackProbability" : 0.3,
          "attackTimerS" : 29,
@@ -324,6 +333,9 @@
             "NIGHT_SLASH",
             "HYPER_BEAM",
             "GUNK_SHOT"
+         ],
+         "eliteCinematicMove" : [
+            "OBSTRUCT"
          ],
          "encounter" : {
             "attackProbability" : 0.3,

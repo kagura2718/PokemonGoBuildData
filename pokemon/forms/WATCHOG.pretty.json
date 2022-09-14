@@ -65,7 +65,10 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 10,
-         "movementType" : "MOVEMENT_JUMP"
+         "movementType" : "MOVEMENT_JUMP",
+         "shadowFormAttackProbability" : 0.7,
+         "shadowFormBaseCaptureRate" : 0.2,
+         "shadowFormDodgeProbability" : 0.2
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_PATRAT",
@@ -139,7 +142,10 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 10,
-            "movementType" : "MOVEMENT_JUMP"
+            "movementType" : "MOVEMENT_JUMP",
+            "shadowFormAttackProbability" : 0.7,
+            "shadowFormBaseCaptureRate" : 0.2,
+            "shadowFormDodgeProbability" : 0.2
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_PATRAT",
@@ -159,6 +165,12 @@
             "LOW_KICK_FAST",
             "BITE_FAST"
          ],
+         "shadow" : {
+            "purificationCandyNeeded" : 1,
+            "purificationStardustNeeded" : 1000,
+            "purifiedChargeMove" : "RETURN",
+            "shadowChargeMove" : "FRUSTRATION"
+         },
          "stats" : {
             "baseAttack" : 165,
             "baseDefense" : 139,
@@ -170,6 +182,12 @@
          },
          "type" : "POKEMON_TYPE_NORMAL",
          "weightStdDev" : 3.375
+      },
+      "shadow" : {
+         "purificationCandyNeeded" : 1,
+         "purificationStardustNeeded" : 1000,
+         "purifiedChargeMove" : "RETURN",
+         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 165,

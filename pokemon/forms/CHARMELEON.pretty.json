@@ -47,6 +47,9 @@
          "FLAME_BURST",
          "FLAMETHROWER"
       ],
+      "costumeEvolution" : [
+         "JAN_2020_NOEVOLVE"
+      ],
       "eliteQuickMove" : [
          "SCRATCH_FAST"
       ],
@@ -138,6 +141,9 @@
             "FIRE_PUNCH",
             "FLAME_BURST",
             "FLAMETHROWER"
+         ],
+         "costumeEvolution" : [
+            "JAN_2020_NOEVOLVE"
          ],
          "eliteQuickMove" : [
             "SCRATCH_FAST"
@@ -279,6 +285,9 @@
          "FLAME_BURST",
          "FLAMETHROWER"
       ],
+      "costumeEvolution" : [
+         "JAN_2020_NOEVOLVE"
+      ],
       "eliteQuickMove" : [
          "SCRATCH_FAST"
       ],
@@ -371,6 +380,9 @@
             "FIRE_PUNCH",
             "FLAME_BURST",
             "FLAMETHROWER"
+         ],
+         "costumeEvolution" : [
+            "JAN_2020_NOEVOLVE"
          ],
          "eliteQuickMove" : [
             "SCRATCH_FAST"
