@@ -66,10 +66,7 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 10,
-         "movementType" : "MOVEMENT_JUMP",
-         "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.2,
-         "shadowFormDodgeProbability" : 0.2
+         "movementType" : "MOVEMENT_JUMP"
       },
       "evolutionPips" : 1,
       "familyId" : "FAMILY_PURRLOIN",
@@ -144,10 +141,7 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 10,
-            "movementType" : "MOVEMENT_JUMP",
-            "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.2,
-            "shadowFormDodgeProbability" : 0.2
+            "movementType" : "MOVEMENT_JUMP"
          },
          "evolutionPips" : 1,
          "familyId" : "FAMILY_PURRLOIN",
@@ -167,12 +161,6 @@
             "CHARM_FAST",
             "SNARL_FAST"
          ],
-         "shadow" : {
-            "purificationCandyNeeded" : 1,
-            "purificationStardustNeeded" : 1000,
-            "purifiedChargeMove" : "RETURN",
-            "shadowChargeMove" : "FRUSTRATION"
-         },
          "stats" : {
             "baseAttack" : 187,
             "baseDefense" : 106,
@@ -184,12 +172,6 @@
          },
          "type" : "POKEMON_TYPE_DARK",
          "weightStdDev" : 4.6875
-      },
-      "shadow" : {
-         "purificationCandyNeeded" : 1,
-         "purificationStardustNeeded" : 1000,
-         "purifiedChargeMove" : "RETURN",
-         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 187,

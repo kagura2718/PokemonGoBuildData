@@ -65,16 +65,12 @@
          "maxPokemonActionFrequencyS" : 1.6,
          "minPokemonActionFrequencyS" : 0.2,
          "movementTimerS" : 10,
-         "movementType" : "MOVEMENT_JUMP",
-         "shadowFormAttackProbability" : 0.7,
-         "shadowFormBaseCaptureRate" : 0.3,
-         "shadowFormDodgeProbability" : 0.2
+         "movementType" : "MOVEMENT_JUMP"
       },
       "evolutionBranch" : [
          {
             "candyCost" : 50,
-            "evolution" : "AMOONGUSS",
-            "purificationEvolutionCandyCost" : 45
+            "evolution" : "AMOONGUSS"
          }
       ],
       "evolutionPips" : 1,
@@ -146,16 +142,12 @@
             "maxPokemonActionFrequencyS" : 1.6,
             "minPokemonActionFrequencyS" : 0.2,
             "movementTimerS" : 10,
-            "movementType" : "MOVEMENT_JUMP",
-            "shadowFormAttackProbability" : 0.7,
-            "shadowFormBaseCaptureRate" : 0.3,
-            "shadowFormDodgeProbability" : 0.2
+            "movementType" : "MOVEMENT_JUMP"
          },
          "evolutionBranch" : [
             {
                "candyCost" : 50,
-               "evolution" : "AMOONGUSS",
-               "purificationEvolutionCandyCost" : 45
+               "evolution" : "AMOONGUSS"
             }
          ],
          "evolutionPips" : 1,
@@ -175,12 +167,6 @@
             "ASTONISH_FAST",
             "FEINT_ATTACK_FAST"
          ],
-         "shadow" : {
-            "purificationCandyNeeded" : 1,
-            "purificationStardustNeeded" : 1000,
-            "purifiedChargeMove" : "RETURN",
-            "shadowChargeMove" : "FRUSTRATION"
-         },
          "stats" : {
             "baseAttack" : 97,
             "baseDefense" : 91,
@@ -193,12 +179,6 @@
          "type" : "POKEMON_TYPE_GRASS",
          "type2" : "POKEMON_TYPE_POISON",
          "weightStdDev" : 0.125
-      },
-      "shadow" : {
-         "purificationCandyNeeded" : 1,
-         "purificationStardustNeeded" : 1000,
-         "purifiedChargeMove" : "RETURN",
-         "shadowChargeMove" : "FRUSTRATION"
       },
       "stats" : {
          "baseAttack" : 97,

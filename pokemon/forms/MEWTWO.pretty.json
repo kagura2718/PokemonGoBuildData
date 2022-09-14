@@ -21,6 +21,11 @@
          0,
          59.2
       ],
+      "buddyPortraitOffset" : [
+         0.09,
+         0.06,
+         0.35
+      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
@@ -113,6 +118,11 @@
             20,
             0,
             59.2
+         ],
+         "buddyPortraitOffset" : [
+            0.09,
+            0.06,
+            0.35
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",
@@ -439,6 +449,11 @@
          0,
          59.2
       ],
+      "buddyPortraitOffset" : [
+         0.09,
+         0.06,
+         0.35
+      ],
       "buddyScale" : 19,
       "buddySize" : "BUDDY_BIG",
       "built" : {
@@ -532,6 +547,11 @@
             20,
             0,
             59.2
+         ],
+         "buddyPortraitOffset" : [
+            0.09,
+            0.06,
+            0.35
          ],
          "buddyScale" : 19,
          "buddySize" : "BUDDY_BIG",

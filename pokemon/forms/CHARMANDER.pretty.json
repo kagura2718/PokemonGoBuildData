@@ -47,9 +47,6 @@
          "FLAME_BURST",
          "FLAMETHROWER"
       ],
-      "costumeEvolution" : [
-         "JAN_2020_NOEVOLVE"
-      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 10,
@@ -134,9 +131,6 @@
             "FLAME_CHARGE",
             "FLAME_BURST",
             "FLAMETHROWER"
-         ],
-         "costumeEvolution" : [
-            "JAN_2020_NOEVOLVE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
@@ -479,9 +473,6 @@
          "FLAME_BURST",
          "FLAMETHROWER"
       ],
-      "costumeEvolution" : [
-         "JAN_2020_NOEVOLVE"
-      ],
       "encounter" : {
          "attackProbability" : 0.1,
          "attackTimerS" : 10,
@@ -567,9 +558,6 @@
             "FLAME_CHARGE",
             "FLAME_BURST",
             "FLAMETHROWER"
-         ],
-         "costumeEvolution" : [
-            "JAN_2020_NOEVOLVE"
          ],
          "encounter" : {
             "attackProbability" : 0.1,
