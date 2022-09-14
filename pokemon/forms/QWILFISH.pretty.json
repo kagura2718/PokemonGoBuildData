@@ -182,5 +182,399 @@
       "type" : "POKEMON_TYPE_WATER",
       "type2" : "POKEMON_TYPE_POISON",
       "weightStdDev" : 0.4875
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         13.79,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         13.79,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 211,
+         "pokemonType" : 16,
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 16,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 184,
+            "baseDefense" : 151,
+            "baseStamina" : 163
+         }
+      },
+      "camera" : {
+         "cylinderGroundM" : 0.44444445,
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.55,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "AQUA_TAIL",
+         "ICE_BEAM",
+         "SLUDGE_BOMB",
+         "DARK_PULSE",
+         "SHADOW_BALL"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.08,
+         "cameraDistance" : 4.125,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.7,
+         "collisionRadiusM" : 0.21,
+         "dodgeDistance" : 0.8,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionBranch" : [
+         {
+            "candyCost" : 50,
+            "evolution" : "OVERQWIL",
+            "questDisplay" : [
+               {
+                  "questRequirementTemplateId" : "OVERQWIL_EVOLUTION_QUEST"
+               }
+            ]
+         }
+      ],
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_QWILFISH",
+      "form" : "QWILFISH_HISUIAN",
+      "heightStdDev" : 0.06375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.35,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.51,
+      "pokedexWeightKg" : 3.9,
+      "pokemonId" : "QWILFISH",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "POISON_JAB_FAST"
+      ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            13.79,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            13.79,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.44444445,
+            "cylinderHeightM" : 0.6,
+            "cylinderRadiusM" : 0.55,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "AQUA_TAIL",
+            "ICE_BEAM",
+            "SLUDGE_BOMB",
+            "DARK_PULSE",
+            "SHADOW_BALL"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.08,
+            "cameraDistance" : 4.125,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.7,
+            "collisionRadiusM" : 0.21,
+            "dodgeDistance" : 0.8,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionBranch" : [
+            {
+               "candyCost" : 50,
+               "evolution" : "OVERQWIL",
+               "questDisplay" : [
+                  {
+                     "questRequirementTemplateId" : "OVERQWIL_EVOLUTION_QUEST"
+                  }
+               ]
+            }
+         ],
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_QWILFISH",
+         "form" : "QWILFISH_HISUIAN",
+         "heightStdDev" : 0.06375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.35,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.51,
+         "pokedexWeightKg" : 3.9,
+         "pokemonId" : "QWILFISH",
+         "quickMoves" : [
+            "POISON_STING_FAST",
+            "POISON_JAB_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 184,
+            "baseDefense" : 151,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_DARK",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 0.4875
+      },
+      "stats" : {
+         "baseAttack" : 184,
+         "baseDefense" : 151,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_DARK",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 0.4875
+   },
+   {
+      "animationTime" : [
+         1.3333,
+         0.6667,
+         1.6667,
+         2,
+         0,
+         2,
+         3,
+         3
+      ],
+      "buddyGroupNumber" : 2,
+      "buddyOffsetFemale" : [
+         13.79,
+         0,
+         0
+      ],
+      "buddyOffsetMale" : [
+         13.79,
+         0,
+         0
+      ],
+      "buddyScale" : 19,
+      "built" : {
+         "pokedexNumber" : 211,
+         "pokemonType" : 10,
+         "pokemonType2" : 3,
+         "pokemonTypes" : {
+            "pokemonType" : 10,
+            "pokemonType2" : 3
+         },
+         "stats" : {
+            "baseAttack" : 184,
+            "baseDefense" : 138,
+            "baseStamina" : 163
+         }
+      },
+      "camera" : {
+         "cylinderGroundM" : 0.44444445,
+         "cylinderHeightM" : 0.6,
+         "cylinderRadiusM" : 0.55,
+         "diskRadiusM" : 0.555,
+         "shoulderModeScale" : 0.5
+      },
+      "cinematicMoves" : [
+         "AQUA_TAIL",
+         "ICE_BEAM",
+         "SLUDGE_WAVE",
+         "ACID_SPRAY",
+         "FELL_STINGER"
+      ],
+      "encounter" : {
+         "attackProbability" : 0.1,
+         "attackTimerS" : 20,
+         "baseCaptureRate" : 0.3,
+         "baseFleeRate" : 0.08,
+         "cameraDistance" : 4.125,
+         "collisionHeadRadiusM" : 0.1,
+         "collisionHeightM" : 0.7,
+         "collisionRadiusM" : 0.21,
+         "dodgeDistance" : 0.8,
+         "dodgeDurationS" : 1,
+         "dodgeProbability" : 0.15,
+         "jumpTimeS" : 1,
+         "maxPokemonActionFrequencyS" : 1.6,
+         "minPokemonActionFrequencyS" : 0.2,
+         "movementTimerS" : 11,
+         "movementType" : "MOVEMENT_HOVERING"
+      },
+      "evolutionPips" : 1,
+      "familyId" : "FAMILY_QWILFISH",
+      "form" : "QWILFISH_NORMAL",
+      "heightStdDev" : 0.06375,
+      "isDeployable" : true,
+      "isTradable" : true,
+      "isTransferable" : true,
+      "kmBuddyDistance" : 3,
+      "modelHeight" : 0.5,
+      "modelScale" : 1.35,
+      "modelScaleV2" : 1,
+      "pokedexHeightM" : 0.51,
+      "pokedexWeightKg" : 3.9,
+      "pokemonId" : "QWILFISH",
+      "quickMoves" : [
+         "POISON_STING_FAST",
+         "WATER_GUN_FAST"
+      ],
+      "raw" : {
+         "animationTime" : [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+         ],
+         "buddyGroupNumber" : 2,
+         "buddyOffsetFemale" : [
+            13.79,
+            0,
+            0
+         ],
+         "buddyOffsetMale" : [
+            13.79,
+            0,
+            0
+         ],
+         "buddyScale" : 19,
+         "camera" : {
+            "cylinderGroundM" : 0.44444445,
+            "cylinderHeightM" : 0.6,
+            "cylinderRadiusM" : 0.55,
+            "diskRadiusM" : 0.555,
+            "shoulderModeScale" : 0.5
+         },
+         "cinematicMoves" : [
+            "AQUA_TAIL",
+            "ICE_BEAM",
+            "SLUDGE_WAVE",
+            "ACID_SPRAY",
+            "FELL_STINGER"
+         ],
+         "encounter" : {
+            "attackProbability" : 0.1,
+            "attackTimerS" : 20,
+            "baseCaptureRate" : 0.3,
+            "baseFleeRate" : 0.08,
+            "cameraDistance" : 4.125,
+            "collisionHeadRadiusM" : 0.1,
+            "collisionHeightM" : 0.7,
+            "collisionRadiusM" : 0.21,
+            "dodgeDistance" : 0.8,
+            "dodgeDurationS" : 1,
+            "dodgeProbability" : 0.15,
+            "jumpTimeS" : 1,
+            "maxPokemonActionFrequencyS" : 1.6,
+            "minPokemonActionFrequencyS" : 0.2,
+            "movementTimerS" : 11,
+            "movementType" : "MOVEMENT_HOVERING"
+         },
+         "evolutionPips" : 1,
+         "familyId" : "FAMILY_QWILFISH",
+         "form" : "QWILFISH_NORMAL",
+         "heightStdDev" : 0.06375,
+         "isDeployable" : true,
+         "isTradable" : true,
+         "isTransferable" : true,
+         "kmBuddyDistance" : 3,
+         "modelHeight" : 0.5,
+         "modelScale" : 1.35,
+         "modelScaleV2" : 1,
+         "pokedexHeightM" : 0.51,
+         "pokedexWeightKg" : 3.9,
+         "pokemonId" : "QWILFISH",
+         "quickMoves" : [
+            "POISON_STING_FAST",
+            "WATER_GUN_FAST"
+         ],
+         "stats" : {
+            "baseAttack" : 184,
+            "baseDefense" : 138,
+            "baseStamina" : 163
+         },
+         "thirdMove" : {
+            "candyToUnlock" : 50,
+            "stardustToUnlock" : 50000
+         },
+         "type" : "POKEMON_TYPE_WATER",
+         "type2" : "POKEMON_TYPE_POISON",
+         "weightStdDev" : 0.4875
+      },
+      "stats" : {
+         "baseAttack" : 184,
+         "baseDefense" : 138,
+         "baseStamina" : 163
+      },
+      "thirdMove" : {
+         "candyToUnlock" : 50,
+         "stardustToUnlock" : 50000
+      },
+      "type" : "POKEMON_TYPE_WATER",
+      "type2" : "POKEMON_TYPE_POISON",
+      "weightStdDev" : 0.4875
    }
 ]

@@ -69,7 +69,8 @@
       "evolutionBranch" : [
          {
             "candyCost" : 50,
-            "evolution" : "BRAVIARY"
+            "evolution" : "BRAVIARY",
+            "form" : "BRAVIARY_NORMAL"
          }
       ],
       "evolutionPips" : 1,
@@ -145,7 +146,8 @@
          "evolutionBranch" : [
             {
                "candyCost" : 50,
-               "evolution" : "BRAVIARY"
+               "evolution" : "BRAVIARY",
+               "form" : "BRAVIARY_NORMAL"
             }
          ],
          "evolutionPips" : 1,
